@@ -23,8 +23,14 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Unterrichtung"
+  "id": "274358",
+  "titel": "Baukulturbericht 2024/25 der Bundesstiftung Baukultur mit Stellungnahme der Bundesregierung",
+  "ts": 1791834134.9105077,
+  "typ": "Unterrichtung",
+  "vorgaenge": [
+   "312619",
+   "329487"
+  ]
  },
  "20/12195": {
   "ausschuesse": {
@@ -78,8 +84,14 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Antrag"
+  "id": "275116",
+  "titel": "Entlastung der Bundesregierung für das Haushaltsjahr 2023\r\n- Haushalts- und Vermögensrechnung des Bundes für das Haushaltsjahr 2023 -",
+  "ts": 1791834134.9105077,
+  "typ": "Antrag",
+  "vorgaenge": [
+   "321693",
+   "313822"
+  ]
  },
  "20/14000": {
   "ausschuesse": {
@@ -133,8 +145,14 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Unterrichtung"
+  "id": "277808",
+  "titel": "Entlastung der Bundesregierung für das Haushaltsjahr 2023\r\n- Haushalts- und Vermögensrechnung des Bundes für das Haushaltsjahr 2023 -",
+  "ts": 1791834134.9105077,
+  "typ": "Unterrichtung",
+  "vorgaenge": [
+   "321693",
+   "313822"
+  ]
  },
  "20/14450": {
   "ausschuesse": {
@@ -156,8 +174,14 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Unterrichtung"
+  "id": "278162",
+  "titel": "Neunter Bericht zur Lage der älteren Generation in der Bundesrepublik Deutschland \r\nAlt werden in Deutschland - Vielfalt der Potenziale und Ungleichheit der Teilhabechancen \r\nund Stellungnahme der Bundesregierung",
+  "ts": 1791834134.9105077,
+  "typ": "Unterrichtung",
+  "vorgaenge": [
+   "332737",
+   "319317"
+  ]
  },
  "20/14480": {
   "ausschuesse": {
@@ -184,7 +208,8 @@
   },
   "gefunden": true,
   "id": "278224",
-  "ts": 1791826868.351456,
+  "titel": "16. Bericht der Bundesregierung über ihre Menschenrechtspolitik",
+  "ts": 1791834134.9105077,
   "typ": "Unterrichtung",
   "vorgaenge": [
    "319424",
@@ -220,7 +245,8 @@
   },
   "gefunden": true,
   "id": "271418",
-  "ts": 1791826868.351456,
+  "titel": "Dritter Bericht der Bundesregierung zur weltweiten Lage der Religions- und Weltanschauungsfreiheit (Berichtszeitraum 2020 bis 2022)",
+  "ts": 1791834134.9105077,
   "typ": "Unterrichtung",
   "vorgaenge": [
    "306485",
@@ -267,8 +293,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Unterrichtung"
+  "id": "279386",
+  "titel": "Entlastung der Bundesregierung für das Haushaltsjahr 2023\r\n- Haushalts- und Vermögensrechnung des Bundes für das Haushaltsjahr 2023 -",
+  "ts": 1791834134.9105077,
+  "typ": "Unterrichtung",
+  "vorgaenge": [
+   "321693"
+  ]
  },
  "21/1080": {
   "ausschuesse": {
@@ -298,8 +329,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Unterrichtung"
+  "id": "280774",
+  "titel": "Gutachten zu Forschung, Innovation und technologischer Leistungsfähigkeit Deutschlands 2025",
+  "ts": 1791834134.9105077,
+  "typ": "Unterrichtung",
+  "vorgaenge": [
+   "324544"
+  ]
  },
  "21/115": {
   "ausschuesse": {
@@ -329,8 +365,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Unterrichtung"
+  "id": "279377",
+  "titel": "Bericht der Bundesregierung zum Stand der Bemühungen um Rüstungskontrolle, Abrüstung und Nichtverbreitung sowie über die Entwicklung der Streitkräftepotenziale für das Jahr 2024 (Jahresabrüstungsbericht 2024)",
+  "ts": 1791834134.9105077,
+  "typ": "Unterrichtung",
+  "vorgaenge": [
+   "321621"
+  ]
  },
  "21/1393": {
   "ausschuesse": {
@@ -344,8 +385,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Gesetzentwurf"
+  "id": "281079",
+  "titel": "... Gesetz zur Änderung des Gesetzes zur Flexibilisierung von haushaltsrechtlichen Rahmenbedingungen außeruniversitärer Wissenschaftseinrichtungen (Wissenschaftsfreiheitsgesetz - WissFG)",
+  "ts": 1791834134.9105077,
+  "typ": "Gesetzentwurf",
+  "vorgaenge": [
+   "323146"
+  ]
  },
  "21/1541": {
   "ausschuesse": {
@@ -376,7 +422,8 @@
   },
   "gefunden": true,
   "id": "281261",
-  "ts": 1791826868.351456,
+  "titel": "Bericht der Bundesregierung über die Wirkungen der Reform des Unterhaltsvorschussgesetzes ein Jahr nach dem Inkrafttreten zum 1. Juli 2017",
+  "ts": 1791834134.9105077,
   "typ": "Antrag",
   "vorgaenge": [
    "325497",
@@ -392,8 +439,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Antrag"
+  "id": "281282",
+  "titel": "Zukunft sichern, Klima schützen - Naturverträgliche Lösungen vor Verfahren zur CO2-Abscheidung und -Speicherung",
+  "ts": 1791834134.9105077,
+  "typ": "Antrag",
+  "vorgaenge": [
+   "325554"
+  ]
  },
  "21/1549": {
   "ausschuesse": {
@@ -420,7 +472,8 @@
   },
   "gefunden": true,
   "id": "281268",
-  "ts": 1791826868.351456,
+  "titel": "Unterstützung alter Menschen und Pflege zukunftssicher machen - Qualität sichern und bezahlbar gestalten",
+  "ts": 1791834134.9105077,
   "typ": "Antrag",
   "vorgaenge": [
    "325535"
@@ -446,8 +499,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Antrag"
+  "id": "281307",
+  "titel": "Verbesserung der Überprüfungsverfahren zur Approbation von Ärzten aus Drittstaaten zur Gewährleistung der öffentlichen Sicherheit und Qualität der medizinischen Versorgung",
+  "ts": 1791834134.9105077,
+  "typ": "Antrag",
+  "vorgaenge": [
+   "325586"
+  ]
  },
  "21/1566": {
   "ausschuesse": {
@@ -465,8 +523,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Antrag"
+  "id": "281290",
+  "titel": "Überlebenschancen von Dialysepatienten verbessern - Cross-over-Lebendspende als Leistung der gesetzlichen Krankenversicherung erlauben",
+  "ts": 1791834134.9105077,
+  "typ": "Antrag",
+  "vorgaenge": [
+   "325555"
+  ]
  },
  "21/1567": {
   "ausschuesse": {
@@ -484,8 +547,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Antrag"
+  "id": "281291",
+  "titel": "Lieferengpässe bei Arzneimitteln effektiv verringern - Abhängigkeit der Arzneimittelversorgung vom Nicht-EU-Ausland reduzieren",
+  "ts": 1791834134.9105077,
+  "typ": "Antrag",
+  "vorgaenge": [
+   "325556"
+  ]
  },
  "21/1596": {
   "ausschuesse": {
@@ -499,8 +567,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Antrag"
+  "id": "281372",
+  "titel": "Ein ziviles Leitbild für Hochschule und Wissenschaft umsetzen",
+  "ts": 1791834134.9105077,
+  "typ": "Antrag",
+  "vorgaenge": [
+   "325646"
+  ]
  },
  "21/1597": {
   "ausschuesse": {
@@ -514,8 +587,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Antrag"
+  "id": "281373",
+  "titel": "Keine Kooperation zwischen Bundeswehr und Schulen - Einsatz von Jugendoffizieren beenden - Zivilschutz fördern",
+  "ts": 1791834134.9105077,
+  "typ": "Antrag",
+  "vorgaenge": [
+   "325647"
+  ]
  },
  "21/16": {
   "ausschuesse": {
@@ -541,8 +619,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Gesetzentwurf"
+  "id": "279173",
+  "titel": "Gesetz zur Modernisierung des Berufsrechts der Wirtschaftsprüfer",
+  "ts": 1791834134.9105077,
+  "typ": "Gesetzentwurf",
+  "vorgaenge": [
+   "319058"
+  ]
  },
  "21/1667": {
   "ausschuesse": {
@@ -564,8 +647,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Antrag"
+  "id": "281479",
+  "titel": "Medizinische Versorgungszentren reformieren",
+  "ts": 1791834134.9105077,
+  "typ": "Antrag",
+  "vorgaenge": [
+   "325806"
+  ]
  },
  "21/1743": {
   "ausschuesse": {
@@ -580,7 +668,8 @@
   },
   "gefunden": true,
   "id": "281614",
-  "ts": 1791826868.351456,
+  "titel": "Regelmäßig und zeitnah Zahlen über Infektionskrankheiten bei Asylsuchenden bereitstellen",
+  "ts": 1791834134.9105077,
   "typ": "Antrag",
   "vorgaenge": [
    "326112"
@@ -611,7 +700,8 @@
   },
   "gefunden": true,
   "id": "281619",
-  "ts": 1791826868.351456,
+  "titel": "Flächendeckende Einführung und bundeseinheitliche Regulierung von smartphonebasierten Ersthelfer-Alarmierungssystemen",
+  "ts": 1791834134.9105077,
   "typ": "Antrag",
   "vorgaenge": [
    "326125"
@@ -629,8 +719,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Gesetzentwurf"
+  "id": "281650",
+  "titel": "Gesetz zur Änderung des Strafgesetzbuchs - Straffreiheit für Fahren ohne Fahrschein",
+  "ts": 1791834134.9105077,
+  "typ": "Gesetzentwurf",
+  "vorgaenge": [
+   "326160"
+  ]
  },
  "21/1847": {
   "ausschuesse": {
@@ -652,8 +747,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Gesetzentwurf"
+  "id": "281856",
+  "titel": "Gesetz über den Zugang zu Schuldnerberatungsdiensten für Verbraucher (Schuldnerberatungsdienstegesetz - SchuBerDG)",
+  "ts": 1791834134.9105077,
+  "typ": "Gesetzentwurf",
+  "vorgaenge": [
+   "325563"
+  ]
  },
  "21/1848": {
   "ausschuesse": {
@@ -683,8 +783,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Gesetzentwurf"
+  "id": "281857",
+  "titel": "Gesetz zur Anpassung des nationalen Rechts an die Reform des Gemeinsamen Europäischen Asylsystems (GEAS-Anpassungsgesetz)",
+  "ts": 1791834134.9105077,
+  "typ": "Gesetzentwurf",
+  "vorgaenge": [
+   "325560"
+  ]
  },
  "21/1850": {
   "ausschuesse": {
@@ -710,8 +815,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Gesetzentwurf"
+  "id": "281859",
+  "titel": "Gesetz zur Änderung des AZR-Gesetzes und weiterer Gesetze in Folge der Anpassung des nationalen Rechts an das Gemeinsame Europäische Asylsystem (GEAS-Anpassungsfolgegesetz)",
+  "ts": 1791834134.9105077,
+  "typ": "Gesetzentwurf",
+  "vorgaenge": [
+   "325562"
+  ]
  },
  "21/1851": {
   "ausschuesse": {
@@ -733,8 +843,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Gesetzentwurf"
+  "id": "281860",
+  "titel": "Gesetz zur Umsetzung der Richtlinie (EU) 2023/2225 über Verbraucherkreditverträge und zur Regelung der Förderung klimaneutraler Mobilität",
+  "ts": 1791834134.9105077,
+  "typ": "Gesetzentwurf",
+  "vorgaenge": [
+   "325529"
+  ]
  },
  "21/1931": {
   "ausschuesse": {
@@ -752,8 +867,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Gesetzentwurf"
+  "id": "281925",
+  "titel": "Gesetz zur beschleunigten Planung und Beschaffung für die Bundeswehr",
+  "ts": 1791834134.9105077,
+  "typ": "Gesetzentwurf",
+  "vorgaenge": [
+   "324833"
+  ]
  },
  "21/1934": {
   "ausschuesse": {
@@ -787,8 +907,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Gesetzentwurf"
+  "id": "281928",
+  "titel": "Gesetz zur Beschleunigung der Vergabe öffentlicher Aufträge",
+  "ts": 1791834134.9105077,
+  "typ": "Gesetzentwurf",
+  "vorgaenge": [
+   "324928"
+  ]
  },
  "21/1941": {
   "ausschuesse": {
@@ -810,8 +935,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Gesetzentwurf"
+  "id": "281931",
+  "titel": "Gesetz zur Stärkung der Tarifautonomie durch die Sicherung von Tariftreue bei der Vergabe öffentlicher Aufträge des Bundes (Tariftreuegesetz)",
+  "ts": 1791834134.9105077,
+  "typ": "Gesetzentwurf",
+  "vorgaenge": [
+   "324929"
+  ]
  },
  "21/2036": {
   "ausschuesse": {
@@ -829,8 +959,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Antrag"
+  "id": "282078",
+  "titel": "Akute Not der gesetzlichen Krankenversicherung lindern - Vollständige Finanzierung der Beiträge für Bürgergeldempfänger durch den Bund gewährleisten",
+  "ts": 1791834134.9105077,
+  "typ": "Antrag",
+  "vorgaenge": [
+   "326585"
+  ]
  },
  "21/2044": {
   "ausschuesse": {
@@ -856,8 +991,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Antrag"
+  "id": "282085",
+  "titel": "Schlüsselressource Forschungsdaten - Forschungsdatengesetz jetzt vorlegen",
+  "ts": 1791834134.9105077,
+  "typ": "Antrag",
+  "vorgaenge": [
+   "326600"
+  ]
  },
  "21/2116": {
   "ausschuesse": {
@@ -875,8 +1015,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Gesetzentwurf"
+  "id": "282160",
+  "titel": "Gesetz zur Änderung des Konsumcannabisgesetzes - Nutzhanfliberalisierung",
+  "ts": 1791834134.9105077,
+  "typ": "Gesetzentwurf",
+  "vorgaenge": [
+   "326651"
+  ]
  },
  "21/2163": {
   "ausschuesse": {
@@ -903,7 +1048,8 @@
   },
   "gefunden": true,
   "id": "282221",
-  "ts": 1791826868.351456,
+  "titel": "Für eine sichere Rente unserer Kinder - Junior-Spardepot",
+  "ts": 1791834134.9105077,
   "typ": "Antrag",
   "vorgaenge": [
    "326793"
@@ -925,8 +1071,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Unterrichtung"
+  "id": "282282",
+  "titel": "Fünfter Bericht der Bundesregierung über die Wohnungs- und Immobilienwirtschaft in Deutschland und Wohngeld- und Mietenbericht 2024",
+  "ts": 1791834134.9105077,
+  "typ": "Unterrichtung",
+  "vorgaenge": [
+   "326857"
+  ]
  },
  "21/218": {
   "ausschuesse": {
@@ -948,8 +1099,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Gesetzentwurf"
+  "id": "279487",
+  "titel": "Gesetz zur Stärkung des Innovations- und Wirtschaftsstandorts Deutschland durch Erprobungsfreiräume",
+  "ts": 1791834134.9105077,
+  "typ": "Gesetzentwurf",
+  "vorgaenge": [
+   "321949"
+  ]
  },
  "21/2214": {
   "ausschuesse": {
@@ -964,7 +1120,8 @@
   },
   "gefunden": true,
   "id": "282301",
-  "ts": 1791826868.351456,
+  "titel": "Gesetz zur Reform der Notfallversorgung und des Rettungsdienstes (Notfallgesetz - NotfallG)",
+  "ts": 1791834134.9105077,
   "typ": "Gesetzentwurf",
   "vorgaenge": [
    "326865"
@@ -979,7 +1136,8 @@
   },
   "gefunden": true,
   "id": "282303",
-  "ts": 1791826868.351456,
+  "titel": "Keine Leistungskürzungen in der Pflege",
+  "ts": 1791834134.9105077,
   "typ": "Antrag",
   "vorgaenge": [
    "326885"
@@ -997,8 +1155,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Antrag"
+  "id": "282342",
+  "titel": "Inneren Frieden in Deutschland bewahren - Antifa-Verbote umsetzen sowie Linksterrorismus entschlossen bekämpfen",
+  "ts": 1791834134.9105077,
+  "typ": "Antrag",
+  "vorgaenge": [
+   "326927"
+  ]
  },
  "21/2222": {
   "ausschuesse": {
@@ -1020,8 +1183,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Antrag"
+  "id": "282337",
+  "titel": "Bürgergeldleistungen stoppen bei Haftbefehlen - Keine Unterstützung für gesuchte Straftäter",
+  "ts": 1791834134.9105077,
+  "typ": "Antrag",
+  "vorgaenge": [
+   "326920"
+  ]
  },
  "21/2228": {
   "ausschuesse": {
@@ -1040,7 +1208,8 @@
   },
   "gefunden": true,
   "id": "282313",
-  "ts": 1791826868.351456,
+  "titel": "Medizinische Notfallversorgung schnell, qualitativ hochwertig und bezahlbar gestalten",
+  "ts": 1791834134.9105077,
   "typ": "Antrag",
   "vorgaenge": [
    "326891"
@@ -1062,8 +1231,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Antrag"
+  "id": "282315",
+  "titel": "Organisierten Wissenschaftsbetrug unterbinden - Qualität und Transparenz in der Forschung sichern",
+  "ts": 1791834134.9105077,
+  "typ": "Antrag",
+  "vorgaenge": [
+   "326893"
+  ]
  },
  "21/2234": {
   "ausschuesse": {
@@ -1089,8 +1263,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Antrag"
+  "id": "282328",
+  "titel": "Bildung bezahlbar machen - BAföG-Reform jetzt",
+  "ts": 1791834134.9105077,
+  "typ": "Antrag",
+  "vorgaenge": [
+   "326901"
+  ]
  },
  "21/2244": {
   "ausschuesse": {
@@ -1112,8 +1291,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Antrag"
+  "id": "282411",
+  "titel": "Verbesserung der Gesundheitsversorgung in Haft, insbesondere von suchtkranken Menschen",
+  "ts": 1791834134.9105077,
+  "typ": "Antrag",
+  "vorgaenge": [
+   "327027"
+  ]
  },
  "21/2349": {
   "ausschuesse": {
@@ -1147,8 +1331,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Antrag"
+  "id": "282568",
+  "titel": "Vertrauenswürdige Künstliche Intelligenz ermöglichen - Umsetzung der europäischen KI-Verordnung in Deutschland beschleunigen, Innovation fördern und digitale Souveränität stärken",
+  "ts": 1791834134.9105077,
+  "typ": "Antrag",
+  "vorgaenge": [
+   "327215"
+  ]
  },
  "21/2363": {
   "ausschuesse": {
@@ -1174,8 +1363,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Antrag"
+  "id": "282589",
+  "titel": "Berufstätige Pendler sofort entlasten - Entfernungspauschalen für Kraftfahrzeuge ab dem ersten Kilometer auf 50 Cent erhöhen und an die Preisentwicklung anpassen",
+  "ts": 1791834134.9105077,
+  "typ": "Antrag",
+  "vorgaenge": [
+   "327242"
+  ]
  },
  "21/2458": {
   "ausschuesse": {
@@ -1197,8 +1391,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Unterrichtung"
+  "id": "282677",
+  "titel": "Gesetz über den Zugang zu Schuldnerberatungsdiensten für Verbraucher (Schuldnerberatungsdienstegesetz - SchuBerDG)",
+  "ts": 1791834134.9105077,
+  "typ": "Unterrichtung",
+  "vorgaenge": [
+   "325563"
+  ]
  },
  "21/2459": {
   "ausschuesse": {
@@ -1220,8 +1419,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Unterrichtung"
+  "id": "282678",
+  "titel": "Gesetz zur Umsetzung der Richtlinie (EU) 2023/2225 über Verbraucherkreditverträge und zur Regelung der Förderung klimaneutraler Mobilität",
+  "ts": 1791834134.9105077,
+  "typ": "Unterrichtung",
+  "vorgaenge": [
+   "325529"
+  ]
  },
  "21/2460": {
   "ausschuesse": {
@@ -1251,8 +1455,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Unterrichtung"
+  "id": "282679",
+  "titel": "Gesetz zur Anpassung des nationalen Rechts an die Reform des Gemeinsamen Europäischen Asylsystems (GEAS-Anpassungsgesetz)",
+  "ts": 1791834134.9105077,
+  "typ": "Unterrichtung",
+  "vorgaenge": [
+   "325560"
+  ]
  },
  "21/2462": {
   "ausschuesse": {
@@ -1278,8 +1487,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Unterrichtung"
+  "id": "282681",
+  "titel": "Gesetz zur Änderung des AZR-Gesetzes und weiterer Gesetze in Folge der Anpassung des nationalen Rechts an das Gemeinsame Europäische Asylsystem (GEAS-Anpassungsfolgegesetz)",
+  "ts": 1791834134.9105077,
+  "typ": "Unterrichtung",
+  "vorgaenge": [
+   "325562"
+  ]
  },
  "21/2474": {
   "ausschuesse": {
@@ -1309,8 +1523,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Gesetzentwurf"
+  "id": "282671",
+  "titel": "Gesetz zur Änderung des Lieferkettensorgfaltspflichtengesetzes - Entlastung der Unternehmen durch anwendungs- und vollzugsfreundliche Umsetzung",
+  "ts": 1791834134.9105077,
+  "typ": "Gesetzentwurf",
+  "vorgaenge": [
+   "325319"
+  ]
  },
  "21/2506": {
   "ausschuesse": {
@@ -1328,8 +1547,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Gesetzentwurf"
+  "id": "282742",
+  "titel": "Gesetz zur Beschleunigung der Verfügbarkeit von Wasserstoff und zur Änderung weiterer rechtlicher Rahmenbedingungen für den Wasserstoffhochlauf und weiterer energierechtlicher Vorschriften",
+  "ts": 1791834134.9105077,
+  "typ": "Gesetzentwurf",
+  "vorgaenge": [
+   "326712"
+  ]
  },
  "21/2508": {
   "ausschuesse": {
@@ -1347,8 +1571,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Gesetzentwurf"
+  "id": "282744",
+  "titel": "Gesetz zur Anpassung von Straftatbeständen und Sanktionen bei Verstößen gegen restriktive Maßnahmen der Europäischen Union",
+  "ts": 1791834134.9105077,
+  "typ": "Gesetzentwurf",
+  "vorgaenge": [
+   "326710"
+  ]
  },
  "21/2510": {
   "ausschuesse": {
@@ -1374,8 +1603,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Gesetzentwurf"
+  "id": "282745",
+  "titel": "Gesetz zur Umsetzung der Richtlinie (EU) 2022/2557 und zur Stärkung der Resilienz kritischer Anlagen",
+  "ts": 1791834134.9105077,
+  "typ": "Gesetzentwurf",
+  "vorgaenge": [
+   "326823"
+  ]
  },
  "21/2512": {
   "ausschuesse": {
@@ -1389,8 +1623,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Gesetzentwurf"
+  "id": "282747",
+  "titel": "Gesetz zur Anpassung der Krankenhausreform (Krankenhausreformanpassungsgesetz - KHAG)",
+  "ts": 1791834134.9105077,
+  "typ": "Gesetzentwurf",
+  "vorgaenge": [
+   "326717"
+  ]
  },
  "21/2546": {
   "ausschuesse": {
@@ -1408,8 +1647,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Antrag"
+  "id": "282814",
+  "titel": "Ideologiefreien, innovativen Pflanzenschutz gewährleisten - Wettbewerbsfähigkeit der heimischen Landwirtschaft sichern",
+  "ts": 1791834134.9105077,
+  "typ": "Antrag",
+  "vorgaenge": [
+   "327794"
+  ]
  },
  "21/2547": {
   "ausschuesse": {
@@ -1423,8 +1667,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Antrag"
+  "id": "282815",
+  "titel": "Düngeverordnung reformieren - Bedarfsgerechte Düngung nach guter fachlicher Praxis wieder ermöglichen",
+  "ts": 1791834134.9105077,
+  "typ": "Antrag",
+  "vorgaenge": [
+   "327798"
+  ]
  },
  "21/2548": {
   "ausschuesse": {
@@ -1438,8 +1687,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Antrag"
+  "id": "282820",
+  "titel": "Entlastung der Landwirtschaft durch Bürokratieabbau und Deregulierung",
+  "ts": 1791834134.9105077,
+  "typ": "Antrag",
+  "vorgaenge": [
+   "327800"
+  ]
  },
  "21/2549": {
   "ausschuesse": {
@@ -1457,8 +1711,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Antrag"
+  "id": "282816",
+  "titel": "Marktstellung der Landwirte stärken - Faire Wettbewerbsbedingungen schaffen",
+  "ts": 1791834134.9105077,
+  "typ": "Antrag",
+  "vorgaenge": [
+   "327781"
+  ]
  },
  "21/2553": {
   "ausschuesse": {
@@ -1488,8 +1747,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Antrag"
+  "id": "282818",
+  "titel": "Flächendeckende Arzneimittelversorgung mit Apotheken zukunftssicher machen",
+  "ts": 1791834134.9105077,
+  "typ": "Antrag",
+  "vorgaenge": [
+   "327788"
+  ]
  },
  "21/2574": {
   "ausschuesse": {
@@ -1519,8 +1783,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Antrag"
+  "id": "282907",
+  "titel": "Lieferkettensorgfaltspflichtengesetz erhalten und verbessern - Umweltstandards, Menschenrechte und globale Solidarität stärken",
+  "ts": 1791834134.9105077,
+  "typ": "Antrag",
+  "vorgaenge": [
+   "327835"
+  ]
  },
  "21/2575": {
   "ausschuesse": {
@@ -1530,8 +1799,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Antrag"
+  "id": "282908",
+  "titel": "Queeres Leben stärken - Christopher-Street-Days schützen",
+  "ts": 1791834134.9105077,
+  "typ": "Antrag",
+  "vorgaenge": [
+   "327837"
+  ]
  },
  "21/2592": {
   "ausschuesse": {
@@ -1545,8 +1819,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Beschlussempfehlung und Bericht"
+  "id": "282909",
+  "titel": "Inneren Frieden in Deutschland bewahren - Antifa-Verbote umsetzen sowie Linksterrorismus entschlossen bekämpfen",
+  "ts": 1791834134.9105077,
+  "typ": "Beschlussempfehlung und Bericht",
+  "vorgaenge": [
+   "326927"
+  ]
  },
  "21/2595": {
   "ausschuesse": {
@@ -1588,8 +1867,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Beschlussempfehlung und Bericht"
+  "id": "282911",
+  "titel": "Entlastung der Bundesregierung für das Haushaltsjahr 2023\r\n- Haushalts- und Vermögensrechnung des Bundes für das Haushaltsjahr 2023 -",
+  "ts": 1791834134.9105077,
+  "typ": "Beschlussempfehlung und Bericht",
+  "vorgaenge": [
+   "321693"
+  ]
  },
  "21/2652": {
   "ausschuesse": {
@@ -1599,8 +1883,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Beschlussempfehlung und Bericht"
+  "id": "282916",
+  "titel": "Rechnung des Bundesrechnungshofes für das Haushaltsjahr 2024\r\n- Einzelplan 20 -",
+  "ts": 1791834134.9105077,
+  "typ": "Beschlussempfehlung und Bericht",
+  "vorgaenge": [
+   "322516"
+  ]
  },
  "21/2654": {
   "ausschuesse": {
@@ -1622,8 +1911,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Beschlussempfehlung und Bericht"
+  "id": "282918",
+  "titel": "Ultraschalluntersuchengen zur Altersbestimmung in Asyl- und Strafverfahren zur Praxisreife bringen",
+  "ts": 1791834134.9105077,
+  "typ": "Beschlussempfehlung und Bericht",
+  "vorgaenge": [
+   "323419"
+  ]
  },
  "21/2669": {
   "ausschuesse": {
@@ -1649,8 +1943,15 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Unterrichtung"
+  "id": "282921",
+  "titel": "Finanzplan des Bundes 2025 bis 2029",
+  "ts": 1791834134.9105077,
+  "typ": "Unterrichtung",
+  "vorgaenge": [
+   "325160",
+   "325333",
+   "325533"
+  ]
  },
  "21/2696": {
   "ausschuesse": {
@@ -1672,8 +1973,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Unterrichtung"
+  "id": "283062",
+  "titel": "Nachhaltigkeit für ein modernes und zukunftsfähiges Deutschland",
+  "ts": 1791834134.9105077,
+  "typ": "Unterrichtung",
+  "vorgaenge": [
+   "328027"
+  ]
  },
  "21/2707": {
   "ausschuesse": {
@@ -1683,8 +1989,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Antrag"
+  "id": "283042",
+  "titel": "Vorhaltungen der Krankenhäuser verlässlich finanzieren - Ausgliederung sämtlicher Personalkosten aus den Fallpauschalen",
+  "ts": 1791834134.9105077,
+  "typ": "Antrag",
+  "vorgaenge": [
+   "328077"
+  ]
  },
  "21/2710": {
   "ausschuesse": {
@@ -1702,8 +2013,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Antrag"
+  "id": "283047",
+  "titel": "Gefälschte Berufsausbildungszeugnisse bei Pflegepersonal bekämpfen",
+  "ts": 1791834134.9105077,
+  "typ": "Antrag",
+  "vorgaenge": [
+   "328103"
+  ]
  },
  "21/2715": {
   "ausschuesse": {
@@ -1721,8 +2037,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Antrag"
+  "id": "283060",
+  "titel": "Obligatorische Kenntnisse zum deutschen Gesundheitswesen auch für alle Ärzte mit ausländischem Studienabschluss sicherstellen",
+  "ts": 1791834134.9105077,
+  "typ": "Antrag",
+  "vorgaenge": [
+   "328115"
+  ]
  },
  "21/2716": {
   "ausschuesse": {
@@ -1744,8 +2065,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Antrag"
+  "id": "283054",
+  "titel": "Ambulante ärztliche Versorgung zukunftssicher machen",
+  "ts": 1791834134.9105077,
+  "typ": "Antrag",
+  "vorgaenge": [
+   "328120"
+  ]
  },
  "21/2717": {
   "ausschuesse": {
@@ -1767,8 +2093,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Antrag"
+  "id": "283055",
+  "titel": "Stärkung der Arzneimittelversorgung durch gezielten Bürokratieabbau und Förderung der heimischen Produktion",
+  "ts": 1791834134.9105077,
+  "typ": "Antrag",
+  "vorgaenge": [
+   "328121"
+  ]
  },
  "21/2721": {
   "ausschuesse": {
@@ -1782,8 +2113,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Antrag"
+  "id": "283046",
+  "titel": "Kindergesundheit stärken - Versorgung umfassend verbessern und nachhaltig finanzieren",
+  "ts": 1791834134.9105077,
+  "typ": "Antrag",
+  "vorgaenge": [
+   "328108"
+  ]
  },
  "21/2722": {
   "ausschuesse": {
@@ -1797,8 +2133,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Gesetzentwurf"
+  "id": "283040",
+  "titel": "... Gesetz zur Änderung des Strafgesetzbuches - Fahren ohne Fahrschein entkriminalisieren",
+  "ts": 1791834134.9105077,
+  "typ": "Gesetzentwurf",
+  "vorgaenge": [
+   "328067"
+  ]
  },
  "21/2723": {
   "ausschuesse": {
@@ -1856,8 +2197,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Antrag"
+  "id": "283049",
+  "titel": "Wirtschaft 2045 - Innovationen stärken, Zukunftstechnologien fördern, fairen Wettbewerb sichern",
+  "ts": 1791834134.9105077,
+  "typ": "Antrag",
+  "vorgaenge": [
+   "328106"
+  ]
  },
  "21/2724": {
   "ausschuesse": {
@@ -1883,8 +2229,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Antrag"
+  "id": "283063",
+  "titel": "Heizkostenfalle verhindern - Wärmewende weiterführen für ein warmes und bezahlbares Zuhause",
+  "ts": 1791834134.9105077,
+  "typ": "Antrag",
+  "vorgaenge": [
+   "328116"
+  ]
  },
  "21/2725": {
   "ausschuesse": {
@@ -1906,8 +2257,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Antrag"
+  "id": "283064",
+  "titel": "Deutschland resilient machen - Für einen ganzheitlichen Schutz unserer kritischen Infrastruktur",
+  "ts": 1791834134.9105077,
+  "typ": "Antrag",
+  "vorgaenge": [
+   "328117"
+  ]
  },
  "21/2730": {
   "ausschuesse": {
@@ -1937,8 +2293,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Unterrichtung"
+  "id": "283070",
+  "titel": "Bericht der Bundesregierung über Maßnahmen der Bundesregierung für Bürokratierückbau",
+  "ts": 1791834134.9105077,
+  "typ": "Unterrichtung",
+  "vorgaenge": [
+   "328028"
+  ]
  },
  "21/2738": {
   "ausschuesse": {
@@ -1956,8 +2317,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Gesetzentwurf"
+  "id": "283081",
+  "titel": "... Gesetz zur Änderung des Transplantationsgesetzes und Einführung der Widerspruchslösung",
+  "ts": 1791834134.9105077,
+  "typ": "Gesetzentwurf",
+  "vorgaenge": [
+   "325947"
+  ]
  },
  "21/2774": {
   "ausschuesse": {
@@ -1979,8 +2345,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Beschlussempfehlung und Bericht"
+  "id": "283109",
+  "titel": "Gesetz über den Zugang zu Schuldnerberatungsdiensten für Verbraucher (Schuldnerberatungsdienstegesetz - SchuBerDG)",
+  "ts": 1791834134.9105077,
+  "typ": "Beschlussempfehlung und Bericht",
+  "vorgaenge": [
+   "325563"
+  ]
  },
  "21/2802": {
   "ausschuesse": {
@@ -2006,8 +2377,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Antrag"
+  "id": "283152",
+  "titel": "Chancen statt Chaos - Bürokratie abbauen, Integration ukrainischer Geflüchteter sichern",
+  "ts": 1791834134.9105077,
+  "typ": "Antrag",
+  "vorgaenge": [
+   "328227"
+  ]
  },
  "21/2804": {
   "ausschuesse": {
@@ -2025,8 +2401,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Antrag"
+  "id": "283156",
+  "titel": "Steuerfairness fördern - Erbschaft- und Schenkungsteuer abschaffen",
+  "ts": 1791834134.9105077,
+  "typ": "Antrag",
+  "vorgaenge": [
+   "328186"
+  ]
  },
  "21/2808": {
   "ausschuesse": {
@@ -2048,8 +2429,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Antrag"
+  "id": "283157",
+  "titel": "Film- und Kinostandort Deutschland stärken",
+  "ts": 1791834134.9105077,
+  "typ": "Antrag",
+  "vorgaenge": [
+   "328188"
+  ]
  },
  "21/2823": {
   "ausschuesse": {
@@ -2063,8 +2449,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Antrag"
+  "id": "283162",
+  "titel": "Primärversorgung gesetzlich verankern - Die Versorgung der Patientinnen und Patienten bedarfsgerecht steuern, Fachkräfte entlasten",
+  "ts": 1791834134.9105077,
+  "typ": "Antrag",
+  "vorgaenge": [
+   "328213"
+  ]
  },
  "21/2824": {
   "ausschuesse": {
@@ -2078,8 +2469,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Beschlussempfehlung und Bericht"
+  "id": "283165",
+  "titel": "Entlastung der Landwirtschaft durch Bürokratieabbau und Deregulierung",
+  "ts": 1791834134.9105077,
+  "typ": "Beschlussempfehlung und Bericht",
+  "vorgaenge": [
+   "327800"
+  ]
  },
  "21/2825": {
   "ausschuesse": {
@@ -2097,8 +2493,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Beschlussempfehlung und Bericht"
+  "id": "283166",
+  "titel": "Marktstellung der Landwirte stärken - Faire Wettbewerbsbedingungen schaffen",
+  "ts": 1791834134.9105077,
+  "typ": "Beschlussempfehlung und Bericht",
+  "vorgaenge": [
+   "327781"
+  ]
  },
  "21/2826": {
   "ausschuesse": {
@@ -2112,8 +2513,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Beschlussempfehlung und Bericht"
+  "id": "283167",
+  "titel": "Düngeverordnung reformieren - Bedarfsgerechte Düngung nach guter fachlicher Praxis wieder ermöglichen",
+  "ts": 1791834134.9105077,
+  "typ": "Beschlussempfehlung und Bericht",
+  "vorgaenge": [
+   "327798"
+  ]
  },
  "21/2827": {
   "ausschuesse": {
@@ -2131,8 +2537,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Beschlussempfehlung und Bericht"
+  "id": "283168",
+  "titel": "Ideologiefreien, innovativen Pflanzenschutz gewährleisten - Wettbewerbsfähigkeit der heimischen Landwirtschaft sichern",
+  "ts": 1791834134.9105077,
+  "typ": "Beschlussempfehlung und Bericht",
+  "vorgaenge": [
+   "327794"
+  ]
  },
  "21/2830": {
   "ausschuesse": {
@@ -2162,8 +2573,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Antrag"
+  "id": "283202",
+  "titel": "Private Altersvorsorge modernisieren - ETF-Sparplan für die Rente ermöglichen",
+  "ts": 1791834134.9105077,
+  "typ": "Antrag",
+  "vorgaenge": [
+   "328244"
+  ]
  },
  "21/2879": {
   "ausschuesse": {
@@ -2177,8 +2593,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Verordnung"
+  "id": "283266",
+  "titel": "Zweiundzwanzigste Verordnung zur Änderung der Außenwirtschaftsverordnung - aufhebbare Verordnung",
+  "ts": 1791834134.9105077,
+  "typ": "Verordnung",
+  "vorgaenge": [
+   "328422"
+  ]
  },
  "21/2963": {
   "ausschuesse": {
@@ -2192,8 +2613,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Gesetzentwurf"
+  "id": "283465",
+  "titel": "Gesetz zu dem Abkommen vom 9. Dezember 2022 zwischen der Regierung der Bundesrepublik Deutschland und der Regierung der Republik Österreich über die Zusammenarbeit gegen nichtmilitärische Bedrohungen aus der Luft",
+  "ts": 1791834134.9105077,
+  "typ": "Gesetzentwurf",
+  "vorgaenge": [
+   "326751"
+  ]
  },
  "21/2996": {
   "ausschuesse": {
@@ -2211,8 +2637,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Gesetzentwurf"
+  "id": "283507",
+  "titel": "Gesetz über den Informationsaustausch zwischen den Strafverfolgungsbehörden der Mitgliedstaaten der Europäischen Union",
+  "ts": 1791834134.9105077,
+  "typ": "Gesetzentwurf",
+  "vorgaenge": [
+   "327963"
+  ]
  },
  "21/2997": {
   "ausschuesse": {
@@ -2230,8 +2661,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Gesetzentwurf"
+  "id": "283506",
+  "titel": "Gesetz zur Umsetzung des Urteils des Bundesverfassungsgerichts zur Vaterschaftsanfechtung",
+  "ts": 1791834134.9105077,
+  "typ": "Gesetzentwurf",
+  "vorgaenge": [
+   "327968"
+  ]
  },
  "21/2998": {
   "ausschuesse": {
@@ -2257,8 +2693,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Gesetzentwurf"
+  "id": "283508",
+  "titel": "Gesetz zur Durchführung der Verordnung (EU) 2023/2854 des Europäischen Parlaments und des Rates vom 13. Dezember 2023 über harmonisierte Vorschriften für einen fairen Datenzugang und eine faire Datennutzung sowie zur Änderung der Verordnung (EU) 2017/2394 und der Richtlinie (EU) 2020/1828",
+  "ts": 1791834134.9105077,
+  "typ": "Gesetzentwurf",
+  "vorgaenge": [
+   "327975"
+  ]
  },
  "21/2999": {
   "ausschuesse": {
@@ -2276,20 +2717,35 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Gesetzentwurf"
+  "id": "283509",
+  "titel": "Gesetz zur Neuregelung des Rechtsrahmens für intelligente Verkehrssysteme im Straßenverkehr und deren Schnittstellen zu anderen Verkehrsträgern und die Datenbereitstellung über den Nationalen Zugangspunkt",
+  "ts": 1791834134.9105077,
+  "typ": "Gesetzentwurf",
+  "vorgaenge": [
+   "327965"
+  ]
  },
  "21/3047": {
   "ausschuesse": {},
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Antrag"
+  "id": "283659",
+  "titel": "Mittelstand jetzt stärken",
+  "ts": 1791834134.9105077,
+  "typ": "Antrag",
+  "vorgaenge": [
+   "328938"
+  ]
  },
  "21/3049": {
   "ausschuesse": {},
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Antrag"
+  "id": "283643",
+  "titel": "Weltbodentag - Weiterentwicklung des Bodenschutzrechts zu einem Bundesbodengesundheitsgesetz",
+  "ts": 1791834134.9105077,
+  "typ": "Antrag",
+  "vorgaenge": [
+   "328916"
+  ]
  },
  "21/3051": {
   "ausschuesse": {
@@ -2307,8 +2763,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Gesetzentwurf"
+  "id": "283573",
+  "titel": "Gesetz zur Modernisierung des Bundespolizeigesetzes",
+  "ts": 1791834134.9105077,
+  "typ": "Gesetzentwurf",
+  "vorgaenge": [
+   "326806"
+  ]
  },
  "21/3055": {
   "ausschuesse": {
@@ -2326,8 +2787,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Gesetzentwurf"
+  "id": "283576",
+  "titel": "Gesetz zur Änderung des Registerzensuserprobungsgesetzes",
+  "ts": 1791834134.9105077,
+  "typ": "Gesetzentwurf",
+  "vorgaenge": [
+   "326708"
+  ]
  },
  "21/3058": {
   "ausschuesse": {
@@ -2345,8 +2811,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Gesetzentwurf"
+  "id": "283579",
+  "titel": "Gesetz zur Umsetzung der Richtlinie (EU) 2024/1619 des Europäischen Parlaments und des Rates vom 31. Mai 2024 zur Änderung der Richtlinie 2013/36/EU im Hinblick auf Aufsichtsbefugnisse, Sanktionen, Zweigstellen aus Drittländern sowie Umwelt-, Sozial- und Unternehmensführungsrisiken und zur Entlastung der Kreditinstitute von Bürokratie (Bankenrichtlinienumsetzungs- und Bürokratieentlastungsgesetz - BRUBEG)",
+  "ts": 1791834134.9105077,
+  "typ": "Gesetzentwurf",
+  "vorgaenge": [
+   "326804"
+  ]
  },
  "21/3075": {
   "ausschuesse": {
@@ -2368,8 +2839,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Beschlussempfehlung und Bericht"
+  "id": "283636",
+  "titel": "Medizinische Versorgungszentren reformieren",
+  "ts": 1791834134.9105077,
+  "typ": "Beschlussempfehlung und Bericht",
+  "vorgaenge": [
+   "325806"
+  ]
  },
  "21/3137": {
   "ausschuesse": {
@@ -2403,8 +2879,15 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Unterrichtung"
+  "id": "283658",
+  "titel": "Zweiundzwanzigste Verordnung zur Änderung der Außenwirtschaftsverordnung - aufhebbare Verordnung",
+  "ts": 1791834134.9105077,
+  "typ": "Unterrichtung",
+  "vorgaenge": [
+   "328422",
+   "328503",
+   "328458"
+  ]
  },
  "21/3146": {
   "ausschuesse": {
@@ -2426,8 +2909,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Antrag"
+  "id": "283807",
+  "titel": "Zerstörung der Lebensräume verhindern - Wind- und Photovoltaikindustrie zurückdrängen",
+  "ts": 1791834134.9105077,
+  "typ": "Antrag",
+  "vorgaenge": [
+   "329146"
+  ]
  },
  "21/3147": {
   "ausschuesse": {
@@ -2453,8 +2941,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Antrag"
+  "id": "283808",
+  "titel": "Kommunen, Landschaft und Natur schützen - Keine Sonderrechte für Windkraft-, Solar- und Wasserstoffanlagen",
+  "ts": 1791834134.9105077,
+  "typ": "Antrag",
+  "vorgaenge": [
+   "329147"
+  ]
  },
  "21/3150": {
   "ausschuesse": {
@@ -2473,7 +2966,8 @@
   },
   "gefunden": true,
   "id": "284027",
-  "ts": 1791826868.351456,
+  "titel": "Bericht über das Ergebnis der Vorplanung und der frühen Öffentlichkeitsbeteiligung Ausbaustrecke/Neubaustrecke Hannover - Hamburg",
+  "ts": 1791834134.9105077,
   "typ": "Unterrichtung",
   "vorgaenge": [
    "329554"
@@ -2491,8 +2985,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Gesetzentwurf"
+  "id": "283786",
+  "titel": "Gesetz zur Umsetzung der Richtlinie (EU) 2017/541 zur Terrorismusbekämpfung und zur Anpassung des Strafrahmens bei geheimdienstlicher Agententätigkeit",
+  "ts": 1791834134.9105077,
+  "typ": "Gesetzentwurf",
+  "vorgaenge": [
+   "326706"
+  ]
  },
  "21/3192": {
   "ausschuesse": {
@@ -2502,8 +3001,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Gesetzentwurf"
+  "id": "283783",
+  "titel": "Gesetz zur Umsetzung der Richtlinie (EU) 2023/1544 und zur Durchführung der Verordnung (EU) 2023/1543 über die grenzüberschreitende Sicherung und Herausgabe elektronischer Beweismittel in Strafverfahren innerhalb der Europäischen Union",
+  "ts": 1791834134.9105077,
+  "typ": "Gesetzentwurf",
+  "vorgaenge": [
+   "326831"
+  ]
  },
  "21/3193": {
   "ausschuesse": {
@@ -2521,8 +3025,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Gesetzentwurf"
+  "id": "283784",
+  "titel": "Gesetz zur Stärkung der Angebote der Jugendarbeit im Ganztag während der Schulferien",
+  "ts": 1791834134.9105077,
+  "typ": "Gesetzentwurf",
+  "vorgaenge": [
+   "326702"
+  ]
  },
  "21/3194": {
   "ausschuesse": {
@@ -2532,8 +3041,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Gesetzentwurf"
+  "id": "283791",
+  "titel": "Gesetz zu den Entschließungen LP.3(4) vom 30. Oktober 2009 und LP.5(14) vom 11. Oktober 2019 über die Änderung des Artikels 6 des Protokolls vom 7. November 1996 zum Übereinkommen über die Verhütung der Meeresverschmutzung durch das Einbringen von Abfällen und anderen Stoffen von 1972 (Londoner Protokoll)",
+  "ts": 1791834134.9105077,
+  "typ": "Gesetzentwurf",
+  "vorgaenge": [
+   "326750"
+  ]
  },
  "21/3195": {
   "ausschuesse": {
@@ -2543,8 +3057,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Gesetzentwurf"
+  "id": "283792",
+  "titel": "Erstes Gesetz zur Änderung des Hohe-See-Einbringungsgesetzes",
+  "ts": 1791834134.9105077,
+  "typ": "Gesetzentwurf",
+  "vorgaenge": [
+   "326707"
+  ]
  },
  "21/3203": {
   "ausschuesse": {
@@ -2562,8 +3081,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Unterrichtung"
+  "id": "283796",
+  "titel": "Gesetz zur Beschleunigung der Verfügbarkeit von Wasserstoff und zur Änderung weiterer rechtlicher Rahmenbedingungen für den Wasserstoffhochlauf und weiterer energierechtlicher Vorschriften",
+  "ts": 1791834134.9105077,
+  "typ": "Unterrichtung",
+  "vorgaenge": [
+   "326712"
+  ]
  },
  "21/3204": {
   "ausschuesse": {
@@ -2573,8 +3097,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Gesetzentwurf"
+  "id": "283793",
+  "titel": "Gesetz zur Durchführung der Verordnung (EU) 2024/2748 zu Notfallverfahren aufgrund eines Binnenmarkt-Notfalls bei Gasgeräten und PSA und zur Änderung des Siebten Buches Sozialgesetzbuch",
+  "ts": 1791834134.9105077,
+  "typ": "Gesetzentwurf",
+  "vorgaenge": [
+   "326704"
+  ]
  },
  "21/3205": {
   "ausschuesse": {
@@ -2592,8 +3121,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Unterrichtung"
+  "id": "283810",
+  "titel": "Gesetz zur Anpassung von Straftatbeständen und Sanktionen bei Verstößen gegen restriktive Maßnahmen der Europäischen Union",
+  "ts": 1791834134.9105077,
+  "typ": "Unterrichtung",
+  "vorgaenge": [
+   "326710"
+  ]
  },
  "21/3206": {
   "ausschuesse": {
@@ -2627,8 +3161,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Antrag"
+  "id": "283795",
+  "titel": "Fortsetzung des Einsatzes bewaffneter deutscher Streitkräfte - Stabilisierung sichern, Wiedererstarken des IS verhindern, Versöhnung in Irak fördern",
+  "ts": 1791834134.9105077,
+  "typ": "Antrag",
+  "vorgaenge": [
+   "329114"
+  ]
  },
  "21/3207": {
   "ausschuesse": {
@@ -2646,8 +3185,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Gesetzentwurf"
+  "id": "283794",
+  "titel": "Gesetz zur Beschleunigung der Anerkennungsverfahren ausländischer Berufsqualifikationen in Heilberufen",
+  "ts": 1791834134.9105077,
+  "typ": "Gesetzentwurf",
+  "vorgaenge": [
+   "326691"
+  ]
  },
  "21/3248": {
   "ausschuesse": {
@@ -2677,8 +3221,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Antrag"
+  "id": "283839",
+  "titel": "Finanzkriminalität bekämpfen - Geldwäsche und organisierte Steuerhinterziehung effektiv verhindern",
+  "ts": 1791834134.9105077,
+  "typ": "Antrag",
+  "vorgaenge": [
+   "329212"
+  ]
  },
  "21/3250": {
   "ausschuesse": {
@@ -2704,8 +3253,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Unterrichtung"
+  "id": "283822",
+  "titel": "Siebter Armuts- und Reichtumsbericht der Bundesregierung - Lebenslagen in Deutschland",
+  "ts": 1791834134.9105077,
+  "typ": "Unterrichtung",
+  "vorgaenge": [
+   "329199"
+  ]
  },
  "21/3252": {
   "ausschuesse": {
@@ -2727,8 +3281,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Gesetzentwurf"
+  "id": "283838",
+  "titel": "Zweites Gesetz zur Änderung des Luftsicherheitsgesetzes",
+  "ts": 1791834134.9105077,
+  "typ": "Gesetzentwurf",
+  "vorgaenge": [
+   "328387"
+  ]
  },
  "21/3292": {
   "ausschuesse": {
@@ -2738,8 +3297,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Gesetzentwurf"
+  "id": "283894",
+  "titel": "Zweites Gesetz zur Änderung des Tierhaltungskennzeichnungsgesetzes",
+  "ts": 1791834134.9105077,
+  "typ": "Gesetzentwurf",
+  "vorgaenge": [
+   "329357"
+  ]
  },
  "21/3295": {
   "ausschuesse": {
@@ -2757,8 +3321,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Unterrichtung"
+  "id": "283931",
+  "titel": "Dritter Bericht zum Ausbaustand der ganztägigen Bildungs- und Betreuungsangebote für Grundschulkinder",
+  "ts": 1791834134.9105077,
+  "typ": "Unterrichtung",
+  "vorgaenge": [
+   "329447"
+  ]
  },
  "21/3297": {
   "ausschuesse": {
@@ -2776,14 +3345,24 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Gesetzentwurf"
+  "id": "283896",
+  "titel": "Gesetz zur Übertragung von Mitteln des Restrukturierungsfonds auf den Finanzmarktstabilisierungsfonds (Restrukturierungsfonds-Übertragungsgesetz - RStruktFÜG)",
+  "ts": 1791834134.9105077,
+  "typ": "Gesetzentwurf",
+  "vorgaenge": [
+   "329372"
+  ]
  },
  "21/3300": {
   "ausschuesse": {},
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Beschlussempfehlung"
+  "id": "284161",
+  "titel": "Dritte Beschlussempfehlung des Wahlprüfungsausschusses zu Einsprüchen anlässlich der Wahl zum 21. Deutschen Bundestag am 23. Februar 2025",
+  "ts": 1791834134.9105077,
+  "typ": "Beschlussempfehlung",
+  "vorgaenge": [
+   "329674"
+  ]
  },
  "21/3306": {
   "ausschuesse": {
@@ -2805,8 +3384,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Antrag"
+  "id": "283908",
+  "titel": "Bundespolizei rechtsstaatlich modernisieren - Menschenrechte in Vollzugspraxis und Ausbildung stärken",
+  "ts": 1791834134.9105077,
+  "typ": "Antrag",
+  "vorgaenge": [
+   "329390"
+  ]
  },
  "21/3307": {
   "ausschuesse": {
@@ -2836,8 +3420,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Antrag"
+  "id": "283907",
+  "titel": "Für einen Neubeginn in den deutsch-amerikanischen Beziehungen - Zusammen für Sicherheit, Stabilität und Frieden in der Ukraine",
+  "ts": 1791834134.9105077,
+  "typ": "Antrag",
+  "vorgaenge": [
+   "329392"
+  ]
  },
  "21/3308": {
   "ausschuesse": {
@@ -2863,8 +3452,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Antrag"
+  "id": "283923",
+  "titel": "Zusammen mit den USA für nationale Selbstbestimmung, Souveränität und den Schutz der abendländischen Zivilisation eintreten - Woke Positionen international zurückdrängen",
+  "ts": 1791834134.9105077,
+  "typ": "Antrag",
+  "vorgaenge": [
+   "329416"
+  ]
  },
  "21/331": {
   "ausschuesse": {
@@ -2878,8 +3472,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Gesetzentwurf"
+  "id": "279679",
+  "titel": "Gesetz zur Streichung der automatischen Anpassung der Abgeordnetenentschädigung",
+  "ts": 1791834134.9105077,
+  "typ": "Gesetzentwurf",
+  "vorgaenge": [
+   "322242"
+  ]
  },
  "21/3317": {
   "ausschuesse": {
@@ -2905,14 +3504,24 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Antrag"
+  "id": "283926",
+  "titel": "Wärmepumpenoffensive - Heizungsindustrie und Zukunftstechnologien in Deutschland halten",
+  "ts": 1791834134.9105077,
+  "typ": "Antrag",
+  "vorgaenge": [
+   "329402"
+  ]
  },
  "21/3319": {
   "ausschuesse": {},
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Antwort"
+  "id": "283918",
+  "titel": "Förderung sowie Unterstützung von LGBTIQ- und Gender-Projekten sowie Abtreibung im Ausland",
+  "ts": 1791834134.9105077,
+  "typ": "Antwort",
+  "vorgaenge": [
+   "322913"
+  ]
  },
  "21/3324": {
   "ausschuesse": {
@@ -2938,8 +3547,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Beschlussempfehlung und Bericht"
+  "id": "283929",
+  "titel": "Schlüsselressource Forschungsdaten - Forschungsdatengesetz jetzt vorlegen",
+  "ts": 1791834134.9105077,
+  "typ": "Beschlussempfehlung und Bericht",
+  "vorgaenge": [
+   "326600"
+  ]
  },
  "21/3350": {
   "ausschuesse": {
@@ -2957,8 +3571,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Unterrichtung"
+  "id": "283932",
+  "titel": "Bericht der Bundesregierung zur internationalen Kooperation in Bildung, Wissenschaft und Forschung 2023 bis 2024",
+  "ts": 1791834134.9105077,
+  "typ": "Unterrichtung",
+  "vorgaenge": [
+   "329452"
+  ]
  },
  "21/341": {
   "ausschuesse": {
@@ -2980,8 +3599,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Antrag"
+  "id": "279692",
+  "titel": "Europarecht einhalten, Schutzbedürftige schützen, Zurückweisungen an den Binnengrenzen beenden",
+  "ts": 1791834134.9105077,
+  "typ": "Antrag",
+  "vorgaenge": [
+   "322264"
+  ]
  },
  "21/342": {
   "ausschuesse": {
@@ -3007,8 +3631,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Antrag"
+  "id": "279722",
+  "titel": "Zurückweisung von Schutzsuchenden beenden",
+  "ts": 1791834134.9105077,
+  "typ": "Antrag",
+  "vorgaenge": [
+   "322273"
+  ]
  },
  "21/3483": {
   "ausschuesse": {
@@ -3022,8 +3651,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Gesetzentwurf"
+  "id": "284229",
+  "titel": "Erstes Gesetz zur Änderung des Eurojust-Gesetzes",
+  "ts": 1791834134.9105077,
+  "typ": "Gesetzentwurf",
+  "vorgaenge": [
+   "327964"
+  ]
  },
  "21/3484": {
   "ausschuesse": {
@@ -3049,8 +3683,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Gesetzentwurf"
+  "id": "284230",
+  "titel": "Gesetz zur Durchführung einer Verordnung der Europäischen Union zum Datenaustausch bei Kurzzeitvermietungen sowie zur Durchsetzung von Diskriminierungsverboten der Europäischen Union",
+  "ts": 1791834134.9105077,
+  "typ": "Gesetzentwurf",
+  "vorgaenge": [
+   "327989"
+  ]
  },
  "21/3487": {
   "ausschuesse": {
@@ -3068,8 +3707,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Unterrichtung"
+  "id": "284236",
+  "titel": "Gesetz zur Umsetzung des Urteils des Bundesverfassungsgerichts zur Vaterschaftsanfechtung",
+  "ts": 1791834134.9105077,
+  "typ": "Unterrichtung",
+  "vorgaenge": [
+   "327968"
+  ]
  },
  "21/3488": {
   "ausschuesse": {
@@ -3087,8 +3731,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Unterrichtung"
+  "id": "284237",
+  "titel": "Gesetz über den Informationsaustausch zwischen den Strafverfolgungsbehörden der Mitgliedstaaten der Europäischen Union",
+  "ts": 1791834134.9105077,
+  "typ": "Unterrichtung",
+  "vorgaenge": [
+   "327963"
+  ]
  },
  "21/3491": {
   "ausschuesse": {
@@ -3102,8 +3751,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Gesetzentwurf"
+  "id": "284231",
+  "titel": "Gesetz zu dem Abkommen vom 27. August 2025 zwischen der Regierung der Bundesrepublik Deutschland und der Regierung des Königreichs der Niederlande über die Erschließung von grenzüberschreitenden Kohlenwasserstofflagerstätten in der Nordsee",
+  "ts": 1791834134.9105077,
+  "typ": "Gesetzentwurf",
+  "vorgaenge": [
+   "328025"
+  ]
  },
  "21/3505": {
   "ausschuesse": {
@@ -3129,8 +3783,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Gesetzentwurf"
+  "id": "284256",
+  "titel": "Fünftes Gesetz zur Änderung des Straßenverkehrsgesetzes und anderer straßenverkehrsrechtlicher Vorschriften",
+  "ts": 1791834134.9105077,
+  "typ": "Gesetzentwurf",
+  "vorgaenge": [
+   "327979"
+  ]
  },
  "21/3506": {
   "ausschuesse": {
@@ -3152,8 +3811,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Unterrichtung"
+  "id": "284257",
+  "titel": "Zweites Gesetz zur Änderung des Luftsicherheitsgesetzes",
+  "ts": 1791834134.9105077,
+  "typ": "Unterrichtung",
+  "vorgaenge": [
+   "328387"
+  ]
  },
  "21/3507": {
   "ausschuesse": {
@@ -3171,8 +3835,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Unterrichtung"
+  "id": "284260",
+  "titel": "Gesetz zur Neuregelung des Rechtsrahmens für intelligente Verkehrssysteme im Straßenverkehr und deren Schnittstellen zu anderen Verkehrsträgern und die Datenbereitstellung über den Nationalen Zugangspunkt",
+  "ts": 1791834134.9105077,
+  "typ": "Unterrichtung",
+  "vorgaenge": [
+   "327965"
+  ]
  },
  "21/3508": {
   "ausschuesse": {
@@ -3198,8 +3867,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Unterrichtung"
+  "id": "284258",
+  "titel": "Gesetz zur Durchführung der Verordnung (EU) 2023/2854 des Europäischen Parlaments und des Rates vom 13. Dezember 2023 über harmonisierte Vorschriften für einen fairen Datenzugang und eine faire Datennutzung sowie zur Änderung der Verordnung (EU) 2017/2394 und der Richtlinie (EU) 2020/1828",
+  "ts": 1791834134.9105077,
+  "typ": "Unterrichtung",
+  "vorgaenge": [
+   "327975"
+  ]
  },
  "21/3510": {
   "ausschuesse": {
@@ -3221,8 +3895,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Gesetzentwurf"
+  "id": "284261",
+  "titel": "Gesetz zur Begrenzung der Risiken durch Investmentfonds und zur Umsetzung der Richtlinie (EU) 2024/927 im Hinblick auf Übertragungsvereinbarungen, Liquiditätsrisikomanagement, die aufsichtliche Berichterstattung, die Erbringung von Verwahr- und Hinterlegungsdienstleistungen und die Kreditvergabe durch alternative Investmentfonds sowie zur Umsetzung der Richtlinie (EU) 2024/2994 im Hinblick auf die Behandlung des Konzentrationsrisikos, das aus Risikopositionen gegenüber zentralen Gegenparteien erwächst, und des Ausfallrisikos bei zentral geclearten Derivategeschäften und zur Änderung weiterer Vorschriften (Fondsrisikobegrenzungsgesetz)",
+  "ts": 1791834134.9105077,
+  "typ": "Gesetzentwurf",
+  "vorgaenge": [
+   "327969"
+  ]
  },
  "21/3511": {
   "ausschuesse": {
@@ -3232,14 +3911,26 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Gesetzentwurf"
+  "id": "284263",
+  "titel": "Fünftes Gesetz zur Änderung des Chemikaliengesetzes",
+  "ts": 1791834134.9105077,
+  "typ": "Gesetzentwurf",
+  "vorgaenge": [
+   "327967"
+  ]
  },
  "21/3521": {
   "ausschuesse": {},
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Fragen"
+  "id": "284270",
+  "titel": "Auswirkungen der neuen Grundsicherung",
+  "ts": 1791834134.9105077,
+  "typ": "Fragen",
+  "vorgaenge": [
+   "329962",
+   "330021",
+   "329988"
+  ]
  },
  "21/3539": {
   "ausschuesse": {
@@ -3257,8 +3948,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Gesetzentwurf"
+  "id": "284310",
+  "titel": "Gesetz zur Änderung der Gewährung von Leistungen für Personen, die in Anwendung der Richtlinie 2001/55/EG eine Aufenthaltserlaubnis zur Aufenthaltsgewährung zum vorübergehenden Schutz erhalten oder beantragt haben (Leistungsrechtsanpassungsgesetz)",
+  "ts": 1791834134.9105077,
+  "typ": "Gesetzentwurf",
+  "vorgaenge": [
+   "329468"
+  ]
  },
  "21/3541": {
   "ausschuesse": {
@@ -3276,8 +3972,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Gesetzentwurf"
+  "id": "284311",
+  "titel": "Dreizehntes Gesetz zur Änderung des Zweiten Buches Sozialgesetzbuch und anderer Gesetze",
+  "ts": 1791834134.9105077,
+  "typ": "Gesetzentwurf",
+  "vorgaenge": [
+   "329524"
+  ]
  },
  "21/3542": {
   "ausschuesse": {
@@ -3291,8 +3992,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Gesetzentwurf"
+  "id": "284320",
+  "titel": "Gesetz zu dem Übereinkommen vom 19. Juni 2023 im Rahmen des Seerechtsübereinkommens der Vereinten Nationen über die Erhaltung und nachhaltige Nutzung der biologischen Vielfalt der Meere von Gebieten außerhalb nationaler Hoheitsbefugnisse",
+  "ts": 1791834134.9105077,
+  "typ": "Gesetzentwurf",
+  "vorgaenge": [
+   "329516"
+  ]
  },
  "21/3543": {
   "ausschuesse": {
@@ -3306,8 +4012,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Gesetzentwurf"
+  "id": "284325",
+  "titel": "Gesetz zur Ausführung des Übereinkommens im Rahmen des Seerechtsübereinkommens der Vereinten Nationen über die Erhaltung und nachhaltige Nutzung der biologischen Vielfalt der Meere von Gebieten außerhalb nationaler Hoheitsbefugnisse (Hochseeschutzgesetz - HochseeSchG)",
+  "ts": 1791834134.9105077,
+  "typ": "Gesetzentwurf",
+  "vorgaenge": [
+   "329691"
+  ]
  },
  "21/3544": {
   "ausschuesse": {
@@ -3325,8 +4036,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Gesetzentwurf"
+  "id": "284321",
+  "titel": "Gesetz zur Durchführung der EU-Verordnung über europäische Daten-Governance (Daten-Governance-Gesetz - DGG)",
+  "ts": 1791834134.9105077,
+  "typ": "Gesetzentwurf",
+  "vorgaenge": [
+   "329528"
+  ]
  },
  "21/3546": {
   "ausschuesse": {
@@ -3340,20 +4056,35 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Gesetzentwurf"
+  "id": "284312",
+  "titel": "Gesetz zur Änderung des Bundesjagdgesetzes und zur Änderung des Bundesnaturschutzgesetzes",
+  "ts": 1791834134.9105077,
+  "typ": "Gesetzentwurf",
+  "vorgaenge": [
+   "329526"
+  ]
  },
  "21/3548": {
   "ausschuesse": {},
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Wahlvorschlag"
+  "id": "284313",
+  "titel": "Wahl der Mitglieder des Verwaltungsrates bei der Bundesanstalt für Finanzdienstleistungsaufsicht",
+  "ts": 1791834134.9105077,
+  "typ": "Wahlvorschlag",
+  "vorgaenge": [
+   "329936"
+  ]
  },
  "21/3549": {
   "ausschuesse": {},
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Wahlvorschlag"
+  "id": "284314",
+  "titel": "Wahl eines Mitglieds des Verwaltungsrates bei der Bundesanstalt für Finanzdienstleistungsaufsicht",
+  "ts": 1791834134.9105077,
+  "typ": "Wahlvorschlag",
+  "vorgaenge": [
+   "329934"
+  ]
  },
  "21/3558": {
   "ausschuesse": {
@@ -3387,8 +4118,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Antrag"
+  "id": "284328",
+  "titel": "Führerschein für 1 Euro - Bezahlbarer Führerschein für Ausbildung und Arbeit",
+  "ts": 1791834134.9105077,
+  "typ": "Antrag",
+  "vorgaenge": [
+   "329976"
+  ]
  },
  "21/3571": {
   "ausschuesse": {
@@ -3406,8 +4142,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Antrag"
+  "id": "284333",
+  "titel": "Grundrechte verwirklichen - Asylbewerberleistungsgesetz abschaffen statt ausweiten, Haushalte der Länder und Kommunen entlasten",
+  "ts": 1791834134.9105077,
+  "typ": "Antrag",
+  "vorgaenge": [
+   "330011"
+  ]
  },
  "21/3593": {
   "ausschuesse": {
@@ -3429,8 +4170,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Antrag"
+  "id": "284357",
+  "titel": "Elternschaft und Existenzgründung ermöglichen - Schutz von selbstständigen Schwangeren und Müttern anpassen und verbessern",
+  "ts": 1791834134.9105077,
+  "typ": "Antrag",
+  "vorgaenge": [
+   "330035"
+  ]
  },
  "21/3596": {
   "ausschuesse": {
@@ -3444,8 +4190,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Antrag"
+  "id": "284381",
+  "titel": "Stärkung des Katastrophenschutzes und der Resistenz kritischer Infrastrukturen in Deutschland - Lehren aus dem Stromausfall in Berlin ziehen",
+  "ts": 1791834134.9105077,
+  "typ": "Antrag",
+  "vorgaenge": [
+   "330090"
+  ]
  },
  "21/3597": {
   "ausschuesse": {
@@ -3475,8 +4226,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Antrag"
+  "id": "284373",
+  "titel": "Insektenbiomasse und -vielfalt vor weiterem Ausbau der Windindustrie schützen",
+  "ts": 1791834134.9105077,
+  "typ": "Antrag",
+  "vorgaenge": [
+   "330079"
+  ]
  },
  "21/3598": {
   "ausschuesse": {
@@ -3494,8 +4250,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Antrag"
+  "id": "284382",
+  "titel": "Vogel- und Fledermaussterben beenden - Ausbau von Windindustrieanlagen stoppen",
+  "ts": 1791834134.9105077,
+  "typ": "Antrag",
+  "vorgaenge": [
+   "330092"
+  ]
  },
  "21/3599": {
   "ausschuesse": {
@@ -3517,8 +4278,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Antrag"
+  "id": "284361",
+  "titel": "Transparenz, Sicherheit und Umweltschutz in den deutschen Offshore-Windparks verbessern",
+  "ts": 1791834134.9105077,
+  "typ": "Antrag",
+  "vorgaenge": [
+   "330055"
+  ]
  },
  "21/3601": {
   "ausschuesse": {
@@ -3536,8 +4302,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Antrag"
+  "id": "284362",
+  "titel": "Humanitäres Bleiberecht für jesidische Geflüchtete vor dem Hintergrund des Genozids",
+  "ts": 1791834134.9105077,
+  "typ": "Antrag",
+  "vorgaenge": [
+   "330056"
+  ]
  },
  "21/3602": {
   "ausschuesse": {
@@ -3575,8 +4346,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Antrag"
+  "id": "284358",
+  "titel": "Landwirtschaft und Ernährung zukunftsfähig gestalten",
+  "ts": 1791834134.9105077,
+  "typ": "Antrag",
+  "vorgaenge": [
+   "330036"
+  ]
  },
  "21/3604": {
   "ausschuesse": {
@@ -3586,8 +4362,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Antrag"
+  "id": "284383",
+  "titel": "Sanktionen stoppen und Arbeitsvermittlung stärken - Grundpfeiler einer menschenwürdigen Grundsicherung",
+  "ts": 1791834134.9105077,
+  "typ": "Antrag",
+  "vorgaenge": [
+   "330094"
+  ]
  },
  "21/3605": {
   "ausschuesse": {
@@ -3597,8 +4378,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Antrag"
+  "id": "284384",
+  "titel": "Aktivierende Grundsicherung statt Grundsicherungsgeld",
+  "ts": 1791834134.9105077,
+  "typ": "Antrag",
+  "vorgaenge": [
+   "330095"
+  ]
  },
  "21/3606": {
   "ausschuesse": {
@@ -3628,8 +4414,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Antrag"
+  "id": "284385",
+  "titel": "Chancen statt Stigmatisierung - Für eine gerechte Grundsicherung",
+  "ts": 1791834134.9105077,
+  "typ": "Antrag",
+  "vorgaenge": [
+   "330096"
+  ]
  },
  "21/3607": {
   "ausschuesse": {
@@ -3643,8 +4434,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Antrag"
+  "id": "284367",
+  "titel": "Mieterinnen und Mieter besser schützen - Erste Mietrechtsnovelle sofort umsetzen",
+  "ts": 1791834134.9105077,
+  "typ": "Antrag",
+  "vorgaenge": [
+   "330071"
+  ]
  },
  "21/3608": {
   "ausschuesse": {
@@ -3658,8 +4454,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Antrag"
+  "id": "284368",
+  "titel": "Stärkung der Filmkultur durch verlässliche Förderung, gesetzliche Investitionsverpflichtung für Streaming-Dienste und steuerliche Anreize",
+  "ts": 1791834134.9105077,
+  "typ": "Antrag",
+  "vorgaenge": [
+   "330072"
+  ]
  },
  "21/3609": {
   "ausschuesse": {
@@ -3677,8 +4478,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Antrag"
+  "id": "284369",
+  "titel": "Politische Chancengleichheit auch im digitalen Raum - Aufhebung der Verordnung (EU) 2024/900 über die Transparenz und das Targeting politischer Werbung",
+  "ts": 1791834134.9105077,
+  "typ": "Antrag",
+  "vorgaenge": [
+   "330074"
+  ]
  },
  "21/3610": {
   "ausschuesse": {
@@ -3700,8 +4506,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Antrag"
+  "id": "284370",
+  "titel": "Parken fair gestalten - Nachhaltig, digital und sozial gerecht",
+  "ts": 1791834134.9105077,
+  "typ": "Antrag",
+  "vorgaenge": [
+   "330075"
+  ]
  },
  "21/3611": {
   "ausschuesse": {
@@ -3711,8 +4522,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Antrag"
+  "id": "284371",
+  "titel": "Das Gesundheitswesen bleibt zivil - Kriegsprävention statt Militarisierung des Gesundheitswesens",
+  "ts": 1791834134.9105077,
+  "typ": "Antrag",
+  "vorgaenge": [
+   "330076"
+  ]
  },
  "21/3612": {
   "ausschuesse": {
@@ -3730,8 +4546,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Antrag"
+  "id": "284372",
+  "titel": "Solidarität mit den Menschen in Iran - Menschenrechte und Demokratie stärken, humanitäre Unterstützung für die Zivilbevölkerung ausweiten",
+  "ts": 1791834134.9105077,
+  "typ": "Antrag",
+  "vorgaenge": [
+   "330077"
+  ]
  },
  "21/3613": {
   "ausschuesse": {
@@ -3757,8 +4578,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Antrag"
+  "id": "284363",
+  "titel": "Lieferkettensorgfaltspflichtengesetz abschaffen",
+  "ts": 1791834134.9105077,
+  "typ": "Antrag",
+  "vorgaenge": [
+   "330065"
+  ]
  },
  "21/3614": {
   "ausschuesse": {
@@ -3776,8 +4602,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Antrag"
+  "id": "284364",
+  "titel": "Wirksame Instrumente gegen Schrottimmobilien",
+  "ts": 1791834134.9105077,
+  "typ": "Antrag",
+  "vorgaenge": [
+   "330066"
+  ]
  },
  "21/3615": {
   "ausschuesse": {
@@ -3795,8 +4626,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Antrag"
+  "id": "284365",
+  "titel": "Wohnraum sichern, Immobilien nutzbar machen - Stopp von sogenannten Schrottimmobilien",
+  "ts": 1791834134.9105077,
+  "typ": "Antrag",
+  "vorgaenge": [
+   "330068"
+  ]
  },
  "21/3616": {
   "ausschuesse": {
@@ -3814,8 +4650,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Antrag"
+  "id": "284366",
+  "titel": "Bundeskaderathletinnen und -athleten finanziell und sozial absichern sowie anschließende Berufsperspektiven ermöglichen",
+  "ts": 1791834134.9105077,
+  "typ": "Antrag",
+  "vorgaenge": [
+   "330070"
+  ]
  },
  "21/3617": {
   "ausschuesse": {
@@ -3841,14 +4682,24 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Antrag"
+  "id": "284443",
+  "titel": "Ein Bürgerfonds für eine bessere ergänzende Altersvorsorge - Einfach, sicher, renditestark",
+  "ts": 1791834134.9105077,
+  "typ": "Antrag",
+  "vorgaenge": [
+   "330172"
+  ]
  },
  "21/3618": {
   "ausschuesse": {},
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Antrag"
+  "id": "284404",
+  "titel": "Die transatlantischen Beziehungen neu denken",
+  "ts": 1791834134.9105077,
+  "typ": "Antrag",
+  "vorgaenge": [
+   "330098"
+  ]
  },
  "21/3619": {
   "ausschuesse": {
@@ -3866,8 +4717,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Gesetzentwurf"
+  "id": "284378",
+  "titel": "Drittes Gesetz zur Änderung des Transplantationsgesetzes - Novellierung der Regelungen zur Lebendorganspende und weitere Änderungen",
+  "ts": 1791834134.9105077,
+  "typ": "Gesetzentwurf",
+  "vorgaenge": [
+   "327962"
+  ]
  },
  "21/3620": {
   "ausschuesse": {
@@ -3885,8 +4741,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Gesetzentwurf"
+  "id": "284379",
+  "titel": "Gesetz für den Bürokratierückbau im Bereich des Bundesministeriums des Innern",
+  "ts": 1791834134.9105077,
+  "typ": "Gesetzentwurf",
+  "vorgaenge": [
+   "327966"
+  ]
  },
  "21/3627": {
   "ausschuesse": {
@@ -3920,8 +4781,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Beschlussempfehlung und Bericht"
+  "id": "284409",
+  "titel": "Fortsetzung des Einsatzes bewaffneter deutscher Streitkräfte - Stabilisierung sichern, Wiedererstarken des IS verhindern, Versöhnung in Irak fördern",
+  "ts": 1791834134.9105077,
+  "typ": "Beschlussempfehlung und Bericht",
+  "vorgaenge": [
+   "329114"
+  ]
  },
  "21/3628": {
   "ausschuesse": {
@@ -3955,8 +4821,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Bericht"
+  "id": "284405",
+  "titel": "Fortsetzung des Einsatzes bewaffneter deutscher Streitkräfte - Stabilisierung sichern, Wiedererstarken des IS verhindern, Versöhnung in Irak fördern",
+  "ts": 1791834134.9105077,
+  "typ": "Bericht",
+  "vorgaenge": [
+   "329114"
+  ]
  },
  "21/3630": {
   "ausschuesse": {
@@ -3986,8 +4857,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Beschlussempfehlung und Bericht"
+  "id": "284449",
+  "titel": "Für einen Neubeginn in den deutsch-amerikanischen Beziehungen - Zusammen für Sicherheit, Stabilität und Frieden in der Ukraine",
+  "ts": 1791834134.9105077,
+  "typ": "Beschlussempfehlung und Bericht",
+  "vorgaenge": [
+   "329392"
+  ]
  },
  "21/3631": {
   "ausschuesse": {
@@ -4013,8 +4889,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Beschlussempfehlung und Bericht"
+  "id": "284451",
+  "titel": "Zusammen mit den USA für nationale Selbstbestimmung, Souveränität und den Schutz der abendländischen Zivilisation eintreten - Woke Positionen international zurückdrängen",
+  "ts": 1791834134.9105077,
+  "typ": "Beschlussempfehlung und Bericht",
+  "vorgaenge": [
+   "329416"
+  ]
  },
  "21/3632": {
   "ausschuesse": {
@@ -4024,8 +4905,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Beschlussempfehlung und Bericht"
+  "id": "284403",
+  "titel": "Zweites Gesetz zur Änderung des Tierhaltungskennzeichnungsgesetzes",
+  "ts": 1791834134.9105077,
+  "typ": "Beschlussempfehlung und Bericht",
+  "vorgaenge": [
+   "329357"
+  ]
  },
  "21/3634": {
   "ausschuesse": {
@@ -4043,8 +4929,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Beschlussempfehlung und Bericht"
+  "id": "284411",
+  "titel": "Gesetz über den Informationsaustausch zwischen den Strafverfolgungsbehörden der Mitgliedstaaten der Europäischen Union",
+  "ts": 1791834134.9105077,
+  "typ": "Beschlussempfehlung und Bericht",
+  "vorgaenge": [
+   "327963"
+  ]
  },
  "21/3635": {
   "ausschuesse": {
@@ -4062,8 +4953,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Beschlussempfehlung und Bericht"
+  "id": "284412",
+  "titel": "Gesetz zur beschleunigten Planung und Beschaffung für die Bundeswehr",
+  "ts": 1791834134.9105077,
+  "typ": "Beschlussempfehlung und Bericht",
+  "vorgaenge": [
+   "324833"
+  ]
  },
  "21/3636": {
   "ausschuesse": {
@@ -4081,8 +4977,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Bericht"
+  "id": "284406",
+  "titel": "Gesetz zur beschleunigten Planung und Beschaffung für die Bundeswehr",
+  "ts": 1791834134.9105077,
+  "typ": "Bericht",
+  "vorgaenge": [
+   "324833"
+  ]
  },
  "21/3637": {
   "ausschuesse": {
@@ -4100,98 +5001,178 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Beschlussempfehlung und Bericht"
+  "id": "284413",
+  "titel": "Gesetz zur Anpassung von Straftatbeständen und Sanktionen bei Verstößen gegen restriktive Maßnahmen der Europäischen Union",
+  "ts": 1791834134.9105077,
+  "typ": "Beschlussempfehlung und Bericht",
+  "vorgaenge": [
+   "326710"
+  ]
  },
  "21/3643": {
   "ausschuesse": {},
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Beschlussempfehlung"
+  "id": "284388",
+  "titel": "Sammelübersicht 143 des Petitionsausschusses (2. Ausschuss) über Anträge zu Petitionen",
+  "ts": 1791834134.9105077,
+  "typ": "Beschlussempfehlung",
+  "vorgaenge": [
+   "330100"
+  ]
  },
  "21/3644": {
   "ausschuesse": {},
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Beschlussempfehlung"
+  "id": "284389",
+  "titel": "Sammelübersicht 144 des Petitionsausschusses (2. Ausschuss) über Anträge zu Petitionen",
+  "ts": 1791834134.9105077,
+  "typ": "Beschlussempfehlung",
+  "vorgaenge": [
+   "330101"
+  ]
  },
  "21/3645": {
   "ausschuesse": {},
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Beschlussempfehlung"
+  "id": "284390",
+  "titel": "Sammelübersicht 145 des Petitionsausschusses (2. Ausschuss) über Anträge zu Petitionen",
+  "ts": 1791834134.9105077,
+  "typ": "Beschlussempfehlung",
+  "vorgaenge": [
+   "330102"
+  ]
  },
  "21/3646": {
   "ausschuesse": {},
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Beschlussempfehlung"
+  "id": "284391",
+  "titel": "Sammelübersicht 146 des Petitionsausschusses (2. Ausschuss) über Anträge zu Petitionen",
+  "ts": 1791834134.9105077,
+  "typ": "Beschlussempfehlung",
+  "vorgaenge": [
+   "330104"
+  ]
  },
  "21/3647": {
   "ausschuesse": {},
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Beschlussempfehlung"
+  "id": "284392",
+  "titel": "Sammelübersicht 147 des Petitionsausschusses (2. Ausschuss) über Anträge zu Petitionen",
+  "ts": 1791834134.9105077,
+  "typ": "Beschlussempfehlung",
+  "vorgaenge": [
+   "330105"
+  ]
  },
  "21/3648": {
   "ausschuesse": {},
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Beschlussempfehlung"
+  "id": "284393",
+  "titel": "Sammelübersicht 148 des Petitionsausschusses (2. Ausschuss) über Anträge zu Petitionen",
+  "ts": 1791834134.9105077,
+  "typ": "Beschlussempfehlung",
+  "vorgaenge": [
+   "330106"
+  ]
  },
  "21/3649": {
   "ausschuesse": {},
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Beschlussempfehlung"
+  "id": "284394",
+  "titel": "Sammelübersicht 149 des Petitionsausschusses (2. Ausschuss) über Anträge zu Petitionen",
+  "ts": 1791834134.9105077,
+  "typ": "Beschlussempfehlung",
+  "vorgaenge": [
+   "330108"
+  ]
  },
  "21/3650": {
   "ausschuesse": {},
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Beschlussempfehlung"
+  "id": "284395",
+  "titel": "Sammelübersicht 150 des Petitionsausschusses (2. Ausschuss) über Anträge zu Petitionen",
+  "ts": 1791834134.9105077,
+  "typ": "Beschlussempfehlung",
+  "vorgaenge": [
+   "330109"
+  ]
  },
  "21/3651": {
   "ausschuesse": {},
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Beschlussempfehlung"
+  "id": "284396",
+  "titel": "Sammelübersicht 151 des Petitionsausschusses (2. Ausschuss) über Anträge zu Petitionen",
+  "ts": 1791834134.9105077,
+  "typ": "Beschlussempfehlung",
+  "vorgaenge": [
+   "330111"
+  ]
  },
  "21/3652": {
   "ausschuesse": {},
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Beschlussempfehlung"
+  "id": "284397",
+  "titel": "Sammelübersicht 152 des Petitionsausschusses (2. Ausschuss) über Anträge zu Petitionen",
+  "ts": 1791834134.9105077,
+  "typ": "Beschlussempfehlung",
+  "vorgaenge": [
+   "330112"
+  ]
  },
  "21/3653": {
   "ausschuesse": {},
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Beschlussempfehlung"
+  "id": "284398",
+  "titel": "Sammelübersicht 153 des Petitionsausschusses (2. Ausschuss) über Anträge zu Petitionen",
+  "ts": 1791834134.9105077,
+  "typ": "Beschlussempfehlung",
+  "vorgaenge": [
+   "330113"
+  ]
  },
  "21/3654": {
   "ausschuesse": {},
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Beschlussempfehlung"
+  "id": "284399",
+  "titel": "Sammelübersicht 154 des Petitionsausschusses (2. Ausschuss) über Anträge zu Petitionen",
+  "ts": 1791834134.9105077,
+  "typ": "Beschlussempfehlung",
+  "vorgaenge": [
+   "330118"
+  ]
  },
  "21/3655": {
   "ausschuesse": {},
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Beschlussempfehlung"
+  "id": "284400",
+  "titel": "Sammelübersicht 155 des Petitionsausschusses (2. Ausschuss) über Anträge zu Petitionen",
+  "ts": 1791834134.9105077,
+  "typ": "Beschlussempfehlung",
+  "vorgaenge": [
+   "330115"
+  ]
  },
  "21/3656": {
   "ausschuesse": {},
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Beschlussempfehlung"
+  "id": "284401",
+  "titel": "Sammelübersicht 156 des Petitionsausschusses (2. Ausschuss) über Anträge zu Petitionen",
+  "ts": 1791834134.9105077,
+  "typ": "Beschlussempfehlung",
+  "vorgaenge": [
+   "330116"
+  ]
  },
  "21/3657": {
   "ausschuesse": {},
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Beschlussempfehlung"
+  "id": "284402",
+  "titel": "Sammelübersicht 157 des Petitionsausschusses (2. Ausschuss) über Anträge zu Petitionen",
+  "ts": 1791834134.9105077,
+  "typ": "Beschlussempfehlung",
+  "vorgaenge": [
+   "330117"
+  ]
  },
  "21/3658": {
   "ausschuesse": {
@@ -4205,8 +5186,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Antrag"
+  "id": "284441",
+  "titel": "Mit dem Neun-Euro-Ticket private Haushalte entlasten",
+  "ts": 1791834134.9105077,
+  "typ": "Antrag",
+  "vorgaenge": [
+   "330173"
+  ]
  },
  "21/3659": {
   "ausschuesse": {
@@ -4216,8 +5202,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Antrag"
+  "id": "284527",
+  "titel": "Die \"vergessenen\" queeren Opfer der nationalsozialistischen Verfolgung",
+  "ts": 1791834134.9105077,
+  "typ": "Antrag",
+  "vorgaenge": [
+   "330351"
+  ]
  },
  "21/3660": {
   "ausschuesse": {
@@ -4239,8 +5230,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Antrag"
+  "id": "284520",
+  "titel": "Kostenfreies, gesundes und leckeres Mittagessen in allen Schulen und Kitas",
+  "ts": 1791834134.9105077,
+  "typ": "Antrag",
+  "vorgaenge": [
+   "330336"
+  ]
  },
  "21/3661": {
   "ausschuesse": {
@@ -4258,8 +5254,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Antrag"
+  "id": "284442",
+  "titel": "Mobilitätsgarantie einführen - Produktionskapazitäten für die Verkehrswende aufbauen",
+  "ts": 1791834134.9105077,
+  "typ": "Antrag",
+  "vorgaenge": [
+   "330176"
+  ]
  },
  "21/3662": {
   "ausschuesse": {
@@ -4277,8 +5278,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Beschlussempfehlung und Bericht"
+  "id": "284454",
+  "titel": "Gesetz zur Übertragung von Mitteln des Restrukturierungsfonds auf den Finanzmarktstabilisierungsfonds (Restrukturierungsfonds-Übertragungsgesetz - RStruktFÜG)",
+  "ts": 1791834134.9105077,
+  "typ": "Beschlussempfehlung und Bericht",
+  "vorgaenge": [
+   "329372"
+  ]
  },
  "21/3668": {
   "ausschuesse": {
@@ -4308,8 +5314,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Antrag"
+  "id": "284455",
+  "titel": "Bürokratie abbauen, Teilhabe stärken - Für ein unbürokratisches Anerkennungssystem von Assistenzhunden",
+  "ts": 1791834134.9105077,
+  "typ": "Antrag",
+  "vorgaenge": [
+   "330183"
+  ]
  },
  "21/3687": {
   "ausschuesse": {
@@ -4360,7 +5371,8 @@
   },
   "gefunden": true,
   "id": "284452",
-  "ts": 1791826868.351456,
+  "titel": "Programm für eine verantwortungsvolle und sichere Entsorgung bestrahlter Brennelemente und radioaktiver Abfälle (Nationales Entsorgungsprogramm)",
+  "ts": 1791834134.9105077,
   "typ": "Unterrichtung",
   "vorgaenge": [
    "329475",
@@ -4420,8 +5432,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Unterrichtung"
+  "id": "284702",
+  "titel": "Jahreswirtschaftsbericht 2026 der Bundesregierung",
+  "ts": 1791834134.9105077,
+  "typ": "Unterrichtung",
+  "vorgaenge": [
+   "330696"
+  ]
  },
  "21/3715": {
   "ausschuesse": {
@@ -4447,8 +5464,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Antrag"
+  "id": "284521",
+  "titel": "Jetzt handeln - Die Zukunft der Automobilindustrie sozial und ökologisch gestalten",
+  "ts": 1791834134.9105077,
+  "typ": "Antrag",
+  "vorgaenge": [
+   "330337"
+  ]
  },
  "21/3735": {
   "ausschuesse": {
@@ -4466,8 +5488,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Gesetzentwurf"
+  "id": "284542",
+  "titel": "Gesetz zur Digitalisierung des Vollzugs von Immobilienverträgen, der gerichtlichen Genehmigungen von notariellen Rechtsgeschäften und der steuerlichen Anzeigen der Notare",
+  "ts": 1791834134.9105077,
+  "typ": "Gesetzentwurf",
+  "vorgaenge": [
+   "327990"
+  ]
  },
  "21/3737": {
   "ausschuesse": {
@@ -4485,8 +5512,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Gesetzentwurf"
+  "id": "284552",
+  "titel": "Gesetz zur weiteren Digitalisierung der Zwangsvollstreckung",
+  "ts": 1791834134.9105077,
+  "typ": "Gesetzentwurf",
+  "vorgaenge": [
+   "327971"
+  ]
  },
  "21/3740": {
   "ausschuesse": {
@@ -4512,8 +5544,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Gesetzentwurf"
+  "id": "284553",
+  "titel": "Gesetz zum Bürokratierückbau in der Gewerbeordnung und dem Energieverbrauchskennzeichnungsgesetz sowie anderer Rechtsvorschriften zur Aufhebung von Berichtspflichten",
+  "ts": 1791834134.9105077,
+  "typ": "Gesetzentwurf",
+  "vorgaenge": [
+   "327973"
+  ]
  },
  "21/3761": {
   "ausschuesse": {
@@ -4535,14 +5572,26 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Beschlussempfehlung und Bericht"
+  "id": "284605",
+  "titel": "Deutschland resilient machen - Für einen ganzheitlichen Schutz unserer kritischen Infrastruktur",
+  "ts": 1791834134.9105077,
+  "typ": "Beschlussempfehlung und Bericht",
+  "vorgaenge": [
+   "328117"
+  ]
  },
  "21/3773": {
   "ausschuesse": {},
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Fragen"
+  "id": "284599",
+  "titel": "Auswirkungen der geplanten Rentenreform",
+  "ts": 1791834134.9105077,
+  "typ": "Fragen",
+  "vorgaenge": [
+   "330474",
+   "330484",
+   "330518"
+  ]
  },
  "21/3796": {
   "ausschuesse": {
@@ -4556,14 +5605,24 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Antrag"
+  "id": "284641",
+  "titel": "Eine Reform des Patientenrechtegesetzes ist überfällig - Rechte von Patientinnen und Patienten jetzt stärken",
+  "ts": 1791834134.9105077,
+  "typ": "Antrag",
+  "vorgaenge": [
+   "330569"
+  ]
  },
  "21/3800": {
   "ausschuesse": {},
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Beschlussempfehlung"
+  "id": "284789",
+  "titel": "Vierte Beschlussempfehlung des Wahlprüfungsausschusses zu Einsprüchen anlässlich der Wahl zum 21. Deutschen Bundestag am 23. Februar 2025",
+  "ts": 1791834134.9105077,
+  "typ": "Beschlussempfehlung",
+  "vorgaenge": [
+   "330695"
+  ]
  },
  "21/3829": {
   "ausschuesse": {
@@ -4573,8 +5632,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Antrag"
+  "id": "284751",
+  "titel": "Apotheken stärken - Arzneimittelversorgung verbessern",
+  "ts": 1791834134.9105077,
+  "typ": "Antrag",
+  "vorgaenge": [
+   "330651"
+  ]
  },
  "21/3830": {
   "ausschuesse": {
@@ -4604,8 +5668,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Antrag"
+  "id": "284674",
+  "titel": "Bürokratie- und Steuerbelastung für kleine und mittlere Unternehmen unverzüglich senken",
+  "ts": 1791834134.9105077,
+  "typ": "Antrag",
+  "vorgaenge": [
+   "330588"
+  ]
  },
  "21/3831": {
   "ausschuesse": {
@@ -4615,8 +5684,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Antrag"
+  "id": "284681",
+  "titel": "Beschäftigte plattformgebundener Essenslieferdienste vor Ausbeutung schützen - Intransparente Subunternehmerketten untersagen",
+  "ts": 1791834134.9105077,
+  "typ": "Antrag",
+  "vorgaenge": [
+   "330589"
+  ]
  },
  "21/3832": {
   "ausschuesse": {
@@ -4626,8 +5700,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Antrag"
+  "id": "284682",
+  "titel": "Risiken der Wettermanipulationen ernst nehmen - Einflüsse auf Mensch und Umwelt prüfen",
+  "ts": 1791834134.9105077,
+  "typ": "Antrag",
+  "vorgaenge": [
+   "330597"
+  ]
  },
  "21/3833": {
   "ausschuesse": {
@@ -4649,8 +5728,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Antrag"
+  "id": "284683",
+  "titel": "Lebensmittelverschwendung sinnvoll reduzieren",
+  "ts": 1791834134.9105077,
+  "typ": "Antrag",
+  "vorgaenge": [
+   "330590"
+  ]
  },
  "21/3834": {
   "ausschuesse": {
@@ -4668,8 +5752,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Antrag"
+  "id": "284684",
+  "titel": "Kulturgut Fleisch schützen mit Kennzeichnungspflicht und Bezeichnungsschutz",
+  "ts": 1791834134.9105077,
+  "typ": "Antrag",
+  "vorgaenge": [
+   "330598"
+  ]
  },
  "21/3835": {
   "ausschuesse": {
@@ -4695,8 +5784,14 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Antrag"
+  "id": "284685",
+  "titel": "zu dem Vorschlag für einen Beschluss des Europäischen Parlaments und des Rates zur Änderung des Beschlusses (EU) 2015/1814 in Bezug auf die Marktstabilitätsreserve für den Gebäude- und den Straßenverkehrssektor sowie für andere Sektoren KOM(2025) 738 endg.; Ratsdok. 16105/25",
+  "ts": 1791834134.9105077,
+  "typ": "Antrag",
+  "vorgaenge": [
+   "330619",
+   "328717"
+  ]
  },
  "21/3836": {
   "ausschuesse": {
@@ -4722,8 +5817,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Antrag"
+  "id": "284689",
+  "titel": "Lebensräume des Rotwildes schützen - Rotwildgebiete auflösen und Hegegedanken auf Grundlage wildbiologischer Forschung weiterentwickeln",
+  "ts": 1791834134.9105077,
+  "typ": "Antrag",
+  "vorgaenge": [
+   "330600"
+  ]
  },
  "21/3837": {
   "ausschuesse": {
@@ -4737,8 +5837,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Antrag"
+  "id": "284690",
+  "titel": "Vogelgrippe wirksam bekämpfen - Geflügelbestände durch Impfungen und gezielte Maßnahmen schützen",
+  "ts": 1791834134.9105077,
+  "typ": "Antrag",
+  "vorgaenge": [
+   "330601"
+  ]
  },
  "21/3838": {
   "ausschuesse": {
@@ -4760,8 +5865,14 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Antrag"
+  "id": "284691",
+  "titel": "Vorschlag für eine Verordnung des Rates zur Änderung der Verordnung (EU) Nr. 904/2010 in Bezug auf den Zugang der Europäischen Staatsanwaltschaft (EUStA) und des Europäischen Amtes für Betrugsbekämpfung (OLAF) zu mehrwertsteuerrelevanten Informationen auf EU-Ebene\r\nKOM(2025) 685 endg.; Ratsdok. 15453/25",
+  "ts": 1791834134.9105077,
+  "typ": "Antrag",
+  "vorgaenge": [
+   "328273",
+   "330618"
+  ]
  },
  "21/3839": {
   "ausschuesse": {
@@ -4787,8 +5898,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Antrag"
+  "id": "284719",
+  "titel": "Realistische Friedensziele formulieren - Deutsche Leistungen an die Ukraine prüfen und Korruption verfolgen",
+  "ts": 1791834134.9105077,
+  "typ": "Antrag",
+  "vorgaenge": [
+   "330623"
+  ]
  },
  "21/3842": {
   "ausschuesse": {
@@ -4806,8 +5922,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Antrag"
+  "id": "284700",
+  "titel": "Gemeindeverkehrsfinanzierungsgesetz novellieren - Kommunen stärken und Ausbau des öffentlichen Personennahverkehrs langfristig absichern",
+  "ts": 1791834134.9105077,
+  "typ": "Antrag",
+  "vorgaenge": [
+   "330602"
+  ]
  },
  "21/3843": {
   "ausschuesse": {
@@ -4833,8 +5954,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Antrag"
+  "id": "284696",
+  "titel": "Freiheit für die Menschen in Iran - Solidarität mit der Zivilgesellschaft, Druck auf das iranische Regime",
+  "ts": 1791834134.9105077,
+  "typ": "Antrag",
+  "vorgaenge": [
+   "330603"
+  ]
  },
  "21/3844": {
   "ausschuesse": {
@@ -4860,14 +5986,24 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Antrag"
+  "id": "284752",
+  "titel": "Gesund länger arbeiten und Erwerbsminderungsrente verbessern",
+  "ts": 1791834134.9105077,
+  "typ": "Antrag",
+  "vorgaenge": [
+   "330652"
+  ]
  },
  "21/3856": {
   "ausschuesse": {},
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Beschlussempfehlung und Bericht"
+  "id": "284705",
+  "titel": "Übersicht 2 des Ausschusses für Recht und Verbraucherschutz (6. Ausschuss) über die dem Deutschen Bundestag zugeleiteten Streitsachen vor dem Bundesverfassungsgericht",
+  "ts": 1791834134.9105077,
+  "typ": "Beschlussempfehlung und Bericht",
+  "vorgaenge": [
+   "330604"
+  ]
  },
  "21/3871": {
   "ausschuesse": {
@@ -4881,8 +6017,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Antrag"
+  "id": "284726",
+  "titel": "Clankriminalität entschieden bekämpfen - Bürger und Rechtsstaat schützen",
+  "ts": 1791834134.9105077,
+  "typ": "Antrag",
+  "vorgaenge": [
+   "330624"
+  ]
  },
  "21/3872": {
   "ausschuesse": {
@@ -4896,8 +6037,13 @@
    }
   },
   "gefunden": true,
-  "ts": 1791782165.777761,
-  "typ": "Antrag"
+  "id": "284727",
+  "titel": "Ernährungssicherheit und Erhalt produktiver Landwirtschaft - Für eine pragmatische Agrar- und Ernährungspolitik",
+  "ts": 1791834134.9105077,
+  "typ": "Antrag",
+  "vorgaenge": [
+   "330625"
+  ]
  },
  "21/3873": {
   "ausschuesse": {
@@ -4924,7 +6070,8 @@
   },
   "gefunden": true,
   "id": "284728",
-  "ts": 1791826868.351456,
+  "titel": "Kassenzulassung des nicht-invasiven Pränataltests - Monitoring der Konsequenzen und Einrichtung eines Gremiums",
+  "ts": 1791834134.9105077,
   "typ": "Antrag",
   "vorgaenge": [
    "330644"
@@ -6429,7 +7576,8 @@
   },
   "gefunden": true,
   "id": "285338",
-  "ts": 1791826868.351456,
+  "titel": "Gesetz zur Modernisierung des Produkthaftungsrechts und zur Änderung weiterer Vorschriften",
+  "ts": 1791834134.9105077,
   "typ": "Gesetzentwurf",
   "vorgaenge": [
    "329483"
@@ -7131,7 +8279,8 @@
   },
   "gefunden": true,
   "id": "285512",
-  "ts": 1791826868.351456,
+  "titel": "Gerechtigkeitslücke im Steuersystem schließen - 300-Wohneinheiten-Regelung in der Erbschaftsteuer abschaffen",
+  "ts": 1791834134.9105077,
   "typ": "Antrag",
   "vorgaenge": [
    "332026"
@@ -7934,7 +9083,8 @@
   },
   "gefunden": true,
   "id": "285909",
-  "ts": 1791826868.351456,
+  "titel": "Deutsches Staatsgold vollständig nach Deutschland holen",
+  "ts": 1791834134.9105077,
   "typ": "Antrag",
   "vorgaenge": [
    "332603"
@@ -8002,7 +9152,8 @@
   },
   "gefunden": true,
   "id": "285915",
-  "ts": 1791826868.351456,
+  "titel": "Gesetz zum Schließen einer Gerechtigkeitslücke in der Immobilienbesteuerung",
+  "ts": 1791834134.9105077,
   "typ": "Gesetzentwurf",
   "vorgaenge": [
    "332609"
@@ -8304,7 +9455,8 @@
   },
   "gefunden": true,
   "id": "285928",
-  "ts": 1791826868.351456,
+  "titel": "Zukunft der europäischen Chemieindustrie sichern - Innovation, Nachhaltigkeit und Resilienz stärken",
+  "ts": 1791834134.9105077,
   "typ": "Antrag",
   "vorgaenge": [
    "332630"
@@ -8760,7 +9912,8 @@
   },
   "gefunden": true,
   "id": "286070",
-  "ts": 1791826868.351456,
+  "titel": "Regelmäßig und zeitnah Zahlen über Infektionskrankheiten bei Asylsuchenden bereitstellen",
+  "ts": 1791834134.9105077,
   "typ": "Beschlussempfehlung und Bericht",
   "vorgaenge": [
    "326112"
@@ -8775,7 +9928,8 @@
   },
   "gefunden": true,
   "id": "286071",
-  "ts": 1791826868.351456,
+  "titel": "Verbesserung der Maßnahmen zur Reduzierung von Risiken durch Fluorchinolon-Antibiotika und Stärkung der Hilfe für Betroffene",
+  "ts": 1791834134.9105077,
   "typ": "Beschlussempfehlung und Bericht",
   "vorgaenge": [
    "323422"
@@ -8839,7 +9993,8 @@
   "ausschuesse": {},
   "gefunden": true,
   "id": "286075",
-  "ts": 1791826868.351456,
+  "titel": "Reform der betrieblichen Altersvorsorge durch ein digitales Standardfondsmodell",
+  "ts": 1791834134.9105077,
   "typ": "Antrag",
   "vorgaenge": [
    "332758"
@@ -8997,7 +10152,8 @@
   },
   "gefunden": true,
   "id": "286122",
-  "ts": 1791826868.351456,
+  "titel": "Gerechtigkeitslücke im Steuersystem schließen - 300-Wohneinheiten-Regelung in der Erbschaftsteuer abschaffen",
+  "ts": 1791834134.9105077,
   "typ": "Beschlussempfehlung und Bericht",
   "vorgaenge": [
    "332026"
@@ -10001,7 +11157,8 @@
   },
   "gefunden": true,
   "id": "286469",
-  "ts": 1791826868.351456,
+  "titel": "Ausverkauf der Energieinfrastruktur stoppen - Nationale Sicherheit durch ein Investitionsprüfungsgesetz schützen",
+  "ts": 1791834134.9105077,
   "typ": "Antrag",
   "vorgaenge": [
    "333321"
@@ -10227,7 +11384,8 @@
   },
   "gefunden": true,
   "id": "286575",
-  "ts": 1791826868.351456,
+  "titel": "Gesetz zum Schließen einer Gerechtigkeitslücke in der Immobilienbesteuerung",
+  "ts": 1791834134.9105077,
   "typ": "Beschlussempfehlung und Bericht",
   "vorgaenge": [
    "332609"
@@ -11167,7 +12325,8 @@
   },
   "gefunden": true,
   "id": "287144",
-  "ts": 1791826868.351456,
+  "titel": "Zukunft der europäischen Chemieindustrie sichern - Innovation, Nachhaltigkeit und Resilienz stärken",
+  "ts": 1791834134.9105077,
   "typ": "Beschlussempfehlung und Bericht",
   "vorgaenge": [
    "332630"
@@ -12554,7 +13713,8 @@
   },
   "gefunden": true,
   "id": "287467",
-  "ts": 1791826868.351456,
+  "titel": "Gesetz zum Schließen einer Gerechtigkeitslücke bei der Besteuerung von Kryptowerten",
+  "ts": 1791834134.9105077,
   "typ": "Gesetzentwurf",
   "vorgaenge": [
    "334536"
@@ -13261,7 +14421,8 @@
   },
   "gefunden": true,
   "id": "287600",
-  "ts": 1791826868.351456,
+  "titel": "Bedarfsgerechte und krisenfeste Akut- und Notfallversorgung",
+  "ts": 1791834134.9105077,
   "typ": "Antrag",
   "vorgaenge": [
    "334704"
@@ -13299,7 +14460,8 @@
   },
   "gefunden": true,
   "id": "287602",
-  "ts": 1791826868.351456,
+  "titel": "Kryptowerte streng regulieren und gerecht besteuern",
+  "ts": 1791834134.9105077,
   "typ": "Antrag",
   "vorgaenge": [
    "334702"
@@ -13351,7 +14513,8 @@
   "ausschuesse": {},
   "gefunden": true,
   "id": "287606",
-  "ts": 1791826868.351456,
+  "titel": "Pflegeversicherung solidarisch und bedarfsgerecht ausrichten",
+  "ts": 1791834134.9105077,
   "typ": "Antrag",
   "vorgaenge": [
    "334708"
@@ -13928,7 +15091,8 @@
   },
   "gefunden": true,
   "id": "287955",
-  "ts": 1791826868.351456,
+  "titel": "Für ein Handwerk mit Zukunft",
+  "ts": 1791834134.9105077,
   "typ": "Antrag",
   "vorgaenge": [
    "335064"
@@ -14104,7 +15268,8 @@
   "ausschuesse": {},
   "gefunden": true,
   "id": "288063",
-  "ts": 1791826868.351456,
+  "titel": "Marktkonzentration in der Lebensmittelkette stoppen - Gerechte Marktstrukturen für Erzeuger und Verbraucher",
+  "ts": 1791834134.9105077,
   "typ": "Antrag",
   "vorgaenge": [
    "335227"
@@ -14761,7 +15926,8 @@
   },
   "gefunden": true,
   "id": "288036",
-  "ts": 1791826868.351456,
+  "titel": "Kassenzulassung des nicht-invasiven Pränataltests - Monitoring der Konsequenzen und Einrichtung eines Gremiums",
+  "ts": 1791834134.9105077,
   "typ": "Beschlussempfehlung und Bericht",
   "vorgaenge": [
    "330644"
@@ -14936,7 +16102,8 @@
   },
   "gefunden": true,
   "id": "288074",
-  "ts": 1791826868.351456,
+  "titel": "Gesetz zum Schließen einer Gerechtigkeitslücke bei der Besteuerung von Kryptowerten",
+  "ts": 1791834134.9105077,
   "typ": "Beschlussempfehlung und Bericht",
   "vorgaenge": [
    "334536"
@@ -16301,7 +17468,8 @@
   },
   "gefunden": true,
   "id": "288660",
-  "ts": 1791826868.351456,
+  "titel": "Keine Leistungskürzungen in der Pflege",
+  "ts": 1791834134.9105077,
   "typ": "Beschlussempfehlung und Bericht",
   "vorgaenge": [
    "326885"
@@ -16721,7 +17889,8 @@
   },
   "gefunden": true,
   "id": "288793",
-  "ts": 1791826868.351456,
+  "titel": "Ausverkauf der Energieinfrastruktur stoppen - Nationale Sicherheit durch ein Investitionsprüfungsgesetz schützen",
+  "ts": 1791834134.9105077,
   "typ": "Beschlussempfehlung und Bericht",
   "vorgaenge": [
    "333321"
@@ -17134,7 +18303,8 @@
   },
   "gefunden": true,
   "id": "288900",
-  "ts": 1791826868.351456,
+  "titel": "Gesetz zum Schließen einer Gerechtigkeitslücke bei der Besteuerung von Immobilienveräußerungen",
+  "ts": 1791834134.9105077,
   "typ": "Gesetzentwurf",
   "vorgaenge": [
    "336482"
@@ -17241,7 +18411,8 @@
   },
   "gefunden": true,
   "id": "288911",
-  "ts": 1791826868.351456,
+  "titel": "Gerechtigkeitslücke im Steuersystem schließen - Share Deals reformieren, steuerliche Privilegierung von Immobilienkonzernen abschaffen",
+  "ts": 1791834134.9105077,
   "typ": "Antrag",
   "vorgaenge": [
    "336552"
@@ -17264,7 +18435,8 @@
   },
   "gefunden": true,
   "id": "288912",
-  "ts": 1791826868.351456,
+  "titel": "Gerechtigkeitslücke im Steuersystem schließen - Verschonungsbedarfsprüfung ab 26 Millionen Euro in der Erbschaft- und Schenkungsteuer abschaffen",
+  "ts": 1791834134.9105077,
   "typ": "Antrag",
   "vorgaenge": [
    "336553"
@@ -17329,7 +18501,8 @@
   },
   "gefunden": true,
   "id": "288929",
-  "ts": 1791826868.351456,
+  "titel": "Keine digitale Identität und Geldbörse durch die EU - Mit nationaler Lösung echte Staatsmodernisierung vorantreiben",
+  "ts": 1791834134.9105077,
   "typ": "Antrag",
   "vorgaenge": [
    "336547"
@@ -17446,7 +18619,8 @@
   },
   "gefunden": true,
   "id": "288936",
-  "ts": 1791826868.351456,
+  "titel": "Organisierte Steuerhinterziehung wie Cum-Cum, Cum-Ex und Umsatzsteuerkarusselle auf Bundesebene stärker bekämpfen",
+  "ts": 1791834134.9105077,
   "typ": "Antrag",
   "vorgaenge": [
    "336558"
@@ -17477,7 +18651,8 @@
   },
   "gefunden": true,
   "id": "289004",
-  "ts": 1791826868.351456,
+  "titel": "Wasserrückhalt und Resilienz stärken - Einkommensperspektiven für Landwirte schaffen und Moorschutzverfahren beschleunigen",
+  "ts": 1791834134.9105077,
   "typ": "Antrag",
   "vorgaenge": [
    "336645"
@@ -17539,7 +18714,8 @@
   },
   "gefunden": true,
   "id": "289005",
-  "ts": 1791826868.351456,
+  "titel": "Nationale Ernährungssicherung in Zivilschutz- und Katastrophenschutzfällen - Zusammenarbeit ermöglichen",
+  "ts": 1791834134.9105077,
   "typ": "Antrag",
   "vorgaenge": [
    "336626"
@@ -17582,7 +18758,8 @@
   },
   "gefunden": true,
   "id": "289018",
-  "ts": 1791826868.351456,
+  "titel": "Lebensmittelversorgung in Deutschland krisenfest und unabhängig gestalten",
+  "ts": 1791834134.9105077,
   "typ": "Antrag",
   "vorgaenge": [
    "336655"
@@ -17617,7 +18794,8 @@
   },
   "gefunden": true,
   "id": "289006",
-  "ts": 1791826868.351456,
+  "titel": "Lebensmittelhandwerk erhalten - Vielfältige und krisenfeste Ernährungsversorgung sicherstellen",
+  "ts": 1791834134.9105077,
   "typ": "Antrag",
   "vorgaenge": [
    "336627"
@@ -18076,7 +19254,8 @@
   },
   "gefunden": true,
   "id": "289077",
-  "ts": 1791826868.351456,
+  "titel": "Deutsches Staatsgold vollständig nach Deutschland holen",
+  "ts": 1791834134.9105077,
   "typ": "Beschlussempfehlung und Bericht",
   "vorgaenge": [
    "332603"
@@ -18164,7 +19343,8 @@
   },
   "gefunden": true,
   "id": "289134",
-  "ts": 1791826868.351456,
+  "titel": "Gesetz zur Reform der Notfallversorgung",
+  "ts": 1791834134.9105077,
   "typ": "Gesetzentwurf",
   "vorgaenge": [
    "334560"
@@ -19775,7 +20955,8 @@
   },
   "gefunden": true,
   "id": "289474",
-  "ts": 1791826868.351456,
+  "titel": "Organisierte Steuerhinterziehung wie Cum-Cum, Cum-Ex und Umsatzsteuerkarusselle auf Bundesebene stärker bekämpfen",
+  "ts": 1791834134.9105077,
   "typ": "Beschlussempfehlung und Bericht",
   "vorgaenge": [
    "336558"
@@ -19826,7 +21007,8 @@
   },
   "gefunden": true,
   "id": "289475",
-  "ts": 1791826868.351456,
+  "titel": "Gerechtigkeitslücke im Steuersystem schließen - Verschonungsbedarfsprüfung ab 26 Millionen Euro in der Erbschaft- und Schenkungsteuer abschaffen",
+  "ts": 1791834134.9105077,
   "typ": "Beschlussempfehlung und Bericht",
   "vorgaenge": [
    "336553",
@@ -19843,7 +21025,8 @@
   },
   "gefunden": true,
   "id": "289736",
-  "ts": 1791826868.351456,
+  "titel": "Gesetz zu der Mehrseitigen Vereinbarung vom 22. Juni 2021 zwischen den zuständigen Behörden über den automatischen Austausch von Informationen über Einkünfte, die mittels digitaler Plattformen erzielt wurden",
+  "ts": 1791834134.9105077,
   "typ": "Gesetzentwurf",
   "vorgaenge": [
    "335552"
@@ -19858,7 +21041,8 @@
   },
   "gefunden": true,
   "id": "289737",
-  "ts": 1791826868.351456,
+  "titel": "Gesetz zu der Zusatzvereinbarung vom 8. Juni 2023 zur Mehrseitigen Vereinbarung vom 29. Oktober 2014 zwischen den zuständigen Behörden über den automatischen Austausch von Informationen über Finanzkonten",
+  "ts": 1791834134.9105077,
   "typ": "Gesetzentwurf",
   "vorgaenge": [
    "335556"
@@ -19873,7 +21057,8 @@
   },
   "gefunden": true,
   "id": "289738",
-  "ts": 1791826868.351456,
+  "titel": "Gesetz zu der Mehrseitigen Vereinbarung vom 8. Juni 2023 zwischen den zuständigen Behörden über den automatischen Austausch von Informationen nach dem Melderahmen für Kryptowerte",
+  "ts": 1791834134.9105077,
   "typ": "Gesetzentwurf",
   "vorgaenge": [
    "335555"
@@ -19883,7 +21068,8 @@
   "ausschuesse": {},
   "gefunden": true,
   "id": "289842",
-  "ts": 1791826868.351456,
+  "titel": "Steuerfreie Risikoausgleichsrücklage einführen - Land-, Forst- und Fischereiwirtschaft krisensicher aufstellen",
+  "ts": 1791834134.9105077,
   "typ": "Antrag",
   "vorgaenge": [
    "337560"
@@ -19985,7 +21171,8 @@
   },
   "gefunden": true,
   "id": "289984",
-  "ts": 1791826868.351456,
+  "titel": "Gesetz zur Anpassung des GAP-Integriertes Verwaltungs- und Kontrollsystem-Gesetzes und des GAP-Konditionalitäten-Gesetzes an die Vorgaben der Verordnung (EU) 2025/2649 sowie zur Verbesserung des behördlichen Informationsaustauschs",
+  "ts": 1791834134.9105077,
   "typ": "Gesetzentwurf",
   "vorgaenge": [
    "335472"
@@ -20020,7 +21207,8 @@
   },
   "gefunden": true,
   "id": "289988",
-  "ts": 1791826868.351456,
+  "titel": "Gesetz zur Durchführung der unionsrechtlichen Vorschriften über die Europäische Brieftasche für die Digitale Identität sowie zur Änderung anderer Rechtsvorschriften (Digitale Identitätengesetz - DIdG)",
+  "ts": 1791834134.9105077,
   "typ": "Gesetzentwurf",
   "vorgaenge": [
    "335473"
@@ -20134,7 +21322,8 @@
   },
   "gefunden": true,
   "id": "290324",
-  "ts": 1791826868.351456,
+  "titel": "Deutsche Erinnerungskultur neu ausrichten - Gedenkstättenkonzeption des Bundes durch eine Bundeskonzeption national bedeutsamer Gedenkstätten, Denkmäler und Erinnerungsorte ersetzen",
+  "ts": 1791834134.9105077,
   "typ": "Antrag",
   "vorgaenge": [
    "338523"
@@ -20187,7 +21376,8 @@
   },
   "gefunden": true,
   "id": "280294",
-  "ts": 1791826868.351456,
+  "titel": "COVID-19-Impfschäden ernst nehmen und deren medizinische Behandlung sicherstellen",
+  "ts": 1791834134.9105077,
   "typ": "Antrag",
   "vorgaenge": [
    "323421"
@@ -20202,7 +21392,8 @@
   },
   "gefunden": true,
   "id": "280295",
-  "ts": 1791826868.351456,
+  "titel": "Verbesserung der Maßnahmen zur Reduzierung von Risiken durch Fluorchinolon-Antibiotika und Stärkung der Hilfe für Betroffene",
+  "ts": 1791834134.9105077,
   "typ": "Antrag",
   "vorgaenge": [
    "323422"
@@ -20282,7 +21473,8 @@
   },
   "gefunden": true,
   "id": "290553",
-  "ts": 1791826868.351456,
+  "titel": "Datengestützte Bildungsentwicklung fördern - Qualität sichern, Chancen verbessern",
+  "ts": 1791834134.9105077,
   "typ": "Antrag",
   "vorgaenge": [
    "338812"
@@ -20305,7 +21497,8 @@
   },
   "gefunden": true,
   "id": "290543",
-  "ts": 1791826868.351456,
+  "titel": "Gesetz zur Änderung des Tabaksteuergesetzes",
+  "ts": 1791834134.9105077,
   "typ": "Gesetzentwurf",
   "vorgaenge": [
    "338367"
@@ -20371,7 +21564,8 @@
   },
   "gefunden": true,
   "id": "290545",
-  "ts": 1791826868.351456,
+  "titel": "Gesetz zur Einführung einer Frühstartrente",
+  "ts": 1791834134.9105077,
   "typ": "Gesetzentwurf",
   "vorgaenge": [
    "338368"
@@ -20478,7 +21672,8 @@
   },
   "gefunden": true,
   "id": "290577",
-  "ts": 1791826868.351456,
+  "titel": "Drittes Gesetz zur Änderung des Brennstoffemissionshandelsgesetzes",
+  "ts": 1791834134.9105077,
   "typ": "Gesetzentwurf",
   "vorgaenge": [
    "338357"
@@ -20512,7 +21707,8 @@
   },
   "gefunden": true,
   "id": "290550",
-  "ts": 1791826868.351456,
+  "titel": "Gesetz zum Markthochlauf nachhaltiger Flugkraftstoffe",
+  "ts": 1791834134.9105077,
   "typ": "Gesetzentwurf",
   "vorgaenge": [
    "338362"
@@ -20604,7 +21800,8 @@
   },
   "gefunden": true,
   "id": "290596",
-  "ts": 1791826868.351456,
+  "titel": "Natur erleben, Umwelt schützen - Naturverträglichen Tourismus als Gewinn für alle stärken",
+  "ts": 1791834134.9105077,
   "typ": "Antrag",
   "vorgaenge": [
    "338867"
@@ -21264,7 +22461,8 @@
   },
   "gefunden": true,
   "id": "290976",
-  "ts": 1791826868.351456,
+  "titel": "Finanzielle Bildung stärken - Unabhängig, mehrperspektivisch und für alle jungen Menschen",
+  "ts": 1791834134.9105077,
   "typ": "Antrag",
   "vorgaenge": [
    "339598"
@@ -21498,7 +22696,8 @@
   "ausschuesse": {},
   "gefunden": true,
   "id": "291055",
-  "ts": 1791826868.351456,
+  "titel": "Bei der Weltbiodiversitätskonferenz in Jerewan ein starkes Signal zum Schutz unserer Lebensgrundlagen setzen",
+  "ts": 1791834134.9105077,
   "typ": "Antrag",
   "vorgaenge": [
    "339656"
@@ -21508,7 +22707,8 @@
   "ausschuesse": {},
   "gefunden": true,
   "id": "291050",
-  "ts": 1791826868.351456,
+  "titel": "85 Jahre Massaker von Babyn Jar - Deutschlands historische Verantwortung für die Ukraine",
+  "ts": 1791834134.9105077,
   "typ": "Antrag",
   "vorgaenge": [
    "339653"
@@ -21654,7 +22854,8 @@
   "ausschuesse": {},
   "gefunden": true,
   "id": "291022",
-  "ts": 1791826868.351456,
+  "titel": "Sammelübersicht 317 des Petitionsausschusses (2. Ausschuss) über Anträge zu Petitionen",
+  "ts": 1791834134.9105077,
   "typ": "Beschlussempfehlung",
   "vorgaenge": [
    "339638"
@@ -21664,7 +22865,8 @@
   "ausschuesse": {},
   "gefunden": true,
   "id": "291023",
-  "ts": 1791826868.351456,
+  "titel": "Sammelübersicht 318 des Petitionsausschusses (2. Ausschuss) über Anträge zu Petitionen",
+  "ts": 1791834134.9105077,
   "typ": "Beschlussempfehlung",
   "vorgaenge": [
    "339639"
@@ -21674,7 +22876,8 @@
   "ausschuesse": {},
   "gefunden": true,
   "id": "291024",
-  "ts": 1791826868.351456,
+  "titel": "Sammelübersicht 319 des Petitionsausschusses (2. Ausschuss) über Anträge zu Petitionen",
+  "ts": 1791834134.9105077,
   "typ": "Beschlussempfehlung",
   "vorgaenge": [
    "339640"
@@ -21684,7 +22887,8 @@
   "ausschuesse": {},
   "gefunden": true,
   "id": "291025",
-  "ts": 1791826868.351456,
+  "titel": "Sammelübersicht 320 des Petitionsausschusses (2. Ausschuss) über Anträge zu Petitionen",
+  "ts": 1791834134.9105077,
   "typ": "Beschlussempfehlung",
   "vorgaenge": [
    "339641"
@@ -21694,7 +22898,8 @@
   "ausschuesse": {},
   "gefunden": true,
   "id": "291026",
-  "ts": 1791826868.351456,
+  "titel": "Sammelübersicht 321 des Petitionsausschusses (2. Ausschuss) über Anträge zu Petitionen",
+  "ts": 1791834134.9105077,
   "typ": "Beschlussempfehlung",
   "vorgaenge": [
    "339642"
@@ -21704,7 +22909,8 @@
   "ausschuesse": {},
   "gefunden": true,
   "id": "291027",
-  "ts": 1791826868.351456,
+  "titel": "Sammelübersicht 322 des Petitionsausschusses (2. Ausschuss) über Anträge zu Petitionen",
+  "ts": 1791834134.9105077,
   "typ": "Beschlussempfehlung",
   "vorgaenge": [
    "339643"
@@ -21714,7 +22920,8 @@
   "ausschuesse": {},
   "gefunden": true,
   "id": "291028",
-  "ts": 1791826868.351456,
+  "titel": "Sammelübersicht 323 des Petitionsausschusses (2. Ausschuss) über Anträge zu Petitionen",
+  "ts": 1791834134.9105077,
   "typ": "Beschlussempfehlung",
   "vorgaenge": [
    "339644"
@@ -21724,7 +22931,8 @@
   "ausschuesse": {},
   "gefunden": true,
   "id": "291029",
-  "ts": 1791826868.351456,
+  "titel": "Sammelübersicht 324 des Petitionsausschusses (2. Ausschuss) über Anträge zu Petitionen",
+  "ts": 1791834134.9105077,
   "typ": "Beschlussempfehlung",
   "vorgaenge": [
    "339645"
@@ -21734,7 +22942,8 @@
   "ausschuesse": {},
   "gefunden": true,
   "id": "291030",
-  "ts": 1791826868.351456,
+  "titel": "Sammelübersicht 325 des Petitionsausschusses (2. Ausschuss) über Anträge zu Petitionen",
+  "ts": 1791834134.9105077,
   "typ": "Beschlussempfehlung",
   "vorgaenge": [
    "339646"
@@ -21757,7 +22966,8 @@
   },
   "gefunden": true,
   "id": "291066",
-  "ts": 1791826868.351456,
+  "titel": "Energieversorgung bezahlbar sichern - Reprivatisierung von Uniper SE und SEFE GmbH stoppen",
+  "ts": 1791834134.9105077,
   "typ": "Antrag",
   "vorgaenge": [
    "339668"
@@ -21767,7 +22977,8 @@
   "ausschuesse": {},
   "gefunden": true,
   "id": "291052",
-  "ts": 1791826868.351456,
+  "titel": "Einberufung eines Bürgerrates \"Einheit im Alltag - Gleichwertige Lebensverhältnisse überall\"",
+  "ts": 1791834134.9105077,
   "typ": "Antrag",
   "vorgaenge": [
    "339657"
@@ -21777,7 +22988,8 @@
   "ausschuesse": {},
   "gefunden": true,
   "id": "291090",
-  "ts": 1791826868.351456,
+  "titel": "Neunte Beschlussempfehlung und Bericht des Wahlprüfungsausschusses zu Einsprüchen anlässlich der Wahl zum 21. Deutschen Bundestag am 23. Februar 2025",
+  "ts": 1791834134.9105077,
   "typ": "Beschlussempfehlung und Bericht",
   "vorgaenge": [
    "339713"
@@ -21800,7 +23012,8 @@
   },
   "gefunden": true,
   "id": "291201",
-  "ts": 1791826868.351456,
+  "titel": "Gesetz über die Feststellung des Wirtschaftsplans des ERP-Sondervermögens für das Jahr 2027 (ERP-Wirtschaftsplangesetz 2027 - ERPWiPlanG 2027)",
+  "ts": 1791834134.9105077,
   "typ": "Gesetzentwurf",
   "vorgaenge": [
    "338360"
@@ -21819,7 +23032,8 @@
   },
   "gefunden": true,
   "id": "291202",
-  "ts": 1791826868.351456,
+  "titel": "Gesetz über die Neuregelung des Rechts des Bundesaufsichtsamtes für Flugsicherung",
+  "ts": 1791834134.9105077,
   "typ": "Gesetzentwurf",
   "vorgaenge": [
    "338363"
@@ -21846,7 +23060,8 @@
   },
   "gefunden": true,
   "id": "291205",
-  "ts": 1791826868.351456,
+  "titel": "Einkommensteuerreformgesetz 2027",
+  "ts": 1791834134.9105077,
   "typ": "Gesetzentwurf",
   "vorgaenge": [
    "338787"
@@ -21856,7 +23071,8 @@
   "ausschuesse": {},
   "gefunden": true,
   "id": "291206",
-  "ts": 1791826868.351456,
+  "titel": "Gesetz zur Änderung des Energiewirtschaftsgesetzes zur Gewährung eines Zuschusses zu den Übertragungsnetzkosten für die Jahre 2027 bis 2029",
+  "ts": 1791834134.9105077,
   "typ": "Gesetzentwurf",
   "vorgaenge": [
    "338789"
@@ -21875,7 +23091,8 @@
   },
   "gefunden": true,
   "id": "291207",
-  "ts": 1791826868.351456,
+  "titel": "Gesetz zur Änderung des Finanzausgleichsgesetzes 2026 (FAG-Änderungsgesetz 2026)",
+  "ts": 1791834134.9105077,
   "typ": "Gesetzentwurf",
   "vorgaenge": [
    "338786"
@@ -21885,7 +23102,8 @@
   "ausschuesse": {},
   "gefunden": true,
   "id": "291210",
-  "ts": 1791826868.351456,
+  "titel": "Gesetz zur Optimierung und Absicherung des Ausbaus der Windenergie auf See",
+  "ts": 1791834134.9105077,
   "typ": "Gesetzentwurf",
   "vorgaenge": [
    "338788"
@@ -21912,7 +23130,8 @@
   },
   "gefunden": true,
   "id": "291213",
-  "ts": 1791826868.351456,
+  "titel": "Gesetz zur Verbesserung der Startchancen von Kindern und zur Qualitätsentwicklung in der Kindertagesbetreuung (Startchancen- und Qualitätsentwicklungsgesetz - SCQEG)",
+  "ts": 1791834134.9105077,
   "typ": "Gesetzentwurf",
   "vorgaenge": [
    "338785"
@@ -21935,7 +23154,8 @@
   },
   "gefunden": true,
   "id": "291214",
-  "ts": 1791826868.351456,
+  "titel": "Gesetz zu dem Partnerschaftsabkommen vom 17. Januar 2026 zwischen der Europäischen Union und ihren Mitgliedstaaten einerseits und dem Gemeinsamen Markt des Südens, der Argentinischen Republik, der Föderativen Republik Brasilien, der Republik Paraguay und der Republik Östlich des Uruguay andererseits",
+  "ts": 1791834134.9105077,
   "typ": "Gesetzentwurf",
   "vorgaenge": [
    "338410"
@@ -21945,7 +23165,8 @@
   "ausschuesse": {},
   "gefunden": true,
   "id": "291215",
-  "ts": 1791826868.351456,
+  "titel": "Gesetz zu dem Übereinkommen vom 16. Dezember 2025 zur Einrichtung einer Internationalen Schadensersatzkommission für die Ukraine",
+  "ts": 1791834134.9105077,
   "typ": "Gesetzentwurf",
   "vorgaenge": [
    "338407"
@@ -21955,7 +23176,8 @@
   "ausschuesse": {},
   "gefunden": true,
   "id": "291216",
-  "ts": 1791826868.351456,
+  "titel": "Gesetz zu dem Vertrag vom 29. April 2024 zwischen der Bundesrepublik Deutschland und dem Königreich Belgien über die Polizei- und Zollzusammenarbeit (Deutsch-Belgischer Polizeivertrag)",
+  "ts": 1791834134.9105077,
   "typ": "Gesetzentwurf",
   "vorgaenge": [
    "338411"
@@ -21982,7 +23204,8 @@
   },
   "gefunden": true,
   "id": "291217",
-  "ts": 1791826868.351456,
+  "titel": "Fünftes Gesetz zur Änderung des Gesetzes zur Errichtung einer Stiftung \"Mutter und Kind - Schutz des ungeborenen Lebens\" (5. MuKStiftÄndG)",
+  "ts": 1791834134.9105077,
   "typ": "Gesetzentwurf",
   "vorgaenge": [
    "338365"
@@ -22001,7 +23224,8 @@
   },
   "gefunden": true,
   "id": "291219",
-  "ts": 1791826868.351456,
+  "titel": "Gesetz zu dem Protokoll vom 9. Juni 2026 zur Änderung des Abkommens vom 6. April 2010 zwischen der Bundesrepublik Deutschland und der Republik Albanien zur Vermeidung der Doppelbesteuerung und der Steuerverkürzung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen",
+  "ts": 1791834134.9105077,
   "typ": "Gesetzentwurf",
   "vorgaenge": [
    "338850"
@@ -22020,7 +23244,8 @@
   },
   "gefunden": true,
   "id": "291220",
-  "ts": 1791826868.351456,
+  "titel": "Gesetz zu dem Abkommen vom 19. Mai 2026 zwischen der Bundesrepublik Deutschland und der Ukraine zur Beseitigung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen sowie zur Verhinderung der Steuerverkürzung und -umgehung",
+  "ts": 1791834134.9105077,
   "typ": "Gesetzentwurf",
   "vorgaenge": [
    "338848"
@@ -22030,7 +23255,8 @@
   "ausschuesse": {},
   "gefunden": true,
   "id": "291257",
-  "ts": 1791826868.351456,
+  "titel": "Erstes Gesetz zur Strukturreform der Kinder- und Jugendhilfe (Erstes Kinder- und Jugendhilfestrukturreform-Gesetz - 1. KJHSRG)",
+  "ts": 1791834134.9105077,
   "typ": "Gesetzentwurf",
   "vorgaenge": [
    "338346"
@@ -22040,7 +23266,8 @@
   "ausschuesse": {},
   "gefunden": true,
   "id": "291258",
-  "ts": 1791826868.351456,
+  "titel": "Gesetz zum Einsatz künstlicher Intelligenz in der Migrationsverwaltung (KI-Migrationsverwaltungsgesetz - KIMVG)",
+  "ts": 1791834134.9105077,
   "typ": "Gesetzentwurf",
   "vorgaenge": [
    "338340"
@@ -22067,7 +23294,8 @@
   },
   "gefunden": true,
   "id": "291259",
-  "ts": 1791826868.351456,
+  "titel": "Gesetz zur Änderung des Telekommunikationsgesetzes und zur Verbesserung der telekommunikationsrechtlichen Rahmenbedingungen für den Ausbau von Telekommunikationsnetzen",
+  "ts": 1791834134.9105077,
   "typ": "Gesetzentwurf",
   "vorgaenge": [
    "338347"
@@ -22077,7 +23305,8 @@
   "ausschuesse": {},
   "gefunden": true,
   "id": "291260",
-  "ts": 1791826868.351456,
+  "titel": "Gesetz zur Neuregelung des Rechts über entwaldungsfreie Produkte sowie zur Umsetzung von bestimmten Vorschriften der Richtlinie (EU) 2024/1203 über den strafrechtlichen Schutz der Umwelt",
+  "ts": 1791834134.9105077,
   "typ": "Gesetzentwurf",
   "vorgaenge": [
    "338344"
@@ -22087,7 +23316,8 @@
   "ausschuesse": {},
   "gefunden": true,
   "id": "291261",
-  "ts": 1791826868.351456,
+  "titel": "Gesetz für Daten und digitale Innovation im Gesundheitswesen",
+  "ts": 1791834134.9105077,
   "typ": "Gesetzentwurf",
   "vorgaenge": [
    "338338"
@@ -22110,7 +23340,8 @@
   },
   "gefunden": true,
   "id": "291262",
-  "ts": 1791826868.351456,
+  "titel": "Gesetz zur Bereinigung des Hochschulrechts und des Rechts der Graduiertenförderung des Bundes",
+  "ts": 1791834134.9105077,
   "typ": "Gesetzentwurf",
   "vorgaenge": [
    "338350"
@@ -22120,7 +23351,8 @@
   "ausschuesse": {},
   "gefunden": true,
   "id": "291263",
-  "ts": 1791826868.351456,
+  "titel": "Gesetz zur Modernisierung des Befristungsrechts im Wissenschaftsbereich",
+  "ts": 1791834134.9105077,
   "typ": "Gesetzentwurf",
   "vorgaenge": [
    "338351"
@@ -22151,7 +23383,8 @@
   },
   "gefunden": true,
   "id": "291264",
-  "ts": 1791826868.351456,
+  "titel": "Gesetz für mehr Gerechtigkeit durch die Stärkung der Zollverwaltung und die Bekämpfung der Finanzkriminalität",
+  "ts": 1791834134.9105077,
   "typ": "Gesetzentwurf",
   "vorgaenge": [
    "338348"
@@ -22174,7 +23407,8 @@
   },
   "gefunden": true,
   "id": "291265",
-  "ts": 1791826868.351456,
+  "titel": "Jahressteuergesetz 2026",
+  "ts": 1791834134.9105077,
   "typ": "Gesetzentwurf",
   "vorgaenge": [
    "338349"
@@ -22184,7 +23418,8 @@
   "ausschuesse": {},
   "gefunden": true,
   "id": "291266",
-  "ts": 1791826868.351456,
+  "titel": "Gesetz zur Vereinfachung und Fortentwicklung des Wohngeldgesetzes",
+  "ts": 1791834134.9105077,
   "typ": "Gesetzentwurf",
   "vorgaenge": [
    "338373"
@@ -22203,7 +23438,8 @@
   },
   "gefunden": true,
   "id": "291267",
-  "ts": 1791826868.351456,
+  "titel": "Gesetz zur Beschleunigung von Planungs- und Genehmigungsverfahren für mehr Flexibilität im Stromsystem und zur Gewährleistung der Versorgungssicherheit",
+  "ts": 1791834134.9105077,
   "typ": "Gesetzentwurf",
   "vorgaenge": [
    "338372"
@@ -22238,7 +23474,8 @@
   },
   "gefunden": true,
   "id": "291270",
-  "ts": 1791826868.351456,
+  "titel": "Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der Mission der Vereinten Nationen in Südsudan (UNMISS)",
+  "ts": 1791834134.9105077,
   "typ": "Antrag",
   "vorgaenge": [
    "339846"
@@ -22273,7 +23510,8 @@
   },
   "gefunden": true,
   "id": "291271",
-  "ts": 1791826868.351456,
+  "titel": "Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der von der Europäischen Union geführten Operation European Union Naval Force ASPIDES (EUNAVFOR ASPIDES)",
+  "ts": 1791834134.9105077,
   "typ": "Antrag",
   "vorgaenge": [
    "339847"
@@ -22304,7 +23542,8 @@
   },
   "gefunden": true,
   "id": "291269",
-  "ts": 1791826868.351456,
+  "titel": "Gesetz zur Einführung einer Frühstartrente",
+  "ts": 1791834134.9105077,
   "typ": "Unterrichtung",
   "vorgaenge": [
    "338368"
@@ -22323,7 +23562,8 @@
   },
   "gefunden": true,
   "id": "291278",
-  "ts": 1791826868.351456,
+  "titel": "Gesetz zum Markthochlauf nachhaltiger Flugkraftstoffe",
+  "ts": 1791834134.9105077,
   "typ": "Unterrichtung",
   "vorgaenge": [
    "338362"
@@ -22333,7 +23573,8 @@
   "ausschuesse": {},
   "gefunden": true,
   "id": "291289",
-  "ts": 1791826868.351456,
+  "titel": "Abhängigkeit von US-Fracking-Gas infolge der deutschen Energiepolitik",
+  "ts": 1791834134.9105077,
   "typ": "Fragen",
   "vorgaenge": [
    "339981",
@@ -22345,7 +23586,8 @@
   "ausschuesse": {},
   "gefunden": true,
   "id": "291299",
-  "ts": 1791826868.351456,
+  "titel": "Alleinerziehende entlasten und Kinderarmut bekämpfen",
+  "ts": 1791834134.9105077,
   "typ": "Antrag",
   "vorgaenge": [
    "339890"
@@ -22355,7 +23597,8 @@
   "ausschuesse": {},
   "gefunden": true,
   "id": "291330",
-  "ts": 1791826868.351456,
+  "titel": "Wahl von Mitgliedern des Verwaltungsrates der Kreditanstalt für Wiederaufbau",
+  "ts": 1791834134.9105077,
   "typ": "Wahlvorschlag",
   "vorgaenge": [
    "339910"
@@ -22398,7 +23641,8 @@
   },
   "gefunden": true,
   "id": "291332",
-  "ts": 1791826868.351456,
+  "titel": "Nationale Ernährungssicherung in Zivilschutz- und Katastrophenschutzfällen - Zusammenarbeit ermöglichen",
+  "ts": 1791834134.9105077,
   "typ": "Beschlussempfehlung und Bericht",
   "vorgaenge": [
    "336626"
@@ -22441,7 +23685,8 @@
   },
   "gefunden": true,
   "id": "291331",
-  "ts": 1791826868.351456,
+  "titel": "Lebensmittelversorgung in Deutschland krisenfest und unabhängig gestalten",
+  "ts": 1791834134.9105077,
   "typ": "Beschlussempfehlung und Bericht",
   "vorgaenge": [
    "336655"
@@ -22500,7 +23745,8 @@
   },
   "gefunden": true,
   "id": "291382",
-  "ts": 1791826868.351456,
+  "titel": "Organisierte Kriminalität systematisch zerschlagen",
+  "ts": 1791834134.9105077,
   "typ": "Antrag",
   "vorgaenge": [
    "339997"
@@ -22510,7 +23756,8 @@
   "ausschuesse": {},
   "gefunden": true,
   "id": "291381",
-  "ts": 1791826868.351456,
+  "titel": "85. Jahrestag des Massakers von Babyn Jar - Erinnerung bewahren, historische Verantwortung stärken und die Ukraine auf ihrem Weg in Freiheit und Sicherheit unterstützen",
+  "ts": 1791834134.9105077,
   "typ": "Antrag",
   "vorgaenge": [
    "339998"
@@ -22520,7 +23767,8 @@
   "ausschuesse": {},
   "gefunden": true,
   "id": "291391",
-  "ts": 1791826868.351456,
+  "titel": "Offshore-Windindustrie und Klimaziele retten - Ausbau in öffentlicher Hand umsetzen",
+  "ts": 1791834134.9105077,
   "typ": "Antrag",
   "vorgaenge": [
    "340003"
@@ -22543,7 +23791,8 @@
   },
   "gefunden": true,
   "id": "291383",
-  "ts": 1791826868.351456,
+  "titel": "Gesetz zur Gewährleistung der Meinungsfreiheit in den sozialen Netzwerken",
+  "ts": 1791834134.9105077,
   "typ": "Gesetzentwurf",
   "vorgaenge": [
    "340006"
@@ -22553,7 +23802,8 @@
   "ausschuesse": {},
   "gefunden": true,
   "id": "291385",
-  "ts": 1791826868.351456,
+  "titel": "Gesetz zur Stärkung der Unabhängigkeit der Deutschen Rentenversicherung",
+  "ts": 1791834134.9105077,
   "typ": "Gesetzentwurf",
   "vorgaenge": [
    "340007"
@@ -22576,7 +23826,8 @@
   },
   "gefunden": true,
   "id": "291384",
-  "ts": 1791826868.351456,
+  "titel": "Kulturschutzgebiete für identitätsstiftende Bauwerke und Landschaften etablieren",
+  "ts": 1791834134.9105077,
   "typ": "Antrag",
   "vorgaenge": [
    "339999"
@@ -22586,7 +23837,8 @@
   "ausschuesse": {},
   "gefunden": true,
   "id": "291386",
-  "ts": 1791826868.351456,
+  "titel": "Gesetz zur Änderung des Achten Buches Sozialgesetzbuch - Rückbesinnung auf biologische Geschlechter in der Kinder- und Jugendhilfe",
+  "ts": 1791834134.9105077,
   "typ": "Gesetzentwurf",
   "vorgaenge": [
    "340008"
@@ -22601,7 +23853,8 @@
   },
   "gefunden": true,
   "id": "291387",
-  "ts": 1791826868.351456,
+  "titel": "Viertes Gesetz zur Änderung des Gemeindeverkehrsfinanzierungsgesetzes",
+  "ts": 1791834134.9105077,
   "typ": "Gesetzentwurf",
   "vorgaenge": [
    "340009"
@@ -22628,7 +23881,8 @@
   },
   "gefunden": true,
   "id": "291388",
-  "ts": 1791826868.351456,
+  "titel": "Gesetz zur Abschaffung des Fernunterrichtsschutzgesetzes (Fernunterrichtsschutzgesetzabschaffungsgesetz - FernUSAG)",
+  "ts": 1791834134.9105077,
   "typ": "Gesetzentwurf",
   "vorgaenge": [
    "340011"
@@ -22655,7 +23909,8 @@
   },
   "gefunden": true,
   "id": "291390",
-  "ts": 1791826868.351456,
+  "titel": "Dritter Bericht der Bundesregierung zur weltweiten Lage der Religions- und Weltanschauungsfreiheit (Berichtszeitraum 2020 bis 2022)",
+  "ts": 1791834134.9105077,
   "typ": "Beschlussempfehlung und Bericht",
   "vorgaenge": [
    "325537"
@@ -22678,7 +23933,8 @@
   },
   "gefunden": true,
   "id": "291398",
-  "ts": 1791826868.351456,
+  "titel": "Kindergeld stärken, Entlastungsschere schließen - Familienleistungsausgleich gerechter gestalten",
+  "ts": 1791834134.9105077,
   "typ": "Antrag",
   "vorgaenge": [
    "340032"
@@ -22729,7 +23985,8 @@
   },
   "gefunden": true,
   "id": "291396",
-  "ts": 1791826868.351456,
+  "titel": "Kleine und mittlere Einkommen tatsächlich entlasten und Rücklagen- und Vermögensaufbau stärken",
+  "ts": 1791834134.9105077,
   "typ": "Antrag",
   "vorgaenge": [
    "340033"
@@ -22756,7 +24013,8 @@
   },
   "gefunden": true,
   "id": "291399",
-  "ts": 1791826868.351456,
+  "titel": "24 Maßnahmen gegen linksextremistische Gewalt und Terror - Jetzt entschlossen handeln zum Schutz von Demokratie, Rechtsstaat und kritischer Infrastruktur, insbesondere unter der Berücksichtigung der Ergebnisse der Berliner Abgeordnetenhauswahl",
+  "ts": 1791834134.9105077,
   "typ": "Antrag",
   "vorgaenge": [
    "340034"
@@ -22775,7 +24033,8 @@
   },
   "gefunden": true,
   "id": "291397",
-  "ts": 1791826868.351456,
+  "titel": "Sachbeschädigungen von kritischen Infrastrukturen in der polizeilichen Kriminalstatistik gesondert abbilden",
+  "ts": 1791834134.9105077,
   "typ": "Antrag",
   "vorgaenge": [
    "340035"
@@ -22802,7 +24061,8 @@
   },
   "gefunden": true,
   "id": "291400",
-  "ts": 1791826868.351456,
+  "titel": "Vom Mieter zum Eigentümer - Wohneigentum wieder bezahlbar machen",
+  "ts": 1791834134.9105077,
   "typ": "Antrag",
   "vorgaenge": [
    "340036"
@@ -22825,7 +24085,8 @@
   },
   "gefunden": true,
   "id": "291401",
-  "ts": 1791826868.351456,
+  "titel": "Gewachsene Heimat erhalten - Lokales Bauland an Einheimische vergeben",
+  "ts": 1791834134.9105077,
   "typ": "Antrag",
   "vorgaenge": [
    "340037"
@@ -22835,7 +24096,8 @@
   "ausschuesse": {},
   "gefunden": true,
   "id": "291402",
-  "ts": 1791826868.351456,
+  "titel": "Sonderbefristungsrecht für die Wissenschaft abschaffen",
+  "ts": 1791834134.9105077,
   "typ": "Antrag",
   "vorgaenge": [
    "340038"
@@ -22845,7 +24107,8 @@
   "ausschuesse": {},
   "gefunden": true,
   "id": "291403",
-  "ts": 1791826868.351456,
+  "titel": "Private Altersvorsorge stärken - Einheitlichen Standardfonds mit niedrigen Kosten und besseren Renditechancen einführen",
+  "ts": 1791834134.9105077,
   "typ": "Antrag",
   "vorgaenge": [
    "340039"
@@ -22855,7 +24118,8 @@
   "ausschuesse": {},
   "gefunden": true,
   "id": "291404",
-  "ts": 1791826868.351456,
+  "titel": "Zielgerichtete Wohngeldförderung unverändert beibehalten und Anpassung zum 1. Januar 2027 umsetzen",
+  "ts": 1791834134.9105077,
   "typ": "Antrag",
   "vorgaenge": [
    "340040"
@@ -22874,7 +24138,8 @@
   },
   "gefunden": true,
   "id": "291429",
-  "ts": 1791826868.351456,
+  "titel": "Maßnahmen für eine wirkliche Migrationswende",
+  "ts": 1791834134.9105077,
   "typ": "Antrag",
   "vorgaenge": [
    "340055"
@@ -22889,7 +24154,8 @@
   },
   "gefunden": true,
   "id": "291407",
-  "ts": 1791826868.351456,
+  "titel": "Keine weitere Erhöhung der Regelaltersgrenze",
+  "ts": 1791834134.9105077,
   "typ": "Antrag",
   "vorgaenge": [
    "340041"
@@ -22904,7 +24170,8 @@
   },
   "gefunden": true,
   "id": "291408",
-  "ts": 1791826868.351456,
+  "titel": "Abschlagsfreie Rente für besonders langjährig Versicherte erhalten",
+  "ts": 1791834134.9105077,
   "typ": "Antrag",
   "vorgaenge": [
    "340046"
@@ -22919,7 +24186,8 @@
   },
   "gefunden": true,
   "id": "291409",
-  "ts": 1791826868.351456,
+  "titel": "Altersteilzeit weiterhin ab 55 Jahren und im Blockmodell ermöglichen",
+  "ts": 1791834134.9105077,
   "typ": "Antrag",
   "vorgaenge": [
    "340047"
@@ -22938,7 +24206,8 @@
   },
   "gefunden": true,
   "id": "291410",
-  "ts": 1791826868.351456,
+  "titel": "Zollreform erweitern - Organisierte Steuerkriminalität wirksam verfolgen und eingezogenes Vermögen der Gesellschaft zurückgeben",
+  "ts": 1791834134.9105077,
   "typ": "Antrag",
   "vorgaenge": [
    "340048"
@@ -22957,7 +24226,8 @@
   },
   "gefunden": true,
   "id": "291411",
-  "ts": 1791826868.351456,
+  "titel": "Gerichtete Blutspenden möglich machen - Patientenautonomie stärken",
+  "ts": 1791834134.9105077,
   "typ": "Antrag",
   "vorgaenge": [
    "340050"
@@ -22972,7 +24242,8 @@
   },
   "gefunden": true,
   "id": "291412",
-  "ts": 1791826868.351456,
+  "titel": "Garantiefonds Hochschule erhalten - Bildungsintegration dauerhaft sichern",
+  "ts": 1791834134.9105077,
   "typ": "Antrag",
   "vorgaenge": [
    "340051"
@@ -22999,7 +24270,8 @@
   },
   "gefunden": true,
   "id": "291413",
-  "ts": 1791826868.351456,
+  "titel": "Funktion des Beauftragten der Bundesregierung für Ostdeutschland abschaffen",
+  "ts": 1791834134.9105077,
   "typ": "Antrag",
   "vorgaenge": [
    "340052"
@@ -23030,7 +24302,8 @@
   },
   "gefunden": true,
   "id": "291414",
-  "ts": 1791826868.351456,
+  "titel": "Fair und stark - Für ein Wettbewerbsrecht, das Wirtschaft und Verbraucherinnen und Verbraucher stärkt",
+  "ts": 1791834134.9105077,
   "typ": "Antrag",
   "vorgaenge": [
    "340053"
@@ -23061,7 +24334,8 @@
   },
   "gefunden": true,
   "id": "291478",
-  "ts": 1791826868.351456,
+  "titel": "16. Bericht der Bundesregierung über ihre Menschenrechtspolitik",
+  "ts": 1791834134.9105077,
   "typ": "Beschlussempfehlung und Bericht",
   "vorgaenge": [
    "322919"
@@ -23071,7 +24345,8 @@
   "ausschuesse": {},
   "gefunden": true,
   "id": "291483",
-  "ts": 1791826868.351456,
+  "titel": "Nachhaltige Pflegereform - Die soziale Pflegeversicherung zukunftsfest machen",
+  "ts": 1791834134.9105077,
   "typ": "Antrag",
   "vorgaenge": [
    "340109"
@@ -23110,7 +24385,8 @@
   },
   "gefunden": true,
   "id": "291393",
-  "ts": 1791826868.351456,
+  "titel": "Bericht der Beauftragten der Bundesregierung für Ostdeutschland 2026\r\nIn Bewegung bleiben",
+  "ts": 1791834134.9105077,
   "typ": "Unterrichtung",
   "vorgaenge": [
    "340054"
@@ -23120,7 +24396,8 @@
   "ausschuesse": {},
   "gefunden": true,
   "id": "291476",
-  "ts": 1791826868.351456,
+  "titel": "Mutterschutz für Selbstständige schaffen - Schutzlücken gesetzlich schließen",
+  "ts": 1791834134.9105077,
   "typ": "Antrag",
   "vorgaenge": [
    "340102"
@@ -23130,7 +24407,8 @@
   "ausschuesse": {},
   "gefunden": true,
   "id": "291432",
-  "ts": 1791826868.351456,
+  "titel": "Gesetz zum Bürokratierückbau im Verkehrsbereich",
+  "ts": 1791834134.9105077,
   "typ": "Gesetzentwurf",
   "vorgaenge": [
    "338359"
@@ -23140,7 +24418,8 @@
   "ausschuesse": {},
   "gefunden": true,
   "id": "291435",
-  "ts": 1791826868.351456,
+  "titel": "Dreißigstes Gesetz zur Änderung des Bundesausbildungsförderungsgesetzes und anderer Gesetze (30. BAföGÄndG)",
+  "ts": 1791834134.9105077,
   "typ": "Gesetzentwurf",
   "vorgaenge": [
    "338352"
@@ -23150,7 +24429,8 @@
   "ausschuesse": {},
   "gefunden": true,
   "id": "291436",
-  "ts": 1791826868.351456,
+  "titel": "Gesetz zur Stärkung der Reserve (Reservestärkungsgesetz - ResStG)",
+  "ts": 1791834134.9105077,
   "typ": "Gesetzentwurf",
   "vorgaenge": [
    "338369"
@@ -23160,7 +24440,8 @@
   "ausschuesse": {},
   "gefunden": true,
   "id": "291421",
-  "ts": 1791826868.351456,
+  "titel": "Gesetz für Bürokratierückbau im Bereich des Bundesministeriums für Landwirtschaft, Ernährung und Heimat sowie in weiteren Bereichen",
+  "ts": 1791834134.9105077,
   "typ": "Gesetzentwurf",
   "vorgaenge": [
    "338342"
@@ -23170,7 +24451,8 @@
   "ausschuesse": {},
   "gefunden": true,
   "id": "291430",
-  "ts": 1791826868.351456,
+  "titel": "Bundeswehr-Infrastrukturbeschleunigungsgesetz",
+  "ts": 1791834134.9105077,
   "typ": "Gesetzentwurf",
   "vorgaenge": [
    "338358"
@@ -23180,7 +24462,8 @@
   "ausschuesse": {},
   "gefunden": true,
   "id": "291419",
-  "ts": 1791826868.351456,
+  "titel": "Gesetz zur Stärkung der genossenschaftlichen Rechtsform",
+  "ts": 1791834134.9105077,
   "typ": "Gesetzentwurf",
   "vorgaenge": [
    "338354"
@@ -23190,7 +24473,8 @@
   "ausschuesse": {},
   "gefunden": true,
   "id": "291433",
-  "ts": 1791826868.351456,
+  "titel": "Gesetz zur Stiftung Flucht, Vertreibung, Versöhnung",
+  "ts": 1791834134.9105077,
   "typ": "Gesetzentwurf",
   "vorgaenge": [
    "338336"
@@ -23200,7 +24484,8 @@
   "ausschuesse": {},
   "gefunden": true,
   "id": "291426",
-  "ts": 1791826868.351456,
+  "titel": "Fünftes Gesetz zur Änderung des Aufstiegsfortbildungsförderungsgesetzes",
+  "ts": 1791834134.9105077,
   "typ": "Gesetzentwurf",
   "vorgaenge": [
    "338345"
@@ -23210,7 +24495,8 @@
   "ausschuesse": {},
   "gefunden": true,
   "id": "291422",
-  "ts": 1791826868.351456,
+  "titel": "Gesetz über eine Beauftragte oder einen Beauftragten der Bundesregierung für die Anliegen von Betroffenen von terroristischen Straftaten im Inland (Bundesopferbeauftragtengesetz - BOpfBeG)",
+  "ts": 1791834134.9105077,
   "typ": "Gesetzentwurf",
   "vorgaenge": [
    "338355"
@@ -23220,7 +24506,8 @@
   "ausschuesse": {},
   "gefunden": true,
   "id": "291423",
-  "ts": 1791826868.351456,
+  "titel": "Gesetz zur Modernisierung des Schiedsverfahrensrechts sowie zu weiteren Änderungen der Zivilprozessordnung im Bereich des internationalen Zivilverfahrensrechts",
+  "ts": 1791834134.9105077,
   "typ": "Gesetzentwurf",
   "vorgaenge": [
    "338353"
@@ -23230,7 +24517,8 @@
   "ausschuesse": {},
   "gefunden": true,
   "id": "291424",
-  "ts": 1791826868.351456,
+  "titel": "Gesetz zum Bürokratierückbau, zur Digitalisierung und zur weiteren Modernisierung des Strahlenschutzrechts",
+  "ts": 1791834134.9105077,
   "typ": "Gesetzentwurf",
   "vorgaenge": [
    "338356"
@@ -23240,7 +24528,8 @@
   "ausschuesse": {},
   "gefunden": true,
   "id": "291434",
-  "ts": 1791826868.351456,
+  "titel": "Beschlussempfehlung und Bericht des Ausschusses für Recht und Verbraucherschutz (6. Ausschuss) zu dem Streitverfahren vor dem Bundesverfassungsgericht\r\n2 BvR 1851/25",
+  "ts": 1791834134.9105077,
   "typ": "Beschlussempfehlung und Bericht",
   "vorgaenge": [
    "340071"
@@ -23259,7 +24548,8 @@
   },
   "gefunden": true,
   "id": "291437",
-  "ts": 1791826868.351456,
+  "titel": "Gesetz zu der Zusatzvereinbarung vom 8. Juni 2023 zur Mehrseitigen Vereinbarung vom 29. Oktober 2014 zwischen den zuständigen Behörden über den automatischen Austausch von Informationen über Finanzkonten",
+  "ts": 1791834134.9105077,
   "typ": "Beschlussempfehlung und Bericht",
   "vorgaenge": [
    "335556",
@@ -23280,7 +24570,8 @@
   },
   "gefunden": true,
   "id": "291439",
-  "ts": 1791826868.351456,
+  "titel": "COVID-19-Impfschäden ernst nehmen und deren medizinische Behandlung sicherstellen",
+  "ts": 1791834134.9105077,
   "typ": "Beschlussempfehlung und Bericht",
   "vorgaenge": [
    "323421"
@@ -23295,7 +24586,8 @@
   },
   "gefunden": true,
   "id": "291438",
-  "ts": 1791826868.351456,
+  "titel": "Gesetz zur Modernisierung des Produkthaftungsrechts und zur Änderung weiterer Vorschriften",
+  "ts": 1791834134.9105077,
   "typ": "Beschlussempfehlung und Bericht",
   "vorgaenge": [
    "329483"
@@ -23305,7 +24597,8 @@
   "ausschuesse": {},
   "gefunden": true,
   "id": "291445",
-  "ts": 1791826868.351456,
+  "titel": "Sammelübersicht 330 des Petitionsausschusses (2. Ausschuss) über Anträge zu Petitionen",
+  "ts": 1791834134.9105077,
   "typ": "Beschlussempfehlung",
   "vorgaenge": [
    "340059"
@@ -23315,7 +24608,8 @@
   "ausschuesse": {},
   "gefunden": true,
   "id": "291446",
-  "ts": 1791826868.351456,
+  "titel": "Sammelübersicht 331 des Petitionsausschusses (2. Ausschuss) über Anträge zu Petitionen",
+  "ts": 1791834134.9105077,
   "typ": "Beschlussempfehlung",
   "vorgaenge": [
    "340060"
@@ -23325,7 +24619,8 @@
   "ausschuesse": {},
   "gefunden": true,
   "id": "291447",
-  "ts": 1791826868.351456,
+  "titel": "Sammelübersicht 332 des Petitionsausschusses (2. Ausschuss) über Anträge zu Petitionen",
+  "ts": 1791834134.9105077,
   "typ": "Beschlussempfehlung",
   "vorgaenge": [
    "340062"
@@ -23335,7 +24630,8 @@
   "ausschuesse": {},
   "gefunden": true,
   "id": "291448",
-  "ts": 1791826868.351456,
+  "titel": "Sammelübersicht 333 des Petitionsausschusses (2. Ausschuss) über Anträge zu Petitionen",
+  "ts": 1791834134.9105077,
   "typ": "Beschlussempfehlung",
   "vorgaenge": [
    "340063"
@@ -23345,7 +24641,8 @@
   "ausschuesse": {},
   "gefunden": true,
   "id": "291449",
-  "ts": 1791826868.351456,
+  "titel": "Sammelübersicht 334 des Petitionsausschusses (2. Ausschuss) über Anträge zu Petitionen",
+  "ts": 1791834134.9105077,
   "typ": "Beschlussempfehlung",
   "vorgaenge": [
    "340064"
@@ -23355,7 +24652,8 @@
   "ausschuesse": {},
   "gefunden": true,
   "id": "291450",
-  "ts": 1791826868.351456,
+  "titel": "Sammelübersicht 335 des Petitionsausschusses (2. Ausschuss) über Anträge zu Petitionen",
+  "ts": 1791834134.9105077,
   "typ": "Beschlussempfehlung",
   "vorgaenge": [
    "340065"
@@ -23365,7 +24663,8 @@
   "ausschuesse": {},
   "gefunden": true,
   "id": "291451",
-  "ts": 1791826868.351456,
+  "titel": "Sammelübersicht 336 des Petitionsausschusses (2. Ausschuss) über Anträge zu Petitionen",
+  "ts": 1791834134.9105077,
   "typ": "Beschlussempfehlung",
   "vorgaenge": [
    "340066"
@@ -23375,7 +24674,8 @@
   "ausschuesse": {},
   "gefunden": true,
   "id": "291452",
-  "ts": 1791826868.351456,
+  "titel": "Sammelübersicht 337 des Petitionsausschusses (2. Ausschuss) über Anträge zu Petitionen",
+  "ts": 1791834134.9105077,
   "typ": "Beschlussempfehlung",
   "vorgaenge": [
    "340067"
@@ -23385,7 +24685,8 @@
   "ausschuesse": {},
   "gefunden": true,
   "id": "291453",
-  "ts": 1791826868.351456,
+  "titel": "Sammelübersicht 338 des Petitionsausschusses (2. Ausschuss) über Anträge zu Petitionen",
+  "ts": 1791834134.9105077,
   "typ": "Beschlussempfehlung",
   "vorgaenge": [
    "340068"
@@ -23395,7 +24696,8 @@
   "ausschuesse": {},
   "gefunden": true,
   "id": "291454",
-  "ts": 1791826868.351456,
+  "titel": "Sammelübersicht 339 des Petitionsausschusses (2. Ausschuss) über Anträge zu Petitionen",
+  "ts": 1791834134.9105077,
   "typ": "Beschlussempfehlung",
   "vorgaenge": [
    "340069"
@@ -23405,7 +24707,8 @@
   "ausschuesse": {},
   "gefunden": true,
   "id": "291455",
-  "ts": 1791826868.351456,
+  "titel": "Sammelübersicht 340 des Petitionsausschusses (2. Ausschuss) über Anträge zu Petitionen",
+  "ts": 1791834134.9105077,
   "typ": "Beschlussempfehlung",
   "vorgaenge": [
    "340070"
@@ -23440,7 +24743,8 @@
   },
   "gefunden": true,
   "id": "291442",
-  "ts": 1791826868.351456,
+  "titel": "Lebensmittelhandwerk erhalten - Vielfältige und krisenfeste Ernährungsversorgung sicherstellen",
+  "ts": 1791834134.9105077,
   "typ": "Beschlussempfehlung und Bericht",
   "vorgaenge": [
    "336627"
@@ -23471,7 +24775,8 @@
   },
   "gefunden": true,
   "id": "291443",
-  "ts": 1791826868.351456,
+  "titel": "Wasserrückhalt und Resilienz stärken - Einkommensperspektiven für Landwirte schaffen und Moorschutzverfahren beschleunigen",
+  "ts": 1791834134.9105077,
   "typ": "Beschlussempfehlung und Bericht",
   "vorgaenge": [
    "336645"
@@ -23494,7 +24799,8 @@
   },
   "gefunden": true,
   "id": "291444",
-  "ts": 1791826868.351456,
+  "titel": "Bericht über das Ergebnis der Vorplanung und der frühen Öffentlichkeitsbeteiligung Ausbaustrecke/Neubaustrecke Hannover - Hamburg",
+  "ts": 1791834134.9105077,
   "typ": "Beschlussempfehlung und Bericht",
   "vorgaenge": [
    "329554"
@@ -23504,7 +24810,8 @@
   "ausschuesse": {},
   "gefunden": true,
   "id": "291488",
-  "ts": 1791826868.351456,
+  "titel": "Mutterschutz für Selbstständige ermöglichen",
+  "ts": 1791834134.9105077,
   "typ": "Antrag",
   "vorgaenge": [
    "340113"
@@ -23514,7 +24821,8 @@
   "ausschuesse": {},
   "gefunden": true,
   "id": "291493",
-  "ts": 1791826868.351456,
+  "titel": "Fragen für die Fragestunde der 101. Sitzung des Deutschen Bundestages am Mittwoch, dem 14. Oktober 2026",
+  "ts": 1791834134.9105077,
   "typ": "Fragen",
   "vorgaenge": []
  },
@@ -23551,7 +24859,8 @@
   },
   "gefunden": true,
   "id": "291506",
-  "ts": 1791826868.351456,
+  "titel": "Natur erleben, Umwelt schützen - Naturverträglichen Tourismus als Gewinn für alle stärken",
+  "ts": 1791834134.9105077,
   "typ": "Beschlussempfehlung und Bericht",
   "vorgaenge": [
    "338867"
@@ -23570,7 +24879,8 @@
   },
   "gefunden": true,
   "id": "291512",
-  "ts": 1791826868.351456,
+  "titel": "Gesetz zur Anpassung des GAP-Integriertes Verwaltungs- und Kontrollsystem-Gesetzes und des GAP-Konditionalitäten-Gesetzes an die Vorgaben der Verordnung (EU) 2025/2649 sowie zur Verbesserung des behördlichen Informationsaustauschs",
+  "ts": 1791834134.9105077,
   "typ": "Beschlussempfehlung und Bericht",
   "vorgaenge": [
    "335472"

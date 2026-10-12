@@ -50,7 +50,7 @@ BERLIN = ZoneInfo("Europe/Berlin")
 BETREIBER = "KlimaUnion gGmbH, Berlin"
 BETREIBER_URL = "https://klimaunion.org"
 IMPRESSUM_URL = "https://klimaunion.org/impressum"
-DATENSCHUTZ_URL = "https://klimaunion.org/datenschutz"
+DATENSCHUTZ_URL = "datenschutz.html"
 REPO_URL = "https://github.com/KlimaUnion-gGmbH/bundestag-kalender"
 BASIS_URL = "https://klimaunion-ggmbh.github.io/bundestag-kalender/"  # Voreinstellung ohne GITHUB_REPOSITORY
 # Rollen, die in die Ausschuss-Feeds aufgenommen werden. Mitberatung ist bewusst ausgeschlossen.

@@ -1,0 +1,2936 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//bundestag-kalender//DE
+CALSCALE:GREGORIAN
+X-WR-TIMEZONE:Europe/Berlin
+X-WR-CALNAME:Bundestag: Ausschuss WE Sitzungen und Anhörungen
+DESCRIPTION:Sitzungen und öffentliche Anhörungen des Ausschusses Wirtscha
+ ft und Energie (inoffiziell\, Quelle: bundestag.de)
+REFRESH-INTERVAL;VALUE=DURATION:PT15M
+X-PUBLISHED-TTL:PT15M
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+BEGIN:STANDARD
+TZNAME:CET
+DTSTART:19701025T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+BEGIN:DAYLIGHT
+TZNAME:CEST
+DTSTART:19700329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sw-20260112@bundestag-kalender
+DTSTAMP:20261012T175049Z
+DTSTART;VALUE=DATE:20260112
+DTEND;VALUE=DATE:20260117
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20260126@bundestag-kalender
+DTSTAMP:20261012T175049Z
+DTSTART;VALUE=DATE:20260126
+DTEND;VALUE=DATE:20260131
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20260223@bundestag-kalender
+DTSTAMP:20261012T175049Z
+DTSTART;VALUE=DATE:20260223
+DTEND;VALUE=DATE:20260228
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20260302@bundestag-kalender
+DTSTAMP:20261012T175049Z
+DTSTART;VALUE=DATE:20260302
+DTEND;VALUE=DATE:20260307
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20260316@bundestag-kalender
+DTSTAMP:20261012T175049Z
+DTSTART;VALUE=DATE:20260316
+DTEND;VALUE=DATE:20260321
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20260323@bundestag-kalender
+DTSTAMP:20261012T175049Z
+DTSTART;VALUE=DATE:20260323
+DTEND;VALUE=DATE:20260328
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20260413@bundestag-kalender
+DTSTAMP:20261012T175049Z
+DTSTART;VALUE=DATE:20260413
+DTEND;VALUE=DATE:20260418
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20260420@bundestag-kalender
+DTSTAMP:20261012T175049Z
+DTSTART;VALUE=DATE:20260420
+DTEND;VALUE=DATE:20260425
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20260504@bundestag-kalender
+DTSTAMP:20261012T175049Z
+DTSTART;VALUE=DATE:20260504
+DTEND;VALUE=DATE:20260509
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20260518@bundestag-kalender
+DTSTAMP:20261012T175049Z
+DTSTART;VALUE=DATE:20260518
+DTEND;VALUE=DATE:20260523
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20260608@bundestag-kalender
+DTSTAMP:20261012T175049Z
+DTSTART;VALUE=DATE:20260608
+DTEND;VALUE=DATE:20260613
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20260622@bundestag-kalender
+DTSTAMP:20261012T175049Z
+DTSTART;VALUE=DATE:20260622
+DTEND;VALUE=DATE:20260627
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20260706@bundestag-kalender
+DTSTAMP:20261012T175049Z
+DTSTART;VALUE=DATE:20260706
+DTEND;VALUE=DATE:20260711
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20260907@bundestag-kalender
+DTSTAMP:20261012T175049Z
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260912
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20260921@bundestag-kalender
+DTSTAMP:20261012T175049Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260926
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20261005@bundestag-kalender
+DTSTAMP:20261012T175049Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261010
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20261012@bundestag-kalender
+DTSTAMP:20261012T175049Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261017
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20261102@bundestag-kalender
+DTSTAMP:20261012T175049Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261107
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20261109@bundestag-kalender
+DTSTAMP:20261012T175049Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261114
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20261123@bundestag-kalender
+DTSTAMP:20261012T175049Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261128
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20261207@bundestag-kalender
+DTSTAMP:20261012T175049Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261212
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20261214@bundestag-kalender
+DTSTAMP:20261012T175049Z
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261219
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20270111@bundestag-kalender
+DTSTAMP:20261012T175049Z
+DTSTART;VALUE=DATE:20270111
+DTEND;VALUE=DATE:20270116
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20270125@bundestag-kalender
+DTSTAMP:20261012T175049Z
+DTSTART;VALUE=DATE:20270125
+DTEND;VALUE=DATE:20270130
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20270215@bundestag-kalender
+DTSTAMP:20261012T175049Z
+DTSTART;VALUE=DATE:20270215
+DTEND;VALUE=DATE:20270220
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20270301@bundestag-kalender
+DTSTAMP:20261012T175049Z
+DTSTART;VALUE=DATE:20270301
+DTEND;VALUE=DATE:20270306
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20270315@bundestag-kalender
+DTSTAMP:20261012T175049Z
+DTSTART;VALUE=DATE:20270315
+DTEND;VALUE=DATE:20270320
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20270405@bundestag-kalender
+DTSTAMP:20261012T175049Z
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270410
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20270412@bundestag-kalender
+DTSTAMP:20261012T175049Z
+DTSTART;VALUE=DATE:20270412
+DTEND;VALUE=DATE:20270417
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20270426@bundestag-kalender
+DTSTAMP:20261012T175049Z
+DTSTART;VALUE=DATE:20270426
+DTEND;VALUE=DATE:20270501
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20270510@bundestag-kalender
+DTSTAMP:20261012T175049Z
+DTSTART;VALUE=DATE:20270510
+DTEND;VALUE=DATE:20270515
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20270531@bundestag-kalender
+DTSTAMP:20261012T175049Z
+DTSTART;VALUE=DATE:20270531
+DTEND;VALUE=DATE:20270605
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20270614@bundestag-kalender
+DTSTAMP:20261012T175049Z
+DTSTART;VALUE=DATE:20270614
+DTEND;VALUE=DATE:20270619
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20270628@bundestag-kalender
+DTSTAMP:20261012T175049Z
+DTSTART;VALUE=DATE:20270628
+DTEND;VALUE=DATE:20270703
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20270705@bundestag-kalender
+DTSTAMP:20261012T175049Z
+DTSTART;VALUE=DATE:20270705
+DTEND;VALUE=DATE:20270710
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20270906@bundestag-kalender
+DTSTAMP:20261012T175049Z
+DTSTART;VALUE=DATE:20270906
+DTEND;VALUE=DATE:20270911
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20270920@bundestag-kalender
+DTSTAMP:20261012T175049Z
+DTSTART;VALUE=DATE:20270920
+DTEND;VALUE=DATE:20270925
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20271004@bundestag-kalender
+DTSTAMP:20261012T175049Z
+DTSTART;VALUE=DATE:20271004
+DTEND;VALUE=DATE:20271009
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20271025@bundestag-kalender
+DTSTAMP:20261012T175049Z
+DTSTART;VALUE=DATE:20271025
+DTEND;VALUE=DATE:20271030
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20271108@bundestag-kalender
+DTSTAMP:20261012T175049Z
+DTSTART;VALUE=DATE:20271108
+DTEND;VALUE=DATE:20271113
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20271122@bundestag-kalender
+DTSTAMP:20261012T175049Z
+DTSTART;VALUE=DATE:20271122
+DTEND;VALUE=DATE:20271127
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20271129@bundestag-kalender
+DTSTAMP:20261012T175049Z
+DTSTART;VALUE=DATE:20271129
+DTEND;VALUE=DATE:20271204
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20271213@bundestag-kalender
+DTSTAMP:20261012T175049Z
+DTSTART;VALUE=DATE:20271213
+DTEND;VALUE=DATE:20271218
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ausschuss-ausschuesse-a09-wirtschaft-sitzung-22@bundestag-kalender
+DTSTAMP:20261012T175049Z
+DTSTART;TZID=Europe/Berlin:20260114T103000
+DTEND;TZID=Europe/Berlin:20260114T123000
+SUMMARY:Ausschuss WE: 22. Sitzung (nicht öffentlich)
+DESCRIPTION:22. Sitzung des Ausschusses (nicht öffentlich)\nEnde geschätz
+ t.\n\nTagesordnung und Ergänzungen:\nTagesordnung: https://www.bundestag.
+ de/resource/blob/1135738/to_22_14-01-2026.pdf\n1. Ergänzungsmitteilung: h
+ ttps://www.bundestag.de/resource/blob/1136246/to_22_14-01-2026_1-ergaenzun
+ g.pdf\n\nSeite des Ausschusses: https://www.bundestag.de/ausschuesse/a09_w
+ irtschaft
+LOCATION:Paul-Löbe-Haus\, Sitzungssaal E.200
+URL:https://www.bundestag.de/ausschuesse/a09_wirtschaft
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11357
+ 38/to_22_14-01-2026.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11362
+ 46/to_22_14-01-2026_1-ergaenzung.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:ausschuss-ausschuesse-a09-wirtschaft-sitzung-23@bundestag-kalender
+DTSTAMP:20261012T175049Z
+DTSTART;TZID=Europe/Berlin:20260128T102000
+DTEND;TZID=Europe/Berlin:20260128T122000
+SUMMARY:Ausschuss WE: 23. Sitzung (nicht öffentlich)
+DESCRIPTION:23. Sitzung des Ausschusses (nicht öffentlich)\nEnde geschätz
+ t.\n\nTagesordnung und Ergänzungen:\nTagesordnung: https://www.bundestag.
+ de/resource/blob/1139228/to_23_28-01-2026.pdf\n1. Ergänzungsmitteilung: h
+ ttps://www.bundestag.de/resource/blob/1139344/to_23_28-01-2026_1-_Ergaenzu
+ ng.pdf\n2. Ergänzungsmitteilung: https://www.bundestag.de/resource/blob/1
+ 139590/to_23_2-ergaenzung.pdf\n3. Ergänzungsmitteilung: https://www.bunde
+ stag.de/resource/blob/1139804/to_23_28-01-2026_3-_ergaenzung.pdf\n\nSeite 
+ des Ausschusses: https://www.bundestag.de/ausschuesse/a09_wirtschaft
+LOCATION:Paul-Löbe-Haus\, Sitzungssaal E.200
+URL:https://www.bundestag.de/ausschuesse/a09_wirtschaft
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11392
+ 28/to_23_28-01-2026.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11393
+ 44/to_23_28-01-2026_1-_Ergaenzung.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11395
+ 90/to_23_2-ergaenzung.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11398
+ 04/to_23_28-01-2026_3-_ergaenzung.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:ausschuss-ausschuesse-a09-wirtschaft-anhoerung-1140336@bundestag-kalend
+ er
+DTSTAMP:20261012T175049Z
+DTSTART;TZID=Europe/Berlin:20260225T090000
+DTEND;TZID=Europe/Berlin:20260225T100000
+SUMMARY:Ausschuss WE: Anhörung „Unitarisierungsabkommen zwischen Deutsch
+ land und den NL“
+DESCRIPTION:Öffentliche Anhörung (25. Sitzung)\n\nGegenstand: Der Ausschu
+ ss für Wirtschaft und Energie hat sich am Mittwoch\, 25. Februar 2026\, i
+ n einer einstündigen öffentlichen Anhörung mit dem Gesetzentwurf der Bu
+ ndesregierung zu dem Abkommen zwischen der Regierung der Bundesrepublik De
+ utschland und der Regierung des Königreichs der Niederlande über die Ers
+ chließung von grenzüberschreitenden Kohlenwasserstofflagerstätten in de
+ r Nordsee (21/3491) befasst. In der Anhörung warnten Umweltverbände vor 
+ einer Ausweitung der Gasförderung in der Nordsee. Die Deutsche Umwelthilf
+ e kritisierte\, dass weder deutsche Interessen noch die Belange des Natur-
+  und Klimaschutzes gewahrt würden. Deutschland und die Niederlande wollen
+  ein grenzüberschreitendes Erdgasfeld vor der Insel Borkum erschließen u
+ nd Gas über Grenzen hinweg fördern. Dazu ist ein einheitlicher Rechtsrah
+ men nötig\, der die Zusammenarbeit deutscher und niederländischer Behör
+ den regelt. Bereits am 27. August 2025 unterzeichneten beide Länder dazu 
+ in Den Haag ein Unitarisierungsabkommen. Nun fehlt noch die Zustimmung der
+  deutschen Seite von Bundestag und Bundesrat. Erdgasfeld vor der Insel Bor
+ kum Die Niederlande fördern bereits Gas aus einem grenzüberschreitenden 
+ Gasfeld vor Borkum. Mit dem Abkommen könnte auch Gas von deutschem Gebiet
+  gefördert werden. Der niedersächsische Energieversorger EWE hat bereits
+  einen Liefervertrag mit dem niederländische Energiekonzern One-Dyas gesc
+ hlossen. Das Abkommen schreibt beispielsweise Einzelheiten zur Aufteilung 
+ der Lagerstätten und zur grenzüberschreitenden Zusammenarbeit fest. Gere
+ gelt wird nicht nur die schon bestehende Erdgasförderung vor Borkum. Auch
+  weitere Bohrungen im deutsch-niederländischen Seegebiet werden dadurch m
+ öglich. One-Dyas hat bereits angekündigt\, weitere Gasfelder in der Umge
+ bung erschließen zu wollen. Die Niederländer haben zugesagt\, Gas nur so
+  lange zu fördern\, wie Erdgas in beiden Ländern nachgefragt wird – wa
+ nn diese Nachfrage endet\, ist jedoch offen. Umweltschutzverbände lehnen 
+ den Gesetzentwurf „entschieden ab“\, sagte Clara Winkler\, Referentin 
+ für Energie und Klimaschutz bei der Deutschen Umwelthilfe (DUH). Mit der 
+ Ratifizierung des Abkommens würde Deutschland „unnötigerweise Teile se
+ iner Souveränität aufgeben“ und sich an Regelungen binden\, die einsei
+ tig für die Niederlade wirkten und einem einzelnen niederländischen Unte
+ rnehmen zugute kämen. Die DUH sehe in dem Abkommen eine Gefahr für das U
+ nesco-Weltnaturerbe Wattenmeer sowie andere sensible marine Ökosysteme wi
+ e das Naturschutzgebiet Borkum Riffgrund. Dramatische Folgen für Menschen
+  und Wirtschaft Martin Kaiser\, geschäftsführender Vorstand von Greenpea
+ ce\, wurde noch deutlicher. Er erklärte das Unitarisierungsabkommen und d
+ amit auch das Vertragsgesetz zu dessen Umsetzung für rechtswidrig und auf
+ grund der „dramatischen Folgen für die Menschen und die Wirtschaft in D
+ eutschland auch moralisch nicht zu rechtfertigen“. Kaiser forderte von d
+ en Ausschussmitgliedern\, „den vorliegenden Entwurf für ein Vertragsges
+ etz abzulehnen“. Zur Begründung erklärte der Greenpeace-Vorstand\, ein
+ e Erschließung neuer Öl- und Gasvorkommen sei nach einhelligen wissensch
+ aftlichen Erkenntnissen mit den Pariser Klimazielen unvereinbar. Außerdem
+  ergebe sich nach jüngster internationaler Rechtsprechung auch ein Versto
+ ß gegen die aus dem allgemeinen Völkerrecht ableitbare Verpflichtung zur
+  Vermeidung irreversibler Schäden für Klima und Umwelt. Unvereinbar mit 
+ dem Pariser Klimaabkommen Roda Verheyen von der Kanzlei Rechtsanwälte Gü
+ nther\, schloss sich der Kritik der Umweltverbände an. „Das Abkommen er
+ möglicht die Erschließung neuer Erdgasvorkommen\, doch das ist nach einh
+ elligen wissenschaftlichen Erkenntnissen mit dem 1\,5-Grad-Ziel und desweg
+ en mit dem Pariser Klimaabkommen unvereinbar“\, sagte Verheyen. Damit ve
+ rstößt das Abkommen ihrer Meinung nach auch gegen das verfassungsrechtli
+ che Klimaschutzgebot aus Artikel 20a des Grundgesetzes. Die Zustimmung des
+  Bundestages zu dem Abkommen habe „eine abwägungsprägende Wirkung“ a
+ uf die landesrechtlich zu erteilenden Genehmigungen. „Sie ist deswegen z
+ u versagen“\, forderte Verheyen. Kein Verstoß gegen das Klimaschutzrech
+ t Dem widersprach der Rechtsanwalt Fritz von Hammerstein. Er sagte\, das A
+ bkommen verstoße weder gegen das Völkerrecht noch gegen nationales oder 
+ internationales Klimaschutzrecht oder die Pariser Übereinkommen. Das Abko
+ mmen sei auch nicht die Voraussetzung für die Genehmigung des N5A-Projekt
+ s\, weil diese bereits vorliege. „Das Abkommen\, über das wir sprechen\
+ , bezieht sich nur auf das genehmigte N5A-Projekt\, auf andere Vorhaben in
+  der Nordsee ist es entgegen anders lautender Behauptung nicht anwendbar
+ “\, erklärte von Hammerstein. Zudem sei die Betriebserlaubnis der N5A-P
+ lattform bis 2042 befristet\, „ein sogenannter fossiler Login ist also n
+ icht zu befürchten“\, so von Hammerstein. Ludger Radermacher\, Leiter d
+ er Abteilung Politik\, Recht und Märkte beim Bundesverband Erdgas\, Erdö
+ l und Geoenergie (BVEG)\, begrüßte den Gesetzentwurf sehr\, vor allem we
+ il durch das Abkommen das Ziel ermöglicht werde\, die grenzüberschreiten
+ den Kohlenwasserstoffvorkommen in der Nordsee\, das N05-A-Feldes und weite
+ re Lagerstätten\, optimal zu erschließen und so die Versorgungssicherhei
+ t zu stärken. „Außerdem wird mit dem Abkommen die heimische Förderung
+  in Deutschland und Europa gerade in der aktuellen geopolitischen Situatio
+ n aus Gründen der Resilienz und der Versorgungssicherheit unterstützt“
+ \, sagte Rademacher. (nki/25.02.2026)\n\nDokumente:\nTagesordnung: https:/
+ /www.bundestag.de/resource/blob/1140312/to_25_25-02-2026_oeA_Unitarisierun
+ gsabkommen_Dtl-NL.pdf\n21/3491: https://dserver.bundestag.de/btd/21/034/21
+ 03491.pdf\nWortprotokoll der 25. Sitzung (öffentliche Anhörung zum Geset
+ zentwurf der Bundesregierung "Entwurf eines Gesetzes zu dem Abkommen vom 2
+ 7. August 2025 zwischen der Regierung der Bundesrepublik Deutschland und d
+ er Regierung des Königreichs der Niederlande über die Erschließung von 
+ grenzüberschreitenden Kohlenwasserstofflagerstätten in der Nordsee"\, BT
+ -Drucksache 21/3491) des Ausschusses für Wirtschaft und Energie am 25. Fe
+ bruar 2026: https://www.bundestag.de/resource/blob/1170574/Wortprotokoll_2
+ 5-_Sitzung_25-02-2026.pdf\nListe der Sachverständigen: https://www.bundes
+ tag.de/resource/blob/1149488/Liste-der-Sachverstaendigen.pdf\n21(9)174 Ste
+ llungnahme der Deutschen Umwelthilfe e.V. (DUH): https://www.bundestag.de/
+ resource/blob/1149532/Stellungnahme_DUH.pdf\n21(9)175 Stellungnahme der Sa
+ chverständigen Dr. Roda Verheyen\, Rechtsanwältin: https://www.bundestag
+ .de/resource/blob/1149626/Stellungnahme_Dr-_Roda_Verheyen_RAin.pdf\n21(9)1
+ 76 Stellungnahme des Greenpeace e.V.: https://www.bundestag.de/resource/bl
+ ob/1149694/Stellungnahme_Greenpeace_eV.pdf\n21(9)180 Stellungnahme des Bun
+ desverband Erdgas\, Erdöl und Geoenergie e.V. (BVEG): https://www.bundest
+ ag.de/resource/blob/1149856/Stellungnahme_BVEG.pdf\n21(9)187 Stellungnahme
+  des Sachverständigen Dr. Fritz von Hammerstein: https://www.bundestag.de
+ /resource/blob/1150958/Stellungnahme_Dr-_Fritz_von_Hammerstein.pdf\n\nSeit
+ e des Ausschusses: https://www.bundestag.de/ausschuesse/a09_wirtschaft\nÜ
+ bertragung: https://www.bundestag.de/mediathek
+LOCATION:Berlin\, Paul-Löbe-Haus\, Sitzungssaal E.200
+URL:https://www.bundestag.de/ausschuesse/a09_wirtschaft/wp21_a09_Anhoerunge
+ n/1140336-1140336
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11403
+ 12/to_25_25-02-2026_oeA_Unitarisierungsabkommen_Dtl-NL.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/034/2103
+ 491.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11705
+ 74/Wortprotokoll_25-_Sitzung_25-02-2026.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11494
+ 88/Liste-der-Sachverstaendigen.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11495
+ 32/Stellungnahme_DUH.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11496
+ 26/Stellungnahme_Dr-_Roda_Verheyen_RAin.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11496
+ 94/Stellungnahme_Greenpeace_eV.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11498
+ 56/Stellungnahme_BVEG.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11509
+ 58/Stellungnahme_Dr-_Fritz_von_Hammerstein.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:ausschuss-ausschuesse-a09-wirtschaft-sitzung-26@bundestag-kalender
+DTSTAMP:20261012T175049Z
+DTSTART;TZID=Europe/Berlin:20260225T103000
+DTEND;TZID=Europe/Berlin:20260225T123000
+SUMMARY:Ausschuss WE: 26. Sitzung (nicht öffentlich)
+DESCRIPTION:26. Sitzung des Ausschusses (nicht öffentlich)\nEnde geschätz
+ t.\n\nTagesordnung und Ergänzungen:\nTagesordnung: https://www.bundestag.
+ de/resource/blob/1149110/to_26_25-02-2026.pdf\n1. Ergänzungsmitteilung: h
+ ttps://www.bundestag.de/resource/blob/1149688/to_26_25-02-2026_1-ergaenzun
+ g.pdf\n\nSeite des Ausschusses: https://www.bundestag.de/ausschuesse/a09_w
+ irtschaft
+LOCATION:Paul-Löbe-Haus\, Sitzungssaal E.200
+URL:https://www.bundestag.de/ausschuesse/a09_wirtschaft
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11491
+ 10/to_26_25-02-2026.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11496
+ 88/to_26_25-02-2026_1-ergaenzung.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:ausschuss-ausschuesse-a09-wirtschaft-sitzung-27@bundestag-kalender
+DTSTAMP:20261012T175049Z
+DTSTART;TZID=Europe/Berlin:20260304T103000
+DTEND;TZID=Europe/Berlin:20260304T123000
+SUMMARY:Ausschuss WE: 27. Sitzung (nicht öffentlich)
+DESCRIPTION:27. Sitzung des Ausschusses (nicht öffentlich)\nEnde geschätz
+ t.\n\nTagesordnung und Ergänzungen:\nTagesordnung: https://www.bundestag.
+ de/resource/blob/1150408/to_27_04-03-2026.pdf\n1. Ergänzungsmitteilung: h
+ ttps://www.bundestag.de/resource/blob/1150834/to_27_04-03-2026_1-ergaenzun
+ g.pdf\n2. Ergänzungsmitteilung: https://www.bundestag.de/resource/blob/11
+ 50960/to_27_04-03-2026_2-ergaenzung.pdf\n\nSeite des Ausschusses: https://
+ www.bundestag.de/ausschuesse/a09_wirtschaft
+LOCATION:Paul-Löbe-Haus\, Sitzungssaal E.200
+URL:https://www.bundestag.de/ausschuesse/a09_wirtschaft
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11504
+ 08/to_27_04-03-2026.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11508
+ 34/to_27_04-03-2026_1-ergaenzung.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11509
+ 60/to_27_04-03-2026_2-ergaenzung.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:ausschuss-ausschuesse-a09-wirtschaft-sitzung-28@bundestag-kalender
+DTSTAMP:20261012T175049Z
+DTSTART;TZID=Europe/Berlin:20260318T103000
+DTEND;TZID=Europe/Berlin:20260318T123000
+SUMMARY:Ausschuss WE: 28. Sitzung (nicht öffentlich)
+DESCRIPTION:28. Sitzung des Ausschusses (nicht öffentlich)\nEnde geschätz
+ t.\n\nTagesordnung und Ergänzungen:\nTagesordnung: https://www.bundestag.
+ de/resource/blob/1155564/to_28_18-03-2026.pdf\n1. Ergänzungsmitteilung: h
+ ttps://www.bundestag.de/resource/blob/1155886/to_28_18-03-2026_1-ergaenzun
+ g.pdf\n2. Ergänzungsmitteilung: https://www.bundestag.de/resource/blob/11
+ 56218/to_28_2_ergaenzung.pdf\n\nSeite des Ausschusses: https://www.bundest
+ ag.de/ausschuesse/a09_wirtschaft
+LOCATION:Paul-Löbe-Haus\, Sitzungssaal E.200
+URL:https://www.bundestag.de/ausschuesse/a09_wirtschaft
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11555
+ 64/to_28_18-03-2026.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11558
+ 86/to_28_18-03-2026_1-ergaenzung.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11562
+ 18/to_28_2_ergaenzung.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:ausschuss-ausschuesse-a09-wirtschaft-anhoerung-1156340@bundestag-kalend
+ er
+DTSTAMP:20261012T175049Z
+DTSTART;TZID=Europe/Berlin:20260320T073000
+DTEND;TZID=Europe/Berlin:20260320T090000
+SUMMARY:Ausschuss WE: Anhörung zum „Kraftstoffmaßnahmenpaket“
+DESCRIPTION:Öffentliche Anhörung (29. Sitzung)\n\nGegenstand: Die von den
+  Koalitionsfraktionen CDU/CSU und SPD geplanten Maßnahmen als Reaktion au
+ f die deutlichen Preissteigerungen an den Tankstellen sind in einer Anhör
+ ung des Ausschusses für Wirtschaft und Energie am Freitag\, 20. März 202
+ 6\, auf ein unterschiedliches Echo gestoßen. Die Koalition will mit dem E
+ ntwurf für ein Kraftstoffpreisanpassungsgesetz (21/4744) einerseits das K
+ artellrecht verschärfen. Zum anderen sollen Tankstellen nur noch einmal a
+ m Tag um 12 Uhr die Preise erhöhen dürfen. Preissenkungen sollen hingege
+ n jederzeit möglich sein. Das Bundeskartellamt soll einfacher gegen markt
+ beherrschende Unternehmen aus dem Kraftstoffbereich vorgehen können\, wen
+ n Hinweise auf unangemessen hohe Preise vorliegen. Bei stark steigenden Pr
+ eisen soll künftig die Beweislast umgekehrt werden\, was bedeutet\, dass 
+ Unternehmen darlegen müssen\, dass ihre Preissteigerungen sachlich gerech
+ tfertigt seien. Mobilitätsgeld und Energiekostenpauschale Unterstützung 
+ erfuhr die Koalition durch den Deutschen Gewerkschaftsbund (DGB). Dessen V
+ ertreter Frederik Moch sagte\, der Entwurf setze wesentliche Teile des DGB
+ -Vorschlags um. Allerdings forderte der Gewerkschaftsbund zusätzliche Ma
+ ßnahmen wie eine Abschöpfung von ungerechtfertigten Spekulationsgewinnen
+  durch eine Übergewinnsteuer als klares Signal an die Marktakteure\, dass
+  es sich nicht lohne\, Marktmacht auszunutzen. Außerdem sprach er sich f
+ ür eine kurzfristige Aufstockung und direkte Auszahlung der Pendlerpausch
+ ale aus\, die in ein einkommensunabhängiges Mobilitätsgeld umgewandelt w
+ erden sollte. In der DGB-Stellungnahme wird auch eine Energiekostenpauscha
+ le von 150 Euro pro Kopf vorgeschlagen. Eine Senkung von CO2-Abgaben wurde
+  aus Klimaschutzgründen abgelehnt. Verlegung der Preiserhöhungsmöglichk
+ eit Prof. Dr. Tomaso Duso (Monopolkommission) sagte\, solange der Rohölpr
+ eis so hoch bleibe\, würden auch die Preise an den Tankstellen hoch bleib
+ en. Wenn Tankstellen nur einmal am Tag die Preise erhöhen dürften\, bek
+ ämen die Verbraucher Orientierung. Die Preisdynamik könne gedämpft werd
+ en. Er regte an\, den Zeitpunkt der Preiserhöhungen auf die Abendzeiten z
+ u verlegen oder mit unterschiedlichen Zeiten in den Bundesländern zu expe
+ rimentieren. Tankrabatte\, Preisbremsen und Steuersenkungen lehnte Duso ab
+ \, weil diese das Strukturproblem nicht lösen würden. Die Beweislastumke
+ hr im Kartellrecht beurteilte er kritisch. Auch Prof. Dr. Justus Haucap (D
+ üsseldorfer Institut für Wettbewerbsökonomie\, Heinrich-Heine-Universit
+ ät) empfahl eine Verlegung der Preiserhöhungsmöglichkeit in die Abendst
+ unden. Außerdem riet Haucap vor allzu überhasteten Maßnahmen ab. Er emp
+ fahl auch\, es zunächst mit einer „schonenden Therapie“ zu versuchen 
+ und nicht die Marktmechanismen außer Kraft zu setzen. Das nun von der Bun
+ desregierung vorgelegte Maßnahmenpaket sei im Wesentlichen geeignet\, „
+ um mit verhältnismäßigen Mitteln auf die Problematik zu reagieren“. E
+ inrichtung einer Preisbeobachtungsstelle Jutta Gurkmann vom Verbraucherzen
+ trale Bundesverband wies auf die ohnehin schon hohe Belastung der Verbrauc
+ her hin. Die Maßnahmen der Bundesregierung wurden von ihr begrüßt. Sie 
+ würden jedoch nicht reichen\, um die Verbraucher hinreichend zu schützen
+ . Es werde wohl nicht bei Preiserhöhungen bei Kraftstoffen bleiben\, sond
+ ern es könnte auch Preiserhöhungen bei Lebensmitteln geben. Daher sprach
+  sie sich für die Einrichtung einer Preisbeobachtungsstelle aus. Es müss
+ e auch überlegt werden\, wie die Verbraucher entlastet werden. Kraftstoff
+ -Steuersenkungen lehnte Gurkmann ab\, weil diese oft nicht weitergegeben w
+ ürden. Vielmehr schlug die Verbraucherzentrale eine Senkung der Stromsteu
+ er vor. Verschärfung der Missbrauchskontrolle Prof. Dr. Jens-Uwe Franck (
+ Universität Mannheim) sagte\, angesichts der schnellen Preissteigerungen 
+ sei es folgerichtig\, das kartellrechtliche Instrumentarium zu verschärfe
+ n und über eine Regulierung der Preiserhöhungsfrequenzen nachzudenken. D
+ ie Verschärfung der Missbrauchskontrolle könne helfen\, aufwendige Missb
+ rauchsverfahren zu erleichtern. Auch die vorgeschlagene Umkehr der Beweisl
+ ast halte er für tragbar. Mehr als einen „gewissen Abschreckungseffekt
+ “ sollte man aber nicht davon erwarten. Zur Regulierung der Preiserhöhu
+ ngsfrequenzen sagte er\, seiner Ansicht nach sollten Preisänderungen alle
+  zwei Stunden erlaubt werden. Margenbegrenzungen und Übergewinnsteuern Da
+ niel Witzani-Haim (Arbeiterkammer Wien) nannte das Verbot von mehr als ein
+ er Preiserhöhung am Tag positiv. Zusammen mit den Kartellrechtsänderunge
+ n seien das erste Maßnahmen. Dennoch stelle sich die Frage\, ob zusätzli
+ che Maßnahmen\, wie Margenbegrenzungen und Übergewinnsteuern notwendig s
+ eien. In Österreich sei man dabei\, Margenbegrenzungen einzuführen. Mit 
+ Blick auf die jüngsten Angriffe auf Gasfelder sagte Witzani-Haim: „Ich 
+ glaube\, es kommt eine Energiekrise auf uns zu.“ (hle/nki/20.03.2026)\n\
+ nDokumente:\nTagesordnung: https://www.bundestag.de/resource/blob/1156380/
+ to_29_20-03-2026_oeA_Kraftstoffmassnahmenpaket.pdf\n21/4744: https://dserv
+ er.bundestag.de/btd/21/047/2104744.pdf\nWortprotokoll der 29. Sitzung (öf
+ fentliche Anhörung zum Gesetzentwurf der Fraktionen der CDU/CSU und SPD "
+ Entwurf eines Gesetzes zur Einführung eines Gesetzes zur Anpassung von Kr
+ aftstoffpreisen und zur Änderung des Gesetzes gegen Wettbewerbsbeschränk
+ ungen (Kraftstoffmaßnahmenpaket))"\, BT-Drucksache 21/4744\, des Ausschus
+ ses für Wirtschaft und Energie am 20. März 2026: https://www.bundestag.d
+ e/resource/blob/1205024/Wortprotokoll_29-Sitzung_20-03-2026.pdf\nListe der
+  Sachverständigen: https://www.bundestag.de/resource/blob/1156634/Liste-d
+ er-Sachverstaendigen.pdf\n21(9)201 Stellungnahme des Sachverständigen Pro
+ f. Dr. Justus Haucap\, Heinrich-Heine University of Düsseldorf: https://w
+ ww.bundestag.de/resource/blob/1156600/Stellungnahme_SV_Dr-_Justus_Haucap_U
+ ni_Duesseldorf.pdf\n21(9)202 Stellungnahme des Verbraucherzentrale Bundesv
+ erband e.V. (vzbv): https://www.bundestag.de/resource/blob/1156612/Stellun
+ gnahme_vzbv_eV.pdf\n21(9)203 Stellungnahme Monopolkommission: https://www.
+ bundestag.de/resource/blob/1156648/Stellungnahme_SV_Prof-Dr-Duso_Monopolko
+ mmission.pdf\n21(9)204 Stellungnahme des Deutschen Gewerkschaftsbundes: ht
+ tps://www.bundestag.de/resource/blob/1156680/Stellungnahme_DGB.pdf\n20(21)
+ 205 Stellungnahme des Sachverständigen Prof. Dr. Jens-Uwe Franck\, LL.M. 
+ (Yale)\, Universität Mannheim: https://www.bundestag.de/resource/blob/115
+ 6862/Stellungnahme-Prof-Dr-Franck.pdf\n21(9)208 Stellungnahme des Sachvers
+ tändigen Daniel Witzani-Haim\, Msc MA\, Arbeiterkammer Wien: https://www.
+ bundestag.de/resource/blob/1157012/Stellungnahme_Arbeiterkammer_Wien.pdf\n
+ \nSeite des Ausschusses: https://www.bundestag.de/ausschuesse/a09_wirtscha
+ ft\nÜbertragung: https://www.bundestag.de/mediathek
+LOCATION:Berlin\, Paul-Löbe-Haus\, Sitzungssaal E.200
+URL:https://www.bundestag.de/ausschuesse/a09_wirtschaft/wp21_a09_Anhoerunge
+ n/1156340-1156340
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11563
+ 80/to_29_20-03-2026_oeA_Kraftstoffmassnahmenpaket.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/047/2104
+ 744.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12050
+ 24/Wortprotokoll_29-Sitzung_20-03-2026.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11566
+ 34/Liste-der-Sachverstaendigen.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11566
+ 00/Stellungnahme_SV_Dr-_Justus_Haucap_Uni_Duesseldorf.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11566
+ 12/Stellungnahme_vzbv_eV.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11566
+ 48/Stellungnahme_SV_Prof-Dr-Duso_Monopolkommission.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11566
+ 80/Stellungnahme_DGB.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11568
+ 62/Stellungnahme-Prof-Dr-Franck.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11570
+ 12/Stellungnahme_Arbeiterkammer_Wien.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:ausschuss-ausschuesse-a09-wirtschaft-sitzung-30@bundestag-kalender
+DTSTAMP:20261012T175049Z
+DTSTART;TZID=Europe/Berlin:20260325T103000
+DTEND;TZID=Europe/Berlin:20260325T123000
+SUMMARY:Ausschuss WE: 30. Sitzung (nicht öffentlich)
+DESCRIPTION:30. Sitzung des Ausschusses (nicht öffentlich)\nEnde geschätz
+ t.\n\nTagesordnung und Ergänzungen:\n1. Ergänzungsmitteilung: https://ww
+ w.bundestag.de/resource/blob/1157094/to_30_25-03-2026_1-_ergaenzung.pdf\n\
+ nSeite des Ausschusses: https://www.bundestag.de/ausschuesse/a09_wirtschaf
+ t
+LOCATION:Paul-Löbe-Haus\, Sitzungssaal E.200
+URL:https://www.bundestag.de/ausschuesse/a09_wirtschaft
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11570
+ 94/to_30_25-03-2026_1-_ergaenzung.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:ausschuss-ausschuesse-a09-wirtschaft-sitzung-31@bundestag-kalender
+DTSTAMP:20261012T175049Z
+DTSTART;TZID=Europe/Berlin:20260415T103000
+DTEND;TZID=Europe/Berlin:20260415T123000
+SUMMARY:Ausschuss WE: 31. Sitzung (nicht öffentlich)
+DESCRIPTION:31. Sitzung des Ausschusses (nicht öffentlich)\nEnde geschätz
+ t.\n\nTagesordnung und Ergänzungen:\n1. Änderungsmitteilung: https://www
+ .bundestag.de/resource/blob/1165068/to_31_15-04-2026_1-_aenderung.pdf\n\nS
+ eite des Ausschusses: https://www.bundestag.de/ausschuesse/a09_wirtschaft
+LOCATION:Paul-Löbe-Haus\, Sitzungssaal PLH E.200
+URL:https://www.bundestag.de/ausschuesse/a09_wirtschaft
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11650
+ 68/to_31_15-04-2026_1-_aenderung.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:ausschuss-ausschuesse-a09-wirtschaft-sitzung-32@bundestag-kalender
+DTSTAMP:20261012T175049Z
+DTSTART;TZID=Europe/Berlin:20260422T103000
+DTEND;TZID=Europe/Berlin:20260422T123000
+SUMMARY:Ausschuss WE: 32. Sitzung (nicht öffentlich)
+DESCRIPTION:32. Sitzung des Ausschusses (nicht öffentlich)\nEnde geschätz
+ t.\n\nTagesordnung und Ergänzungen:\nTagesordnung: https://www.bundestag.
+ de/resource/blob/1165820/to_32_22-04-2026.pdf\n1. Ergänzungsmitteilung: h
+ ttps://www.bundestag.de/resource/blob/1166508/to_32_22-04-2026_1_ergaenzun
+ g.pdf\n2. Ergänzungsmitteilung: https://www.bundestag.de/resource/blob/11
+ 66572/to_32_2_ergaenzung.pdf\n3. Ergänzungsmitteilung: https://www.bundes
+ tag.de/resource/blob/1166906/to_32_3-ergaenzung.pdf\n\nSeite des Ausschuss
+ es: https://www.bundestag.de/ausschuesse/a09_wirtschaft
+LOCATION:Paul-Löbe-Haus\, Sitzungssaal PLH E.200
+URL:https://www.bundestag.de/ausschuesse/a09_wirtschaft
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11658
+ 20/to_32_22-04-2026.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11665
+ 08/to_32_22-04-2026_1_ergaenzung.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11665
+ 72/to_32_2_ergaenzung.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11669
+ 06/to_32_3-ergaenzung.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:ausschuss-ausschuesse-a09-wirtschaft-sitzung-33@bundestag-kalender
+DTSTAMP:20261012T175049Z
+DTSTART;TZID=Europe/Berlin:20260506T103000
+DTEND;TZID=Europe/Berlin:20260506T123000
+SUMMARY:Ausschuss WE: 33. Sitzung (nicht öffentlich)
+DESCRIPTION:33. Sitzung des Ausschusses (nicht öffentlich)\nEnde geschätz
+ t.\n\nTagesordnung und Ergänzungen:\nTagesordnung: https://www.bundestag.
+ de/resource/blob/1173268/to_33_06-05-2026.pdf\n\nSeite des Ausschusses: ht
+ tps://www.bundestag.de/ausschuesse/a09_wirtschaft
+LOCATION:Paul-Löbe-Haus\, Sitzungssaal PLH E.200
+URL:https://www.bundestag.de/ausschuesse/a09_wirtschaft
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11732
+ 68/to_33_06-05-2026.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:ausschuss-ausschuesse-a09-wirtschaft-anhoerung-1174384@bundestag-kalend
+ er
+DTSTAMP:20261012T175049Z
+DTSTART;TZID=Europe/Berlin:20260518T143000
+DTEND;TZID=Europe/Berlin:20260518T160000
+SUMMARY:Ausschuss WE: Anhörung zum „Ökodesign“
+DESCRIPTION:Öffentliche Anhörung (34. Sitzung)\n\nGegenstand: Nicht gewer
+ bliche Reparateure und Reparatur-Cafés können sich auf regulatorische Er
+ leichterungen einstellen. In einer öffentlichen Anhörung des Ausschusses
+  für Wirtschaft und Energie am Montag\, 18. Mai 2026\, die vom Vorsitzend
+ en Christian Freiherr von Stetten (CDU/CSU) geleitet wurde\, begrüßte To
+ m Hansing vom „Runden Tisch Reparatur“\, dass der Zugang zu Ersatzteil
+ en und Reparaturinformationen für fachlich kompetente Reparateure erleich
+ tert werden soll. Mit dem von der Bundesregierung eingebrachten Entwurf ei
+ nes Gesetzes zur Modernisierung der nationalen Umsetzung von europäischen
+  Regelungen zum Ökodesign\, zur Energieverbrauchskennzeichnung und zu wei
+ teren Regelungen (21/5141) werde für die Reparateure eine pragmatische M
+ öglichkeit geschaffen\, einen niederschwelligen Nachweis für Zugang zu E
+ rsatzteilen und Reparaturinformationen zu erbringen. Es werde erstmals ges
+ etzlich anerkannt\, dass fachliche Kompetenz zur Reparatur nicht an Gewerb
+ lichkeit oder handwerkliche Zulassung geknüpft sei. Zugleich mahnte Hansi
+ ng Verbesserungen an\, da es eine ungleiche Behandlung gewerblicher Repara
+ teure außerhalb der Handwerksordnung gebe. Während für in der Handwerks
+ rolle eingetragene Betriebe eine Vermutungswirkung hinsichtlich der Fachku
+ nde gelte\, die die Hersteller akzeptieren müssten\, fehle eine entsprech
+ ende Regelung für gewerbliche Reparateure außerhalb der Handwerksordnung
+ . Modernisierung der nationalen Vollzugsarchitektur Nora Sophie Griefahn v
+ on Cradle to Cradle – Wiege zur Wiege erklärte in ihrer Stellungnahme\,
+  der Gesetzentwurf modernisiere die nationale Vollzugsarchitektur für das
+  europäische Ökodesign-Recht. Er sei in dieser Funktion ein notwendiger 
+ und sachlich angemessener Schritt: Marktüberwachung\, Sanktionen\, Repara
+ turrechte und Vergabeausschluss würden deutlich gestärkt. Sie sagte auß
+ erdem\, Reparieren und Recycling allein reichten nicht aus. Ein reparierba
+ res Produkt aus problematischen Materialien bleibe problematisch - auch na
+ ch mehreren Lebenszyklen. Florian Ruhnke (Verband Deutscher Maschinen- und
+  Anlagenbauer) beurteilte den Gesetzentwurf positiv. Den größten Nutzen 
+ für die Umwelt sehe man in der Steigerung der Energieeffizienz der Produk
+ te. Man habe jedoch Sorgen aufgrund der Berichtspflichten. Über die Markt
+ überwachung drohe zudem eine weitere „Regulierung durch die Hintertür
+ “. Karolina Kumarasingham vom Wirtschaftsverband Fuels und Energie nahm 
+ zu den vorgesehenen Änderungen des Mineralöldatengesetzes Stellung. Die 
+ Branche unterstütze das Ziel einer robusten Krisenvorsorge. Doch dürften
+  dabei die Geschäftsgeheimnisse der betroffenen Unternehmen „nicht unte
+ r die Räder kommen“\, warnte sie. Die Unternehmen würden Daten zu Gesc
+ häftsbeziehungen und zu Kunden zum Zweck der Krisenvorsorge an das Bundes
+ amt für Wirtschaft und Ausfuhrkontrolle melden. Die Verwendung der Daten 
+ über diesen Zweck hinaus würde das Vertrauen der Unternehmen erschütter
+ n. Die Erweiterung auf allgemeine Zwecke wie Klimaberichterstattung und Ma
+ rktmonitoring gehe über das erforderliche Maß hinaus und erhöhe das Ris
+ iko\, dass sensible Daten falsche Hände geraten könnten. Fristverschiebu
+ ng bei Gebäudeenergiegesetz Barbara Metz von der Deutschen Umwelthilfe gi
+ ng auf das Gebäudeenergiegesetz und besonders die Fristverschiebung der 6
+ 5-Prozent-Regelung in dem Gesetz ein. Die Regelung bedeutet\, dass in Stä
+ dten über 100.000 Einwohnern die Pflicht zum Einbau von Heizungen mit 65 
+ Prozent erneuerbaren Energien voraussichtlich erst ab dem 1. November stat
+ t zum 1. Juli 2026 greifen soll. Das sei hochproblematisch\, klimapolitisc
+ h fatal und sozial unverantwortlich. Jede zusätzliche Verzögerung bedeut
+ e\, dass neue fossile Heizungen eingebaut werden könnten und neue fossile
+  Abhängigkeiten und Kostenrisiken für Verbraucher geschaffen werden kön
+ nten. Inhaltlich würden unter dem Stichwort Technologieoffenheit zentrale
+  Leitplanken der Wärmewende aufgeweicht\, kritisierte Metz. Sie forderte 
+ einen klaren Ausstiegspfad für fossile Heizungen. Markus Staudt vom Bunde
+ sverband der Deutschen Heizungsindustrie nahm ebenfalls zur Gebäudemodern
+ isierung Stellung. Es gebe eine große Verunsicherung in der Branche. Man 
+ sei dafür\, die Frist für die 65-Prozent-Regelung auszusetzen\, bis klar
+  sei\, welche Regelungen für die Gebäude gelten würden. Die Heizungsind
+ ustrie sehe das Gebäudemodernisierungsgesetz als Chance\, wieder Ruhe in 
+ den Markt hineinzubringen\, damit Industrie und Handwerk den Bürgern sage
+ n könnten\, was für sie gelte. Staudt warnte vor neuer Bürokratie durch
+  die geplanten Mieterschutzregelungen. Kleinvermieter könnten von Moderni
+ sierungen abgehalten werden oder würden die Mieten erhöhen. (hle/18.05.2
+ 026)\n\nDokumente:\nTagesordnung: https://www.bundestag.de/resource/blob/1
+ 174692/to_34_18-05-2026_oeA_Oekodesign.pdf\n21/5141: https://dserver.bunde
+ stag.de/btd/21/051/2105141.pdf\nWortprotokoll der 34. Sitzung (öffentlich
+ e Anhörung zum Gesetzentwurf der Bundesregierung "Entwurf eines Gesetzes 
+ zur Modernisierung der nationalen Umsetzung von europäischen Regelungen z
+ um Ökodesign\, zur Energieverbrauchskennzeichnung und zu weiteren Regelun
+ gen))"\, BT-Drucksache 21/5141\, des Ausschusses für Wirtschaft und Energ
+ ie am 18. Mai 2026: https://www.bundestag.de/resource/blob/1205078/Wortpro
+ tokoll_34-Sitzung_18-05-2026.pdf\nListe der Sachverständigen: https://www
+ .bundestag.de/resource/blob/1178494/Sachverstaendigenliste.pdf\n21(9)246 S
+ tellungnahme des Cradle to Cradle - Wiege zur Wiege e.V.: https://www.bund
+ estag.de/resource/blob/1178580/Stellungnahme_Cradle_to_Cradle_eV.pdf\n21(9
+ )247 Stellungnahme des Runder Tisch Reparatur e.V.: https://www.bundestag.
+ de/resource/blob/1178600/Stellungnahme_Runder_Tisch_Reparatur_eV.pdf\n\nSe
+ ite des Ausschusses: https://www.bundestag.de/ausschuesse/a09_wirtschaft\n
+ Übertragung: https://www.bundestag.de/mediathek
+LOCATION:Berlin\, Paul-Löbe-Haus\, Sitzungssaal PLH E.200
+URL:https://www.bundestag.de/ausschuesse/a09_wirtschaft/wp21_a09_Anhoerunge
+ n/1174384-1174384
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11746
+ 92/to_34_18-05-2026_oeA_Oekodesign.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/051/2105
+ 141.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12050
+ 78/Wortprotokoll_34-Sitzung_18-05-2026.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11784
+ 94/Sachverstaendigenliste.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11785
+ 80/Stellungnahme_Cradle_to_Cradle_eV.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11786
+ 00/Stellungnahme_Runder_Tisch_Reparatur_eV.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:ausschuss-ausschuesse-a09-wirtschaft-sitzung-35@bundestag-kalender
+DTSTAMP:20261012T175049Z
+DTSTART;TZID=Europe/Berlin:20260520T103000
+DTEND;TZID=Europe/Berlin:20260520T123000
+SUMMARY:Ausschuss WE: 35. Sitzung (nicht öffentlich)
+DESCRIPTION:35. Sitzung des Ausschusses (nicht öffentlich)\nEnde geschätz
+ t.\n\nTagesordnung und Ergänzungen:\nTagesordnung: https://www.bundestag.
+ de/resource/blob/1178372/to_35_20-05-2026.pdf\n1. Ergänzungsmitteilung: h
+ ttps://www.bundestag.de/resource/blob/1178550/to_35_20-05-2026_1-_ergaenzu
+ ng.pdf\n\nSeite des Ausschusses: https://www.bundestag.de/ausschuesse/a09_
+ wirtschaft
+LOCATION:Paul-Löbe-Haus\, Sitzungssaal PLH E.200
+URL:https://www.bundestag.de/ausschuesse/a09_wirtschaft
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11783
+ 72/to_35_20-05-2026.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11785
+ 50/to_35_20-05-2026_1-_ergaenzung.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:ausschuss-ausschuesse-a09-wirtschaft-anhoerung-1174410@bundestag-kalend
+ er
+DTSTAMP:20261012T175049Z
+DTSTART;TZID=Europe/Berlin:20260520T140000
+DTEND;TZID=Europe/Berlin:20260520T160000
+SUMMARY:Ausschuss WE: Anhörung zum Gas-/H2-Binnenmarktpaket
+DESCRIPTION:Öffentliche Anhörung (36. Sitzung)\n\nGegenstand: Sachverstä
+ ndige haben sich für die Zukunft der Gasnetze und deren Umbau für einen 
+ Technologiemix ausgesprochen. Während ein Großteil der Netze zurückgeba
+ ut werde\, sollten ausgewählte Leitungen für Wasserstoff und Biomethan u
+ mgerüstet werden. Die Experten äußerten sich am Mittwoch\, 20. Mai 2026
+ \, in einer öffentlichen Anhörung des Ausschusses für Wirtschaft und En
+ ergie zu dem von der Bundesregierung eingebrachten Entwurf des Gesetzes zu
+ r Änderung des Energiewirtschaftsgesetzes (EnWG) und weiterer energierech
+ tlicher Vorschriften zur Umsetzung des Europäischen Gas- und Wasserstoff-
+ Binnenmarktpakets (21/5440). Mit dem Gesetz wird das EU-Gas- und Wassersto
+ ff-Binnenmarktpaket (Richtlinie (EU) 2024/1788\, Verordnung (EU) 2024/1789
+ ) umgesetzt. Das Vorhaben schafft die rechtlichen Rahmenbedingungen für e
+ ine strukturierte Weiterentwicklung der Gasnetze in nationales Recht. Weit
+ ernutzung der Netze mit erneuerbaren Gasen Dieser Umbau sieht verschiedene
+  Entwicklungspfade vor: Zum einen geht es um die Weiternutzung bestehender
+  Gasnetze mit erneuerbaren und kohlenstoffarmen Gasen\, zum anderen um den
+  Bau neuer Wasserstoffleitungen. Außerdem sollen Gasleitungen\, die nicht
+  mehr benötigt werden\, dauerhaft stillgelegt werden. So soll Wasserstoff
+ \, wie Erdgas\, einen gleichberechtigten Zugang zu den Netzen erhalten. Be
+ treiber werden verpflichtet\, Netzzugänge zu gewähren. Um faire Wettbewe
+ rbsbedingungen zu schaffen\, dürfen Wasserstoffnetze künftig nicht mehr 
+ von denselben Unternehmen betrieben werden\, die gleichzeitig Erdgas oder 
+ Strom erzeugen oder liefern. Gasversorger müssen transparent ausweisen\, 
+ ob sie fossile\, kohlenstoffarme oder erneuerbare Gase liefern. Dies wird 
+ durch neue Herkunftsnachweise belegt. Die bisherige\, separate Planung von
+  Erdgas- und Wasserstoffnetzen wird zusammengelegt. Die Nutzung stillgeleg
+ ter Gasleitungen zur Wasserstoffförderung wird erleichtert und die Netzpl
+ anung mit der kommunalen Wärmeplanung verzahnt. Finanzierungskonzept für
+  bestehende Verteilnetze gefordert Dr. Sebastian Bolay\, Bereichsleiter En
+ ergie\, Umwelt\, Industrie bei der Deutschen Industrie- und Handelskammer 
+ (DIHK)\, forderte ein Finanzierungskonzept für bestehende Verteilnetze un
+ d die Weiterentwicklung des Kernnetzes sowie gedeckelte Hochlaufentgelte f
+ ür Speicher. Auf diese Weise würde Investitionssicherheit auf Abnehmerse
+ ite für den Wasserstoffhochlauf gewährleistet\, andernfalls dürfte der 
+ Hochlauf der Wasserstoffwirtschaft an prohibitiven Netzentgelten scheitern
+ \, sagte er. Darüber hinaus sollte die Versorgungssicherheit höchste Pri
+ orität besitzen: Die Fristen im Falle einer Anschlussverweigerung und Ans
+ chlusstrennung bei Gasversorgung sollten so gesetzt sein\, dass ein Überg
+ ang zu einer klimaneutralen Energieversorgung den Unternehmen ermöglicht 
+ werde. Expertin: Nachbesserungsbedarf bei Kappungsfrist Sandra Rostek\, Le
+ itung des Hauptstadtbüros Bioenergie\, hob hervor\, dass das Gas- und Was
+ serstoffbinnenmarktpaket der EU vorsieht\, für Biomethan der Zugang zur I
+ nfrastruktur zu verbessern. Dort habe man erkannt\, dass Biogas- und Biome
+ than wichtige Wirtschaftsfaktoren mit sehr hoher Wertschöpfung\, gerade i
+ m ländlichen Raum\, seien. Dieser Vorgabe wird der Kabinettsentwurf aller
+ dings in keiner Weise gerecht\, sagte Rostek. Die neu geschaffene Möglich
+ keit\, Netzbetreibern die Anschlüsse von Biomethananlagen mit einem Vorla
+ uf von nur zehn Jahren entschädigungslos kündigen zu können\, wären da
+ s Aus für neue Biomethanprojekte. Zudem stelle die geplante Regelung auch
+  einen massiven Eingriff in den Investitions- und Bestandsschutz von über
+  200 bestehenden Einspeiseanlagen dar. Dies sei nicht nur ein klarer Bruch
+  des Europarechts\, sondern stehe auch im Widerspruch zum erklärten Vorsa
+ tz der Bundesregierung mehr grüne Gase in die Gebäudewärme zu bringen D
+ ie Regelung solle dahingehend angepasst werden\, dass Biomethananlagen nur
+  dann vom Netz getrennt werden dürfen\, wenn ein Weiterbetrieb dem Gemein
+ wohlinteresse und nicht nur den wirtschaftlichen Interessen des Netzbetrei
+ bers widerspreche. Vergrünung statt Stilllegung Dr. Timm Kehler\, Geschä
+ ftsführer beim Branchenverband Die Gas- und Wasserstoffwirtschaft\, sieht
+  bei der Transformation der bestehenden Gasinfrastruktur in mehreren Regel
+ ungsbereichen erheblichen Anpassungsbedarf. Die Transformation der Gas- un
+ d Wasserstoffinfrastruktur müsse technologieoffen\, wirtschaftlich tragf
+ ähig und investitionsfreundlich ausgestaltet werden\, forderte Kehler. Ve
+ rsorgungssicherheit\, Wettbewerbsfähigkeit und Bezahlbarkeit müssten dab
+ ei auch während der gesamten Umbauphase gewährleistet bleiben. Die Grund
+ ausrichtung muss auf Vergrünung statt Stilllegung abzielen\, sagte er. Be
+ i der Finanzierung zum Ausbau eines Wasserstoff-Kernnetzes bestehe aktuell
+  kein ausgewogenes Verhältnis zwischen Risiko und Rendite. Insbesondere d
+ er hohe Selbstbehalt für Netzbetreiber sowie eine nicht risiko-adäquate 
+ Eigenkapitalverzinsung verringere die Attraktivität privater Investitione
+ n deutlich. Da sollte der Gesetzgeber nachsteuern. Netzanschlussregelungen
+  ab 2027 schnellstmöglich konkretisieren Nach Ansicht von Prof. Dr. Olaf 
+ Däuper\, Rechtsanwalt und Partner bei Becker Büttner Held Rechtsanwälte
+ \, Wirtschaftsprüfer\, Steuerberater\, sowie Lehrbeauftragter bei der Uni
+ versität Kassel\, gibt es inhaltlich am Gesetzentwurf mit Ausnahme einige
+ r Details nur wenig zu kritisieren. Größte Herausforderung sei\, darauf 
+ zu achten\, dass das Energiewirtschaftsgesetz mit anderen Gesetzesvorhaben
+  ähnlicher Zielrichtung\, wie Dekarbonisierung der Wärmeversorgung\, har
+ moniere und sich an den Schnittstellen zu deren Regelungsgegenständen pas
+ sgenau einfüge. Die geplante Zehn-Jahres-Frist sei in Anbetracht von Verb
+ raucherinteressen ausreichend. Die Netzanschlussregelungen ab dem Kalender
+ jahr 2027 sollten schnellstmöglich konkretisiert werden\, sagte Däupner.
+  Anderweitig drohe bereits jetzt ein Stillstand bei der Planung zukünftig
+ er Netzanschlussprojekte. Experte: Planungssicherheit beim Rückbau der Ne
+ tzinfrastruktur Andrees Gentzsch\, Mitglied der Hauptgeschäftsführung be
+ im Bundesverband der Energie- und Wasserwirtschaft (BDEW)\, ist der Meinun
+ g\, dass der Gesetzentwurf bei einigen zentralen Regelungsgegenständen no
+ ch hinter dem Notwendigen zurückbleibe. Hier muss der Gesetzgeber nachbes
+ sern\, um eine praxisgerechte\, rechtssichere und effiziente Umsetzung der
+  zur Erreichung der Ziele erforderlichen Maßnahmen sicherzustellen\, sagt
+ e Gentzsch. So brauche es beim Rückbau der Netzinfrastruktur Planungssich
+ erheit und klare Prozesse bei der Umwidmung oder Stilllegung von Gasnetzen
+ . Für den Hochlauf der Wasserstoffwirtschaft seien investitionsfördernde
+  und kapitalmarktfähige Bedingungen notwendig. Um den Netzausbau effizien
+ t zu gestalten\, sollen Gewinne aus dem klassischen Gasnetzgeschäft für 
+ die Wasserstoff-Transformation genutzt werden dürfen. Bei den Regelungen 
+ zu den Gasspeichern und der Umlagenfinanzierung mahnte Gentzsch stabile re
+ chtliche Rahmenbedingungen an\, um unkalkulierbare Kostensteigerungen für
+  die Endverbraucher zu verhindern. Investitionssicherheit angemahnt Prof. 
+ Dr. Marc Hansmann\, Vorstandsmitglied für Finanzen und Infrastruktur des 
+ Energieversorgers Enercity\, Hannover\, plädierte für einen konsequenten
+  Ausbau des Fernwärme- und des Stromnetzes und spricht sich gegen doppelt
+ e Netzinfrastrukturen aus. Für Kosteneffizienz und bezahlbare Wärme wird
+  Enercity in seinem Konzessionsgebiet einen Großteil der Gasnetzinfrastru
+ ktur langfristig stilllegen\, kündigte er an. Der Verbleib stillgelegter 
+ Gasleitungen im Erdreich sei drei- bis viermal günstiger als deren Ausbau
+ . Klimaneutrale Gase\, wie grüner Wasserstoff und Biomethan\, sollten vor
+ rangig für industrielle Prozesse und Kraftwerke eingesetzt werden und sin
+ d zum Heizen in Privathaushalten auf absehbare Zeit viel zu teuer. Von her
+ ausragender Bedeutung für die Wärmewende sei deshalb\, dass die Gesetzge
+ bung Konsistenz\, Sozialverträglichkeit und Investitionssicherheit gewäh
+ rleistet\, sagte Hansmann Stilllegung nicht mehr verwendeter Gasnetze gefo
+ rdert Helene Freitag\, Expertin für Energie und Klimaschutz bei der Deuts
+ chen Umwelthilfe (DUH)\, sieht erheblichen Veränderungsbedarf am geplante
+ n Gesetz. Sie forderte eine koordinierte Transformation und die Stilllegun
+ g nicht mehr verwendeter Gasnetze. Eine Weiternutzung der bestehenden Gasv
+ erteilnetze ist perspektivisch nur durch die ausschließliche Einspeisung 
+ von Biomethan möglich\, dessen Verfügbarkeit absehbar knapp und dessen H
+ erstellung teuer bleiben wird\, sagte Freitag. Gasverteilnetzbetreiber sol
+ lten dazu verpflichtet werden\, die mit der kommunalen Wärmeplanung verza
+ hnten Verteilernetzentwicklungspläne spätestens bis zum Jahr 2029 vorzul
+ egen. Einen Weiterbetrieb unrentabler Gasverteilnetze durch die Einspeisun
+ g von Biomethan lehnt die DUH ab. Die künftige Entwicklung von Gasverteil
+ netzen solle ökonomisch\, ökologisch und sozial tragfähig gestaltet wer
+ den. Die Rolle der Kommunen Martin Klausch\, Referatsleiter bei der Bundes
+ vereinigung der kommunalen Spitzenverbände\, stellte klar\, dass die Komm
+ unen eine zentrale Rolle bei der Steuerung der Transformation\, vor allem 
+ im Rahmen der kommunalen Wärmeplanung spielen. Vor Ort seien weitreichend
+ e Entscheidungen über Investitionen zu treffen – etwa zum parallelen Au
+ fbau von Wärmenetzen\, grüner Wasserstoffinfrastruktur oder Quartierslö
+ sungen. Für die anstehenden Entscheidungen über Investitionen und Konzes
+ sionsverträge benötigen die Kommunen Planungssicherheit\, sagte Klausch.
+  Vor allem der Umgang mit stillgelegter Gasinfrastruktur müsse noch konkr
+ etisiert werden. Darüber hinaus müsse im Zuge der Transformation der Gas
+ netze die Versorgung von Verbrauchern in den Netzgebieten gesichert werden
+ \, in denen der Weiterbetrieb für den Netzbetreiber aufgrund immer gering
+ er ausfallender Abnahme unwirtschaftlich werde. Für die noch am Netz befi
+ ndlichen Verbraucher fordern wir eine befristete Weiterbetriebspflicht\, d
+ ie vom Gesetzgeber zu entschädigen ist\, sagte Klausch. (nki/20.05.2026)\
+ n\nDokumente:\nTagesordnung: https://www.bundestag.de/resource/blob/117492
+ 6/to_36_20-05-2026_oeA_Gas-H2-Binnenmarkpaket.pdf\n21/5440: https://dserve
+ r.bundestag.de/btd/21/054/2105440.pdf\nWortprotokoll der 36. Sitzung (öff
+ entliche Anhörung zum Gesetzentwurf der Bundesregierung "Entwurf eines Ge
+ setzes zur Änderung des Energiewirtschaftsgesetzes und weiterer energiere
+ chtlicher Vorschriften zur Umsetzung des Europäischen Gas- und Wasserstof
+ f-Binnenmarktpakets))"\, BT-Drucksache 21/5440\, des Ausschusses für Wirt
+ schaft und Energie am 20. Mai 2026: https://www.bundestag.de/resource/blob
+ /1205308/Wortprotokoll_36-_Sitzung_20-05-2026.pdf\nListe der Sachverständ
+ igen: https://www.bundestag.de/resource/blob/1178448/Sachverstaendigenlist
+ e.pdf\nStellungnahme der Deutschen Industrie- und Handelskammer (DIHK): ht
+ tps://www.bundestag.de/resource/blob/1178484/Stellungnahme_DIHK.pdf\n21(9)
+ 244 Stellungnahme des Hauptstadtbüro Bioenergie: https://www.bundestag.de
+ /resource/blob/1178546/Stellungnahme_Hauptstadtbuero_Bioenergie.pdf\n21(9)
+ 243neu Stellungnahme des BDEW - Bundesverband der Energie- und Wasserwirts
+ chaft e.V.: https://www.bundestag.de/resource/blob/1178522/Stellungnahme_B
+ DEW.pdf\n21(9)258 Stellungnahme Bundesvereinigung der kommunalen Spitzenve
+ rbände: https://www.bundestag.de/resource/blob/1178952/Stellungnahme_Komm
+ -Spitzenverbaende.pdf\n21(9)259 Stellungnahme DIE GAS- UND WASSERSTOFFWIRT
+ SCHAFT e.V.: https://www.bundestag.de/resource/blob/1178954/Stellungnahme_
+ Gas-und-Wasserwirtschaft.pdf\n21(9)260 Stellungnahme des Sachverständigen
+  Prof. Olaf Däuper\, Honorarprofessor an der Universität Kassel\, Becker
+  Büttner Held Rechtsanwälte Steuerberater\, Unternehmensberater PartGmbB
+ : https://www.bundestag.de/resource/blob/1178956/Stellungn_SV_Olaf_Daeuper
+ .pdf\n21(9)250neu Stellungnahme der Enercity AG: https://www.bundestag.de/
+ resource/blob/1178862/Stellungnahme_Enercity_AG.pdf\n21(9)262 Stellungnahm
+ e der Deutschen Umwelthilfe e.V.: https://www.bundestag.de/resource/blob/1
+ 179124/Stellungnahme_DUH.pdf\n\nSeite des Ausschusses: https://www.bundest
+ ag.de/ausschuesse/a09_wirtschaft\nÜbertragung: https://www.bundestag.de/m
+ ediathek
+LOCATION:Berlin\, Paul-Löbe-Haus\, Sitzungssaal PLH E.200
+URL:https://www.bundestag.de/ausschuesse/a09_wirtschaft/wp21_a09_Anhoerunge
+ n/1174410-1174410
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11749
+ 26/to_36_20-05-2026_oeA_Gas-H2-Binnenmarkpaket.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/054/2105
+ 440.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12053
+ 08/Wortprotokoll_36-_Sitzung_20-05-2026.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11784
+ 48/Sachverstaendigenliste.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11784
+ 84/Stellungnahme_DIHK.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11785
+ 46/Stellungnahme_Hauptstadtbuero_Bioenergie.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11785
+ 22/Stellungnahme_BDEW.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11789
+ 52/Stellungnahme_Komm-Spitzenverbaende.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11789
+ 54/Stellungnahme_Gas-und-Wasserwirtschaft.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11789
+ 56/Stellungn_SV_Olaf_Daeuper.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11788
+ 62/Stellungnahme_Enercity_AG.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11791
+ 24/Stellungnahme_DUH.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:ausschuss-ausschuesse-a09-wirtschaft-sitzung-37@bundestag-kalender
+DTSTAMP:20261012T175049Z
+DTSTART;TZID=Europe/Berlin:20260610T100000
+DTEND;TZID=Europe/Berlin:20260610T120000
+SUMMARY:Ausschuss WE: 37. Sitzung (nicht öffentlich)
+DESCRIPTION:37. Sitzung des Ausschusses (nicht öffentlich)\nEnde geschätz
+ t.\n\nTagesordnung und Ergänzungen:\nTagesordnung: https://www.bundestag.
+ de/resource/blob/1183400/to_37_10-06-2026.pdf\n1. Ergänzungsmitteilung: h
+ ttps://www.bundestag.de/resource/blob/1183580/to_37_10-06-2026_1-ergaenzun
+ g.pdf\n2. Änderungs-/Ergänzungsmitteilung: https://www.bundestag.de/reso
+ urce/blob/1183712/to_37_10-06-2026_2-ergaenzung.pdf\n3. Ergänzungsmitteil
+ ung: https://www.bundestag.de/resource/blob/1183854/to_37_10-06-2026_3-erg
+ aenzung.pdf\n4. Änderungs-/Ergänzungsmitteilung: https://www.bundestag.d
+ e/resource/blob/1183900/to_37_10-06-2026_4-ergaenzung.pdf\n5. Ergänzungsm
+ itteilung: https://www.bundestag.de/resource/blob/1183942/to_37_10-06-2026
+ _6-ergaenzung.pdf\n\nSeite des Ausschusses: https://www.bundestag.de/aussc
+ huesse/a09_wirtschaft
+LOCATION:Paul-Löbe-Haus\, Sitzungssaal PLH E.200
+URL:https://www.bundestag.de/ausschuesse/a09_wirtschaft
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11834
+ 00/to_37_10-06-2026.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11835
+ 80/to_37_10-06-2026_1-ergaenzung.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11837
+ 12/to_37_10-06-2026_2-ergaenzung.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11838
+ 54/to_37_10-06-2026_3-ergaenzung.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11839
+ 00/to_37_10-06-2026_4-ergaenzung.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11839
+ 42/to_37_10-06-2026_6-ergaenzung.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:ausschuss-ausschuesse-a09-wirtschaft-anhoerung-1184240@bundestag-kalend
+ er
+DTSTAMP:20261012T175049Z
+DTSTART;TZID=Europe/Berlin:20260622T114500
+DTEND;TZID=Europe/Berlin:20260622T131500
+SUMMARY:Ausschuss WE: Anhörung zum Bundesbedarfsplangesetz
+DESCRIPTION:Öffentliche Anhörung (38. Sitzung)\n\nGegenstand: Die Stromne
+ tzbetreiber haben sich für Änderungen an dem von der Bundesregierung ein
+ gebrachten Zweiten Gesetz zur Änderung des Bundesbedarfsplangesetzes (21/
+ 6128\, 21/6564) ausgesprochen. Insbesondere wurde beim Leitungsbau\, der k
+ ünftig zur Verbesserung der Kosteneffizienz vorrangig in Form von Freilei
+ tungen erfolgen soll\, von den vorgesehenen Ausnahmeregelungen für die Er
+ dverkabelung in Teilabschnitten abgeraten. Dadurch könnten sich Genehmigu
+ ngsverfahren um Jahre verlängern\, wurde gewarnt. In einer vom Vorsitzend
+ en Christian Freiherr von Stetten (CDU/CSU) geleiteten öffentlichen Anhö
+ rung des Ausschusses für Wirtschaft und Energie am Montag\, 22. Juni 2026
+ \, wurde von Dr. Guido Hermeier von der Amprion GmbH auf den seiner Ansich
+ t nach problematischen Wechsel zwischen Erdverkabelung und Freileitungen i
+ m Höchstspannungsnetz hingewiesen. Im Ergebnis führe die Ausnahmeregelun
+ g voraussichtlich zu einem Wechsel zwischen Freileitungs- und Erdkabelabsc
+ hnitten\, was Hermeier als „Nähmaschine“ bezeichnete. Es drohten Zeit
+ verzögerungen durch erforderliche Doppelprüfungen und Genehmigungsrisike
+ n durch erhebliche Diskussionen mit Trägern öffentlicher Belange und der
+  Öffentlichkeit über die Ausführungsart bei einem mehrfachen Wechsel in
+  räumlicher Nähe. Experte: Entwurf ist hochakzeptabel Dr. Werner Götz v
+ on TransnetBW nannte den Gesetzentwurf inhaltlich hochakzeptabel. Man freu
+ e sich\, dass mit dem Vorzug für Freileitungen die schnellste\, wirtschaf
+ tlichste und robusteste Variante gewählt worden sei. Die Ausnahmeregelung
+  sah er kritisch. Man habe die Sorge\, dass sich Bauprojekte bis zu zwei J
+ ahre durch die Ausnahmeregelung verschieben könnten. Die „Nähmaschine
+ “ sei „ein Konstrukt\, das uns beängstigt“. Ein Wechsel von Freilei
+ tung zu Erdverkabelung koste 70 Millionen Euro und benötige für die tech
+ nischen Einrichtungen eine Fläche von zwei Fußballfeldern. Genauso äuß
+ erte sich Andreas Feicht von RheinEnergie. Erdkabel seien erheblich teurer
+  als Freileitungen. Das gelte auch für den Betrieb\, weil die Erdkabel ke
+ ine so lange Haltbarkeitsdauer hätten wie Freileitungen. Dadurch werde St
+ rom unnötig teuer. Man habe früher angenommen\, dass Erdkabel auf stärk
+ ere Akzeptanz stoßen würden. Das habe sich als falsch erwiesen. Wie Göt
+ z riet er von Ausnahmemöglichkeiten ab. Warnung vor Leitungsumplanungen D
+ r. Christoph Riese von GÖRG Partnerschaft von Rechtsanwälten berichtete 
+ über einen erstellten Vergleich zwischen Freileitungen und Erdkabeln. Ein
+  Wechsel von der geplanten Erdverkabelung zu Freileitungen werde die Inbet
+ riebnahme bei zwei untersuchten Projekten um vier bis sieben Jahre verzög
+ ern. Im Gegensatz zu den Erdkabeln\, die weitgehend durchgeplant seien\, m
+ üssten neue Verfahren für die Freileitungen durchgeführt werden. Riese 
+ sprach auch von fehlender Akzeptanz bei Eingriffen in die Landschaft durch
+  den Bau von Freileitungen. Auf Fragen nach der Resilienz des Stromnetzes 
+ sagte Riese\, Angriffe auf Erdkabel seien schwieriger als auf Freileitunge
+ n. Vor Leitungsumplanungen warnte Silke Weyberg vom Landesverband Erneuerb
+ are Energien Niedersachsen/Bremen. Bereits begonnene Leitungsplanungen mü
+ ssten weitergeführt werden. „Ein Umschwenken in begonnenen Planungen vo
+ n Erdkabeln auf Freileitungen würde zu Unsicherheiten und Verzögerungen 
+ sowie letztendlich Kostenerhöhungen führen“\, sagte sie. Sie glaube ni
+ cht\, dass es zu Beschleunigungen der Verfahren kommen werde. Eine Umkehr 
+ zum Freileitungsvorrang würde zu Akzeptanzproblemen in besonders belastet
+ en Gebieten führt. Allein Niedersachsen sei von rund 30 Projekten betroff
+ en. Experte: Großer Elefant im Raum ist die Eigentumsfrage Dr. Patrick Ka
+ czmarczyk vom Kompetenzzentrum für Transformation der Universität Mannhe
+ im wies darauf hin\, dass der erklärte Anspruch des Gesetzentwurfs ein be
+ darfsgerechter\, kosteneffizienter und beschleunigter Ausbau sei. Während
+  der Entwurf für die Dimensionen „bedarfsgerecht“ und „beschleunigt
+ “ konkrete Vorkehrungen treffe wie über die Bestätigung der Vorhaben u
+ nd die grundsätzliche Bevorzugung kostengünstigerer Freileitungen\, blei
+ be die Finanzierung der Investitionen außerhalb des Gesetzes. Der „gro
+ ße Elefant im Raum“ sei\, wem die Netze gehörten würden und wie hoch 
+ die Renditen seien. Private Finanzinvestoren würden Renditen von acht bis
+  zehn Prozent fordern\, während sich die öffentliche Hand zu einem Bruch
+ teil dieser Kosten am Kapitalmarkt refinanzieren könne. Da das zusätzlic
+ he Eigenkapital überwiegend öffentlich bereitgestellt werden müsste\, u
+ m den Anstieg der Netzentgelte zu begrenzen\, liege es nahe\, die Übertra
+ gungsnetzbetreiber insgesamt in öffentliches Eigentum zu überführen\, e
+ mpfahl Kaczmarczyk. Der Entwurf eines Zweiten Gesetzes zur Änderung des B
+ undesbedarfsplangesetzes zielt darauf ab\, das deutsche Stromübertragungs
+ netz auf der Höchstspannungsebene schneller\, bedarfsgerechter und kosten
+ effizienter auszubauen. Dazu sollen 45 weitere Vorhaben zum Ausbau des Str
+ omnetzes in den Bundesbedarfsplan aufgenommen werden. 13 Netzausbauvorhabe
+ n sollen geändert\, und für 58 Vorhaben soll der vordringliche Bedarf fe
+ stgestellt werden. (hle/24.06.2026)\n\nDokumente:\nTagesordnung: https://w
+ ww.bundestag.de/resource/blob/1184300/to_38_22-06-2026_oeA_BBedarfsplanG.p
+ df\n21/6128: https://dserver.bundestag.de/btd/21/061/2106128.pdf\n21/6564:
+  https://dserver.bundestag.de/btd/21/065/2106564.pdf\nListe der Sachverst
+ ändigen: https://www.bundestag.de/resource/blob/1187770/Sachverstaendigen
+ liste.pdf\n21(9)280 Stellungnahme Patrick Kaczmarczyk\, Ph.D.\, Universit
+ ät Mannheim: https://www.bundestag.de/resource/blob/1190634/Stellungnahme
+ _SV_Kaczmarczyk.pdf\n21(9)283 Stellungnahme des Sachverständigen Dr. Guid
+ o Hermeier\, Amprion GmbH: https://www.bundestag.de/resource/blob/1190814/
+ Stellungnahme_SV_Dr-Guido_Hermeier_Amprion_GmbH.pdf\n21(9)287 Stellungnahm
+ e der Sachverständigen Silke Weyberg\, LEE Niedersachsen: https://www.bun
+ destag.de/resource/blob/1190954/Stellungnahme_LEE.pdf\n21(9)292 Stellungna
+ hme der 50 Hertz\, TenneT\, Transnet BW GmbH: https://www.bundestag.de/res
+ ource/blob/1191170/Stellungnahme_50_Hertz_TenneT_Transnet_BW.pdf\n\nSeite 
+ des Ausschusses: https://www.bundestag.de/ausschuesse/a09_wirtschaft\nÜbe
+ rtragung: https://www.bundestag.de/mediathek
+LOCATION:Berlin\, Paul-Löbe-Haus\, Sitzungssaal PLH E.200
+URL:https://www.bundestag.de/ausschuesse/a09_wirtschaft/wp21_a09_Anhoerunge
+ n/1184240-1184240
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11843
+ 00/to_38_22-06-2026_oeA_BBedarfsplanG.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/061/2106
+ 128.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/065/2106
+ 564.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11877
+ 70/Sachverstaendigenliste.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11906
+ 34/Stellungnahme_SV_Kaczmarczyk.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11908
+ 14/Stellungnahme_SV_Dr-Guido_Hermeier_Amprion_GmbH.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11909
+ 54/Stellungnahme_LEE.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11911
+ 70/Stellungnahme_50_Hertz_TenneT_Transnet_BW.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:ausschuss-ausschuesse-a09-wirtschaft-anhoerung-1184258@bundestag-kalend
+ er
+DTSTAMP:20261012T175049Z
+DTSTART;TZID=Europe/Berlin:20260622T133000
+DTEND;TZID=Europe/Berlin:20260622T160000
+SUMMARY:Ausschuss WE: Anhörung zum Gebäudemodernisierungsgesetz
+DESCRIPTION:Öffentliche Anhörung (39. Sitzung)\n\nGegenstand: Das geplant
+ e Gebäudemodernisierungsgesetz (GModG)\, mit dem die Bundesregierung das 
+ Gebäudeenergiegesetz (Heizungsgesetz) ablösen will\, ist bei Sachverstä
+ ndigen auf massive Kritik gestoßen. Die Experten bemängeln vor allem bü
+ rokratische Überlastung\, soziale Risiken für Verbraucher und mangelnde 
+ Praxistauglichkeit\, und sie äußern verfassungsrechtliche Bedenken. Gege
+ nstand der öffentlichen Anhörung des Ausschusses für Wirtschaft und Ene
+ rgie waren am Montag\, 22. Juni 2026\, der Gesetzentwurf der Bundesregieru
+ ng zur Änderung des Gebäudeenergiegesetzes\, zur Änderung des Gebäude-
+ Elektromobilitätsinfrastruktur-Gesetzes und zur Änderung weiterer Vorsch
+ riften im Wärmebereich (21/6278\, 21/6565) sowie der Antrag der Fraktion 
+ Bündnis 90/Die Grünen mit dem Titel Heizkostenfalle verhindern – Klima
+  und Mieterinnen und Mieter schützen\, Energieunabhängigkeit stärken (2
+ 1/6006) und die Anträge der Fraktion Die Linke mit den Titeln Heizkostend
+ eckel sofort einführen und Gasausstieg ermöglichen (21/6019) und Für da
+ s Recht auf Heizen – Bezahlbar und erneuerbar (21/3910). Neue Belastunge
+ n und erhebliche Rechtsunsicherheiten Dr. Kai Warnecke\, Präsident von Ha
+ us und Grund Deutschland\, begrüßte „die Abschaffung des Heizungsgeset
+ zes der Vorgängerregierung“. Vor allem die Streichung der Paragrafen 71
+ \, 71b bis 71p sowie des Paragrafen 72 des Gebäudeenergiegesetzes\, der W
+ egfall der pauschalen 65-Prozent-Vorgabe für erneuerbare Energien und die
+  Wiederherstellung größerer Entscheidungsfreiheit beim Heizungstausch se
+ ien richtige und notwendige Schritte“\, sagte Warnecke. Aus Sicht der pr
+ ivaten Eigentümer bleibe der Entwurf jedoch an zentralen Stellen hinter d
+ iesem Anspruch zurück. Vor allem die Einführung der Bio-Treppe bringe mi
+ t neuen Nachweis- und Aufbewahrungspflichten\, mietrechtlichen Sonderregel
+ ungen sowie der Ausweitung des Kohlendioxidkostenaufteilungsgesetzes neue 
+ Belastungen und erhebliche Rechtsunsicherheiten mit sich. Dabei hätten di
+ e Hauseigentümer begriffen: „In 18 Jahren\, sechs Monaten und acht Tage
+ n Stand heute kann man keine fossilen Heizungen mehr benutzen“\, sagte W
+ arnecke. Das würden aktuelle Zahlen verdeutlichen: Im vergangenen Jahr se
+ ien 300.000 Wärmepumpen eingebaut worden\, „während der Einbau von Gas
+ - und Ölheizungen eingebrochen ist“\, betonte er Grundlegende Neuordnun
+ g des Gebäudeenergierechts Michael Hilpert\, Präsident des Zentralverban
+ des Sanitär Heizung (ZVSHK)\, berichtet hingegen von verunsicherten Firme
+ n. „“Meine Kollegen fragen mich\, welche Regeln gelten?“\, so Hilper
+ t. Er habe den Eindruck\, der Entwurf sei keine einfache Abschaffung des H
+ eizungsgesetzes\, sondern eine grundlegende Neuordnung des Gebäudeenergie
+ rechts. Hilpert hält es für nötig\, dass auch in Zukunft unterschiedlic
+ he Heizsysteme möglich bleiben – von Wärmepumpen über Hybridlösungen
+  bis hin zu Gas-\, Öl- und Biomasseheizungen. Gleichzeitig dürfe aber ni
+ cht verschwiegen werden\, dass fossile Heizsysteme künftig schrittweise s
+ trengeren Anforderungen beim Einsatz klimafreundlicher Brennstoffe unterli
+ egen. „Damit entstehen neue wirtschaftliche Unsicherheiten für Eigentü
+ mer\, Betriebe und Verbraucher“\, sagte er. Man erwarte nun\, dass der G
+ esetzentwurf deutlich einfacher und praxistauglicher gestaltet werde. Nach
+ weis- und Dokumentationspflichten reduzieren Markus Staudt\, Hauptgeschäf
+ tsführer beim Bundesverband der Deutschen Heizungsindustrie\, wünscht si
+ ch ebenfalls Nachbesserungen. Vor allem bei der Ausgestaltung von Nachweis
+ - und Dokumentationspflichten muss die Bürokratie reduziert werden\, ford
+ erte Staudt. Die Technologieoffenheit dürfe jedoch nicht allein auf dem P
+ apier bestehen. Das Gesetz müsse in erster Linie dazu führen\, dass mehr
+  investiert werde. Die Wärmewende im Gebäudesektor wird nur dann erfolgr
+ eich sein\, wenn private und gewerbliche Gebäudeeigentümer bereit sind\,
+  in moderne Heizungsanlagen zu investieren\, sagte er. Dr. Kai Roger Lobo\
+ , stellvertretender Hauptgeschäftsführer und Leiter der Abteilung Energi
+ ewirtschaft beim Verband kommunaler Unternehmen (VKU)\, betonte die Auswir
+ kungen des Gesetzes auf die Gas- und die Stromgrundversorger. Die Bürokra
+ tie soll nicht weiter ausgefahren werden\, sagte Lobo. Deswegen appelliert
+ e er an die Verantwortlichen\, praxistaugliche Regeln zu finden\, die geei
+ gnet seien\, die Wärmewende für Jahre zu tragen und zu unterstützen. Si
+ e darf nicht alle paar Jahre wieder komplett in ihren Leitplanken zur Abst
+ immung gestellt werden\, denn das ist Gift für jede Art von Infrastruktur
+ planung\, so Lobo. Erhebliche finanzielle Risiken für Mieter Florian Beck
+ er\, Bundesdirektor des Deutschen Mieterbundes\, sieht sowohl Fortschritte
+  als auch erhebliche finanzielle Risiken für Mieter. Aus diesem Grund sol
+ le „ein technologieneutraler Heizkostendeckel eingeführt werden\, der d
+ ie nach einem Heizungstausch von Mietern zu zahlenden künftigen Heizkoste
+ n nach den Kosten der wirtschaftlichsten Heizungsoption begrenzt“\, ford
+ erte er. Außerdem solle der CO2-Preis vollständig vom Vermieter getragen
+  werden müssen. Die geplante pauschale 50/50-Aufteilung des CO2-Preises z
+ wischen den Mietvertragsparteien bei neu eingebauten fossilen Heizungsanla
+ gen bedeute für die Mehrheit der Mieter zwar eine Verbesserung gegenüber
+  der aktuellen Situation. Becker wies jedoch darauf hin\, dass es in sehr 
+ ineffizienten Gebäuden durch eine 50/50-Aufteilung auch zu Mehrbelastunge
+ n für Mieter kommen könne. Deshalb halte man daran fest\, dass der CO2-P
+ reis vollständig von den Vermietern getragen werden sollte\, da sie die I
+ nvestitionsentscheidungen träfen. Heizkostennachzahlung über 6.500 Euro 
+ Wie stark Mieter mit geringem Einkommen bereits von seit Jahren gestiegene
+ n Kosten für Öl- und Gasheizungen betroffen sind\, davon berichtete Ruth
+  Elisabeth Carcassonne\, Mieterin einer Wohnung des Wohnkonzerns Vonovia. 
+ Sie machte deutlich\, welchen Schock eine Heizkostennachzahlung über 6.50
+ 0 Euro für das Jahr 2022 bei ihr ausgelöst habe: Diese Forderung hat mir
+  den Boden unter den Füßen weggezogen\, und nicht nur mir\, denn ich war
+  natürlich nicht die Einzige\, die eine Nachforderung in vergleichbarer H
+ öhe erhalten hatte. Sie lebe in einer Wohnung in einem schlecht isolierte
+ n Gebäude: Im Winter seien es in den Zimmern durchschnittlich 17 Grad und
+  im Sommer 35 Grad. Carcassonne forderte eine klimaneutrale Sanierung der 
+ Wohnung. Neue Unsicherheiten und Probleme Frederik Moch\, Abteilungsleiter
+  für Struktur-\, Industrie- und Dienstleistungspolitik im Bundesvorstand 
+ des Deutschen Gewerkschaftsbunds (DGB)\, hält den Anspruch des Gesetzes\,
+  Regulierung einfacher und verlässlicher zu machen\, zwar für gut\, doch
+  dieser Gesetzentwurf erfüllt das nicht\, sagte Moch. Statt Klarheit und 
+ Verlässlichkeit schafften die komplexen Änderungen neue Unsicherheiten u
+ nd Probleme. Damit erweist der Gesetzentwurf dem schrittweisen und sozialv
+ erträglichen Umbau der Wärmeversorgung hin zur Klimaneutralität einen B
+ ärendienst\, sagte er. Auch die Bio-Treppe sieht er kritisch. Nach seiner
+  Auffassung sollten erneuerbare Moleküle bevorzugt in Wirtschaftsbereiche
+ n und Sektoren zum Einsatz kommen\, in denen es keine alternativen\, einfa
+ cheren Dekarbonisierungsoptionen gebe\, wie beispielsweise im Schiff- und 
+ Luftverkehr. Für Bewohner in derart beheizten Gebäuden drohten jedoch er
+ hebliche Kostenrisiken\, denn die künftige Preisentwicklung der erneuerba
+ ren Brennstoffe sei völlig unklar. Auf Verbraucher kommen erhebliche Kost
+ en zu Auch Dr. Helmut Waniczek\, Chemiker und Autor\, befürchtet\, dass d
+ urch den Einsatz von Wasserstoff und Biomethan zur Beheizung von Wohnungen
+  und anderen Gebäuden erhebliche Kosten auf die Verbraucher zukommen. Der
+  Entwurf sehe einen Erfüllungsaufwand für die Bürger von einer jährlic
+ hen Entlastung in Höhe von 5\,1 Milliarden Euro vor. Der Erfüllungsaufwa
+ nd für die Wirtschaft werde mit 2\,3 Milliarden Euro beziffert. „Insges
+ amt sind die Angaben der Aufwände im Gesetzentwurf nicht nachvollziehbar 
+ und deshalb stark anzuzweifeln“\, sagte Waniczek. Die Preise für biogen
+ e Brennstoffe könnten laut Entwurf gar nicht vorhergesagt werden. Auch Fe
+ rnwärme werde als mögliche Option erwähnt\, gleichzeitig sei aber klar\
+ , dass diese Infrastruktur nur punktuell zur Verfügung stehen werde. Verf
+ assungswidrig und europarechtswidrig Die schwersten Bedenken gegen das Ges
+ etz erhob Prof. Dr. Remo Klinger\, Fachanwalt für Verwaltungsrecht bei Ge
+ ulen & Klinger Rechtsanwälte. Er erklärte: Der Entwurf ist verfassungswi
+ drig\, europarechtswidrig. Artikel 20 Grundgesetz verpflichtet den Staat z
+ um Klimaschutz und zielt auf die Herstellung von Klimaneutralität. Die su
+ ggerierte Möglichkeit\, Heizkessel mit fossilen Brennstoffen über das Ja
+ hr 2044 hinaus zu betreiben\, stehe in einem direkten Konflikt zur gesetzl
+ ichen Vorgabe\, bis 2045 Klimaneutralität zu erreichen. Die Bundesregieru
+ ng wolle der Verunsicherung beim Heizungsgesetz begegnen und Klarheit scha
+ ffen\, doch stattdessen ermögliche sie nun Entscheidungen\, die zu erblic
+ hen Verunsicherungen führen. Klimaneutralitätsziel wird nicht strukturel
+ l unterlaufen Dem widersprach Prof. Dr. Johann-Christian Pielow\, Staatsre
+ chtler und Gutachter bei der Rosin Büdenbender Rechtsanwaltsgesellschaft.
+  Ihm zufolge darf ein neugewählter Bundestag frühere Gesetze zum Klimasc
+ hutz ändern. Schließlich ist (...) das Parlament der Natur nach Souverä
+ n\, beziehungsweise vertreten die gewählten Abgeordneten diesen Souverän
+  in Gestalt des Wahlvolks. Außerdem heißt es in dem Gutachten aus der Re
+ chtsanwaltsgesellschaft Rosin Büdenbender\, das als Ausschussdrucksache (
+ 21(9)293) in die Anhörung eingebracht wurde: Die behauptete strukturelle 
+ Lücke im Klimaschutzrecht infolge der Streichung des Paragrafen 72des Geb
+ äudeenergiegesetzes sei schon im Ausgangspunkt nicht erkennbar. Zwar kön
+ nten einzelne fossile Bestandsheizungen theoretisch über 2045 hinaus ohne
+  unmittelbare Bio-Treppe-Verpflichtung weiterbetrieben werden. Tatsächlic
+ h werde deren Zahl aufgrund der typischen Lebensdauer der Anlagen übersch
+ aubar sein\, sodass das gesetzliche Klimaneutralitätsziel nicht strukture
+ ll unterlaufen wird. Kommunen: Technologieoffenheit ein richtiger Schritt 
+ Dr. Eva Bode\, Referatsleiterin Kommunalwirtschaft beim Deutschen Städte-
+  und Gemeindebund\, die auch den Deutschen Landkreistag vertrat\, und Dr. 
+ Till Jenssen\, Hauptreferent für Klimaschutz und Energiepolitik beim Deut
+ schen Städtetag\, sehen die Technologieoffenheit im GMoDG zwar als einen 
+ „richtigen Schritt“. Allerdings entfalle damit für Kommunen\, die ber
+ eits mit ihrer Wärmeplanung fertig seien oder bald fertig sein werden\, 
+ „eine wesentliche Grundlage für Investitionsentscheidungen in die Wärm
+ einfrastruktur“\, heißt es in einer gemeinsamen schriftlichen Stellungn
+ ahme vom Deutschen Städte- und Gemeindebund/Deutscher Landkreistag und vo
+ m Deutschen Städtetag. Der Gesetzentwurf sehe die Streichung der Paragraf
+ en 71\, 71b bis 71p des Gebäudeenergiegesetzes (GEG) vor\, ohne dass die 
+ Verknüpfung von Wärmeplanung und Heizungsentscheidung in anderer Form au
+ fgefangen werde. „Von den weiteren Änderungen\, die größtenteils Anfo
+ rderungen der EU-Gebäuderichtlinie umsetzen\, sind die Kommunen zum Teil 
+ direkt betroffen\, da kostenintensive Vorgaben für Renovierungen und Neub
+ auvorhaben in ihrem Gebäudebestand getroffen werden“\, heißt es in der
+  Stellungnahme. Es gelte\, die Kosten „realistisch und nach Ebenen diffe
+ renziert darzustellen“. Der Gesetzentwurf habe an dieser Stelle keine Kl
+ arheit geschaffen. (nki/22.06.2026)\n\nDokumente:\nTagesordnung: https://w
+ ww.bundestag.de/resource/blob/1184302/to_39_22-06-2026_oeA_GModG.pdf\n21/6
+ 278: https://dserver.bundestag.de/btd/21/062/2106278.pdf\n21/6565: https:/
+ /dserver.bundestag.de/btd/21/065/2106565.pdf\n21/6006: https://dserver.bun
+ destag.de/btd/21/060/2106006.pdf\n21/6019: https://dserver.bundestag.de/bt
+ d/21/060/2106019.pdf\n21/3910: https://dserver.bundestag.de/btd/21/039/210
+ 3910.pdf\nListe der Sachverständigen: https://www.bundestag.de/resource/b
+ lob/1187772/Sachverstaendigenliste.pdf\n21(9)281 Stellungnahme GEULEN & KL
+ INGER Rechtsanwälte PartmbB: https://www.bundestag.de/resource/blob/11906
+ 40/Stellungnahme_Geulen-Klinger.pdf\n21(9)282 Stellungnahme Haus und Grund
+  Deutschland: https://www.bundestag.de/resource/blob/1190642/Stellungnahme
+ _Haus-Grund.pdf\n21(9)284 Stellungnahme des Deutschen Gewerkschaftsbundes 
+ (DGB): https://www.bundestag.de/resource/blob/1190866/Stellungnahme_DGB.pd
+ f\n21(9)285 Stellungnahme des Sachverständigen Dr. Dipl. Ing. Helmut Wani
+ czek\, Chemiker und Autor: https://www.bundestag.de/resource/blob/1190908/
+ Stellungahme_SV_Waniczek.pdf\n21(9)288 Stellungnahme des Deutschen Mieterb
+ undes e.V. (DMB): https://www.bundestag.de/resource/blob/1190984/Stellungn
+ ahme_DMB.pdf\n21(9)289 Stellungnahme des Sachverständigen Dr. Kai Roger L
+ obo\, Verband kommunaler Unternehmen e.V. (VKU): https://www.bundestag.de/
+ resource/blob/1191016/Stellungnahme_VKU.pdf\n21(9)290 Stellungnahme des Ze
+ ntralverbandes Sanitär Heizung Klima (ZVSHK): https://www.bundestag.de/re
+ source/blob/1191044/Stellungnahme_ZVSHK.pdf\n21(9)291 Gemeinsame Stellungn
+ ahme des Deutschen Städte- und Gemeindebundes (DStGB) und des Deutschen L
+ andkreistages (DLT): https://www.bundestag.de/resource/blob/1191046/Stellu
+ ngnahme_DStGB_DLT.pdf\n21(9)296 Stellungnahme des Bundesverband der Deutsc
+ hen Heizungsindustrie (BDH): https://www.bundestag.de/resource/blob/119142
+ 2/Stellungnahme_BDH.pdf\n21(9)286 Stellungnahme des Deutschen Städtetag: 
+ https://www.bundestag.de/resource/blob/1190916/Stellungnahme_Dt-Staedtetag
+ .pdf\n21(9)293 Gutachten der Rosin Büdenbender Rechtsanwaltsgesellschaft 
+ mbH: https://www.bundestag.de/resource/blob/1191272/Gutachten_Rosin_Bueden
+ bender_RA_GmbH.pdf\nDrucksache 50/50: https://dserver.bundestag.de/btd/50/
+ 000/5000050.pdf\n\nSeite des Ausschusses: https://www.bundestag.de/ausschu
+ esse/a09_wirtschaft\nÜbertragung: https://www.bundestag.de/mediathek
+LOCATION:Berlin\, Paul-Löbe-Haus\, Sitzungssaal PLH E.200
+URL:https://www.bundestag.de/ausschuesse/a09_wirtschaft/wp21_a09_Anhoerunge
+ n/1184258-1184258
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11843
+ 02/to_39_22-06-2026_oeA_GModG.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/062/2106
+ 278.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/065/2106
+ 565.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/060/2106
+ 006.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/060/2106
+ 019.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/039/2103
+ 910.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11877
+ 72/Sachverstaendigenliste.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11906
+ 40/Stellungnahme_Geulen-Klinger.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11906
+ 42/Stellungnahme_Haus-Grund.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11908
+ 66/Stellungnahme_DGB.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11909
+ 08/Stellungahme_SV_Waniczek.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11909
+ 84/Stellungnahme_DMB.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11910
+ 16/Stellungnahme_VKU.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11910
+ 44/Stellungnahme_ZVSHK.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11910
+ 46/Stellungnahme_DStGB_DLT.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11914
+ 22/Stellungnahme_BDH.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11909
+ 16/Stellungnahme_Dt-Staedtetag.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11912
+ 72/Gutachten_Rosin_Buedenbender_RA_GmbH.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/50/000/5000
+ 050.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:ausschuss-ausschuesse-a09-wirtschaft-anhoerung-1184264@bundestag-kalend
+ er
+DTSTAMP:20261012T175049Z
+DTSTART;TZID=Europe/Berlin:20260624T080000
+DTEND;TZID=Europe/Berlin:20260624T100000
+SUMMARY:Ausschuss WE: Anhörung zum StromVKG
+DESCRIPTION:Öffentliche Anhörung (40. Sitzung)\n\nGegenstand: Der Bau und
+  die Standorte für neue Kraftwerke\, die im Strom-Versorgungs- und - Kapa
+ zitätengesetz (Strom VKG\, 21/6279\, 21/6563) vorgesehen sind\, sind Stre
+ itthema in einer öffentlichen Anhörung des Wirtschaftsausschusses am Mit
+ twochmorgen\, 24. Juni 2026\, gewesen. Die Sachverständigen diskutierten 
+ neben dem Gesetzentwurf der Bundesregierung zum Strom VKG auch einen Antra
+ g der Fraktion Bündnis 90/Die Grünen mit dem Titel „Effiziente Kapazit
+ ätsausschreibungen mit Zukunft - Für eine Versorgungssicherheit ohne teu
+ ren fossilen Lock-In“ (21/6369) sowie den Antrag „Energieversorgung si
+ chern – Bezahlbar\, erneuerbar und dezentral“ der Fraktion Die Linke (
+ 21/6360). Beschluss noch vor der Sommerpause geplant Noch vor der Sommerpa
+ use soll das Strom VKG\, auch Kraftwerksgesetz genannt\, vom Bundestag ver
+ abschiedet werden. Im Bundeswirtschaftsministerium gilt es als „zentrale
+ r Meilenstein für die Stromversorgungssicherheit“. Ziel ist es\, den Ne
+ ubau von Stromkraftwerken auszuschreiben\, die immer dann als Reserve eins
+ pringen können\, wenn Wind- und Solaranlagen nicht genug Strom produziere
+ n. Bislang sieht der Gesetzentwurf den Süden und Westen als Standorte vor
+ \, Bundesländer im Norden und Osten drohen leer auszugehen. Kerstin Andre
+ ae\, Vorsitzende der Hauptgeschäftsführung und Mitglied des Präsidiums 
+ beim Bundesverband der Energie- und Wasserwirtschaft (BDEW)\, betonte\, es
+  sei wichtig\, dass der Zeitplan eingehalten werde und die ersten Ausschre
+ ibungen im Rahmen des Strom VKG noch 2026 starten könnten. Für den Bau e
+ ines Gaskraftwerks würden mindestens fünf Jahre veranschlagt\, daher dr
+ änge die Zeit. „Die ersten Ausschreibungen adressieren also zunächst e
+ inen Sockel neuer\, steuerbarer Kraftwerke. Das ist nachvollziehbar und ke
+ ine Abwehr von Technologieoffenheit“\, sagte Andreae. Doch sie forderte 
+ drei Nachbesserungen beim Gesetz: Zum einen brauche es Investitionssicherh
+ eit vor dem Gebotstermin\, zweitens sollte auf den vorgesehenen Höchstpre
+ is verzichtet werden. Die Wirtschaftlichkeit der Investitionen sei derzeit
+  nicht gegeben „und deswegen muss hier nachgebessert werden“. Drittens
+  müsse die Akteursvielfalt gesichert werden. Das bedeute\, dass man beim 
+ Thema Sicherheiten und bei vertraglich vereinbarten Geldstrafen (Pönale) 
+ darauf achte\, „dass kleinere und mittlere Akteure faktisch nicht ausges
+ chlossen werden“. Experte: Südbonus muss verbessert werden Felix Flecke
+ nstein\, Politischer Referent für Energiepolitik beim Deutscher Gewerksch
+ aftsbund (DGB)\, sieht die Bevorzugung süddeutscher Regionen beim Bau vor
+  allem der neuen Langzeitkapazitäten\, also beim Kraftwerksneubau\, kriti
+ sch. „Der sogenannte Südbonus muss verbessert werden“\, forderte Flec
+ kenstein. Der Zubau solle so ausgestaltet sein\, dass „zwei Drittel der 
+ neuen Kapazitäten im netztechnischen Süden und ein Drittel im netztechni
+ schen Norden Deutschlands entstehen“. Insbesondere an den ostdeutschen K
+ ohlekraftwerksstandorten müssten ebenfalls neue Kapazitäten entstehen k
+ önnen. „Diese bisherige Leerstelle des Gesetzentwurfs ist strukturpolit
+ isch unvermittelbar und erscheint aus energiewirtschaftlichen Erwägungen 
+ nicht sachgerecht“\, sagte Fleckenstein. Stefan Kapferer\, Vorsitzender 
+ der Geschäftsführung bei 50Hertz Transmission\, unterstützte diese Ford
+ erung. Neue steuerbare Kapazitäten müssten nicht nur in ausreichender Me
+ nge\, sondern auch an den richtigen Standorten entstehen. „Die Standortv
+ erteilung ist keine regionalpolitische Frage\, sondern eine Voraussetzung 
+ für den auch zukünftig sicheren Netzbetrieb“\, sagte Kapferer. Der im 
+ Gesetzentwurf vorgesehene Südbonus greife diesen Gedanken grundsätzlich 
+ auf. Neben dem „berechtigten Bedarf“ im netztechnischen Süden müsste
+ n auch die systemisch erforderlichen Kapazitäten im netztechnischen Norde
+ n „wirksam abgesichert werden“\, forderte er. Die vier Übertragungsne
+ tzbetreiber hätten auf Basis von Netzsicherheitsbedarfen eine Zielverteil
+ ung ermittelt\, dass zwei Drittel der Kapazitäten im Süden und ein Dritt
+ el im Norden aufgebaut werden sollten. Kritik an Wettbewerbsbedingungen Dr
+ . Kai Roger Lobo\, Stellvertretender Hauptgeschäftsführer beim Verband k
+ ommunaler Unternehmen (VKU)\, will\, dass sich auch kommunale Unternehmen 
+ an den Ausschreibungen für die Kraftwerksprojekten beteiligen können. Es
+  gelte\, den Gesetzentwurf dahingehend auszugestalten\, dass diese Unterne
+ hmen sich „sowohl mit Neubau- und Erweiterungsprojekten als auch mit Bes
+ tandsanlagen in einem fairen Wettbewerb an den geplanten Ausschreibungen b
+ eteiligen können“\, forderte Lobo. Anderenfalls bestehe die Gefahr\, da
+ ss Zubau und Modernisierung steuerbarer Kraftwerkskapazitäten „überwie
+ gend von wenigen großen Marktteilnehmern“ realisiert würden. Um das zu
+  verhindern\, sollten im Gesetz eine Begrenzung der maximalen Zuschlagsmen
+ ge pro Bieter eingebaut werden\, etwa durch Begrenzung von Gebots- beziehu
+ ngsweise Zuschlagsvolumina einzelner Anbieter. Ursula Heinen-Esser\, Präs
+ identin des Bundesverbands Erneuerbare Energie (BEE)\, kritisierte die ein
+ seitige Ausrichtung des Kapazitätsmechanismus auf fossile Gaskraftwerke. 
+ Dabei stünden bereits alternative Technologien wie die „Batterie\, die 
+ Pumpspeicher und Elektrolyseur bereit“\, sagte Heinen-Esser. Sie fordert
+ e\, diese Technologien gleichwertig in das Gesetz einzubeziehen und gesetz
+ lich konkrete Transformationspfade für Gaskraftwerke vor 2045 zu veranker
+ n. Der Gesetzesentwurf weise bislang erhebliche Leerstellen in der Ausgest
+ altung des „H2-ready“-Kriteriums für fossile Gaskraftwerke aus. Nach 
+ dem derzeitigen Entwurf dürften diese bis Ende 2045 weiterhin mit Erdgas 
+ betrieben werden. Diese Regelung berge jedoch die Gefahr\, die Dekarbonisi
+ erung über die nächsten Jahrzehnte zu verschleppen. Experte befürchtet 
+ technologische und teure Handschellen Urban Windelen\, Bundesgeschäftsfü
+ hrer beim Bundesverband Energiespeicher Systeme (BVES)\, sagte: „Es geht
+  nicht um Speicher gegen Gaskraftwerke\, worauf es momentan immer wieder s
+ o verkürzt wird\, sondern um die Frage\, was sichert unsere Versorgung re
+ chtssicher\, zukunftsfest und möglichst kostengünstig.“ Es sei wichtig
+ \, das zukünftige Energiesystem „rechtssicher und zukunftssicher“ zu 
+ gestalten\, um auch den Rahmen für die zukünftigen Entwicklungen und zuk
+ ünftigen Herausforderungen offen zu halten. „Und hier liegt der Hund be
+ graben“\, sagte Windelen. Der Gesetzentwurf sehe sogenannte Langzeitauss
+ chreibungen vor\, „damit legen wir uns gewissermaßen technologische\, s
+ tarre und teure Handschellen an“. Ursache dafür sei nicht eine einzelne
+  Regelung im Gesetz\, sondern die Kombination aus den gewählten Kriterien
+ \, die kumulativ wirkten\, technisch\, fachlich nicht notwendig seien und 
+ letztlich auch nur für Speicher und neue Technologien gelten würden\, 
+ „um genau diese\, so scheint es\, zu verhindern“. Batteriespeicher sei
+ en „damit zwar formal zugelassen\, praktisch aber letztlich nicht“. J
+ örg Jasper\, Leiter Strategie\, Energiewirtschaft und Positionierung - Er
+ zeugung und Gas bei der Energie Baden-Württemberg (EnBW) (Union)\, widers
+ prach dem und hält es im Hinblick auf die Versorgungssicherheit für „a
+ ngemessen“\, die Ausschreibungen mit Kraftwerken 2026 zu beginnen. Analy
+ sen zeigten\, dass in den 2030er-Jahren die Kapazitäten um weitere fünf 
+ Gigawatt ergänzt werden müssten. Er sei zuversichtlich\, dass „ausreic
+ hend Kapazitäten vorhanden sind\, um im Zusammenspiel mit Batterien Verso
+ rgungssicherheit bis in die 30er-ahre zu gewährleisten“. Insofern sei d
+ as Gesetz „gut dimensioniert“. (nki/24.06.2026)\n\nDokumente:\nTagesor
+ dnung: https://www.bundestag.de/resource/blob/1184304/to_40_24-06-2026_oeA
+ _StromVKG.pdf\n21/6279: https://dserver.bundestag.de/btd/21/062/2106279.pd
+ f\n21/6563: https://dserver.bundestag.de/btd/21/065/2106563.pdf\n21/6369: 
+ https://dserver.bundestag.de/btd/21/063/2106369.pdf\n21/6360: https://dser
+ ver.bundestag.de/btd/21/063/2106360.pdf\nListe der Sachverständigen: http
+ s://www.bundestag.de/resource/blob/1187774/Sachverstaendigenliste.pdf\n21(
+ 9)294 Stellungnahme des Verbands kommunaler Unternehmen e.V. (VKU): https:
+ //www.bundestag.de/resource/blob/1191346/Stellungnahme_VKU.pdf\n21(9)295 S
+ tellungnahme des BDEW Bundesverband der Energie- und Wasserwirtschaft e.V.
+ : https://www.bundestag.de/resource/blob/1191348/Stellungnahme_BDEW.pdf\n2
+ 1(9)297 Stellungnahme des Deutschen Gewerkschaftsbund DGB: https://www.bun
+ destag.de/resource/blob/1191574/Stellungnahme_DGB.pdf\n21(9)298 Stellungna
+ hme des Bundesverband Erneuerbare Energie e.V. (BEE): https://www.bundesta
+ g.de/resource/blob/1191662/Stellungnahme_BEE.pdf\n21(9)299 Stellungnahme d
+ er 50Hertz Transmission GmbH: https://www.bundestag.de/resource/blob/11916
+ 64/Stellungnahme_50_Hertz_Transmission_GmbH.pdf\n21(9)307 Stellungnahme de
+ s Bundesverbands Energiespeicher Systeme e.V.: https://www.bundestag.de/re
+ source/blob/1193086/Stellungnahme_Bundesverband_Energiespeicher_Systeme.pd
+ f\n\nSeite des Ausschusses: https://www.bundestag.de/ausschuesse/a09_wirts
+ chaft\nÜbertragung: https://www.bundestag.de/mediathek
+LOCATION:Berlin\, Paul-Löbe-Haus\, Sitzungssaal PLH E.200
+URL:https://www.bundestag.de/ausschuesse/a09_wirtschaft/wp21_a09_Anhoerunge
+ n/1184264-1184264
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11843
+ 04/to_40_24-06-2026_oeA_StromVKG.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/062/2106
+ 279.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/065/2106
+ 563.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/063/2106
+ 369.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/063/2106
+ 360.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11877
+ 74/Sachverstaendigenliste.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11913
+ 46/Stellungnahme_VKU.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11913
+ 48/Stellungnahme_BDEW.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11915
+ 74/Stellungnahme_DGB.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11916
+ 62/Stellungnahme_BEE.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11916
+ 64/Stellungnahme_50_Hertz_Transmission_GmbH.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11930
+ 86/Stellungnahme_Bundesverband_Energiespeicher_Systeme.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:ausschuss-ausschuesse-a09-wirtschaft-sitzung-41@bundestag-kalender
+DTSTAMP:20261012T175049Z
+DTSTART;TZID=Europe/Berlin:20260624T103000
+DTEND;TZID=Europe/Berlin:20260624T123000
+SUMMARY:Ausschuss WE: 41. Sitzung (nicht öffentlich)
+DESCRIPTION:41. Sitzung des Ausschusses (nicht öffentlich)\nEnde geschätz
+ t.\n\nTagesordnung und Ergänzungen:\nTagesordnung: https://www.bundestag.
+ de/resource/blob/1190622/to_41_24-06-2026.pdf\n1. Ergänzungsmitteilung: h
+ ttps://www.bundestag.de/resource/blob/1191660/to_41_24-06-2026_1-ergaenzun
+ g.pdf\n2. Ergänzungsmitteilung: https://www.bundestag.de/resource/blob/11
+ 91962/to_41_2-ergaenzung.pdf\n\nSeite des Ausschusses: https://www.bundest
+ ag.de/ausschuesse/a09_wirtschaft
+LOCATION:Paul-Löbe-Haus\, Sitzungssaal PLH E.200
+URL:https://www.bundestag.de/ausschuesse/a09_wirtschaft
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11906
+ 22/to_41_24-06-2026.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11916
+ 60/to_41_24-06-2026_1-ergaenzung.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11919
+ 62/to_41_2-ergaenzung.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:ausschuss-ausschuesse-a09-wirtschaft-sitzung-43@bundestag-kalender
+DTSTAMP:20261012T175049Z
+DTSTART;TZID=Europe/Berlin:20260708T103000
+DTEND;TZID=Europe/Berlin:20260708T123000
+SUMMARY:Ausschuss WE: 43. Sitzung (nicht öffentlich)
+DESCRIPTION:43. Sitzung des Ausschusses (nicht öffentlich)\nEnde geschätz
+ t.\n\nTagesordnung und Ergänzungen:\nTagesordnung: https://www.bundestag.
+ de/resource/blob/1193326/to_43_08-07-2026.pdf\n1. Ergänzungsmitteilung: h
+ ttps://www.bundestag.de/resource/blob/1193384/to_43_08-07-2026_1-_ergaenzu
+ ng.pdf\n2. Ergänzungsmitteilung: https://www.bundestag.de/resource/blob/1
+ 193504/to_43_08-07-2027_2-Ergaenzung.pdf\n3. Ergänzungsmitteilung: https:
+ //www.bundestag.de/resource/blob/1193700/to_43_08-07-2026_3-ergaenzung.pdf
+ \n4. Ergänzungsmitteilung: https://www.bundestag.de/resource/blob/1193968
+ /to_43_08-07-2026_4-ergaenzung.pdf\n\nSeite des Ausschusses: https://www.b
+ undestag.de/ausschuesse/a09_wirtschaft
+LOCATION:Paul-Löbe-Haus\, Sitzungssaal E.200
+URL:https://www.bundestag.de/ausschuesse/a09_wirtschaft
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11933
+ 26/to_43_08-07-2026.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11933
+ 84/to_43_08-07-2026_1-_ergaenzung.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11935
+ 04/to_43_08-07-2027_2-Ergaenzung.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11937
+ 00/to_43_08-07-2026_3-ergaenzung.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11939
+ 68/to_43_08-07-2026_4-ergaenzung.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:ausschuss-ausschuesse-a09-wirtschaft-anhoerung-1205008@bundestag-kalend
+ er
+DTSTAMP:20261012T175049Z
+DTSTART;TZID=Europe/Berlin:20260908T080000
+DTEND;TZID=Europe/Berlin:20260908T093000
+SUMMARY:Ausschuss WE: Anhörung zum Wärmeplanungsgesetz
+DESCRIPTION:Öffentliche Anhörung (44. Sitzung)\n\nGegenstand: Sachverstä
+ ndige haben bei einer Anhörung im Ausschuss für Wirtschaft und Energie a
+ m Dienstag\, 8. September 2026\, erheblichen Änderungsbedarf an dem Geset
+ zentwurf der Bundesregierung zur Änderung des Wärmeplanungsgesetzes (21/
+ 6587\, 21/7821) angemeldet\, demnach sei eine fundierte Kostenplanung und 
+ ein verlässliches Projektmanagement mit umfassender Fördermittelstrategi
+ e notwendig. Gesetzentwurf der Bundesregierung Mit dem vorliegenden Entwur
+ f soll der Aufwand kleiner Kommunen reduziert werden. Die Wärmeplanung (W
+ PG) wurde zum 1. Januar 2024 flächendeckend in Deutschland eingeführt. Z
+ iel ist\, die Wärmeplanung der Kommunen so aufzustellen\, dass die Wärme
+ versorgung bis spätestens 2045 vollständig auf Treibhausgasneutralität 
+ umgestellt ist. Mit der Novelle soll nun ein neues\, stark vereinfachtes V
+ erfahren für Kommunen bis 15.000 Einwohner geschaffen werden. Hierdurch s
+ ollen der mit der Wärmeplanung verbundene Aufwand und die Verfahrensdauer
+  stark reduziert werden. Es handelt sich um ein optionales Verfahren\, von
+  dem die Kommunen nach eigenem Ermessen Gebrauch machen können. Auskömml
+ ichen Belastungsausgleich sicherstellen Dr. Eva Bode\, Referatsleiterin Er
+ neuerbare Energien beim Deutschen Städte- und Gemeindebund\, gab zu beden
+ ken\, dass die Novelle laufende Planverfahren in nahezu allen Bundeslände
+ rn berührt. Die Einführung der kleinen Wärmeplanung dürfe sich auf kei
+ nen Fall negativ auf bereits in der Entstehung befindliche Wärmepläne un
+ d die bestehenden Belastungsausgleichszahlungen der Länder auswirken. Fü
+ r die Fortschreibung der Wärmepläne sowie für die neu eingeführte Käl
+ teplanung sei ein auskömmlicher Belastungsausgleich sicherzustellen. Die 
+ Wahlmöglichkeit der planungsverantwortlichen Stelle zwischen dem regulär
+ en Verfahren\, dem landesrechtlichen vereinfachten Verfahren nach Paragraf
+  22 des Wärmeplanungsgesetzes und der kleinen Wärmeplanung nach den Para
+ grafen 22a und 22b des Gesetzentwurfs sei ein richtiger Ansatz und dürfe 
+ im weiteren Gesetzgebungsverfahren nicht eingeschränkt werden. Im Sinne d
+ er Einheitlichkeit solle das vereinfachte und verkürzte Verfahren auch f
+ ür Gemeinden bis 15.000 Einwohner offen bleiben\, forderte Bode. Bessere 
+ Planungssicherheit verlangt Hans Lerchl\, Leiter Energiewirtschaft der Sta
+ dtwerke München (SWM)\, verlangte eine bessere Planungssicherheit im Hinb
+ lick auf Maßnahmen der Wärmewende. In München basiert die langfristige 
+ Transformationsstrategie auf dem konsequenten Ausbau der Fernwärme\, die 
+ perspektivisch überwiegend auf Tiefengeothermie und weiteren erneuerbaren
+  Wärmequellen beruhen soll\, beschrieb Lerchl die Lage. Die Transformatio
+ n bestehender Gasnetze sowie der Ausbau und die Dekarbonisierung von Wärm
+ enetzen erforderten jedoch Investitionen in Milliardenhöhe. Voraussetzung
+  hierfür seien verlässliche regulatorische Rahmenbedingungen\, langfrist
+ ige Planungssicherheit und sichere Refinanzierungsmöglichkeiten. Genau di
+ ese Voraussetzungen werden durch derzeitig bestehende Inkonsistenzen im re
+ gulatorischen Gesamtrahmen der Wärmewende jedoch zunehmend infrage gestel
+ lt\, sagte Lerchl. Die Wärmewende könne nur dann erfolgreich umgesetzt w
+ erden\, wenn die unterschiedlichen regulatorischen Instrumente auf Bundese
+ bene konsistent ineinandergriffen. Dafür seien insbesondere drei Stellheb
+ el entscheidend\, nämlich die strategische Infrastruktursteuerung\, wirks
+ ame Transformationsinstrumente sowie verlässliche ökonomische und regula
+ torische Rahmenbedingungen\, sagte er. Besonderheiten industrieller Wärme
+ systeme berücksichtigen Manuela Pieper\, Expertin für Energieeffizienz\,
+  Energiesteuern und Prozesswärme beim Verband der Chemischen Industrie (V
+ CI)\, sieht Anpassungsbedarf beim Anwendungsbereich des Wärmeplanungsgese
+ tzes. Die bisherigen Erfahrungen aus der Umsetzung zeigen\, dass zahlreich
+ e Regelungen maßgeblich an den Strukturen kommunaler Wärmenetze ausgeric
+ htet sind und die Besonderheiten industrieller Wärmesysteme nur unzureich
+ end berücksichtigen\, sagte Pieper. Aus Sicht des VCI sollten industriell
+ e Prozessdampfnetze daher grundsätzlich vom Anwendungsbereich des Wärmep
+ lanungsgesetzes ausgenommen werden. Zudem solle die energetische Nutzung u
+ nvermeidbarer Nebenprodukte als Abwärme anerkannt werden. Vergleichbar mi
+ t der bereits bestehenden Regelung für Grubengas (Paragraf 3 Absatz 2 des
+  Wärmeplanungsgesetzes) handele es sich ebenfalls um Wärmeerzeugung aus 
+ Stoffströmen\, deren Entstehung unvermeidbar und deren Verwertung rechtli
+ ch geboten sei. Ohne die energetische Nutzung müssten die entsprechenden 
+ Gase vielfach abgefackelt werden\, was weder energie- noch klimapolitisch 
+ gewünscht sei. Qualität und Aussagekraft von Wärmeplänen steigern Andr
+ eas Klingemann\, Abteilungsleiter Wärme beim Bundesverband der Energie- u
+ nd Wasserwirtschaft (BDEW)\, betonte\, dass auch bei der kleinen Wärmepla
+ nung die Beteiligung der Energieversorger\, der Netzbetreiber sowie weiter
+ er Akteure weiterhin gesichert beziehungsweise gestärkt werden muss. Schl
+ ießlich entfielen bis zu 80 Prozent des Aufwands der Wärmeplanung für k
+ leine Kommunen. Die Wärmeplanung dürfe nicht zu einer reinen Pflichtaufg
+ abe werden. Grundsätzlich müssten die Qualität und die Aussagekraft von
+  Wärmeplänen erhalten und noch weiter gesteigert werden. Die Wärmewende
+  ist kein Selbstläufer und bedarf neben der Koordinierung auch einer soli
+ den und weitsichtigen Planung\, sagte Klingemann. Aufgrund zahlreicher Än
+ derungen bei der Wärmeplanung und im Gebäudemodernisierungsgesetz sprich
+ t sich der BDEW für eine zeitnahe große Novelle des Wärmeplanungsgesetz
+ es aus. Ziel solle es sein\, die Wärmeplanung zu einer integrierten Energ
+ ieinfrastrukturplanung auch unter Aufnahme der praktischen Erfahrungen bei
+  der realen Umsetzung dieser Planungen weiterzuentwickeln. Beteiligung von
+  Bürgerenergiegemeinschaften nicht reduzieren Wir begrüßen\, dass klein
+ e Kommunen mit der Einführung der kleinen Wärmeplanung entlastet werden 
+ sollen und anerkannt wird\, dass sie angesichts limitierter finanzieller u
+ nd personeller Ressourcen stark belastet sind\, sagte Harald Jann Hinrich 
+ Uphoff\, Vorstand Politik Bündnis Bürgerenergie. Er warnte\, dass gemein
+ schaftlichen Wärmenetzen als lokale Versorgungslösung für kleine Kommun
+ en\, in denen kein Stadt- oder Gemeindewerk tätig ist\, drohe\, ohne Not 
+ außen vor zu bleiben. In Hinblick auf eine angestrebte Entlastung der Kom
+ munen solle die Beteiligung von Akteuren wie Bürgerenergiegemeinschaften 
+ (BEGs) nicht reduziert\, sondern auf alle Kommunen ausgeweitet werden\, fo
+ rderte Uphoff. Außerdem sollten Wärmegemeinschaften in der nationalen Ge
+ setzgebung besondere Berücksichtigung finden. Bei gemeinschaftlichen Nahw
+ ärmenetzen handele es sich um kleinere\, nicht gewinnorientierte Projekte
+ . Sie erschließen ländliche Räume\, die für kommerzielle Versorger wir
+ tschaftlich unattraktiv sind\, so Uphoff. Daher sollten Wärmegemeinschaft
+ en und Nahwärmenetze durch eigene Definitionen rechtlich sichtbar gemacht
+  werden. Bundesweit einheitliche Vorabauswertung bereitstellen Frederik Di
+ gulla von der Stiftung Denkfabrik Klimaneutraliät teilte die Einschätzun
+ g\, dass die geltende Wärmeplanung für kleine Kommunen mit begrenzten pe
+ rsonellen und finanziellen Ressourcen eine Überforderung darstellen könn
+ e. Um den Erfüllungsaufwand für Kommunen unter 15.000 Einwohnern dennoch
+  niedrig zu halten\, solle über den nach Paragraf 24 Absatz 4 vorgesehene
+ n Datenraum Wärmeplanung eine bundesweit einheitliche Vorabauswertung als
+  standardisierte Planungsgrundlage bereitgestellt werden. Diese erfolge au
+ f Basis der verfügbaren Daten zu Wärmebedarfen\, Bebauungsstruktur und W
+ ärmeliniendichten. Diese Planung kann von Kommunen übernommen oder verfe
+ inert und angepasst werden\, sagte er. Die Kombination aus zentral bereitg
+ estellter Vorauswertung und verbindlicher Mindestmethodik halte den Aufwan
+ d für die einzelne Kommunen gering und sichere gleichzeitig die Vergleich
+ barkeit der Pläne. Erleichterungen dürfen nicht zulasten der Klimaschutz
+ ziele gehen Noemi Jaya Mundhaas\, Politikexpertin für Energie und Klima b
+ ei Greenpeace\, machte deutlich\, dass die Erleichterungen der gesetzliche
+ n Rahmenbedingungen für die kommunale Wärmeplanung nicht zulasten der ge
+ setzlich verankerten Klimaschutzziele gehen dürften. Dies betreffe sowohl
+  das verbindliche Zwischenziel einer Treibhausgasminderung von mindestens 
+ 65 Prozent bis 2030 als auch die zwingend vorgeschriebene Erreichung der T
+ reibhausgasneutralität bis spätestens 2045. Deutschland droht in diesem 
+ Jahr erstmals sein gesetzliches Klimaziel insgesamt zu verfehlen\, sagte M
+ undhaas. Dabei sei es wichtig\, dass die kommunale Wärmeplanung als zentr
+ ales strategisches Instrument zur Erreichung der Klimaneutralität weiter 
+ ausgebaut werde. Um das herzustellen\, fordert Greenpeace vor allem eine v
+ erlässliche Strategie für den schnellen und koordinierten Umstieg von fo
+ ssiler zu erneuerbarer Wärmeversorgung sowie die ersatzlose Streichung de
+ r Ausweisung von Prüfgebieten für Wasserstoff und grünes Methan im vere
+ infachten Verfahren\, weil damit der notwendige Gasnetzausstieg blockiert 
+ werde und immense finanzielle Risiken auf die privaten Haushalte abgewälz
+ t werden\, warnte Mundhaas. (nki/08.09.2026)\n\nDokumente:\nTagesordnung: 
+ https://www.bundestag.de/resource/blob/1205010/to_44_08-09-2026_oeA_Waerme
+ PlG.pdf\n21/6587: https://dserver.bundestag.de/btd/21/065/2106587.pdf\n21/
+ 7821: https://dserver.bundestag.de/btd/21/078/2107821.pdf\nListe der Sachv
+ erständigen: https://www.bundestag.de/resource/blob/1206438/Sachverstaend
+ igenliste.pdf\n21(9)333 Stellungnahme des BDEW Bundesverband der Energie- 
+ und Wasserwirtschaft e.V.: https://www.bundestag.de/resource/blob/1209422/
+ Stellungnahme_BDEW.pdf\n21(9)334 Stellungnahme der Stiftung Klimaneutralit
+ ät: https://www.bundestag.de/resource/blob/1209720/Stellungnahme_Stiftung
+ _Klimaneutralitaet.pdf\n21(9)335 Stellungnahme des Verband der Chemischen 
+ Industrie e.V. (VCI): https://www.bundestag.de/resource/blob/1210024/Stell
+ ungnahme_VCI.pdf\n21(9)336 Stellungnahme des Bündnis Bürgerenergie e. V.
+ : https://www.bundestag.de/resource/blob/1210132/Stellungnahme_Buendnis-Bu
+ ergerenergie.pdf\n21(9)337 Stellungnahme der Bundesvereinigung der kommuna
+ len Spitzenverbände: https://www.bundestag.de/resource/blob/1210232/Stell
+ ungnahme_Bundesvereinigung_komm-_Spitzenverbaende.pdf\n21(9)338 Stellungna
+ hme Greenpeace e. V.: https://www.bundestag.de/resource/blob/1210238/Stell
+ ungnahme_Greenpeace.pdf\n21(9)339 Stellungnahme der Stadtwerke München Gm
+ bH: https://www.bundestag.de/resource/blob/1210240/Stellungnahme_Stadtwerk
+ e_Muenchen.pdf\n\nSeite des Ausschusses: https://www.bundestag.de/ausschue
+ sse/a09_wirtschaft\nÜbertragung: https://www.bundestag.de/mediathek
+LOCATION:Berlin\, Paul-Löbe-Haus\, Sitzungssaal E.200
+URL:https://www.bundestag.de/ausschuesse/a09_wirtschaft/wp21_a09_Anhoerunge
+ n/1205008-1205008
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12050
+ 10/to_44_08-09-2026_oeA_WaermePlG.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/065/2106
+ 587.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/078/2107
+ 821.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12064
+ 38/Sachverstaendigenliste.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12094
+ 22/Stellungnahme_BDEW.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12097
+ 20/Stellungnahme_Stiftung_Klimaneutralitaet.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12100
+ 24/Stellungnahme_VCI.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12101
+ 32/Stellungnahme_Buendnis-Buergerenergie.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12102
+ 32/Stellungnahme_Bundesvereinigung_komm-_Spitzenverbaende.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12102
+ 38/Stellungnahme_Greenpeace.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12102
+ 40/Stellungnahme_Stadtwerke_Muenchen.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:ausschuss-ausschuesse-a09-wirtschaft-sitzung-46@bundestag-kalender
+DTSTAMP:20261012T175049Z
+DTSTART;TZID=Europe/Berlin:20260923T103000
+DTEND;TZID=Europe/Berlin:20260923T123000
+SUMMARY:Ausschuss WE: 46. Sitzung (nicht öffentlich)
+DESCRIPTION:46. Sitzung des Ausschusses (nicht öffentlich)\nEnde geschätz
+ t.\n\nTagesordnung und Ergänzungen:\nTagesordnung: https://www.bundestag.
+ de/resource/blob/1216256/to_46_23-09-2026.pdf\n1. Ergänzungsmitteilung: h
+ ttps://www.bundestag.de/resource/blob/1216668/to_46_23-09-2026_1-ergaenzun
+ g.pdf\n2. Ergänzungsmitteilung: https://www.bundestag.de/resource/blob/12
+ 16958/to_46_23-09-2026_2-ergaenzung.pdf\n3. Ergänzungsmitteilung: https:/
+ /www.bundestag.de/resource/blob/1217040/to_46_23-09-2026_3-ergaenzung.pdf\
+ n\nSeite des Ausschusses: https://www.bundestag.de/ausschuesse/a09_wirtsch
+ aft
+LOCATION:Paul-Löbe-Haus\, Sitzungssaal PLH E.200
+URL:https://www.bundestag.de/ausschuesse/a09_wirtschaft
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12162
+ 56/to_46_23-09-2026.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12166
+ 68/to_46_23-09-2026_1-ergaenzung.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12169
+ 58/to_46_23-09-2026_2-ergaenzung.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12170
+ 40/to_46_23-09-2026_3-ergaenzung.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:ausschuss-ausschuesse-a09-wirtschaft-anhoerung-1217432@bundestag-kalend
+ er
+DTSTAMP:20261012T175049Z
+DTSTART;TZID=Europe/Berlin:20261005T121500
+DTEND;TZID=Europe/Berlin:20261005T141500
+SUMMARY:Ausschuss WE: Anhörung zu Vorlagen zum Erneuerbare-Energien-Gesetz
+  - EEG 2027
+DESCRIPTION:Öffentliche Anhörung (47. Sitzung)\n\nGegenstand: Der Ausschu
+ ss für Wirtschaft und Energie hat sich am Montag\, 5. Oktober 2026\, in e
+ iner zweistündigen öffentlichen Anhörung mit dem Gesetzentwurf der Bund
+ esregierung für einen planbaren\, kosteneffizienten\, netzverträglichen 
+ und marktorientierten Ausbau der erneuerbaren Energien im Stromsektor (21/
+ 7867\, 21/8298) befasst. Gegenstand der Anhörung waren auch die Verordnun
+ g des Bundesministeriums für Wirtschaft und Energie zur Änderung der Ern
+ euerbare-Energien-Verordnung und der Marktstammdatenregisterverordnung inf
+ olge der Abwicklung des Regionalnachweisregisters sowie zur Neuregelung de
+ r Subdelegation an das Umweltbundesamt (21/7819)\, ein Gesetzentwurf der A
+ fD-Fraktion zur Abschaffung des Gesetzes für den Ausbau erneuerbarer Ener
+ gien (Erneuerbare-Energien-Gesetz-Abschaffungsgesetz\, 21/8108)\, ein Antr
+ ag der Fraktion Bündnis 90/Die Grünen mit dem Titel Energiewende gemeins
+ am gestalten – Für ein EEG mit fairen Chancen für alle (21/8119) sowie
+  ein Antrag der Fraktion Die Linke mit dem Titel Auf Kürzungen beim Erneu
+ erbare-Energien-Gesetz verzichten – Zukunftsfähige Arbeitsplätze in de
+ r Wind- und Solarwirtschaft ausbauen – Bezahlbaren Strom aus Sonne und W
+ ind für alle ermöglichen (21/7907). In der Bewertung des Regierungsentwu
+ rfs gehen die Meinungen der Sachverständigen weit auseinander. Während I
+ ndustrieverbände das Vorhaben der Regierung\, den Ausbau erneuerbarer Ene
+ rgien kosteneffizienter und marktorientierter organisieren zu wollen\, beg
+ rüßen\, warnen Umwelt- und Vertreter der Wind- und Solarbranche vor eine
+ r Verzögerung beim Ausbau von Wind- und Solarenergie. Alle Seiten verlang
+ en erhebliche Nachbesserungen. Warnung vor stetig steigenden Systemkosten 
+ Dr. Sebastin Bolay\, Bereichsleitung Energie\, Umwelt\, Industrie der Deut
+ schen Industrie- und Handelskammer (DIHK)\, sprach sich zwar für einen we
+ iteren Ausbau der erneuerbaren Energien aus\, warnte aber vor einem Teufel
+ skreis stetig steigender Systemkosten. Damit würde die Elektrifizierung i
+ n der Wirtschaft unattraktiver\, weil die Netzentgelte anstiegen. Deswegen
+  sollte bei der Energiewende deutlich mehr Nachfrage getrieben werden als 
+ bisher. Sehr kritisch sieht er auch die Einführung von Differenzverträge
+ n\, weil dadurch die Marktintegration erneuerbarer Energien massiv behinde
+ rt wird\, sagte Bolay. Sollte die Bundesregierung bei ihrer geplanten Umst
+ ellung auf Differenzverträge bleiben\, dann solle die Dauer der Förderja
+ hre auf dem Weg zur Klimaneutralität im Jahr 2045 schrittweise abschmelze
+ n\, sodass nach 2045 keine Förderansprüche für Neuanlagen mehr bestünd
+ en. Außerdem sprach Bolay sich für eine jährliche Kopplung der Ausbauzi
+ ele erneuerbarer Energien an die tatsächliche Stromnachfrage aus. Die im 
+ aktuellen EEG verankerte Nachfrage von 750 TWh dürfte weit unterschritten
+  werden. Seit Jahren geht die Nachfrage sogar zurück\, sagte Bolay. Ob de
+ r Anstieg im ersten Halbjahr 2026 eine tatsächliche Trendumkehr darstelle
+ \, werde sich zeigen. Branche braucht planbare Perspektiven Björn Spiegel
+  ist Leiter Politik & Strategie der ARGE Netz. Die Unternehmensgruppe vert
+ ritt die Betreiber von Wind-\, Solar- und Biogasanlagen in Schleswig-Holst
+ ein\, insbesondere von regionalen Bürgerenergiegesellschaften. Die gesamt
+ e Branche will Milliarden investieren und dafür braucht es vor allem Verl
+ ässlichkeit und planbare Perspektiven für diese Investition\, forderte S
+ piegel. Das Gesetzesvorhaben sehe jedoch die Senkung von Ausschreibungen v
+ or. Eine Absenkung des Höchstwertes klinge angesichts der sinkenden Zahl 
+ der Ausschreibungen bei Photovoltaik und Wind vielleicht plausibel\, ist a
+ ber brandgefährlich\, warnte Spiegel. Ab dem kommenden Jahr müssten Inve
+ storen sämtliche Risiken und zusätzliche Kosten einpreisen\, was am Ende
+  zu höheren Stromkosten führen werde. Er verlangte\, die Bürgerenergieg
+ esellschaften in das wettbewerbliche Ausschreibungssegment zu überführen
+ . Die Bürgerenergie steht für sich als Inbegriff für regionale Wertsch
+ öpfung\, Akteursvielfalt und Akzeptanz\, sagte Spiegel. Vor dem Hintergru
+ nd hoher Preise für importierte\, fossile Energie und im Sinne des Klimas
+ chutzes plädierte er für den stetigen Ausbau der erneuerbaren Energien. 
+ Bürgerenergieprojekte böten erhebliche wirtschaftliche und ökologische 
+ Vorteile\, da sie es Bürgern ermöglichten\, die Energiewende aktiv mitzu
+ gestalten und finanziell von ihr zu profitieren. Das Biomasse-Ziel erhöhe
+ n Sandra Rostek\, Leitung Politik im Hauptstadtbüro Bioenergie. In dem Ve
+ rband sammeln sich unter anderem Energieversorgungsunternehmen\, Versicher
+ ungen und Hersteller von Versorgungssystemen. Rostek betonte: „Das Ziel 
+ der laufenden EEG-Novelle muss es sein\, bestehende Anlagen zu sichern\, n
+ eue Investitionen wie die Flexibilisierung anzureizen und die Potenziale a
+ ller Bioenergieträger zum Zweck einer resilienten\, versorgungssicheren E
+ nergieinfrastruktur gezielt zu stärken.“ Der vorliegende Entwurf werde 
+ dem „in keiner Weise gerecht“\, sagte Rostek. Sie verlangte vor allem\
+ , das Biomasse-Ziel zu erhöhen. Das aktuelle Biomasse-Ziel von 9\,5 Gigaw
+ att (GW) im Jahr 2030 und 2035 stelle zwar eine Stabilisierung der Stromer
+ zeugungskapazität von Biomasseanlagen dar\, führe aufgrund der Flexibili
+ tätsvorgaben für Biogasanlagen aber zu einem massiven Rückgang der Stro
+ mmenge. Die aus Biomasse erzeugte Strommenge müsse mindestens auf dem heu
+ tigen Niveau stabilisiert werden und das volle Flexibilitätspotenzial der
+  Anlagen gehoben werden. Der Maisdeckel gehöre gestrichen. Außerdem soll
+ ten Batteriespeicher auch bei Bioenergieanlagen als Flexibilitätsoption 
+ „ausdrücklich ermöglicht werden“\, zumal bei festen Biomasseanlagen 
+ eine Flexibilisierung der Anlage technisch nur bedingt möglich und bei kl
+ einen Biogasanlagen eine Überbauung oft nicht wirtschaftlich sei. Zehntau
+ sende Solarjobs stehen auf dem Spiel Carsten Körnig\, Bundesverband Solar
+ wirtschaft\, vertritt die Interessen von rund 1.000 Mitgliedsunternehmen a
+ us der Solar- und Solarspeicherbranche. Er betonte\, dass die Solartechnik
+  „trotz beachtlicher Erfolge auch weiterhin auf verlässliche und attrak
+ tive Rahmenbedingungen angewiesen ist\, um die gesetzlich verankerten Ausb
+ auziele erreichen zu können“. Die im Gesetzentwurf des EEG vorgesehenen
+ \, „teils gänzlich unverhältnismäßigen Einschnitte und Auflagen“ w
+ ürden insbesondere PV-Anlagen in der für die Energiewende systemrelevant
+ en PV-Leistungsklasse 2-100 Kilowatt-Peak (kWp) im Falle ihrer Umsetzung d
+ ie Investitionsgrundlage entziehen\, beklagte Körnig. Das geplante Ende d
+ er Einspeisevergütung\, die Pflicht zur Direktvermarktung auch für PV-Kl
+ einanlagen sowie der Redispatchvorbehalt besäßen das Schadenspotenzial\,
+  „die PV-Nachfrage insgesamt zu halbieren und damit das Erreichen der ge
+ setzlich verankerten EE-Ausbau- und Klimaschutzziele ernsthaft zu gefährd
+ en“\, sagte er. Neben der politischen Glaubwürdigkeit stünden „Zehnt
+ ausende Solarjobs\, ein zweistelliger Milliardenumsatz und entsprechende A
+ usfälle für den Bundeshaushalt auf dem Spiel“. Aus diesem Grund sollte
+ n die Förderungen nicht abgeschafft\, sondern nachjustiert werden. Zudem 
+ sprach er sich gegen „den Zwang zur Direktvermarktung“ aus. Warnung vo
+ r einer Förderlücke mit negativen Folgen Prof. Dr. Thorsten Müller\, Pr
+ ofessor für Umweltenergierecht an der Leuphana Universität Lüneburg und
+  Wissenschaftlicher Leiter und Gründer der Stiftung Umweltenergierecht\, 
+ warnte vor einer Förderlücke mit negativen Folgen für den Zubau von ern
+ euerbaren Energien und die Erreichung der Klimaziele. Die beihilferechtlic
+ he Genehmigung des EEG 2023 laufe am 31. Dezember 2026 aus. Danach könnte
+ n auf Basis des geltenden EEG\, auch wenn dies im aktuellen Gesetz selbst 
+ nicht geregelt und die Neubegründung von Ansprüchen nach deutschem Recht
+  unbeschränkt möglich sei\, keine neuen Förderansprüche beihilferechtl
+ ich wirksam begründet werden. Unionsrechtlich wäre es allerdings nicht a
+ usgeschlossen\, dass die Europäische Kommission auf Antrag Deutschlands f
+ ür das geltende EEG 2023 eine weitere\, erneut kurzzeitig befristete beih
+ ilferechtliche Genehmigung erteilt\, sagte Müller. Außerdem verwies er a
+ uf die Wirkung\, die die geplante Gesetzesänderung habe. Die Abschaffung 
+ der festen Einspeisevergütung für zukünftige Anlagen unter 100 Kilowatt
+  (kW) sei für Anlagen ab 25 Kilowatt (kW) lediglich eine Umstellung des F
+ örderinstruments. Für Anlagen unter 25 kW ist der Wegfall jeglicher För
+ derung nach dem Wegfall der zeitlich begrenzten Übergangsregelungen dageg
+ en ein Paradigmenwechsel\, betonte Müller. Investoren müssen sich auf Ra
+ hmenbedingungen verlassen können Ursula Heinen-Esser\, Präsidentin beim 
+ Bundesverband Erneuerbare Energie\, schloss sich ihren Vorrednern an und b
+ etonte\, dass sich Investoren auf Rahmenbedingungen verlassen können müs
+ sten. Aus diesem Grund verlangte sie von der Bundesregierung ein Bekenntni
+ s dazu\, dass die Einspeisevergütung für kleine Dach-PV und kleine Wasse
+ rkraft erhalten bleiben müsse. „Eine verpflichtende Direktvermarktung u
+ nter 100 Kilowatt (kW) ist erst dann sinnvoll\, wenn technische und prozes
+ suale Voraussetzungen massengeschäftstauglich sind“\, sagte Heinen-Esss
+ er. Auch sie will die Stromerzeugung aus Biomasse stabilisieren und „kon
+ sequent flexibilisieren“. Sie fordert mindestens 2.500 Megawatt (MW) Aus
+ schreibungsvolumen pro Jahr bis 2032\, eine Verlängerung der Anschlussfö
+ rderung auf 15 Jahre und die Streichung des Maisdeckels. „Der neue CfD-R
+ ahmen muss Investitions- und Vermarktungsrisiken realistisch abbilden“\,
+  sagte sie. Erforderlich seien ein ausreichend bemessener Marktwertkorrido
+ r\, dessen Sicherheitszuschlag bei Wind und Solar dynamisch um sechs Proze
+ nt des technologiespezifischen Marktwerts ansteige\, eine De-minimis-Grenz
+ e von mindestens 200 Kilowatt (kW) sowie ein regulatorisches Verfahren zur
+  Abschöpfung von Übergewinnen auf Grundlage real erzielter Erlöse. Auß
+ erdem solle der vorgesehene Pachtdeckel für Windenergie an Land gestriche
+ n werden. Beschäftigungsorientierte Kriterien verankern Frederik Moch\, A
+ bteilungsleiter für Struktur-\, Industrie- und Dienstleistungspolitik im 
+ Bundesvorstand des Deutschen Gewerkschaftsbunds (DGB)\, unterstrich\, dass
+  „ein konsequenter Ausbau der erneuerbaren Energien zu einer verlässlic
+ heren und mittelfristig günstigeren Energieversorgung beiträgt und Besch
+ äftigung in Energiewirtschaft\, Handwerk und Transformationsindustrien sc
+ hafft“. Das EEG schaffe die wesentlichen gesetzlichen Grundlagen für de
+ n Erneuerbaren-Ausbau. Die staatliche Absicherung des Erneuerbaren-Ausbaus
+  bleibe notwendig und müsse über das EEG hinaus industriepolitisch begle
+ itet werden. Der Förderrahmen müsse eine industrie- und beschäftigungsp
+ olitische Komponente umfassen. „Wir fordern die Verankerung beschäftigu
+ ngsorientierter Kriterien“\, sagte Moch. Es brauche eine verbindliche Lo
+ cal-Content-Komponente im Förderrahmen\, um die industrielle Resilienz Eu
+ ropas zu wahren und gezielt Beschäftigung und Wertschöpfung am heimische
+ n Standort zu fördern. Eine bessere Priorisierung von Netzanschlussbegehr
+ en und eine Beteiligung von Anlagenbetreibern an den Netzausbaukosten bewe
+ rtet Moch „als grundsätzlich sinnvoll“. Schwächung des Ausbaus der e
+ rneuerbaren Energien Dr. Eva Bode\, Referatsleiterin Deutscher Städte- un
+ d Gemeindebund\, Dr. Till Jenssen\, Deutscher Städtetag\, und Martin Klau
+ sch\, Referatsleiter Deutscher Landkreistag\, sehen im vorliegenden Gesetz
+ entwurf insgesamt eine Schwächung des Ausbaus der erneuerbaren Energien. 
+ Insofern sehen wir den Gesetzentwurf auch in einem Spannungsverhältnis zu
+  den gesetzlich verankerten Klimaschutzzielen von Bund\, Ländern und Komm
+ unen\, heißt es in einer schriftlichen Stellungnahme der kommunalen Spitz
+ enverbände. Vor allem der vorgesehene Pachtdeckel erscheint nicht sachger
+ echt\, und es bestehen erhebliche Zweifel\, ob er einer rechtlichen Überp
+ rüfung standhält\, schreiben die Sachverständigen. Pachteinnahmen aus d
+ er Verpachtung geeigneter Flächen seien für Kommunen eine wichtige Einna
+ hmequelle und trügen zur Finanzierung von Daseinsvorsorge\, Infrastruktur
+  sowie Klimaschutz- und Energiewendeprojekten bei. Begrüßt wird\, dass d
+ ie Beteiligung künftig an die tatsächlich erzeugte Strommenge anknüpfen
+  soll. Kritisch sehen wir aber\, dass fiktive Strommengen nicht mehr berü
+ cksichtigt werden sollen\, sagte Eva Bode. Das seien die Strommengen\, die
+  aufgrund von netzbedingten Abriegelungen gar nicht erst erzeugt werden. D
+ ort\, wo viele Windräder stünden und die Netzkapazität fehle\, werde in
+  Zukunft weniger an die Kommune fließen. Das ist kontraproduktiv für die
+  Akzeptanz\, so Bode. Wildwuchs- und Nutzungskonkurrenzen verhindern Dr. T
+ ill Jenssen verwies auf die steigenden Kosten für importierte Energie. In
+ sofern brauchen wir hier mit dem EEG auch einen Rahmen\, der sicherstellt\
+ , dass die Dynamik beim Ausbau der Erneuerbaren nicht nachlässt\, sagte e
+ r. Martin Klausch verdeutlichte\, dass sich die meisten Anlagen zur Erzeug
+ ung erneuerbarer Energien sowie Speicher und Netzleitung in den Landkreise
+ n befänden. All diese Vorhaben beanspruchen jedoch Fläche\, dadurch ents
+ tehen Konflikte vor Ort\, so Klausch. Um die Akzeptanz für die Energiewen
+ de nicht zu gefährden\, müssten Wildwuchs- und Nutzungskonkurrenzen verh
+ indert beziehungsweise minimiert werden. Wir plädieren dafür\, PV-Anlage
+ n zunächst auf versiegelten Flächen zu installieren\, bevor man auf die 
+ freie Fläche geht\, forderte Klausch. Die Energiewende werde nur zu einem
+  Erfolg\, wenn sie zur Wertschöpfung vor Ort beiträgt und Belastungen ko
+ mpensiert werden\, sagte er. (nki/05.10.2026)\n\nDokumente:\nTagesordnung:
+  https://www.bundestag.de/resource/blob/1217752/to_47_05-10-2026_oeA_EEG.p
+ df\n21/7867: https://dserver.bundestag.de/btd/21/078/2107867.pdf\n21/8298:
+  https://dserver.bundestag.de/btd/21/082/2108298.pdf\n21/7819: https://dse
+ rver.bundestag.de/btd/21/078/2107819.pdf\n21/8108: https://dserver.bundest
+ ag.de/btd/21/081/2108108.pdf\n21/8119: https://dserver.bundestag.de/btd/21
+ /081/2108119.pdf\n21/7907: https://dserver.bundestag.de/btd/21/079/2107907
+ .pdf\nListe der Sachverständigen: https://www.bundestag.de/resource/blob/
+ 1221616/Sachverstaendigenliste.pdf\n21(9)359 Stellungnahme Deutsche Indust
+ rie- und Handelskammer: https://www.bundestag.de/resource/blob/1221846/Ste
+ llungnahme-DIHK.pdf\n21(9)360 Stellungnahme des Hauptstadtbüro Bioenergie
+ : https://www.bundestag.de/resource/blob/1221986/Stellungnahme_Hauptstadtb
+ uero_Bioenergie.pdf\n21(9)361 Stellungnahme des Bundesverband Solarwirtsch
+ aft e.V.: https://www.bundestag.de/resource/blob/1221988/Stellungnahme_Bun
+ desverband_Solarwirtschaft_eV.pdf\n21(9)362 Stellungnahme des Bundesverban
+ d Erneuerbare Energie e.V.: https://www.bundestag.de/resource/blob/1222014
+ /Stellungnahme_Bundesverband_Erneuerbare_Energie_eV.pdf\n21(9)370 Stellung
+ nahme des Deutschen Gewerkschaftsbunds: https://www.bundestag.de/resource/
+ blob/1222148/Stellungnahme_Deutscher_Gewerkschaftsbund.pdf\n21(9)372 Stell
+ ungnahme der Kommunalen Spitzenverbände: https://www.bundestag.de/resourc
+ e/blob/1222236/Stellungnahme-Kommunale-Spitzenverbaende.pdf\n21(9)376 Stel
+ lungnahme des Sachverständigen Prof. Dr. Thorsten Müller\, Stiftung Umwe
+ ltenergierecht: https://www.bundestag.de/resource/blob/1222340/Stellungnah
+ me_SV_Mueller_Stiftung_Umweltenergierecht.pdf\n\nSeite des Ausschusses: ht
+ tps://www.bundestag.de/ausschuesse/a09_wirtschaft\nÜbertragung: https://w
+ ww.bundestag.de/mediathek
+LOCATION:Berlin\, Marie-Elisabeth-Lüders-Haus\, Sitzungssaal MELH 3.101
+URL:https://www.bundestag.de/ausschuesse/a09_wirtschaft/wp21_a09_Anhoerunge
+ n/1217432-1217432
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12177
+ 52/to_47_05-10-2026_oeA_EEG.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/078/2107
+ 867.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/082/2108
+ 298.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/078/2107
+ 819.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/081/2108
+ 108.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/081/2108
+ 119.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/079/2107
+ 907.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12216
+ 16/Sachverstaendigenliste.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12218
+ 46/Stellungnahme-DIHK.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12219
+ 86/Stellungnahme_Hauptstadtbuero_Bioenergie.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12219
+ 88/Stellungnahme_Bundesverband_Solarwirtschaft_eV.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12220
+ 14/Stellungnahme_Bundesverband_Erneuerbare_Energie_eV.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12221
+ 48/Stellungnahme_Deutscher_Gewerkschaftsbund.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12222
+ 36/Stellungnahme-Kommunale-Spitzenverbaende.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12223
+ 40/Stellungnahme_SV_Mueller_Stiftung_Umweltenergierecht.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:ausschuss-ausschuesse-a09-wirtschaft-anhoerung-1217440@bundestag-kalend
+ er
+DTSTAMP:20261012T175049Z
+DTSTART;TZID=Europe/Berlin:20261005T143000
+DTEND;TZID=Europe/Berlin:20261005T160000
+SUMMARY:Ausschuss WE: Anhörung zu Vorlagen zur Umsetzung der Energieeffizi
+ enzrichtlinie
+DESCRIPTION:Öffentliche Anhörung (48. Sitzung)\n\nGegenstand: Der Ausschu
+ ss für Wirtschaft und Energie hat sich am Montag\, 5. Oktober 2026\, in e
+ iner eineinhalbstündigen öffentlichen Anhörung mit dem Gesetzentwurf de
+ r Bundesregierung zur Beschleunigung der Umsetzung der Energieffizienzrich
+ tlinie (21/8027) befasst. Mit dem Gesetz soll zum einen die geänderte EU-
+ Energieeffizienzrichtlinie (EED\; EU 2023 / 1791) in nationales Recht umge
+ setzt werden\, und zum anderen sollen Vorgaben des nationalen Energieeffiz
+ ienzgesetzes (EnEfG) von 2023\, die über die EED hinausgehen\, grundsätz
+ lich auf das nach EU-Recht erforderliche Mindestmaß zurückgeführt werde
+ n. Die Sachverständigen betonten die Notwendigkeit eines effizienteren En
+ ergieeinsatzes bei gleichzeitiger Entlastung der Wirtschaft\, die Absenkun
+ g bisheriger Standards wurde teils kritisch bewertet. Fragen der Abgeordne
+ ten betrafen unter anderen Auswirkungen der 1:1-Umsetzung und des Energiee
+ insparziels sowie Möglichkeiten des Bürokratieabbaus und der Effizienzst
+ eigerung. Gegenstand der Anhörung waren auch der Antrag der Fraktion Bün
+ dnis 90/Die Grünen mit dem Titel Milliarden Euro für die Wirtschaft eins
+ paren statt Energie verschwenden (21/8139) sowie der Antrag der Fraktion D
+ ie Linke mit dem Titel Planlosen Ausbau von Rechenzentren stoppen! Echte N
+ achhaltigkeitsstandards gewährleisten! (21/8111). Warnung vor einer Absen
+ kung von Standards Von der Fraktion Die Linke benannt wurde Dr. Julian Bot
+ he von der AW AlgorithmWatch gGmbH\, der auf den Ausbauboom bei Rechenzent
+ ren einging. Bereits jetzt würden solche Zentren „gebaut wie nie zuvor
+ “. Er warnte in seiner schriftlichen Stellungnahme davor\, dass die gepl
+ ante Änderung des Energieeffizienzgesetzes und die Beibehaltung der Regel
+ ung\, wonach die Rechenzentren lediglich dazu verpflichtet würden\, erneu
+ erbare Energien bilanziell zu nutzen\, zu einem Anstieg des Energieverbrau
+ chs und der CO2-Emissionen in Deutschland führen werde. Die Änderungen w
+ ürden die geopolitisch problematische Abhängigkeit Deutschlands von foss
+ iler Energie verlängern. Als Folge der gestiegenen Stromnachfrage würden
+  die Energiekosten für die deutsche Wirtschaft insgesamt steigen. Die Än
+ derungen würden zudem die Lücke zu den Energieeffizienzzielen vergröße
+ rn\, die im neuen Entwurf beibehalten würden. Dr. Leonard Burtscher vom U
+ mweltinstitut München sprach von einer „neuen Eskalationsstufe der Klim
+ akrise“. Wenn man die Klimakrise ernst nehme\, „dürfen wir nicht dar
+ über diskutieren\, welche Regeln wir wie schnell abschwächen“. In sein
+ er Stellungnahme warnte der von der Fraktion Bündnis 90/Die Grünen benan
+ nte Experte\, dass eine Verschlechterung des Energieeffizienzgesetzes mög
+ licherweise verfassungswidrig wäre. Eine ambitionierte Umsetzung der EED 
+ liege auch im unmittelbaren wirtschaftlichen Interesse Deutschlands. Es se
+ i bereits im Vergleich zur aktuellen Gesetzgebung eine Effizienzlücke vor
+ handen. Eine Absenkung von Standards\, um die EED umzusetzen\, sei daher n
+ icht möglich. Der geplanten Rückführung des EnEfG an verschiedenen Stel
+ len auf EU-Recht liege das Missverständnis zugrunde\, dass Maßnahmen\, d
+ ie nicht explizit erwähnt würden\, bereits eine Übererfüllung der EED 
+ seien. Energieeffizienz auch bei Rechenzentren Günter Eggers von der Germ
+ an Datacenter Association\, der von der CDU/CSU-Fraktion benannt wurde\, g
+ ing ebenfalls auf die Problematik der Rechenzentren ein. Die volkswirtscha
+ ftliche Bedeutung dieser Zentren werde künftig weiter wachsen. Sie würde
+ n gebraucht\, um weiter wettbewerbsfähig zu sein. Die ambitionierten Anfo
+ rderungen an die Energieeffizienz der Rechenzentren würden daher explizit
+  begrüßt. Diese müssten jedoch zum einen technisch belastbar\, überpr
+ üfbar und tatsächlich beeinflussbar von den Betreibern sein. Eggers schl
+ ug eine neue Methode der Berechnung des PUE-Wertes (Power Usage Effectiven
+ ess) vor\, der die wichtigste Kennzahl zur Messung der Energieeffizienz ei
+ nes Rechenzentrums ist und angibt\, wie viel Energie ein Rechenzentrum ins
+ gesamt verbraucht im Vergleich zu der Energie\, die direkt in die IT-Gerä
+ te fließt. Prof. Dr. Sven-Joachim Otto\, Ruhr-Universität Bochum\, stimm
+ te dem Entwurf grundsätzlich zu. Er sei ein überfälliger und im Kern ge
+ lungener Schritt zu einem schlanken\, unionsrechtskonformen und vollzugsta
+ uglichen Energieeffizienzrecht\, erklärte der ebenfalls von der CDU/CSU b
+ enannte Experte in seiner schriftlichen Erklärung. Der Entwurf verbinde d
+ ie Schließung von Umsetzungslücken mit einer spürbaren Entlastung von W
+ irtschaft und Verwaltung. Mit Korrekturen\, unter anderem bei der Kommunen
+ regelung im öffentlichen Sektor und bei einer europäischen Anschlussklau
+ sel für Rechenzentren\, könne das Gesetz zügig verabschiedet werden. Di
+ e in den Fraktionsanträgen enthaltenen Forderungen sollten nach Ottos Mei
+ nung nicht aufgegriffen werden. Industrie gegen Überregulierung Erik Pfei
+ fer von der Deutschen Industrie- und Handelskammer (DIHK)\, der auch von d
+ er Unionsfraktion benannt wurde\, betonte in seiner Stellungnahme\, dass e
+ in effizienter Energieeinsatz im ureigensten Interesse der deutschen Wirts
+ chaft liege. Daran sollte sich eine effektive Effizienzpolitik ausrichten 
+ und primär über marktwirtschaftliche Anreize\, technologische Offenheit 
+ und die Honorierung betrieblicher Erfolge gesteuert werden. Mit der EED se
+ i dieser rationale Ansatz einer deutlich stärkeren Regulierung unterworfe
+ n worden. Bei der Rückführung des Energieeffizienzgesetzes auf EU-Vorgab
+ en seien aus der Sicht der Wirtschaft mehrere Punkte wichtig. Dazu gehört
+ en der Abbau der Überregulierung und die Sicherung der 1:1-Umsetzung der 
+ EED\, die Streichung nationaler Energieeinsparungsziele sowie eine praxisg
+ erechte und investitionsfreundliche Rechenzentrumsregulierung. Steffen Lau
+ be von der Bellona Deutschland gGmbH\, einer Klimaschutz- und Umweltorgani
+ sation\, beschäftigte sich aus industriepolitischer Sicht mit dem Gesetze
+ ntwurf. Auf der einen Seite stünden wirtschaftliche Unsicherheit und hohe
+  Energiepreise\, auf der anderen sei mit dem aktuellen Gesetzestext eine S
+ enkung des Ambitionsniveaus bei Energieeffizienz geplant\, die die Problem
+ e verschärfen werde. Viele Akteure würden aufgrund struktureller Schwäc
+ he und aktueller Rahmenbedingungen kurzfristige Entlastung fordern\, auch 
+ wenn sie gesamtsystemisch und volkswirtschaftlich Verschlechterungen bring
+ e. Deswegen müsse das Energieeffizienzgesetz im Kontext weiterer Rahmenbe
+ dingungen betrachtet werden\, sagte Laube\, der für die SPD-Fraktion teil
+ nahm. Es sei ein wichtiger Hebel\, um Investitionen auszulösen sowie für
+  den Klimaschutz. Begrüßt würde die geplante Vereinheitlichung von Meld
+ epflichten\, um damit Bürokratie abzubauen. Das Ambitionsniveau sollte al
+ lerdings mindestens auf dem Stand des ursprünglichen Gesetzes belassen we
+ rden. Ohne konkrete Zielwerte „hängt das Gesetz „im luftleeren Raum
+ “. Unternehmer: Ankündigungen verschärfen Investitionsstau Aus der Sic
+ ht von Christian Noll von der Deutschen Unternehmensinitiative Energieeffi
+ zienz (DENEFF) haben die Aufweichungen des Gebäudeenergierechts und allei
+ n die Ankündigung\, das EnEfG abzuschwächen\, den Investitionsstau versc
+ härft. Mit den im EnEfG etablierten Standards hätten Unternehmen eine kl
+ are Handlungslinie\, die ihre Wettbewerbsfähigkeit stärkt\, so Noll in s
+ einer Stellungnahme. Die Bundesregierung sei bereits von der EU-Kommission
+  gerügt worden\, da die bisherigen weichen Politikinstrumente nicht ausre
+ ichen\, um die Ziele zu erreichen. Diese Politikinstrumente nun weiter auf
+ zuweichen oder teils zu streichen\, sei unverantwortlich. Unnötige Bürok
+ ratie müsse abgebaut werden. Dies dürfe jedoch nicht auf Kosten der lang
+ fristigen Stabilität und Wettbewerbsfähigkeit der heimischen Industrie g
+ ehen\, betonte Noll\, der ebenfalls für die SPD-Fraktion teilnahm. Bundes
+ verbände begrüßen Entbürokratisierung Bei Gesetzesvorhaben mit wesentl
+ ichen Bezügen zu kommunalen Aufgaben oder Finanzen erhalten Bundesverbän
+ de wie der Deutsche Städtetag die Möglichkeit zur Mitwirkung an Anhörun
+ gen. Dr. Till Jenssen vom Deutschen Städtetag lobte in seiner Stellungnah
+ me\, dass der Gesetzentwurf im Zeichen der Entbürokratisierung stehe. Das
+  Anliegen der Vereinfachung und Entlastung werde geteilt. Gleichwohl sehe 
+ der Gesetzesentwurf im Ergebnis eine „deutliche Schwächung“ zentraler
+  energieeffizienzpolitischer Instrumente vor und stehe insofern in einem S
+ pannungsverhältnis zu den Erwartungen der Europäischen Union an eine amb
+ itionierte Umsetzung der EED\, der zunehmenden Klimalücke und der wachsen
+ den Reduktionslasten künftiger Generationen. Dies sehe der Städtetag mit
+  Sorge. Lara Möller\, die für die Bundesverbände Deutscher Städte- und
+  Gemeindebund und Deutscher Landkreistag eine gemeinsame Stellungnahme vor
+ legte\, verwies darauf\, dass die kommunalen Liegenschaften große Potenzi
+ ale für die Steigerung der Energieeffizienz und das Einsparen von Energie
+  böten. Weitere bürokratische Hürden im Bereich der Steigerung der Ener
+ gieeffizienz würden die Kommunalverwaltungen allerdings hemmen. Mit Blick
+  auf die weitere Umsetzung der EED sei es daher zwingend\, auf einen praxi
+ sgerechten Vollzug sowie darauf zu achten\, die Richtlinienvorgaben eins z
+ u eins umzusetzen und keine weiteren bürokratischen Belastungen aufzubaue
+ n. Vor diesem Hintergrund werde die Ausnahme der Kommunen von der Energiee
+ insparverpflichtung öffentlicher Einrichtungen begrüßt\, gehe aber nich
+ t weit genug. Angesichts der angespannten kommunalen Haushaltslage\, der P
+ ersonalknappheit sowie der bislang fehlenden finanziellen und strukturelle
+ n Rahmenbedingungen wäre eine Umsetzung vielfach kaum leistbar. Grundprin
+ zip Energieeffizienz Die EU-Energieeffizienzrichtlinie sieht unter anderem
+  vor\, den Endenergieverbrauch der Europäischen Union bis 2030 um mindest
+ ens 11\,7 Prozent gegenüber 2020 zu senken. Außerdem verankert sie den G
+ rundsatz „Energieeffizienz an erster Stelle“ als Grundprinzip europäi
+ scher Energiepolitik. Die Umsetzungsfrist der EED endete am 10. Oktober 20
+ 25\, daher ist eine zügige Umsetzung der in Teilen noch nicht vollständi
+ gen Umsetzung der Vorgaben zwingend erforderlich\, wie es im Gesetzentwurf
+  heißt.. Im Einzelnen sieht die Vorlage unter anderem vor\, die bestehend
+ e Meldepflicht von Abwärmepotenzialen für die meisten Betriebe zu streic
+ hen. Die Mindesteffizienzanforderungen an Rechenzentren werden gelockert. 
+ Die Frist für neue Rechenzentren\, um Effizienzvorgaben einzuhalten\, ste
+ igt von zwei auf vier Jahre. Zudem müssen sie ihren Strom erst ab dem 1. 
+ Januar 2030 zu 100 Prozent aus erneuerbaren Energien decken\, bisher war d
+ as für 2027 vorgesehen. Zudem wird die gesetzliche Vorgabe zur Nutzung vo
+ n Abwärme flexibler ausgestaltet. Abwärme muss nur dann genutzt werden\,
+  wenn ein passendes Wärmenetz in der Nähe vorhanden ist. Für Großinves
+ titionen soll der Grundsatz gelten: „Energieeffizienz an erster Stelle
+ “. Anträge der Fraktionen Die Grünen fordern in ihrem Antrag\, dass be
+ sonders effiziente und nachhaltige Rechenzentren bei der Vergabe von Netza
+ nschlüssen bevorzugt werden. Die von der Bundesregierung vorgelegte Novel
+ le des Energieeffizienzgesetzes solle so ausgestaltet werden\, dass die Vo
+ rgaben der europäischen Energieeffizienzrichtlinie vollständig und recht
+ ssicher umgesetzt werden. Ziel müsse sein\, die Energieeffizienz „drast
+ isch zu steigern“\, um sowohl CO-Emissionen einzusparen als auch die Wir
+ tschaft finanziell spürbar zu entlasten. Die Linksfraktion verlangt ein M
+ oratorium für die Genehmigung von Rechenzentren. Vor dem Bau neuer Anlage
+ n solle eine „belastbare Bedarfs- und Kapazitätsanalyse“ stehen. (mwo
+ /05.10.2026)\n\nDokumente:\nTagesordnung: https://www.bundestag.de/resourc
+ e/blob/1217756/to_48_05-10-2026_oeA_EnEfG.pdf\n21/8027: https://dserver.bu
+ ndestag.de/btd/21/080/2108027.pdf\n21/8139: https://dserver.bundestag.de/b
+ td/21/081/2108139.pdf\n21/8111: https://dserver.bundestag.de/btd/21/081/21
+ 08111.pdf\nListe der Sachverständigen: https://www.bundestag.de/resource/
+ blob/1221736/Sachverstaendigenliste.pdf\n21(9)358 Stellungnahme der Deutsc
+ hen Unternehmensinitiative Energieeffizienz e.V. und des DENEFF EDL_HUB gG
+ mbH: https://www.bundestag.de/resource/blob/1221710/Stellungnahme_DUiE_eV_
+ u_DENEFF.pdf\n21(9)365neu Stellungnahme des Sachverständigen Dr. Julian B
+ othe\, AW Algorithm Watch gGmbH: https://www.bundestag.de/resource/blob/12
+ 22062/Stellungnahme_Dr-_Julian_Bothe_Algorith_Watch.pdf\n21(9)366 Gemeinsa
+ me Stellungnahme von Deutscher Landkreistag und Deutscher Städte- und Gem
+ eindebund: https://www.bundestag.de/resource/blob/1222102/Stellungnahme_DL
+ KT_und_DStGB.pdf\n21(9)367 Stellungnahme des Umweltinstituts München e.V.
+ : https://www.bundestag.de/resource/blob/1222112/Stellungnahme_Umweltinsti
+ tut_Muenchen_eV.pdf\n21(9)368 Stellungnahme des Sachverständigen Prof. Dr
+ . Sven-Joachim Otto\, Diplom-Kaufmann\, Mag.rer.publ.\, Honorarprofessor f
+ ür Energiewirtschaft und Energierecht\, Ruhr-Universität Bochum · Insti
+ tut für Berg- und Energierecht: https://www.bundestag.de/resource/blob/12
+ 22126/Stellungnahme_RA_Sven_Otto.pdf\n21(9)373 Stellungnahme Deutscher St
+ ädtetag: https://www.bundestag.de/resource/blob/1222238/Stellungnahme-Deu
+ tscher-Staedtetag.pdf\n21(9)393 Stellungnahme der GERMAN DATACENTER ASSOCI
+ ATION e.V.: https://www.bundestag.de/resource/blob/1223094/Stellungnahme_G
+ erman_Datacenter_Association_eV.pdf\n21(9)396 Stellungnahme des Sachverst
+ ändigen Steffen Laube\, Bellona Deutschland gGmbH: https://www.bundestag.
+ de/resource/blob/1223436/Stellungnahme_Bellona_Deutschland_gGmbH.pdf\n\nSe
+ ite des Ausschusses: https://www.bundestag.de/ausschuesse/a09_wirtschaft\n
+ Übertragung: https://www.bundestag.de/mediathek
+LOCATION:Berlin\, Marie-Elisabeth-Lüders-Haus\, Sitzungssaal MELH 3.101
+URL:https://www.bundestag.de/ausschuesse/a09_wirtschaft/wp21_a09_Anhoerunge
+ n/1217440-1217440
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12177
+ 56/to_48_05-10-2026_oeA_EnEfG.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/080/2108
+ 027.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/081/2108
+ 139.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/081/2108
+ 111.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12217
+ 36/Sachverstaendigenliste.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12217
+ 10/Stellungnahme_DUiE_eV_u_DENEFF.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12220
+ 62/Stellungnahme_Dr-_Julian_Bothe_Algorith_Watch.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12221
+ 02/Stellungnahme_DLKT_und_DStGB.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12221
+ 12/Stellungnahme_Umweltinstitut_Muenchen_eV.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12221
+ 26/Stellungnahme_RA_Sven_Otto.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12222
+ 38/Stellungnahme-Deutscher-Staedtetag.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12230
+ 94/Stellungnahme_German_Datacenter_Association_eV.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12234
+ 36/Stellungnahme_Bellona_Deutschland_gGmbH.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:ausschuss-ausschuesse-a09-wirtschaft-anhoerung-1217454@bundestag-kalend
+ er
+DTSTAMP:20261012T175049Z
+DTSTART;TZID=Europe/Berlin:20261007T080000
+DTEND;TZID=Europe/Berlin:20261007T100000
+SUMMARY:Ausschuss WE: Anhörung zu Vorlagen zum Netzanschlusspaket
+DESCRIPTION:Öffentliche Anhörung (49. Sitzung)\n\nGegenstand: Der Ausschu
+ ss für Wirtschaft und Energie hat sich am Mittwoch\, 7. Oktober 2026\, in
+  einer öffentlichen Anhörung mit dem Gesetzentwurf der Bundesregierung z
+ ur Änderung des Energiewirtschaftsrechts zur Synchronisierung des Anlagen
+ zubaus mit dem Netzausbau sowie zur Verbesserung des Netzanschlussverfahre
+ ns (21/7866\, 21/8299) befasst. Das sogenannte „Netzpaket“\, mit dem d
+ ie Bunderegierung den Zubau von Erneuerbare-Energien-Anlagen und Speichern
+  besser mit dem tatsächlichen Netzausbau abstimmen will\, wurde dabei sta
+ rk kritisiert. Vor allem der sogenannte Redispatch-Vorbehalt\, der als das
+  Herzstück des Entwurfs gilt\, wurde von der Mehrheit der Sachverständig
+ en als „Hauptproblem des Gesetzentwurfs“ und als „verfassungswidrig
+ “ bezeichnet. Gegenstand der Anhörung waren auch ein Antrag der Fraktio
+ n Bündnis 90/Die Grünen mit dem Titel Flexibel\, digital und effizient 
+ – Ein Netzpaket für ein versorgungssicheres 100%-Erneuerbare-Energiesys
+ tem (21/8121) sowie zwei Anträge der Fraktion Die Linke mit den Titeln In
+ novative Netzengpasslösungen vorantreiben – Ausbau der erneuerbaren Ene
+ rgien nicht ausbremsen (21/7906) und Bezahlbar und erneuerbar – Übertra
+ gungsnetze in öffentlicher Hand (21/3911). Gesetzentwurf der Bundesregier
+ ung Der Gesetzentwurf der Bundesregierung sieht eine stärkere Priorisieru
+ ng von Netzanschlüssen vor. Hintergrund ist\, dass bei Netzbetreibern die
+  Zahl der sogenannten Netzanschlussbegehren massiv gestiegen ist. Das Spek
+ trum der Kriterien reicht dabei von der Erfüllung gesetzlicher Zielvorgab
+ en über die Netzdienlichkeit bis hin zu raumplanerischen Gebietsausweisun
+ gen. Außerdem ist ein sogenannter Redispatch-Vorbehalt vorgesehen\, ein R
+ egulierungsmechanismus\, der regelt\, dass Betreiber neuer Erneuerbare-Ene
+ rgien-Anlagen in überlasteten Netzgebieten bei netzbedingten Abregelungen
+  – dem Redispatch – künftig zehn Jahre lang auf Entschädigungen verz
+ ichten müssen\, wenn sie wegen Netzengpässen abgeschaltet werden. Als En
+ gpassgebiet soll ein Netzbereich gelten\, in dem im Vorjahr mindestens dre
+ i Prozent der Erzeugung abgeregelt wurden. Bisher bekamen Betreiber auch d
+ ann Geld\, wenn ihre Anlagen zwangsweise gedrosselt wurden. Redispatch-Vor
+ behalt führt zu Fehlanreizen Bernhard Strohmayer\, Leiter beim Erneuerbar
+ e Energien Bundesverband Neue Energiewirtschaft (bne)\, sieht als „das H
+ auptproblem des Gesetzentwurfs“ den Wegfall des unbedingten Netzanschlus
+ sanspruchs in kapazitätslimitierten Gebieten\, „der mit dem Redispatch-
+ Vorbehalt einhergeht“. Seit dem Stromeinspeisungsgesetz und insbesondere
+  ab dem Erneuerbare-Energien-Gesetz (EEG) 2004 habe der gesetzliche Netzan
+ schlussanspruch das Fundament für die erfolgreiche Integration erneuerbar
+ er Energien gebildet. Der im Entwurf vorgesehene Wegfall des gesetzlichen 
+ Netzanschlussanspruchs führe zu erheblichem Schaden an den Prinzipien des
+  EEGs\, da der Netzzugang auf individuelle Verträge verlagert würde. Der
+  Redispatch-Vorbehalt führe zu Fehlanreizen und erhöhe die Erlöse der N
+ etzbetreiber. Ein Netzbetreiber würde Anlagen mit Redispatch-Vorbehalt be
+ vorzugt abregeln\, „denn dies erhöht die Wirtschaftlichkeit des Netzbet
+ reibers“\, sagte Strohmayer. Die betroffenen Anlagen verlören ihre Fina
+ nzierungsgrundlage. Das Verteilungsnetz werde dadurch nicht schneller ausg
+ ebaut\, erklärte er das Problem. Die geplante Priorisierung und vorgesehe
+ ne Abkehr vom Windhund-Prinzip sei im Grundsatz ein richtiger Schritt. Die
+  geplante Regelung überlasse struktur- und industriepolitische Entscheidu
+ ngen jedoch fast ungesteuert dem Ermessen der einzelnen Netzbetreiber. Aus
+ legungsschwierigkeiten und Rechtsunsicherheit befürchtet Prof. Dr. Thorst
+ en Müller\, Professor für Umweltenergierecht an der Leuphana Universitä
+ t Lüneburg und Wissenschaftlicher Leiter und Gründer der Stiftung Umwelt
+ energierecht\, schloss sich seinen Vorrednern an. Auch er gab zu bedenken\
+ , „dass der Redispatch-Vorbehalt mit erheblichen unionsrechtlichen Risik
+ en verbunden ist“. Der Artikel 6 Absatz 2 der Elektrizitätsbinnenmarkt-
+ Richtlinie (EBM-RL) erlaube Beschränkungen des Netzzugangs nur bei konkre
+ ten Kapazitätsengpässen\, führte er aus. Zudem überzeuge der Schwellen
+ wert von fünf Prozent Redispatch-Volumen EU-rechtlich nicht. Die geplante
+  Regelung zur Ausweisung der kapazitätslimitierten Gebiete in Paragraf 14
+  Absatz 1d des Energiewirtschaftsgesetzes (EnWG) und die Rechtsfolgen wies
+ en eine Reihe vermeidbarer Unklarheiten auf. Diese führen zu erheblichen 
+ Auslegungsschwierigkeiten und damit Rechtsunsicherheit\, sagte Müller. Au
+ ßerdem führten die geplanten Priorisierungsregelungen des Paragrafen 17b
+  EnWG zu Rechtsunsicherheit dahingehend\, ob die geplante Neuregelung den 
+ Netzanschlussvorrang für Erneuerbare-Energien-Anlagen durchbrechen solle.
+  „Es sollte ein eindeutiges Verhältnis von Paragraf 17b EnWG-Regierungs
+ entwurf und Paragraf 8 Absatz 1 EEG festgeschrieben werden und der Erneuer
+ bare-Energien-Vorrang in Paragraf 8 EEG erhalten bleiben“\, forderte Mü
+ ller. Redispatch-Vorbehalt führt zu kapazitätslimitierten Netzgebieten 
+ „Wir lehnen den Redispatch-Vorbehalt vollständig ab“\, sagte Dr. Chri
+ stine Falken-Großer\, Hauptgeschäftsführerin beim Bundesverband Erneuer
+ bare Energie (BEE). Mit dem Instrument würden Erlösausfälle von bis zu 
+ 20 Prozent unentschädigt provoziert. Er stelle eine Umkehrung des Verursa
+ cherprinzips dar\, verstoße gegen EU-Recht und greife unzulässig in die 
+ kommunale Flächenplanung ein. Der im Regierungsentwurf verankerte Redispa
+ tch-Vorbehalt erschüttere die Finanzierungsbedingungen der erneuerbaren E
+ nergien an ihren Grundlagen. Durch die geplante Regelung sollten Netzbetre
+ iber sogenannte kapazitätslimitierte Netzgebiete ausweisen können: „Di
+ eser Mechanismus löst kein einziges netztechnisches Problem\, sondern wä
+ lzt die volkswirtschaftlichen Kosten und das Betriebsrisiko verzögerter A
+ usbaumaßnahmen einseitig auf die Erzeuger ab“\, sagte Falken-Großer. D
+ er geplante Redispatch-Vorbehalt mit seiner gesetzlichen Fünf-Prozent-Sch
+ welle führe zu einer flächendeckenden Ausweisung kapazitätslimitierter 
+ Netzgebiete. Von dieser Ausweisung wären rund 40 Prozent des künftigen Z
+ ubaus von Windenergie- und Photovoltaikanlagen unmittelbar betroffen. Anst
+ att eine effiziente Synchronisierung von Anlagenzubau und Netzausbau zu er
+ reichen\, verfehle das Instrument seine klimapolitischen und ökonomischen
+  Ziele vollständig. „Unberechenbare Erlösausfälle von bis zu 20 Proze
+ nt des Jahresertrags entziehen Investoren und Banken jegliche Kalkulations
+ grundlage“\, sagte sie. Redispatch-Vorbehalt vollständig streichen Bär
+ bel Heidebroek\, Präsidentin des Bundesverbands WindEnergie\, spricht sic
+ h ebenfalls klar gegen den Redispatch-Vorbehalt und Redispatch-Gebiete aus
+ . Beides könne nicht nur „zu jährlichen Energieverlusten von mehr als 
+ 25 Prozent führen“. Ein erzwungener Entschädigungsverzicht sowie die v
+ orgesehene Ausgestaltung der Engpassgebiete seien europarechts- und verfas
+ sungswidrig. Langwierige Rechtsstreitigkeiten sowie erhebliche Schadensers
+ atzforderungen seien zu erwarten. „Daher sollte der Redispatch-Vorbehalt
+  vollständig gestrichen werden“\, forderte Heidebroek. Um Netze zu entl
+ asten\, solle Strom vor dem Netzverknüpfungspunkt nutzbar gemacht werden:
+  Statt der Erzeugung solle die Einspeisung gesteuert werden\, und die Hind
+ ernisse für die Direktbelieferung und Verwendung in Speichern\, Elektroly
+ seuren sowie Power-to-Heat sollten beseitigt werden. Außerdem sollten die
+  gemeinsame Nutzung von Anschlüssen durch Erzeuger\, Speicher und Verbrau
+ cher rechtssicher ermöglicht und die Anschlussrechte von Speichern verbes
+ sert werden. Generell solle gelten\, dass EEG-Anlagen Vorrang beim Netzzug
+ ang gewährt werde. Verlässliche Netzanschlüsse sind eine Grundvorausset
+ zung Johanna Friebel\, Referatsleiterin Verfassungs- und Verwaltungsrecht 
+ beim Deutschen Landkreistag\, warnte\, dass die bestehenden Netzengpässe 
+ vorrangig durch einen beschleunigten Ausbau und eine intelligente Steuerun
+ g der Stromnetze überwunden werden. „Der vorliegende Gesetzentwurf verl
+ agert den Schwerpunkt zu stark auf die Bewirtschaftung knapper Netzkapazit
+ äten und zu wenig auf deren nachhaltige Erweiterung“\, sagte Friebel. F
+ ür die kommunale Energiewende seien verlässliche Netzanschlüsse eine Gr
+ undvoraussetzung. Die Pläne\, für neue Erneuerbare-Energien-Anlagen in R
+ egionen mit besonders hohen Netzengpässen bzw. Abregelungsquoten einen 
+ „Redispatch-Vorbehalt“ einzuführen\, sieht sie kritisch. „Diese Reg
+ elung ändert das Grundprinzip des \,Einspeisevorrangs' grundsätzlich ab 
+ und erhöht die wirtschaftlichen Risiken von Investitionen in erneuerbare 
+ Energien\, sagte Friebel. Insbesondere in Regionen mit bereits hohem Ausba
+ ugrad könnten neue Projekte erschwert werden. Aus Sicht der Kommunen best
+ ehe die Gefahr\, dass die Umsetzung lokaler Energiewende- und Wärmeprojek
+ te verzögert werde. Es braucht eine Priorisierung Dr. Andreas Bublitz\, L
+ eiter der Abteilung Netzzugang und Netzkunden bei TransnetBW\, der in der 
+ Anhörung stellvertretend für die insgesamt vier deutschen Übertragungsn
+ etzbetreiber (50Hertz\, Amprion\, Tennet und TansnetBW) gesprochen hat\, s
+ prach von der „Chance“\, die das parlamentarische Verfahren zum Netzpa
+ ket biete\, „jetzt die Weichen dafür zu stellen\, dass die begrenzten S
+ chaltfelder und Anschlussmöglichkeiten im Übertragungsnetz bestmöglich 
+ genutzt werden“. Dafür brauche es „klare politische Entscheidungen“
+  darüber\, welche Anschlusskapazitäten für welche Nutzergruppen freigeh
+ alten werden sollen und wie Projekte mit herausragender wirtschafts- und i
+ ndustriepolitischer Bedeutung rechtssicher priorisiert werden. Die wachsen
+ de Zahl von Anschlussbegehren im Übertragungsnetz sei Ausdruck einer hohe
+ n Investitionsbereitschaft in Zukunftsprojekte am Wirtschaftsstandort Deut
+ schland. „Dabei konkurrieren Großbatteriespeicher\, Rechenzentren\, Ele
+ ktrolyseure\, Erneuerbare-Energien-Anlagen und industrielle Großverbrauch
+ er zunehmend um dieselben knappen Netzverknüpfungspunkte\, Schaltfelder s
+ owie Planungs- und Baukapazitäten“\, sagte er. Trotz eines hohen Grads 
+ beim Aus- und Neubau von Übertragungsnetzen\, wolle er deutlich machen\, 
+ dass die Nachfrage nach Netzanschlüssen kurz- und mittelfristig deutlich 
+ über dem verfügbaren Angebot liegen werde. Diese Situation zeige\, dass 
+ es eine Priorisierung brauche. „Und diese Priorisierung sollte nicht dur
+ ch die Übertragungsnetzbetreiber oder Netzbetreiber vorgenommen werden\, 
+ sondern aufgrund der weitgehenden wirtschaftlichen industriepolitischen Be
+ deutung sollten diese aus der Politik kommen“\, sagte er. Ausbau der Ver
+ teilnetze parallel beschleunigen Dr. Kai Roger Lobo\, stellvertretender Ha
+ uptgeschäftsführer und Leiter der Abteilung Energiewirtschaft im Verband
+  kommunaler Unternehmen (VKU)\, lobte den Entwurf für ein Netzapaket. „
+ Er adressiert den zentralen Engpass der Energiewende und soll den Ausbau e
+ rneuerbarer Energien besser mit dem Netzausbau verzahnen“\, sagte er. An
+ gesichts stark gestiegener Anschlussbegehren bei zunehmend knappen Kapazit
+ äten setze der Entwurf „an den richtigen Stellen an“. Jedoch müsse d
+ er Ausbau der Verteilnetze parallel beschleunigt werden. „Ein zügiges V
+ erteilnetzpaket muss folgen\, sonst verschiebt das Netzanschlusspaket den 
+ Engpass nur\, statt ihn aufzulösen“\, sagte Lobo. Der geplante Redispat
+ ch-Vorbehalt wird vom VKU begrüßt. „Zentral ist\, dass die technologie
+ spezifische Ermittlung der Redispatch-Raten als verbindliche Muss-Regelung
+  ins Gesetz aufgenommen wird“\, forderte Lobo. So entstehe ein geeignete
+ s Instrument zur besseren regionalen Synchronisierung vom Ausbau erneuerba
+ rer Energien und dem Netzausbau. Die Begrenzung der maximalen Anschlusslei
+ stung für Photovoltaik- und Windanlagen solle beibehalten werden\, da sie
+  Anreize zur konsequenten und verbindlichen Überbauung von Netzverknüpfu
+ ngspunkten setze. Gesetzliche Grundlage für die Priorisierung von Netzans
+ chlussbegehren Christian Seyfert\, Hauptgeschäftsführer des Verbands der
+  Industriellen Energie- und Kraftwirtschaft (VIK)\, begrüßte zwar\, dass
+  mit der Änderung des Energiewirtschaftsrechts\, dem nun vorliegenden Net
+ zpaket\, „erstmals eine gesetzliche Grundlage für die Priorisierung von
+  Netzanschlussbegehren geschaffen wird“. Allerdings müssten die Regeln 
+ für die Priorisierung von Netzanschlussvergaben auf gesetzlicher Ebene um
+  die Berücksichtigung industrieller Projekte ergänzt werden. „Industri
+ elle Transformations- und Elektrifizierungsprojekte müssen bei Priorisier
+ ungsentscheidungen zur Netzanschlussvergabe ausdrücklich berücksichtigt 
+ werden“\, verlangte Seyfert. In industriell geprägten Netzen mit mehrer
+ en industriellen Netzanschlussbegehren solle der zuständige Netzbetreiber
+  angemessenen Spielraum erhalten\, die Netzanschlussbegehren zu koordinier
+ en. „Die bereits im Gesetzentwurf angelegte Freihaltung von Netzanschlus
+ skapazitäten muss explizit auch als regional ausgestaltbare Kontingentier
+ ung für industrielle Anschlussbegehren nutzbar sein“\, sagte er. Die ge
+ setzlich vorgesehene Möglichkeit zur Reduzierung vorgehaltener Anschlussl
+ eistung nach fünf Jahren berge erhebliche Risiken für Transformations- u
+ nd Investitionsvorhaben in der Industrie und werde daher abgelehnt. (nki/0
+ 7.10.2026)\n\nDokumente:\nTagesordnung: https://www.bundestag.de/resource/
+ blob/1217758/to_49_07-10-2026_oeA_Netzanschlusspaket.pdf\n21/7866: https:/
+ /dserver.bundestag.de/btd/21/078/2107866.pdf\n21/8299: https://dserver.bun
+ destag.de/btd/21/082/2108299.pdf\n21/8121: https://dserver.bundestag.de/bt
+ d/21/081/2108121.pdf\n21/7906: https://dserver.bundestag.de/btd/21/079/210
+ 7906.pdf\n21/3911: https://dserver.bundestag.de/btd/21/039/2103911.pdf\nLi
+ ste der Sachverständigen: https://www.bundestag.de/resource/blob/1221738/
+ Sachverstaendigenliste.pdf\n21(9)369 Stellungnahme des Bundesverband WindE
+ nergie e.V.: https://www.bundestag.de/resource/blob/1222142/Stellungnahme_
+ Bundesverband_WindEnergie_eV.pdf\n21(9)374 Bundesverband Erneuerbare Energ
+ ie e.V. (BEE): https://www.bundestag.de/resource/blob/1222240/Stellungnahm
+ e-Bundesverband-Erneuerbare-Energie-e-V-BEE-.pdf\n21(9)379 Stellungnahme d
+ es Verband kommunaler Unternehmen e.V. (VKU): https://www.bundestag.de/res
+ ource/blob/1222548/Stellungnahme_VKU.pdf\n21(9)381 Stellungnahme der Bunde
+ svereinigung der kommunalen Spitzenverbände: https://www.bundestag.de/res
+ ource/blob/1222642/Stellungnahme_Bundesvereinigung_d_komm-_Spitzenverbaend
+ e.pdf\n21(9)382 Stellungnahme des Verband der Industriellen Energie- und K
+ raftwirtschaft e.V.: https://www.bundestag.de/resource/blob/1222792/Stellu
+ ngnahme_Verband_d_Industriellen_Energie-u-Kraftwirtschaft.pdf\n21(9)383 St
+ ellungnahme des Sachverständigen Prof. Dr. Thorsten Müller\, Stiftung Um
+ weltenergierecht: https://www.bundestag.de/resource/blob/1222794/Stellungn
+ ahme_SV_Thorsten_Mueller.pdf\n21(9)384 Stellungnahme der Transnet BW GmbH\
+ , 50 Hertz\, Amprion\, TenneT: https://www.bundestag.de/resource/blob/1222
+ 840/Stellungnahme_Transnet_50_Hertz_Amprion_TenneT.pdf\n21(9)377 Stellungn
+ ahme des Bundesverbands Neue Energiewirtschaft e.V.: https://www.bundestag
+ .de/resource/blob/1222882/Stellungnahme_BNE.pdf\n\nSeite des Ausschusses: 
+ https://www.bundestag.de/ausschuesse/a09_wirtschaft\nÜbertragung: https:/
+ /www.bundestag.de/mediathek
+LOCATION:Berlin\, Paul-Löbe-Haus\, Sitzungssaal PLH E.200
+URL:https://www.bundestag.de/ausschuesse/a09_wirtschaft/wp21_a09_Anhoerunge
+ n/1217454-1217454
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12177
+ 58/to_49_07-10-2026_oeA_Netzanschlusspaket.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/078/2107
+ 866.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/082/2108
+ 299.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/081/2108
+ 121.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/079/2107
+ 906.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/039/2103
+ 911.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12217
+ 38/Sachverstaendigenliste.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12221
+ 42/Stellungnahme_Bundesverband_WindEnergie_eV.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12222
+ 40/Stellungnahme-Bundesverband-Erneuerbare-Energie-e-V-BEE-.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12225
+ 48/Stellungnahme_VKU.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12226
+ 42/Stellungnahme_Bundesvereinigung_d_komm-_Spitzenverbaende.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12227
+ 92/Stellungnahme_Verband_d_Industriellen_Energie-u-Kraftwirtschaft.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12227
+ 94/Stellungnahme_SV_Thorsten_Mueller.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12228
+ 40/Stellungnahme_Transnet_50_Hertz_Amprion_TenneT.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12228
+ 82/Stellungnahme_BNE.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:ausschuss-ausschuesse-a09-wirtschaft-sitzung-50@bundestag-kalender
+DTSTAMP:20261012T175049Z
+DTSTART;TZID=Europe/Berlin:20261007T103000
+DTEND;TZID=Europe/Berlin:20261007T123000
+SUMMARY:Ausschuss WE: 50. Sitzung (nicht öffentlich)
+DESCRIPTION:50. Sitzung des Ausschusses (nicht öffentlich)\nEnde geschätz
+ t.\n\nTagesordnung und Ergänzungen:\nTagesordnung: https://www.bundestag.
+ de/resource/blob/1221984/to_50_07-10-2026.pdf\n1. Änderungsmitteilung: ht
+ tps://www.bundestag.de/resource/blob/1222242/to_50_1_aenderungsmitteilung.
+ pdf\n\nSeite des Ausschusses: https://www.bundestag.de/ausschuesse/a09_wir
+ tschaft
+LOCATION:Paul-Löbe-Haus\, Sitzungssaal PLH E.200
+URL:https://www.bundestag.de/ausschuesse/a09_wirtschaft
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12219
+ 84/to_50_07-10-2026.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12222
+ 42/to_50_1_aenderungsmitteilung.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:ausschuss-ausschuesse-a09-wirtschaft-anhoerung-1217464@bundestag-kalend
+ er
+DTSTAMP:20261012T175049Z
+DTSTART;TZID=Europe/Berlin:20261009T080000
+DTEND;TZID=Europe/Berlin:20261009T090000
+SUMMARY:Ausschuss WE: Anhörung zur Änderung der Biomasseverordnung
+DESCRIPTION:Öffentliche Anhörung (51. Sitzung)\n\nGegenstand: Grundsätzl
+ iche Zustimmung und deutliche Kritik: So hat sich das Meinungsbild der Sac
+ hverständigen bei einer Anhörung zur zweiten Verordnung zur Änderung de
+ r Biomasseverordnung (21/6810) im Ausschuss für Wirtschaft und Energie am
+  Freitag\, 9. Oktober 2026\, gezeigt. Es ging um den vom Bundeskabinett be
+ schlossenen Entwurf\, der die Vorgabe der europäischen Richtlinie RED III
+  umsetzen soll. Nachhaltige Nutzung von Biomasse Der Deutsche Städte- und
+  Gemeindebund erklärte in seiner Stellungnahme\, es sei aus kommunaler Si
+ cht grundsätzlich nachvollziehbar\, dass mit der Verordnung ein verlässl
+ icher und rechtssicherer Rahmen für die nachhaltige Nutzung von Biomasse 
+ geschaffen werden soll. Es sei aber darauf zu achten\, dass die energetisc
+ he Nutzung von nachhaltig erzeugtem und nicht anderweitig sinnvoll verwert
+ barem Holz nicht unnötig eingeschränkt werde. Für die kommunale Wärmev
+ ersorgung habe die energetische Nutzung von Holzbiomasse eine wichtige Bed
+ eutung. Eric Häublein\, NABU (Naturschutzbund Deutschland) e. V.\, begrü
+ ßte\, dass mit der Verordnung das Kaskadenprinzip stärker verankert werd
+ en soll. Holz sei ein begrenzter Rohstoff\, der unter anderem im Bauwesen 
+ sowie in der Holzwerkstoff- und Papierindustrie benötigt werde. Holz soll
+ te möglichst lange und hochwertig genutzt und erst am Ende der Nutzungska
+ skade energetisch verwendet werden. Der vom Bundeskabinett beschlossene Ve
+ rordnungsentwurf bleibe hinter einer konsequenten Umsetzung zurück und ha
+ lte zugleich an der Förderung der Holzverbrennung\, wie im Erneuerbare-En
+ ergien-Gesetz (EEG) beschrieben\, fest. Das sei der falsche Ansatz. Mehrwe
+ rt und Marktbedingungen Wilhelm Klümper\, Agora Agrar\, legte dar\, Wald 
+ und Holz leisteten einen unverzichtbaren Beitrag zum Klimaschutz. Stabile 
+ Waldbestände und Holzprodukte hielten Kohlenstoff gebunden und die energe
+ tische Nutzung ersetze fossile Brennstoffe. Der Mehrwert für den Klimasch
+ utz sei dort am größten\, wo echte Alternativen fehlten. Bei der Stromer
+ zeugung gebe es andere wettbewerbsfähige Lösungen\, aber für Holzproduk
+ te keinen gleichwertigen Ersatz. Der Wettbewerb sei verzerrt\, weil es sta
+ rke Anreize für den Bereich Energie gebe\, bislang aber keine oder nur ge
+ ringe Honorierung für die Klimaschutzleistung von Wäldern und Holzproduk
+ ten. Eine konsequente Umsetzung der Kaskadenlösung sei wichtig. Julia Mö
+ bus\, Deutsche Säge- und Holzindustrie Bundesverband e. V.\, legte dar\, 
+ die nationale Umsetzung der EU-Richtlinie in der Biomasseverordnung stelle
+  keine 1:1-Umsetzung der europäischen Vorgaben dar. Der fehlende Verweis 
+ auf die relevanten Wald- und Marktbedingungen in der Verordnung sowie die 
+ Nennung zweier einzelner Branchen wie der Holzwerkstoffindustrie und der P
+ apier- und Zellstoffindustrie in der deutschen Umsetzung berge die erhebli
+ che Gefahr\, dass eine Vorfestlegung eines bestimmten Verwendungszwecks er
+ folge und die Förderfähigkeit dieser Hölzer für die Energieerzeugung v
+ ersagt werde. Die stoffliche und energetische Verwendung von Holz dürfe n
+ icht gegeneinander ausgespielt werden. Biomasse als Energiequelle Bastian 
+ Olzem\, BDEW-Bundesverband der Energie- und Wasserwirtschaft e.V.\, machte
+  klar\, dass die Biomasse eine der wichtigsten Energiequellen sei. Im Wär
+ memarkt würden aktuell 23 Prozent an erneuerbaren Energien eingesetzt\, d
+ avon 80 Prozent aus Biomasse\, davon die meisten Prozente holzartige Brenn
+ stoffe. Er begrüßte\, dass der vom Bundeskabinett beschlossene Entwurf z
+ ur Änderung der Biomasseverordnung weitgehend ohne Verschärfung umgesetz
+ t werden soll. Die Verordnung regele für den Bereich des EEG\, welche Sto
+ ffe als Biomasse gelten\, welche technischen Verfahren zur Stromerzeugung 
+ aus Biomasse in den Anwendungsbereich des Gesetzes fallen und welche Umwel
+ tanforderungen bei der Erzeugung von Strom aus Biomasse einzuhalten sind. 
+ Er begrüßte die vorgesehenen Übergangsbestimmungen\, dass also Bestands
+ anlagen von den neuen Bedingungen ausgenommen würden. Harry Schindler\, D
+ BFZ Deutsches Biomasseforschungszentrum gGmbH\, stellte die Frage\, warum 
+ es keine zufriedenstellenden Holzkaskaden gebe. Seine Antwort: Der Wettbew
+ erb sei verzerrt durch Marktversagen und Eingriffe des Staates. Die Preise
+  der Holzprodukte an den Märkten sagten nichts darüber aus\, welche Holz
+ nutzung den höchsten Wert für Klima und Gesellschaft bringe. Eine Biomas
+ severordnung\, die sich an der Verzerrung orientiere\, konserviere einfach
+  nur den aktuellen ineffizienten Nutzungszustand auf den Märkten der Holz
+ kaskaden. Der Abbau der Förderung nach dem Erneuerbare-Energien-Gesetz k
+ önne dazu beitragen\, Holzenergie auf ein klimapolitisch effizientes Nive
+ au zu begrenzen und ihren Einsatz in effizientere Bereiche wie Hochtempera
+ turwärme in der Industrie oder in der Schifffahrt umzulenken. Vorgaben un
+ d Regulierungen Irene Seling\, AGDW - Die Waldeigentümer\, meinte\, die R
+ ED III setze einen europäischen Rahmen für eine stärkere Holzbiomassenu
+ tzung und lege einen Schwerpunkt auf die Kaskadennutzung. Entscheidend sei
+  aber\, wie dieser Rahmen national umgesetzt werde. Die RED III sehe bei d
+ er Definition von Rundholz in Industriequalität ausdrücklich vor\, dass 
+ die Mitgliedstaaten die relevanten Wald- und Marktbedingungen berücksicht
+ igten. Der ausdrückliche Marktbezug fehle in dem deutschen Entwurf der Bi
+ omasseverordnung. Energieholz sei eine Vermarktungsoption. Das gelte insbe
+ sondere für den kleinen Privatwald\, der überwiegend in Deutschland zu f
+ inden sei. Dies dürfe eine gesetzliche Definition nicht ausblenden. Marti
+ n Zühlke\, Energieverbund der Landwirtschaft MV e.V\, sah deutliche Mäng
+ el in der Verordnung sowie eine weitgreifende und erfolglose Überregulier
+ ung der Wald- und Forstarbeit. Die Mehrheit der Forstunternehmen sei zerti
+ fiziert und arbeite nach wirtschaftlichen\, ökonomischen und ökologische
+ n Gesichtspunkten im Rahmen der Zertifizierung. Die Arbeit\, die Leistunge
+ n und die Ergebnisse der Forstbetriebe hätten sich seit Jahrhunderten bew
+ ährt. Es bedürfe keiner zusätzlichen Vorgaben oder Regulierungen. Die B
+ asis der Forstunternehmen sowie die befragten Forstbetriebe und die Forst
+ ämter lehnten zusätzliche Regulatorien sowie zusätzliche Betriebs- und 
+ Meldepflichten ab. (fla/09.10.2026)\n\nDokumente:\nTagesordnung: https://w
+ ww.bundestag.de/resource/blob/1217760/to_51_09-10-2026_oeA_BiomasseVO.pdf\
+ n21/6810: https://dserver.bundestag.de/btd/21/068/2106810.pdf\nListe der S
+ achverständigen: https://www.bundestag.de/resource/blob/1222928/Sachverst
+ aendigenliste.pdf\n21(9)387 Stellungnahme des AGDW - Die Waldeigentümer e
+ .V.: https://www.bundestag.de/resource/blob/1222930/Stellungnahme_AGDW-Die
+ _Waldeigentuemer_eV.pdf\n21(9)391 Stellungnahme Deutscher Städte- und Gem
+ eindebund: https://www.bundestag.de/resource/blob/1223020/Stellungnahme_DS
+ tGB.pdf\n21(9)392 Stellungnahme des Deutsche Säge- und Holzindustrie Bund
+ esverband e.V.: https://www.bundestag.de/resource/blob/1223058/Stellungnah
+ me_Deutsche_Saege-u-_Holzindustrie_BV.pdf\n21(9)394 Stellungnahme des NABU
+  (Naturschutzbund Deutschland) e.V.: https://www.bundestag.de/resource/blo
+ b/1223096/Stellungnahme_NABU_eV.pdf\n21(9)395 Stellungnahme des BDEW Bunde
+ sverband der Energie- und Wasserwirtschaft e.V.: https://www.bundestag.de/
+ resource/blob/1223322/Stellungnahme_BDEW.pdf\n21(9)397 Stellungnahme des S
+ achverständigen Martin Zühlke\, Energieverbund der Landwirtschaft MV e. 
+ V.: https://www.bundestag.de/resource/blob/1223500/Stellungnahme_Energieve
+ rbund_d_Landwirtschaft_MV_ev.pdf\n21(9)398 Stellungnahme des Sachverständ
+ igen Dr. Harry Schindler\, DBFZ Deutsches Biomasseforschungszentrum gGmbH:
+  https://www.bundestag.de/resource/blob/1223504/Stellungnahme_SV_Dr-_Schin
+ dler_DBFZ_gGmbH.pdf\n\nSeite des Ausschusses: https://www.bundestag.de/aus
+ schuesse/a09_wirtschaft\nÜbertragung: https://www.bundestag.de/mediathek
+LOCATION:Berlin\, Paul-Löbe-Haus\, Sitzungssaal PLH E.200
+URL:https://www.bundestag.de/ausschuesse/a09_wirtschaft/wp21_a09_Anhoerunge
+ n/1217464-1217464
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12177
+ 60/to_51_09-10-2026_oeA_BiomasseVO.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/068/2106
+ 810.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12229
+ 28/Sachverstaendigenliste.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12229
+ 30/Stellungnahme_AGDW-Die_Waldeigentuemer_eV.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12230
+ 20/Stellungnahme_DStGB.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12230
+ 58/Stellungnahme_Deutsche_Saege-u-_Holzindustrie_BV.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12230
+ 96/Stellungnahme_NABU_eV.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12233
+ 22/Stellungnahme_BDEW.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12235
+ 00/Stellungnahme_Energieverbund_d_Landwirtschaft_MV_ev.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12235
+ 04/Stellungnahme_SV_Dr-_Schindler_DBFZ_gGmbH.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:ausschuss-ausschuesse-a09-wirtschaft-anhoerung-1221614@bundestag-kalend
+ er
+DTSTAMP:20261012T175049Z
+DTSTART;TZID=Europe/Berlin:20261014T083000
+DTEND;TZID=Europe/Berlin:20261014T100000
+SUMMARY:Ausschuss WE: Anhörung zum Ersten Unternehmensstatistikreformgeset
+ z
+DESCRIPTION:Öffentliche Anhörung (52. Sitzung)\n\nGegenstand: Gesetzentwu
+ rf der Bundesregierung Entwurf eines Ersten Unternehmensstatistikreformges
+ etzes\, BT-Drucksachen 21/6586\, 21/7559\n\nAnmeldung als Zuschauer bis 12
+ . Oktober 2026: https://registration.bundestag.de/#/events/7ffc0c83-fbb8-4
+ 73b-95c8-82943d9e52a1\n\nDokumente:\nTagesordnung: https://www.bundestag.d
+ e/resource/blob/1223156/to_52_14-10-2026_oeA_UnternehmensstatistikreformG.
+ pdf\n21/6586: https://dserver.bundestag.de/btd/21/065/2106586.pdf\n21/7559
+ : https://dserver.bundestag.de/btd/21/075/2107559.pdf\nListe der Sachverst
+ ändigen: https://www.bundestag.de/resource/blob/1224064/Sachverstaendigen
+ liste.pdf\n21(9)401 Stellungnahme der Sachverständigen Elvira Iannone\, B
+ undesverband der Dolmetscher und Übersetzer e.V. (BDÜ): https://www.bund
+ estag.de/resource/blob/1224210/Stellungnahme_BDUe.pdf\n21(9)403 gemeinsame
+  Stellungnahme BDI und BDA: https://www.bundestag.de/resource/blob/1224354
+ /Stellungnahme-BDI-BDA.pdf\n\nSeite des Ausschusses: https://www.bundestag
+ .de/ausschuesse/a09_wirtschaft\nÜbertragung: https://www.bundestag.de/med
+ iathek
+LOCATION:Berlin\, Paul-Löbe-Haus\, Sitzungssaal PLH E.200
+URL:https://www.bundestag.de/ausschuesse/a09_wirtschaft/wp21_a09_Anhoerunge
+ n/1221614-1221614
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12231
+ 56/to_52_14-10-2026_oeA_UnternehmensstatistikreformG.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/065/2106
+ 586.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/075/2107
+ 559.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12240
+ 64/Sachverstaendigenliste.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12242
+ 10/Stellungnahme_BDUe.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12243
+ 54/Stellungnahme-BDI-BDA.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:ausschuss-ausschuesse-a09-wirtschaft-sitzung-53@bundestag-kalender
+DTSTAMP:20261012T175049Z
+DTSTART;TZID=Europe/Berlin:20261014T103000
+DTEND;TZID=Europe/Berlin:20261014T123000
+SUMMARY:Ausschuss WE: 53. Sitzung (nicht öffentlich)
+DESCRIPTION:53. Sitzung des Ausschusses (nicht öffentlich)\nEnde geschätz
+ t.\n\nTagesordnung und Ergänzungen:\nTagesordnung: https://www.bundestag.
+ de/resource/blob/1223486/to_53_14-10-2026.pdf\n1. Ergänzungsmitteilung: h
+ ttps://www.bundestag.de/resource/blob/1223652/to_53_14-10-2026_1-_Ergaenzu
+ ng.pdf\n2. Änderungs-/Ergänzungsmitteilung: https://www.bundestag.de/res
+ ource/blob/1224204/to_53_14-10-2026_2-ergaenzung.pdf\n\nSeite des Ausschus
+ ses: https://www.bundestag.de/ausschuesse/a09_wirtschaft
+LOCATION:Paul-Löbe-Haus\, Sitzungssaal PLH E.200
+URL:https://www.bundestag.de/ausschuesse/a09_wirtschaft
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12234
+ 86/to_53_14-10-2026.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12236
+ 52/to_53_14-10-2026_1-_Ergaenzung.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12242
+ 04/to_53_14-10-2026_2-ergaenzung.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:ausschuss-ausschuesse-a09-wirtschaft-anhoerung-1217466@bundestag-kalend
+ er
+DTSTAMP:20261012T175049Z
+DTSTART;TZID=Europe/Berlin:20261014T143000
+DTEND;TZID=Europe/Berlin:20261014T160000
+SUMMARY:Ausschuss WE: Anhörung zur 12. GWB-Novelle
+DESCRIPTION:Öffentliche Anhörung (54. Sitzung)\n\nGegenstand: Gesetzentwu
+ rf der Bundesregierung Entwurf eines Zwölften Gesetzes zur Änderung des 
+ Gesetzes gegen Wettbewerbsbeschränkungen und anderer Gesetze (12. GWB-Nov
+ elle)\, BT-Drucksache 21/7865\n\nAnmeldung als Zuschauer bis 12. Oktober 2
+ 026: https://registration.bundestag.de/#/events/a1f5f404-0237-43a3-8e9e-8e
+ d3721e38be\n\nDokumente:\nTagesordnung: https://www.bundestag.de/resource/
+ blob/1218000/to_54_14-10-2026_oeA_GWB-Novelle.pdf\n1. Ergänzungsmitteilun
+ g: https://www.bundestag.de/resource/blob/1223490/to_54_14-10-2026_oeA_GWB
+ -Novelle_1-_Ergaenzung.pdf\n21/7865: https://dserver.bundestag.de/btd/21/0
+ 78/2107865.pdf\nListe der Sachverständigen: https://www.bundestag.de/reso
+ urce/blob/1222860/Sachverstaendigenliste.pdf\n21(9)388 Stellungnahme der B
+ undesvereinigung der kommunalen Spitzenverbände: https://www.bundestag.de
+ /resource/blob/1222862/Stellungnahme_Bundesvereinigung_komm-_Spitzenverbae
+ nde.pdf\n21(9)399 Stellungnahme Prof. Dr. Hertwig\, CBH Rechtsanwälte: ht
+ tps://www.bundestag.de/resource/blob/1223548/Stellungnahme-Prof-Dr-Hertwig
+ -CBH-Rechtsanwaelte.pdf\n21(9)400 Stellungnahme des Bundeskartellamtes: ht
+ tps://www.bundestag.de/resource/blob/1224062/Stellungnahme_Bundeskartellam
+ t.pdf\n21(9)402 Stellungnahme des Handelsverbandes Deutschland e.V. (HDE):
+  https://www.bundestag.de/resource/blob/1224318/Stellungnahme_HDE.pdf\n21(
+ 9)404 Stellungnahme Dr. Till Steinvorth (für MVFP\, BDZV): https://www.bu
+ ndestag.de/resource/blob/1224352/Neuer-Inhalt.pdf\n\nSeite des Ausschusses
+ : https://www.bundestag.de/ausschuesse/a09_wirtschaft\nÜbertragung: https
+ ://www.bundestag.de/mediathek
+LOCATION:Berlin\, Paul-Löbe-Haus\, Sitzungssaal PLH E.200
+URL:https://www.bundestag.de/ausschuesse/a09_wirtschaft/wp21_a09_Anhoerunge
+ n/1217466-1217466
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12180
+ 00/to_54_14-10-2026_oeA_GWB-Novelle.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12234
+ 90/to_54_14-10-2026_oeA_GWB-Novelle_1-_Ergaenzung.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/078/2107
+ 865.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12228
+ 60/Sachverstaendigenliste.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12228
+ 62/Stellungnahme_Bundesvereinigung_komm-_Spitzenverbaende.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12235
+ 48/Stellungnahme-Prof-Dr-Hertwig-CBH-Rechtsanwaelte.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12240
+ 62/Stellungnahme_Bundeskartellamt.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12243
+ 18/Stellungnahme_HDE.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12243
+ 52/Neuer-Inhalt.pdf
+END:VEVENT
+END:VCALENDAR

@@ -29,7 +29,7 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sw-20260112@bundestag-kalender
-DTSTAMP:20261012T202025Z
+DTSTAMP:20261012T203134Z
 DTSTART;VALUE=DATE:20260112
 DTEND;VALUE=DATE:20260117
 SUMMARY:Sitzungswoche
@@ -37,7 +37,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20260126@bundestag-kalender
-DTSTAMP:20261012T202025Z
+DTSTAMP:20261012T203134Z
 DTSTART;VALUE=DATE:20260126
 DTEND;VALUE=DATE:20260131
 SUMMARY:Sitzungswoche
@@ -45,7 +45,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20260223@bundestag-kalender
-DTSTAMP:20261012T202025Z
+DTSTAMP:20261012T203134Z
 DTSTART;VALUE=DATE:20260223
 DTEND;VALUE=DATE:20260228
 SUMMARY:Sitzungswoche
@@ -53,7 +53,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20260302@bundestag-kalender
-DTSTAMP:20261012T202025Z
+DTSTAMP:20261012T203134Z
 DTSTART;VALUE=DATE:20260302
 DTEND;VALUE=DATE:20260307
 SUMMARY:Sitzungswoche
@@ -61,7 +61,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20260316@bundestag-kalender
-DTSTAMP:20261012T202025Z
+DTSTAMP:20261012T203134Z
 DTSTART;VALUE=DATE:20260316
 DTEND;VALUE=DATE:20260321
 SUMMARY:Sitzungswoche
@@ -69,7 +69,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20260323@bundestag-kalender
-DTSTAMP:20261012T202025Z
+DTSTAMP:20261012T203134Z
 DTSTART;VALUE=DATE:20260323
 DTEND;VALUE=DATE:20260328
 SUMMARY:Sitzungswoche
@@ -77,7 +77,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20260413@bundestag-kalender
-DTSTAMP:20261012T202025Z
+DTSTAMP:20261012T203134Z
 DTSTART;VALUE=DATE:20260413
 DTEND;VALUE=DATE:20260418
 SUMMARY:Sitzungswoche
@@ -85,7 +85,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20260420@bundestag-kalender
-DTSTAMP:20261012T202025Z
+DTSTAMP:20261012T203134Z
 DTSTART;VALUE=DATE:20260420
 DTEND;VALUE=DATE:20260425
 SUMMARY:Sitzungswoche
@@ -93,7 +93,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20260504@bundestag-kalender
-DTSTAMP:20261012T202025Z
+DTSTAMP:20261012T203134Z
 DTSTART;VALUE=DATE:20260504
 DTEND;VALUE=DATE:20260509
 SUMMARY:Sitzungswoche
@@ -101,7 +101,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20260518@bundestag-kalender
-DTSTAMP:20261012T202025Z
+DTSTAMP:20261012T203134Z
 DTSTART;VALUE=DATE:20260518
 DTEND;VALUE=DATE:20260523
 SUMMARY:Sitzungswoche
@@ -109,7 +109,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20260608@bundestag-kalender
-DTSTAMP:20261012T202025Z
+DTSTAMP:20261012T203134Z
 DTSTART;VALUE=DATE:20260608
 DTEND;VALUE=DATE:20260613
 SUMMARY:Sitzungswoche
@@ -117,7 +117,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20260622@bundestag-kalender
-DTSTAMP:20261012T202025Z
+DTSTAMP:20261012T203134Z
 DTSTART;VALUE=DATE:20260622
 DTEND;VALUE=DATE:20260627
 SUMMARY:Sitzungswoche
@@ -125,7 +125,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20260706@bundestag-kalender
-DTSTAMP:20261012T202025Z
+DTSTAMP:20261012T203134Z
 DTSTART;VALUE=DATE:20260706
 DTEND;VALUE=DATE:20260711
 SUMMARY:Sitzungswoche
@@ -133,7 +133,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20260907@bundestag-kalender
-DTSTAMP:20261012T202025Z
+DTSTAMP:20261012T203134Z
 DTSTART;VALUE=DATE:20260907
 DTEND;VALUE=DATE:20260912
 SUMMARY:Sitzungswoche
@@ -141,7 +141,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20260921@bundestag-kalender
-DTSTAMP:20261012T202025Z
+DTSTAMP:20261012T203134Z
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260926
 SUMMARY:Sitzungswoche
@@ -149,7 +149,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20261005@bundestag-kalender
-DTSTAMP:20261012T202025Z
+DTSTAMP:20261012T203134Z
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261010
 SUMMARY:Sitzungswoche
@@ -157,7 +157,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20261012@bundestag-kalender
-DTSTAMP:20261012T202025Z
+DTSTAMP:20261012T203134Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261017
 SUMMARY:Sitzungswoche
@@ -165,7 +165,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20261102@bundestag-kalender
-DTSTAMP:20261012T202025Z
+DTSTAMP:20261012T203134Z
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261107
 SUMMARY:Sitzungswoche
@@ -173,7 +173,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20261109@bundestag-kalender
-DTSTAMP:20261012T202025Z
+DTSTAMP:20261012T203134Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261114
 SUMMARY:Sitzungswoche
@@ -181,7 +181,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20261123@bundestag-kalender
-DTSTAMP:20261012T202025Z
+DTSTAMP:20261012T203134Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261128
 SUMMARY:Sitzungswoche
@@ -189,7 +189,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20261207@bundestag-kalender
-DTSTAMP:20261012T202025Z
+DTSTAMP:20261012T203134Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261212
 SUMMARY:Sitzungswoche
@@ -197,7 +197,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20261214@bundestag-kalender
-DTSTAMP:20261012T202025Z
+DTSTAMP:20261012T203134Z
 DTSTART;VALUE=DATE:20261214
 DTEND;VALUE=DATE:20261219
 SUMMARY:Sitzungswoche
@@ -205,7 +205,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20270111@bundestag-kalender
-DTSTAMP:20261012T202025Z
+DTSTAMP:20261012T203134Z
 DTSTART;VALUE=DATE:20270111
 DTEND;VALUE=DATE:20270116
 SUMMARY:Sitzungswoche
@@ -213,7 +213,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20270125@bundestag-kalender
-DTSTAMP:20261012T202025Z
+DTSTAMP:20261012T203134Z
 DTSTART;VALUE=DATE:20270125
 DTEND;VALUE=DATE:20270130
 SUMMARY:Sitzungswoche
@@ -221,7 +221,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20270215@bundestag-kalender
-DTSTAMP:20261012T202025Z
+DTSTAMP:20261012T203134Z
 DTSTART;VALUE=DATE:20270215
 DTEND;VALUE=DATE:20270220
 SUMMARY:Sitzungswoche
@@ -229,7 +229,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20270301@bundestag-kalender
-DTSTAMP:20261012T202025Z
+DTSTAMP:20261012T203134Z
 DTSTART;VALUE=DATE:20270301
 DTEND;VALUE=DATE:20270306
 SUMMARY:Sitzungswoche
@@ -237,7 +237,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20270315@bundestag-kalender
-DTSTAMP:20261012T202025Z
+DTSTAMP:20261012T203134Z
 DTSTART;VALUE=DATE:20270315
 DTEND;VALUE=DATE:20270320
 SUMMARY:Sitzungswoche
@@ -245,7 +245,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20270405@bundestag-kalender
-DTSTAMP:20261012T202025Z
+DTSTAMP:20261012T203134Z
 DTSTART;VALUE=DATE:20270405
 DTEND;VALUE=DATE:20270410
 SUMMARY:Sitzungswoche
@@ -253,7 +253,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20270412@bundestag-kalender
-DTSTAMP:20261012T202025Z
+DTSTAMP:20261012T203134Z
 DTSTART;VALUE=DATE:20270412
 DTEND;VALUE=DATE:20270417
 SUMMARY:Sitzungswoche
@@ -261,7 +261,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20270426@bundestag-kalender
-DTSTAMP:20261012T202025Z
+DTSTAMP:20261012T203134Z
 DTSTART;VALUE=DATE:20270426
 DTEND;VALUE=DATE:20270501
 SUMMARY:Sitzungswoche
@@ -269,7 +269,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20270510@bundestag-kalender
-DTSTAMP:20261012T202025Z
+DTSTAMP:20261012T203134Z
 DTSTART;VALUE=DATE:20270510
 DTEND;VALUE=DATE:20270515
 SUMMARY:Sitzungswoche
@@ -277,7 +277,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20270531@bundestag-kalender
-DTSTAMP:20261012T202025Z
+DTSTAMP:20261012T203134Z
 DTSTART;VALUE=DATE:20270531
 DTEND;VALUE=DATE:20270605
 SUMMARY:Sitzungswoche
@@ -285,7 +285,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20270614@bundestag-kalender
-DTSTAMP:20261012T202025Z
+DTSTAMP:20261012T203134Z
 DTSTART;VALUE=DATE:20270614
 DTEND;VALUE=DATE:20270619
 SUMMARY:Sitzungswoche
@@ -293,7 +293,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20270628@bundestag-kalender
-DTSTAMP:20261012T202025Z
+DTSTAMP:20261012T203134Z
 DTSTART;VALUE=DATE:20270628
 DTEND;VALUE=DATE:20270703
 SUMMARY:Sitzungswoche
@@ -301,7 +301,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20270705@bundestag-kalender
-DTSTAMP:20261012T202025Z
+DTSTAMP:20261012T203134Z
 DTSTART;VALUE=DATE:20270705
 DTEND;VALUE=DATE:20270710
 SUMMARY:Sitzungswoche
@@ -309,7 +309,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20270906@bundestag-kalender
-DTSTAMP:20261012T202025Z
+DTSTAMP:20261012T203134Z
 DTSTART;VALUE=DATE:20270906
 DTEND;VALUE=DATE:20270911
 SUMMARY:Sitzungswoche
@@ -317,7 +317,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20270920@bundestag-kalender
-DTSTAMP:20261012T202025Z
+DTSTAMP:20261012T203134Z
 DTSTART;VALUE=DATE:20270920
 DTEND;VALUE=DATE:20270925
 SUMMARY:Sitzungswoche
@@ -325,7 +325,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20271004@bundestag-kalender
-DTSTAMP:20261012T202025Z
+DTSTAMP:20261012T203134Z
 DTSTART;VALUE=DATE:20271004
 DTEND;VALUE=DATE:20271009
 SUMMARY:Sitzungswoche
@@ -333,7 +333,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20271025@bundestag-kalender
-DTSTAMP:20261012T202025Z
+DTSTAMP:20261012T203134Z
 DTSTART;VALUE=DATE:20271025
 DTEND;VALUE=DATE:20271030
 SUMMARY:Sitzungswoche
@@ -341,7 +341,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20271108@bundestag-kalender
-DTSTAMP:20261012T202025Z
+DTSTAMP:20261012T203134Z
 DTSTART;VALUE=DATE:20271108
 DTEND;VALUE=DATE:20271113
 SUMMARY:Sitzungswoche
@@ -349,7 +349,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20271122@bundestag-kalender
-DTSTAMP:20261012T202025Z
+DTSTAMP:20261012T203134Z
 DTSTART;VALUE=DATE:20271122
 DTEND;VALUE=DATE:20271127
 SUMMARY:Sitzungswoche
@@ -357,7 +357,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20271129@bundestag-kalender
-DTSTAMP:20261012T202025Z
+DTSTAMP:20261012T203134Z
 DTSTART;VALUE=DATE:20271129
 DTEND;VALUE=DATE:20271204
 SUMMARY:Sitzungswoche
@@ -365,7 +365,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20271213@bundestag-kalender
-DTSTAMP:20261012T202025Z
+DTSTAMP:20261012T203134Z
 DTSTART;VALUE=DATE:20271213
 DTEND;VALUE=DATE:20271218
 SUMMARY:Sitzungswoche
@@ -374,7 +374,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bt-53-top-23-zp-7-nachhaltige-nutzung-der-meere-hochseesch@bundestag-ka
  lender
-DTSTAMP:20261012T202025Z
+DTSTAMP:20261012T203134Z
 DTSTART;TZID=Europe/Berlin:20260115T212500
 DTEND;TZID=Europe/Berlin:20260115T215000
 SUMMARY:TOP 23\, ZP 7: Nachhaltige Nutzung der Meere\, Hochseeschutzgesetz
@@ -417,7 +417,7 @@ ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21053.pd
 END:VEVENT
 BEGIN:VEVENT
 UID:bt-53-top-24-aenderung-des-chemikaliengesetzes@bundestag-kalender
-DTSTAMP:20261012T202025Z
+DTSTAMP:20261012T203134Z
 DTSTART;TZID=Europe/Berlin:20260115T215000
 DTEND;TZID=Europe/Berlin:20260115T221000
 SUMMARY:TOP 24: Änderung des Chemikaliengesetzes
@@ -445,7 +445,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bt-54-top-26-natur-u-umweltschutz-b-windkraft-u-solar@bundestag-kalende
  r
-DTSTAMP:20261012T202025Z
+DTSTAMP:20261012T203134Z
 DTSTART;TZID=Europe/Berlin:20260116T100500
 DTEND;TZID=Europe/Berlin:20260116T112500
 SUMMARY:TOP 26: Natur- u. Umweltschutz b. Windkraft- u. Solaranlagen
@@ -490,7 +490,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bt-56-top-28-abschliessende-beratungen-ohne-aussprach@bundestag-kalende
  r
-DTSTAMP:20261012T202025Z
+DTSTAMP:20261012T203134Z
 DTSTART;TZID=Europe/Berlin:20260129T144500
 DTEND;TZID=Europe/Berlin:20260129T145500
 SUMMARY:TOP 28: Abschließende Beratungen ohne Aussprache: zu dem Vorschlag
@@ -525,7 +525,7 @@ ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21056.pd
 END:VEVENT
 BEGIN:VEVENT
 UID:bt-56-top-19-verhuetung-der-meeresverschmutzung@bundestag-kalender
-DTSTAMP:20261012T202025Z
+DTSTAMP:20261012T203134Z
 DTSTART;TZID=Europe/Berlin:20260129T211000
 DTEND;TZID=Europe/Berlin:20260129T213500
 SUMMARY:TOP 19: Verhütung der Meeresverschmutzung
@@ -598,7 +598,7 @@ ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21056.pd
 END:VEVENT
 BEGIN:VEVENT
 UID:bt-59-zp-7-top-9-klimaschutz-bezahlbarer-strom@bundestag-kalender
-DTSTAMP:20261012T202025Z
+DTSTAMP:20261012T203134Z
 DTSTART;TZID=Europe/Berlin:20260226T101000
 DTEND;TZID=Europe/Berlin:20260226T113000
 SUMMARY:ZP 7\, TOP 9: Klimaschutz\, bezahlbarer Strom
@@ -628,7 +628,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bt-59-top-20-nachhaltige-nutzung-der-meere-hochseesch@bundestag-kalende
  r
-DTSTAMP:20261012T202025Z
+DTSTAMP:20261012T203134Z
 DTSTART;TZID=Europe/Berlin:20260226T210000
 DTEND;TZID=Europe/Berlin:20260226T212000
 SUMMARY:TOP 20: Nachhaltige Nutzung der Meere\, Hochseeschutzgesetz
@@ -706,7 +706,7 @@ ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21059.pd
 END:VEVENT
 BEGIN:VEVENT
 UID:bt-59-top-22-aenderung-des-chemikaliengesetzes@bundestag-kalender
-DTSTAMP:20261012T202025Z
+DTSTAMP:20261012T203134Z
 DTSTART;TZID=Europe/Berlin:20260226T212000
 DTEND;TZID=Europe/Berlin:20260226T214000
 SUMMARY:TOP 22: Änderung des Chemikaliengesetzes
@@ -746,7 +746,7 @@ ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21059.pd
 END:VEVENT
 BEGIN:VEVENT
 UID:bt-59-top-3-weiterentwicklung-der-treibhausgasminder@bundestag-kalender
-DTSTAMP:20261012T202025Z
+DTSTAMP:20261012T203134Z
 DTSTART;TZID=Europe/Berlin:20260226T220500
 DTEND;TZID=Europe/Berlin:20260226T222000
 SUMMARY:TOP 3: Weiterentwicklung der Treibhausgasminderungs-Quote
@@ -775,7 +775,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bt-59-top-24-zp-20-aenderung-des-umwelt-rechtsbehelfsgesetz@bundestag-k
  alender
-DTSTAMP:20261012T202025Z
+DTSTAMP:20261012T203134Z
 DTSTART;TZID=Europe/Berlin:20260226T222000
 DTEND;TZID=Europe/Berlin:20260226T224500
 SUMMARY:TOP 24\, ZP 20: Änderung des Umwelt-Rechtsbehelfsgesetzes
@@ -806,7 +806,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bt-62-top-24-beendigung-der-mitwirkung-am-weltklimara@bundestag-kalende
  r
-DTSTAMP:20261012T202025Z
+DTSTAMP:20261012T203134Z
 DTSTART;TZID=Europe/Berlin:20260305T195000
 DTEND;TZID=Europe/Berlin:20260305T201500
 SUMMARY:TOP 24: Beendigung der Mitwirkung am Weltklimarat (IPCC)
@@ -836,7 +836,7 @@ ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21062.pd
 END:VEVENT
 BEGIN:VEVENT
 UID:bt-66-top-25-klimageld@bundestag-kalender
-DTSTAMP:20261012T202025Z
+DTSTAMP:20261012T203134Z
 DTSTART;TZID=Europe/Berlin:20260320T122000
 DTEND;TZID=Europe/Berlin:20260320T125500
 SUMMARY:TOP 25: Klimageld
@@ -874,7 +874,7 @@ ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21066.pd
 END:VEVENT
 BEGIN:VEVENT
 UID:bt-66-zp-10-schutz-von-natur-klima-und-zivilgesellsc@bundestag-kalender
-DTSTAMP:20261012T202025Z
+DTSTAMP:20261012T203134Z
 DTSTART;TZID=Europe/Berlin:20260320T125500
 DTEND;TZID=Europe/Berlin:20260320T133500
 SUMMARY:ZP 10: Schutz von Natur\, Klima und Zivilgesellschaft
@@ -903,7 +903,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bt-68-top-19-eu-verordnung-ueber-fluorierte-treibhaus@bundestag-kalende
  r
-DTSTAMP:20261012T202025Z
+DTSTAMP:20261012T203134Z
 DTSTART;TZID=Europe/Berlin:20260326T214500
 DTEND;TZID=Europe/Berlin:20260326T220000
 SUMMARY:TOP 19: EU-Verordnung über fluorierte Treibhausgase
@@ -956,7 +956,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bt-68-top-23-umsetzung-der-eu-richtlinie-zu-industrie@bundestag-kalende
  r
-DTSTAMP:20261012T202025Z
+DTSTAMP:20261012T203134Z
 DTSTART;TZID=Europe/Berlin:20260326T220000
 DTEND;TZID=Europe/Berlin:20260326T222000
 SUMMARY:TOP 23: Umsetzung der EU-Richtlinie zu Industrieemissionen
@@ -985,7 +985,7 @@ ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21068.pd
 END:VEVENT
 BEGIN:VEVENT
 UID:bt-69-top-10-klimaschutzpolitik@bundestag-kalender
-DTSTAMP:20261012T202025Z
+DTSTAMP:20261012T203134Z
 DTSTART;TZID=Europe/Berlin:20260327T120500
 DTEND;TZID=Europe/Berlin:20260327T125000
 SUMMARY:TOP 10: Klimaschutzpolitik
@@ -1041,7 +1041,7 @@ ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21069.pd
 END:VEVENT
 BEGIN:VEVENT
 UID:bt-71-top-7-deutsche-klimaschutzmassnahmen@bundestag-kalender
-DTSTAMP:20261012T202025Z
+DTSTAMP:20261012T203134Z
 DTSTART;TZID=Europe/Berlin:20260416T124000
 DTEND;TZID=Europe/Berlin:20260416T135500
 SUMMARY:TOP 7: Deutsche Klimaschutzmaßnahmen
@@ -1069,7 +1069,7 @@ ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21071.pd
 END:VEVENT
 BEGIN:VEVENT
 UID:bt-73-zp-2-wiederinbetriebnahme-abgeschalteter-kern@bundestag-kalender
-DTSTAMP:20261012T202025Z
+DTSTAMP:20261012T203134Z
 DTSTART;TZID=Europe/Berlin:20260422T181500
 DTEND;TZID=Europe/Berlin:20260422T185500
 SUMMARY:ZP 2: Wiederinbetriebnahme abgeschalteter Kernkraftwerke
@@ -1097,7 +1097,7 @@ ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21073.pd
 END:VEVENT
 BEGIN:VEVENT
 UID:bt-74-zp-9-weiterentwicklung-der-treibhausgasminder@bundestag-kalender
-DTSTAMP:20261012T202025Z
+DTSTAMP:20261012T203134Z
 DTSTART;TZID=Europe/Berlin:20260423T155500
 DTEND;TZID=Europe/Berlin:20260423T163000
 SUMMARY:ZP 9: Weiterentwicklung der Treibhausgasminderungs-Quote
@@ -1141,7 +1141,7 @@ ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21074.pd
 END:VEVENT
 BEGIN:VEVENT
 UID:bt-74-top-15-40-jahre-tschernobyl@bundestag-kalender
-DTSTAMP:20261012T202025Z
+DTSTAMP:20261012T203134Z
 DTSTART;TZID=Europe/Berlin:20260423T190000
 DTEND;TZID=Europe/Berlin:20260423T193000
 SUMMARY:TOP 15: 40 Jahre Tschernobyl
@@ -1169,7 +1169,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bt-75-top-6-zp-11-top-12-senkung-der-energiesteuern-steuerberatun@bunde
  stag-kalender
-DTSTAMP:20261012T202025Z
+DTSTAMP:20261012T203134Z
 DTSTART;TZID=Europe/Berlin:20260424T090000
 DTEND;TZID=Europe/Berlin:20260424T102500
 SUMMARY:TOP 6\, ZP 11\, TOP 12: Senkung der Energiesteuern\, Steuerberatung
@@ -1200,7 +1200,7 @@ ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21075.pd
 END:VEVENT
 BEGIN:VEVENT
 UID:bt-75-top-20-anpassung-des-verpackungsrechts@bundestag-kalender
-DTSTAMP:20261012T202025Z
+DTSTAMP:20261012T203134Z
 DTSTART;TZID=Europe/Berlin:20260424T115000
 DTEND;TZID=Europe/Berlin:20260424T122500
 SUMMARY:TOP 20: Anpassung des Verpackungsrechts
@@ -1229,11 +1229,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bt-77-top-27-top-26-zp-4-ueberweisungen-im-vereinfachten-verfahre@bunde
  stag-kalender
-DTSTAMP:20261012T202025Z
+DTSTAMP:20261012T203134Z
 DTSTART;TZID=Europe/Berlin:20260507T134500
 DTEND;TZID=Europe/Berlin:20260507T135000
 SUMMARY:TOP 27\, TOP 26\, ZP 4: Überweisungen im vereinfachten Verfahren: 
- Uranfabrik Lingen stilllegen - Keine...
+ Uranfabrik Lingen stilllegen - Keine...\; Damit Kleidung im Kreislauf...
 DESCRIPTION:Status: beendet\n77. Sitzung\nAusschuss Umwelt\, Klimaschutz\, 
  Naturschutz und nukleare Sicherheit: federführend (DIP\, amtlich)\nAufgef
  ührt sind nur die Vorlagen\, bei denen Umwelt federführend ist. Weitere 
@@ -1252,11 +1252,13 @@ DESCRIPTION:Status: beendet\n77. Sitzung\nAusschuss Umwelt\, Klimaschutz\,
  kumente:\nDrucksache 21/5397 (Antrag) Uranfabrik Lingen stilllegen - Keine
   Atomkooperationen mit Russland: https://dserver.bundestag.de/btd/21/053/2
  105397.pdf\n  DIP: https://dip.bundestag.de/drucksache/-/286836\nDrucksach
- e 21/5767 (Antrag): https://dserver.bundestag.de/btd/21/057/2105767.pdf\nP
- lenarprotokoll 77. Sitzung: https://dserver.bundestag.de/btp/21/21077.pdf\
- nTextarchiv: https://www.bundestag.de/dokumente/textarchiv/2026/kw19-de-ue
- berweisungen-1145312\nMediathek: https://www.bundestag.de/mediathek/plenar
- sitzungen\nTagesordnung: https://www.bundestag.de/tagesordnung
+ e 21/5767 (Antrag) Damit Kleidung im Kreislauf bleibt - Sammelinfrastruktu
+ r für Alttextilien sichern: https://dserver.bundestag.de/btd/21/057/21057
+ 67.pdf\n  DIP: https://dip.bundestag.de/drucksache/-/287498\nPlenarprotoko
+ ll 77. Sitzung: https://dserver.bundestag.de/btp/21/21077.pdf\nTextarchiv:
+  https://www.bundestag.de/dokumente/textarchiv/2026/kw19-de-ueberweisungen
+ -1145312\nMediathek: https://www.bundestag.de/mediathek/plenarsitzungen\nT
+ agesordnung: https://www.bundestag.de/tagesordnung
 LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
  lin
 URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw19-de-ueberweisung
@@ -1271,7 +1273,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bt-78-top-7-top-13-haushalt-der-europaeischen-union-2028-bi@bundestag-k
  alender
-DTSTAMP:20261012T202025Z
+DTSTAMP:20261012T203134Z
 DTSTART;TZID=Europe/Berlin:20260508T130000
 DTEND;TZID=Europe/Berlin:20260508T133500
 SUMMARY:TOP 7\, TOP 13: Haushalt der Europäischen Union 2028 bis 2034
@@ -1285,12 +1287,14 @@ DESCRIPTION:Status: beendet\n78. Sitzung\nAusschuss Umwelt\, Klimaschutz\,
  es\nMaßnahmen aus dem EU-Förderprogramm LIFE sichern– Für ein nachhal
  tiges Europa und den Schutz von Umwelt\, Natur und Klima\nDrucksache 21/57
  56 (https://dserver.bundestag.de/btd/21/057/2105756.pdf)\n\nLinks und Doku
- mente:\nDrucksache 21/5756 (Antrag): https://dserver.bundestag.de/btd/21/0
- 57/2105756.pdf\nPlenarprotokoll 78. Sitzung: https://dserver.bundestag.de/
- btp/21/21078.pdf\nTextarchiv: https://www.bundestag.de/dokumente/textarchi
- v/2026/kw19-de-wettbewerbsfaehigkeitsfonds-1167308\nMediathek: https://www
- .bundestag.de/mediathek/plenarsitzungen\nTagesordnung: https://www.bundest
- ag.de/tagesordnung
+ mente:\nDrucksache 21/5756 (Antrag) Vorschlag für eine Verordnung des Rat
+ es zur Festlegung des Mehrjährigen Finanzrahmens...: https://dserver.bund
+ estag.de/btd/21/057/2105756.pdf\n  DIP: https://dip.bundestag.de/drucksach
+ e/-/287537\nPlenarprotokoll 78. Sitzung: https://dserver.bundestag.de/btp/
+ 21/21078.pdf\nTextarchiv: https://www.bundestag.de/dokumente/textarchiv/20
+ 26/kw19-de-wettbewerbsfaehigkeitsfonds-1167308\nMediathek: https://www.bun
+ destag.de/mediathek/plenarsitzungen\nTagesordnung: https://www.bundestag.d
+ e/tagesordnung
 LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
  lin
 URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw19-de-wettbewerbsf
@@ -1303,10 +1307,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bt-80-top-30-zp-3-ueberweisungen-im-vereinfachten-verfahre@bundestag-ka
  lender
-DTSTAMP:20261012T202025Z
+DTSTAMP:20261012T203134Z
 DTSTART;TZID=Europe/Berlin:20260521T140000
 DTEND;TZID=Europe/Berlin:20260521T140500
-SUMMARY:TOP 30\, ZP 3: Überweisungen im vereinfachten Verfahren
+SUMMARY:TOP 30\, ZP 3: Überweisungen im vereinfachten Verfahren: Igel vor 
+ Mährobotern wirksam schützen
 DESCRIPTION:Status: beendet\n80. Sitzung\nAusschuss Umwelt\, Klimaschutz\, 
  Naturschutz und nukleare Sicherheit: federführend (DIP\, amtlich)\nAufgef
  ührt sind nur die Vorlagen\, bei denen Umwelt federführend ist. Weitere 
@@ -1316,11 +1321,12 @@ DESCRIPTION:Status: beendet\n80. Sitzung\nAusschuss Umwelt\, Klimaschutz\,
  11.pdf)\nÜberweisungsvorschlag:\nA. f. Umwelt\, Klimaschutz\, Naturschutz
   und nukleare Sicherheit (f)\nA. f. Wirtschaft und Energie\nA. f. Landwirt
  schaft\, Ernährung und Heimat\n\nLinks und Dokumente:\nDrucksache 21/6011
-  (Antrag): https://dserver.bundestag.de/btd/21/060/2106011.pdf\nPlenarprot
- okoll 80. Sitzung: https://dserver.bundestag.de/btp/21/21080.pdf\nTextarch
- iv: https://www.bundestag.de/dokumente/textarchiv/2026/kw21-de-ueberweisun
- gen-1145342\nMediathek: https://www.bundestag.de/mediathek/plenarsitzungen
- \nTagesordnung: https://www.bundestag.de/tagesordnung
+  (Antrag) Igel vor Mährobotern wirksam schützen: https://dserver.bundest
+ ag.de/btd/21/060/2106011.pdf\n  DIP: https://dip.bundestag.de/drucksache/-
+ /287958\nPlenarprotokoll 80. Sitzung: https://dserver.bundestag.de/btp/21/
+ 21080.pdf\nTextarchiv: https://www.bundestag.de/dokumente/textarchiv/2026/
+ kw21-de-ueberweisungen-1145342\nMediathek: https://www.bundestag.de/mediat
+ hek/plenarsitzungen\nTagesordnung: https://www.bundestag.de/tagesordnung
 LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
  lin
 URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw21-de-ueberweisung
@@ -1333,7 +1339,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bt-80-top-11-abschaffung-des-co2-emissionshandelsyste@bundestag-kalende
  r
-DTSTAMP:20261012T202025Z
+DTSTAMP:20261012T203134Z
 DTSTART;TZID=Europe/Berlin:20260521T162000
 DTEND;TZID=Europe/Berlin:20260521T170000
 SUMMARY:TOP 11: Abschaffung des CO2-Emissionshandelsystems
@@ -1343,8 +1349,10 @@ DESCRIPTION:Status: beendet\n80. Sitzung\nAusschuss Umwelt\, Klimaschutz\,
  trags der Fraktion der AfD\nWettbewerbsfähigkeit und Wohlstand stärken 
  – Abschaffung des CO2-Emissionshandelsystems des CO2-Grenzausgleichsmech
  anismus\nDrucksache 21/6026 (https://dserver.bundestag.de/btd/21/060/21060
- 26.pdf)\n\nLinks und Dokumente:\nDrucksache 21/6026 (Antrag): https://dser
- ver.bundestag.de/btd/21/060/2106026.pdf\nPlenarprotokoll 80. Sitzung: http
+ 26.pdf)\n\nLinks und Dokumente:\nDrucksache 21/6026 (Antrag) Wettbewerbsf
+ ähigkeit und Wohlstand stärken - Abschaffung des CO2-Emissionshandelssys
+ tems...: https://dserver.bundestag.de/btd/21/060/2106026.pdf\n  DIP: https
+ ://dip.bundestag.de/drucksache/-/287976\nPlenarprotokoll 80. Sitzung: http
  s://dserver.bundestag.de/btp/21/21080.pdf\nTextarchiv: https://www.bundest
  ag.de/dokumente/textarchiv/2026/kw21-de-emissionshandel-1174736\nMediathek
  : https://www.bundestag.de/mediathek/plenarsitzungen\nTagesordnung: https:
@@ -1361,7 +1369,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bt-80-top-16-ergebnisse-der-vorplanung-von-neu-und-au@bundestag-kalende
  r
-DTSTAMP:20261012T202025Z
+DTSTAMP:20261012T203134Z
 DTSTART;TZID=Europe/Berlin:20260521T190500
 DTEND;TZID=Europe/Berlin:20260521T194500
 SUMMARY:TOP 16: Ergebnisse der Vorplanung von Neu- und Ausbaustrecken der D
@@ -1408,7 +1416,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bt-83-top-10-energie-und-stromsteuer-entlastungsgeset@bundestag-kalende
  r
-DTSTAMP:20261012T202025Z
+DTSTAMP:20261012T203134Z
 DTSTART;TZID=Europe/Berlin:20260611T135000
 DTEND;TZID=Europe/Berlin:20260611T145500
 SUMMARY:TOP 10: Energie- und Stromsteuer-Entlastungsgesetz
@@ -1420,12 +1428,13 @@ DESCRIPTION:Status: beendet\n83. Sitzung\nAusschuss Umwelt\, Klimaschutz\,
  ebung des Treibhausgas-Emissionshandelsgesetzes und des Brennstoffemission
  shandelsgesetzes (CO2-PreisAbschaffungsgesetz)\nDrucksache 21/6334 (https:
  //dserver.bundestag.de/btd/21/063/2106334.pdf)\n\nLinks und Dokumente:\nDr
- ucksache 21/6334 (Gesetzentwurf): https://dserver.bundestag.de/btd/21/063/
- 2106334.pdf\nPlenarprotokoll 83. Sitzung: https://dserver.bundestag.de/btp
- /21/21083.pdf\nTextarchiv: https://www.bundestag.de/dokumente/textarchiv/2
- 026/kw24-de-energie-stromsteuer-1183576\nMediathek: https://www.bundestag.
- de/mediathek/plenarsitzungen\nTagesordnung: https://www.bundestag.de/tages
- ordnung
+ ucksache 21/6334 (Gesetzentwurf) Gesetz zur Aufhebung des Treibhausgas-Emi
+ ssionshandelsgesetzes und des...: https://dserver.bundestag.de/btd/21/063/
+ 2106334.pdf\n  DIP: https://dip.bundestag.de/drucksache/-/288385\nPlenarpr
+ otokoll 83. Sitzung: https://dserver.bundestag.de/btp/21/21083.pdf\nTextar
+ chiv: https://www.bundestag.de/dokumente/textarchiv/2026/kw24-de-energie-s
+ tromsteuer-1183576\nMediathek: https://www.bundestag.de/mediathek/plenarsi
+ tzungen\nTagesordnung: https://www.bundestag.de/tagesordnung
 LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
  lin
 URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw24-de-energie-stro
@@ -1438,10 +1447,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bt-83-top-37-ueberweisungen-im-vereinfachten-verfahre@bundestag-kalende
  r
-DTSTAMP:20261012T202025Z
+DTSTAMP:20261012T203134Z
 DTSTART;TZID=Europe/Berlin:20260611T145500
 DTEND;TZID=Europe/Berlin:20260611T150000
-SUMMARY:TOP 37: Überweisungen im vereinfachten Verfahren
+SUMMARY:TOP 37: Überweisungen im vereinfachten Verfahren: Die Ostsee schü
+ tzen\; Klimapolitik an den Belastungsgrenzen...
 DESCRIPTION:Status: beendet\n83. Sitzung\nAusschuss Umwelt\, Klimaschutz\, 
  Naturschutz und nukleare Sicherheit: federführend (DIP\, amtlich)\nAufgef
  ührt sind nur die Vorlagen\, bei denen Umwelt federführend ist. Weitere 
@@ -1459,12 +1469,15 @@ DESCRIPTION:Status: beendet\n83. Sitzung\nAusschuss Umwelt\, Klimaschutz\,
   Landwirtschaft\, Ernährung und Heimat\nA. f. Gesundheit\nVerkehrsausschu
  ss\nA. f. Menschenrechte und humanitäre Hilfe\nA. f. Wohnen\, Stadtentwic
  klung\, Bauwesen und Kommunen\n\nLinks und Dokumente:\nDrucksache 21/6014 
- (Antrag): https://dserver.bundestag.de/btd/21/060/2106014.pdf\nDrucksache 
- 21/5891 (Antrag): https://dserver.bundestag.de/btd/21/058/2105891.pdf\nPle
- narprotokoll 83. Sitzung: https://dserver.bundestag.de/btp/21/21083.pdf\nT
- extarchiv: https://www.bundestag.de/dokumente/textarchiv/2026/kw24-de-uebe
- rweisungen-1154568\nMediathek: https://www.bundestag.de/mediathek/plenarsi
- tzungen\nTagesordnung: https://www.bundestag.de/tagesordnung
+ (Antrag) Die Ostsee schützen: https://dserver.bundestag.de/btd/21/060/210
+ 6014.pdf\n  DIP: https://dip.bundestag.de/drucksache/-/288062\nDrucksache 
+ 21/5891 (Antrag) Klimapolitik an den Belastungsgrenzen unseres Planeten au
+ srichten: https://dserver.bundestag.de/btd/21/058/2105891.pdf\n  DIP: http
+ s://dip.bundestag.de/drucksache/-/287801\nPlenarprotokoll 83. Sitzung: htt
+ ps://dserver.bundestag.de/btp/21/21083.pdf\nTextarchiv: https://www.bundes
+ tag.de/dokumente/textarchiv/2026/kw24-de-ueberweisungen-1154568\nMediathek
+ : https://www.bundestag.de/mediathek/plenarsitzungen\nTagesordnung: https:
+ //www.bundestag.de/tagesordnung
 LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
  lin
 URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw24-de-ueberweisung
@@ -1478,7 +1491,7 @@ ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21083.pd
 END:VEVENT
 BEGIN:VEVENT
 UID:bt-83-zp-16-anpassung-des-verpackungsrechts@bundestag-kalender
-DTSTAMP:20261012T202025Z
+DTSTAMP:20261012T203134Z
 DTSTART;TZID=Europe/Berlin:20260611T222000
 DTEND;TZID=Europe/Berlin:20260611T224500
 SUMMARY:ZP 16: Anpassung des Verpackungsrechts
@@ -1489,22 +1502,25 @@ DESCRIPTION:Status: beendet\n83. Sitzung\nAusschuss Umwelt\, Klimaschutz\,
  Verordnung...\nZuordnung je Drucksache (DIP):\n  21/5346 (Gesetzentwurf) G
  esetz zur Anpassung des Verpackungsrechts und anderer Rechtsbereiche an di
  e Verordnung...: Umwelt federführend\n  21/6398 (Beschlussempfehlung und 
- Bericht): Umwelt federführend\n\nZweite und dritte Beratung des von der B
- undesregierung\neingebrachten Entwurfs eines Gesetzes zur Anpassung des Ve
- rpackungsrechts und anderer Rechtsbereiche an die Verordnung (EU) 2025/40\
- nDrucksache 21/5346 (https://dserver.bundestag.de/btd/21/053/2105346.pdf)\
- nBeschlussempfehlung und Bericht des Ausschusses für Umwelt\, Klimaschutz
- \, Naturschutz und nukleare Sicherheit (16. Ausschuss)\nDrucksache 21/6398
-  (https://dserver.bundestag.de/btd/21/063/2106398.pdf)\n\nLinks und Dokume
- nte:\nDrucksache 21/5346 (Gesetzentwurf) Gesetz zur Anpassung des Verpacku
- ngsrechts und anderer Rechtsbereiche an die Verordnung...: https://dserver
- .bundestag.de/btd/21/053/2105346.pdf\n  DIP: https://dip.bundestag.de/druc
- ksache/-/286695\nDrucksache 21/6398 (Beschlussempfehlung und Bericht): htt
- ps://dserver.bundestag.de/btd/21/063/2106398.pdf\nPlenarprotokoll 83. Sitz
- ung: https://dserver.bundestag.de/btp/21/21083.pdf\nTextarchiv: https://ww
- w.bundestag.de/dokumente/textarchiv/2026/kw24-de-verpackungsrecht-1183826\
- nMediathek: https://www.bundestag.de/mediathek/plenarsitzungen\nTagesordnu
- ng: https://www.bundestag.de/tagesordnung
+ Bericht) Gesetz zur Anpassung des Verpackungsrechts und anderer Rechtsbere
+ iche an die Verordnung...: Umwelt federführend\n\nZweite und dritte Berat
+ ung des von der Bundesregierung\neingebrachten Entwurfs eines Gesetzes zur
+  Anpassung des Verpackungsrechts und anderer Rechtsbereiche an die Verordn
+ ung (EU) 2025/40\nDrucksache 21/5346 (https://dserver.bundestag.de/btd/21/
+ 053/2105346.pdf)\nBeschlussempfehlung und Bericht des Ausschusses für Umw
+ elt\, Klimaschutz\, Naturschutz und nukleare Sicherheit (16. Ausschuss)\nD
+ rucksache 21/6398 (https://dserver.bundestag.de/btd/21/063/2106398.pdf)\n\
+ nLinks und Dokumente:\nDrucksache 21/5346 (Gesetzentwurf) Gesetz zur Anpas
+ sung des Verpackungsrechts und anderer Rechtsbereiche an die Verordnung...
+ : https://dserver.bundestag.de/btd/21/053/2105346.pdf\n  DIP: https://dip.
+ bundestag.de/drucksache/-/286695\nDrucksache 21/6398 (Beschlussempfehlung 
+ und Bericht) Gesetz zur Anpassung des Verpackungsrechts und anderer Rechts
+ bereiche an die Verordnung...: https://dserver.bundestag.de/btd/21/063/210
+ 6398.pdf\n  DIP: https://dip.bundestag.de/drucksache/-/288473\nPlenarproto
+ koll 83. Sitzung: https://dserver.bundestag.de/btp/21/21083.pdf\nTextarchi
+ v: https://www.bundestag.de/dokumente/textarchiv/2026/kw24-de-verpackungsr
+ echt-1183826\nMediathek: https://www.bundestag.de/mediathek/plenarsitzunge
+ n\nTagesordnung: https://www.bundestag.de/tagesordnung
 LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
  lin
 URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw24-de-verpackungsr
@@ -1519,7 +1535,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bt-83-top-23-jahresemissionsgesamtmengen-verordnung-2@bundestag-kalende
  r
-DTSTAMP:20261012T202025Z
+DTSTAMP:20261012T203134Z
 DTSTART;TZID=Europe/Berlin:20260611T225500
 DTEND;TZID=Europe/Berlin:20260611T231500
 SUMMARY:TOP 23: Jahresemissionsgesamtmengen-Verordnung 2031-2040
@@ -1537,28 +1553,31 @@ DESCRIPTION:Status: beendet\n83. Sitzung\nAusschuss Umwelt\, Klimaschutz\,
  ionsgesamtmengen...: Umwelt federführend\, WE mitberatend\n  21/5428 (Unt
  errichtung) Bericht über das Ergebnis der Vorplanung und der frühen Öff
  entlichkeitsbeteiligung der...: Umwelt federführend\, WE mitberatend\n  2
- 1/6124 (Beschlussempfehlung und Bericht): Umwelt federführend\, WE mitber
- atend\n\nBeratung der Beschlussempfehlung und des Berichts des Ausschusses
-  für Umwelt\, Klimaschutz\, Naturschutz und nukleare Sicherheit (16. Auss
- chuss)\nzu der Verordnung der Bundesregierung\nVerordnung zur Überführun
- g der jährlichen Minderungsziele in Jahresemissionsgesamtmengen für die 
- Jahre 2031 bis 2040 (Jahresemissionsgesamt-mengen-Verordnung 2031-2040 –
-  JEGMV 2031-2040)\nDrucksachen 21/5069 (https://dserver.bundestag.de/btd/2
- 1/050/2105069.pdf)\, 21/5428 (https://dserver.bundestag.de/btd/21/054/2105
- 428.pdf) Nr. 2\, 21/6124 (https://dserver.bundestag.de/btd/21/061/2106124.
- pdf)\n\nnamentliche Abstimmung\n\nLinks und Dokumente:\nDrucksache 21/5069
-  (Verordnung) Verordnung zur Überführung der jährlichen Minderungsziele
-  in Jahresemissionsgesamtmengen...: https://dserver.bundestag.de/btd/21/05
- 0/2105069.pdf\n  DIP: https://dip.bundestag.de/drucksache/-/286423\nDrucks
- ache 21/5428 (Unterrichtung) Bericht über das Ergebnis der Vorplanung und
-  der frühen Öffentlichkeitsbeteiligung der...: https://dserver.bundestag
- .de/btd/21/054/2105428.pdf\n  DIP: https://dip.bundestag.de/drucksache/-/2
- 86809\nDrucksache 21/6124 (Beschlussempfehlung und Bericht): https://dserv
- er.bundestag.de/btd/21/061/2106124.pdf\nPlenarprotokoll 83. Sitzung: https
- ://dserver.bundestag.de/btp/21/21083.pdf\nTextarchiv: https://www.bundesta
- g.de/dokumente/textarchiv/2026/kw24-de-jahresemissionen-1181928\nMediathek
- : https://www.bundestag.de/mediathek/plenarsitzungen\nTagesordnung: https:
- //www.bundestag.de/tagesordnung
+ 1/6124 (Beschlussempfehlung und Bericht) Verordnung zur Überführung der 
+ jährlichen Minderungsziele in Jahresemissionsgesamtmengen...: Umwelt fede
+ rführend\, WE mitberatend\n\nBeratung der Beschlussempfehlung und des Ber
+ ichts des Ausschusses für Umwelt\, Klimaschutz\, Naturschutz und nukleare
+  Sicherheit (16. Ausschuss)\nzu der Verordnung der Bundesregierung\nVerord
+ nung zur Überführung der jährlichen Minderungsziele in Jahresemissionsg
+ esamtmengen für die Jahre 2031 bis 2040 (Jahresemissionsgesamt-mengen-Ver
+ ordnung 2031-2040 – JEGMV 2031-2040)\nDrucksachen 21/5069 (https://dserv
+ er.bundestag.de/btd/21/050/2105069.pdf)\, 21/5428 (https://dserver.bundest
+ ag.de/btd/21/054/2105428.pdf) Nr. 2\, 21/6124 (https://dserver.bundestag.d
+ e/btd/21/061/2106124.pdf)\n\nnamentliche Abstimmung\n\nLinks und Dokumente
+ :\nDrucksache 21/5069 (Verordnung) Verordnung zur Überführung der jährl
+ ichen Minderungsziele in Jahresemissionsgesamtmengen...: https://dserver.b
+ undestag.de/btd/21/050/2105069.pdf\n  DIP: https://dip.bundestag.de/drucks
+ ache/-/286423\nDrucksache 21/5428 (Unterrichtung) Bericht über das Ergebn
+ is der Vorplanung und der frühen Öffentlichkeitsbeteiligung der...: http
+ s://dserver.bundestag.de/btd/21/054/2105428.pdf\n  DIP: https://dip.bundes
+ tag.de/drucksache/-/286809\nDrucksache 21/6124 (Beschlussempfehlung und Be
+ richt) Verordnung zur Überführung der jährlichen Minderungsziele in Jah
+ resemissionsgesamtmengen...: https://dserver.bundestag.de/btd/21/061/21061
+ 24.pdf\n  DIP: https://dip.bundestag.de/drucksache/-/288075\nPlenarprotoko
+ ll 83. Sitzung: https://dserver.bundestag.de/btp/21/21083.pdf\nTextarchiv:
+  https://www.bundestag.de/dokumente/textarchiv/2026/kw24-de-jahresemission
+ en-1181928\nMediathek: https://www.bundestag.de/mediathek/plenarsitzungen\
+ nTagesordnung: https://www.bundestag.de/tagesordnung
 LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
  lin
 URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw24-de-jahresemissi
@@ -1574,7 +1593,7 @@ ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21083.pd
 END:VEVENT
 BEGIN:VEVENT
 UID:bt-85-top-3-nachhaltigkeitspolitik@bundestag-kalender
-DTSTAMP:20261012T202025Z
+DTSTAMP:20261012T203134Z
 DTSTART;TZID=Europe/Berlin:20260624T182000
 DTEND;TZID=Europe/Berlin:20260624T185500
 SUMMARY:TOP 3: Nachhaltigkeitspolitik
@@ -1603,10 +1622,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bt-86-top-31-abschliessende-beratungen-ohne-aussprach@bundestag-kalende
  r
-DTSTAMP:20261012T202025Z
+DTSTAMP:20261012T203134Z
 DTSTART;TZID=Europe/Berlin:20260625T140000
 DTEND;TZID=Europe/Berlin:20260625T141000
-SUMMARY:TOP 31: Abschließende Beratungen ohne Aussprache
+SUMMARY:TOP 31: Abschließende Beratungen ohne Aussprache: Gesetz zur Aufhe
+ bung des...\; Wettbewerbsfähigkeit und Wohlstand stärken...
 DESCRIPTION:Status: beendet\n86. Sitzung\nAusschuss Umwelt\, Klimaschutz\, 
  Naturschutz und nukleare Sicherheit: Beschlussempfehlung und Bericht (Besc
  hlussempfehlung der Tagesordnung\, amtlich)\nAufgeführt sind nur die Vorl
@@ -1619,13 +1639,16 @@ DESCRIPTION:Status: beendet\n86. Sitzung\nAusschuss Umwelt\, Klimaschutz\,
   Ausschusses für Umwelt\, Klimaschutz\, Naturschutz und nukleare Sicherhe
  it (16. Ausschuss)\nDrucksache 21/6694 (https://dserver.bundestag.de/btd/2
  1/066/2106694.pdf)\n\nLinks und Dokumente:\nDrucksache 21/6334 (Gesetzentw
- urf): https://dserver.bundestag.de/btd/21/063/2106334.pdf\nDrucksache 21/6
- 694 (Beschlussempfehlung und Bericht): https://dserver.bundestag.de/btd/21
- /066/2106694.pdf\nPlenarprotokoll 86. Sitzung: https://dserver.bundestag.d
- e/btp/21/21086.pdf\nTextarchiv: https://www.bundestag.de/dokumente/textarc
- hiv/2026/kw26-de-abschliessende-beratungen-1154590\nMediathek: https://www
- .bundestag.de/mediathek/plenarsitzungen\nTagesordnung: https://www.bundest
- ag.de/tagesordnung
+ urf) Gesetz zur Aufhebung des Treibhausgas-Emissionshandelsgesetzes und de
+ s...: https://dserver.bundestag.de/btd/21/063/2106334.pdf\n  DIP: https://
+ dip.bundestag.de/drucksache/-/288385\nDrucksache 21/6694 (Beschlussempfehl
+ ung und Bericht) Wettbewerbsfähigkeit und Wohlstand stärken - Abschaffun
+ g des CO2-Emissionshandelssystems...: https://dserver.bundestag.de/btd/21/
+ 066/2106694.pdf\n  DIP: https://dip.bundestag.de/drucksache/-/288953\nPlen
+ arprotokoll 86. Sitzung: https://dserver.bundestag.de/btp/21/21086.pdf\nTe
+ xtarchiv: https://www.bundestag.de/dokumente/textarchiv/2026/kw26-de-absch
+ liessende-beratungen-1154590\nMediathek: https://www.bundestag.de/mediathe
+ k/plenarsitzungen\nTagesordnung: https://www.bundestag.de/tagesordnung
 LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
  lin
 URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw26-de-abschliessen
@@ -1640,7 +1663,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bt-86-zp-9-12-hitzeschutz-krisenresilienz-in-der-pfleg@bundestag-kalend
  er
-DTSTAMP:20261012T202025Z
+DTSTAMP:20261012T203134Z
 DTSTART;TZID=Europe/Berlin:20260625T211500
 DTEND;TZID=Europe/Berlin:20260625T213500
 SUMMARY:ZP 9 - 12: Hitzeschutz\, Krisenresilienz in der Pflege
@@ -1651,12 +1674,14 @@ DESCRIPTION:Status: beendet\n86. Sitzung\nAusschuss Umwelt\, Klimaschutz\,
  Antrags der Fraktion BÜNDNIS 90/DIE GRÜNEN\nStädte klimafit machen – 
  Mit Begrünung und Entsiegelung die Menschen vor Ort vor Hitze und Übersc
  hwemmung schützen\nDrucksache 21/6342 (https://dserver.bundestag.de/btd/2
- 1/063/2106342.pdf)\n\nLinks und Dokumente:\nDrucksache 21/6342 (Antrag): h
- ttps://dserver.bundestag.de/btd/21/063/2106342.pdf\nPlenarprotokoll 86. Si
- tzung: https://dserver.bundestag.de/btp/21/21086.pdf\nTextarchiv: https://
- www.bundestag.de/dokumente/textarchiv/2026/kw26-de-hitzeschutz-1191870\nMe
- diathek: https://www.bundestag.de/mediathek/plenarsitzungen\nTagesordnung:
-  https://www.bundestag.de/tagesordnung
+ 1/063/2106342.pdf)\n\nLinks und Dokumente:\nDrucksache 21/6342 (Antrag) St
+ ädte klimafit machen - Mit Begrünung und Entsiegelung die Menschen vor O
+ rt vor Hitze...: https://dserver.bundestag.de/btd/21/063/2106342.pdf\n  DI
+ P: https://dip.bundestag.de/drucksache/-/288651\nPlenarprotokoll 86. Sitzu
+ ng: https://dserver.bundestag.de/btp/21/21086.pdf\nTextarchiv: https://www
+ .bundestag.de/dokumente/textarchiv/2026/kw26-de-hitzeschutz-1191870\nMedia
+ thek: https://www.bundestag.de/mediathek/plenarsitzungen\nTagesordnung: ht
+ tps://www.bundestag.de/tagesordnung
 LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
  lin
 URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw26-de-hitzeschutz-
@@ -1668,7 +1693,7 @@ ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21086.pd
 END:VEVENT
 BEGIN:VEVENT
 UID:bt-86-top-21-umwelt-rechtsbehelfsgesetz@bundestag-kalender
-DTSTAMP:20261012T202025Z
+DTSTAMP:20261012T203134Z
 DTSTART;TZID=Europe/Berlin:20260625T222000
 DTEND;TZID=Europe/Berlin:20260625T224500
 SUMMARY:TOP 21: Umwelt-Rechtsbehelfsgesetz
@@ -1690,12 +1715,14 @@ DESCRIPTION:Status: beendet\n86. Sitzung\nAusschuss Umwelt\, Klimaschutz\,
  \nDrucksache 21/4961 (Unterrichtung) Gesetz zur Änderung des Umwelt-Recht
  sbehelfsgesetzes und weiterer umweltrechtlicher...: https://dserver.bundes
  tag.de/btd/21/049/2104961.pdf\n  DIP: https://dip.bundestag.de/drucksache/
- -/286202\nDrucksache 21/6692 (Beschlussempfehlung und Bericht): https://ds
- erver.bundestag.de/btd/21/066/2106692.pdf\nPlenarprotokoll 86. Sitzung: ht
- tps://dserver.bundestag.de/btp/21/21086.pdf\nTextarchiv: https://www.bunde
- stag.de/dokumente/textarchiv/2026/kw26-de-umwelt-rechtsbehelfsgesetz-11843
- 42\nMediathek: https://www.bundestag.de/mediathek/plenarsitzungen\nTagesor
- dnung: https://www.bundestag.de/tagesordnung
+ -/286202\nDrucksache 21/6692 (Beschlussempfehlung und Bericht) Gesetz zur 
+ Änderung des Umwelt-Rechtsbehelfsgesetzes und weiterer umweltrechtlicher.
+ ..: https://dserver.bundestag.de/btd/21/066/2106692.pdf\n  DIP: https://di
+ p.bundestag.de/drucksache/-/288951\nPlenarprotokoll 86. Sitzung: https://d
+ server.bundestag.de/btp/21/21086.pdf\nTextarchiv: https://www.bundestag.de
+ /dokumente/textarchiv/2026/kw26-de-umwelt-rechtsbehelfsgesetz-1184342\nMed
+ iathek: https://www.bundestag.de/mediathek/plenarsitzungen\nTagesordnung: 
+ https://www.bundestag.de/tagesordnung
 LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
  lin
 URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw26-de-umwelt-recht
@@ -1712,10 +1739,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bt-89-top-29-zp-6-top-23-abschliessende-beratungen-ohne-aussprach@bunde
  stag-kalender
-DTSTAMP:20261012T202025Z
+DTSTAMP:20261012T203134Z
 DTSTART;TZID=Europe/Berlin:20260709T150500
 DTEND;TZID=Europe/Berlin:20260709T152000
-SUMMARY:TOP 29\, ZP 6\, TOP 23: Abschließende Beratungen ohne Aussprache
+SUMMARY:TOP 29\, ZP 6\, TOP 23: Abschließende Beratungen ohne Aussprache: 
+ Verordnung zur Umsetzung der Richtlinie...
 DESCRIPTION:Status: beendet\n89. Sitzung\nAusschuss Umwelt\, Klimaschutz\, 
  Naturschutz und nukleare Sicherheit: federführend (DIP\, amtlich)\nAufgef
  ührt sind nur die Vorlagen\, bei denen Umwelt federführend ist. Weitere 
@@ -1723,10 +1751,12 @@ DESCRIPTION:Status: beendet\n89. Sitzung\nAusschuss Umwelt\, Klimaschutz\,
  undesregierung\nVerordnung zur Umsetzung der Richtlinie (EU) 2024/1785 und
   zur Umsetzung des Durchführungsbeschlusses (EU) 2022/2427\nDrucksache 21
  /5875 (https://dserver.bundestag.de/btd/21/058/2105875.pdf)\n\nLinks und D
- okumente:\nDrucksache 21/5875 (Verordnung): https://dserver.bundestag.de/b
- td/21/058/2105875.pdf\nPlenarprotokoll 89. Sitzung: https://dserver.bundes
- tag.de/btp/21/21089.pdf\nMediathek: https://www.bundestag.de/mediathek/ple
- narsitzungen\nTagesordnung: https://www.bundestag.de/tagesordnung
+ okumente:\nDrucksache 21/5875 (Verordnung) Verordnung zur Umsetzung der Ri
+ chtlinie (EU) 2024/1785 und zur Umsetzung des...: https://dserver.bundesta
+ g.de/btd/21/058/2105875.pdf\n  DIP: https://dip.bundestag.de/drucksache/-/
+ 287745\nPlenarprotokoll 89. Sitzung: https://dserver.bundestag.de/btp/21/2
+ 1089.pdf\nMediathek: https://www.bundestag.de/mediathek/plenarsitzungen\nT
+ agesordnung: https://www.bundestag.de/tagesordnung
 LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
  lin
 ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/058/2105
@@ -1737,7 +1767,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bt-89-top-13-umsetzung-der-eu-richtlinie-zu-industrie@bundestag-kalende
  r
-DTSTAMP:20261012T202025Z
+DTSTAMP:20261012T203134Z
 DTSTART;TZID=Europe/Berlin:20260709T192500
 DTEND;TZID=Europe/Berlin:20260709T200000
 SUMMARY:TOP 13: Umsetzung der EU-Richtlinie zu Industrieemissionen
@@ -1750,23 +1780,26 @@ DESCRIPTION:Status: beendet\n89. Sitzung\nAusschuss Umwelt\, Klimaschutz\,
  derung der Richtlinie...\nZuordnung je Drucksache (DIP):\n  21/4786 (Geset
  zentwurf) Gesetz zur Umsetzung der Richtlinie (EU) 2024/1785 zur Änderung
   der Richtlinie...: Umwelt federführend\, WE mitberatend\n  21/6988 (Besc
- hlussempfehlung und Bericht): Umwelt federführend\, WE mitberatend\n\nZwe
- ite und dritte Beratung des von der Bundesregierung\neingebrachten Entwurf
- s eines Gesetzes zur Umsetzung der Richtlinie (EU) 2024/1785 zur Änderung
-  der Richtlinie 2010/75/EU über Industrieemissionen\nDrucksache 21/4786 (
- https://dserver.bundestag.de/btd/21/047/2104786.pdf)\nBeschlussempfehlung 
- und Bericht des Ausschusses für Umwelt\, Klimaschutz\, Naturschutz und nu
- kleare Sicherheit (16. Ausschuss)\nDrucksache 21/6988 (https://dserver.bun
- destag.de/btd/21/069/2106988.pdf)\n\nLinks und Dokumente:\nDrucksache 21/4
- 786 (Gesetzentwurf) Gesetz zur Umsetzung der Richtlinie (EU) 2024/1785 zur
-  Änderung der Richtlinie...: https://dserver.bundestag.de/btd/21/047/2104
- 786.pdf\n  DIP: https://dip.bundestag.de/drucksache/-/285995\nDrucksache 2
- 1/6988 (Beschlussempfehlung und Bericht): https://dserver.bundestag.de/btd
- /21/069/2106988.pdf\nPlenarprotokoll 89. Sitzung: https://dserver.bundesta
- g.de/btp/21/21089.pdf\nTextarchiv: https://www.bundestag.de/dokumente/text
- archiv/2026/kw28-de-industrieemissionen-1193478\nMediathek: https://www.bu
- ndestag.de/mediathek/plenarsitzungen\nTagesordnung: https://www.bundestag.
- de/tagesordnung
+ hlussempfehlung und Bericht) Gesetz zur Umsetzung der Richtlinie (EU) 2024
+ /1785 zur Änderung der Richtlinie...: Umwelt federführend\, WE mitberate
+ nd\n\nZweite und dritte Beratung des von der Bundesregierung\neingebrachte
+ n Entwurfs eines Gesetzes zur Umsetzung der Richtlinie (EU) 2024/1785 zur 
+ Änderung der Richtlinie 2010/75/EU über Industrieemissionen\nDrucksache 
+ 21/4786 (https://dserver.bundestag.de/btd/21/047/2104786.pdf)\nBeschlussem
+ pfehlung und Bericht des Ausschusses für Umwelt\, Klimaschutz\, Naturschu
+ tz und nukleare Sicherheit (16. Ausschuss)\nDrucksache 21/6988 (https://ds
+ erver.bundestag.de/btd/21/069/2106988.pdf)\n\nLinks und Dokumente:\nDrucks
+ ache 21/4786 (Gesetzentwurf) Gesetz zur Umsetzung der Richtlinie (EU) 2024
+ /1785 zur Änderung der Richtlinie...: https://dserver.bundestag.de/btd/21
+ /047/2104786.pdf\n  DIP: https://dip.bundestag.de/drucksache/-/285995\nDru
+ cksache 21/6988 (Beschlussempfehlung und Bericht) Gesetz zur Umsetzung der
+  Richtlinie (EU) 2024/1785 zur Änderung der Richtlinie...: https://dserve
+ r.bundestag.de/btd/21/069/2106988.pdf\n  DIP: https://dip.bundestag.de/dru
+ cksache/-/289320\nPlenarprotokoll 89. Sitzung: https://dserver.bundestag.d
+ e/btp/21/21089.pdf\nTextarchiv: https://www.bundestag.de/dokumente/textarc
+ hiv/2026/kw28-de-industrieemissionen-1193478\nMediathek: https://www.bunde
+ stag.de/mediathek/plenarsitzungen\nTagesordnung: https://www.bundestag.de/
+ tagesordnung
 LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
  lin
 URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw28-de-industrieemi
@@ -1780,7 +1813,7 @@ ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21089.pd
 END:VEVENT
 BEGIN:VEVENT
 UID:bt-96-top-8-energiekosten-energiepolitik@bundestag-kalender
-DTSTAMP:20261012T202025Z
+DTSTAMP:20261012T203134Z
 DTSTART;TZID=Europe/Berlin:20260924T101000
 DTEND;TZID=Europe/Berlin:20260924T112500
 SUMMARY:TOP 8: Energiekosten\, Energiepolitik
@@ -1818,7 +1851,7 @@ ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21096.pd
 END:VEVENT
 BEGIN:VEVENT
 UID:bt-96-top-10-klimaanpassung-und-naturschutz@bundestag-kalender
-DTSTAMP:20261012T202025Z
+DTSTAMP:20261012T203134Z
 DTSTART;TZID=Europe/Berlin:20260924T123000
 DTEND;TZID=Europe/Berlin:20260924T135500
 SUMMARY:TOP 10: Klimaanpassung und Naturschutz
@@ -1847,7 +1880,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bt-96-top-40-zp-2-ueberweisungen-im-vereinfachten-verfahre@bundestag-ka
  lender
-DTSTAMP:20261012T202025Z
+DTSTAMP:20261012T203134Z
 DTSTART;TZID=Europe/Berlin:20260924T135500
 DTEND;TZID=Europe/Berlin:20260924T140000
 SUMMARY:TOP 40\, ZP 2: Überweisungen im vereinfachten Verfahren
@@ -1879,7 +1912,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bt-96-top-32-aenderung-des-brennstoffemissionshandels@bundestag-kalende
  r
-DTSTAMP:20261012T202025Z
+DTSTAMP:20261012T203134Z
 DTSTART;TZID=Europe/Berlin:20260925T000000
 DTEND;TZID=Europe/Berlin:20260925T001500
 SUMMARY:TOP 32: Änderung des Brennstoffemissionshandelsgesetzes
@@ -1908,7 +1941,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bt-99-top-24-ausbaustrecke-neubaustrecke-hannover-ham@bundestag-kalende
  r
-DTSTAMP:20261012T202025Z
+DTSTAMP:20261012T203134Z
 DTSTART;TZID=Europe/Berlin:20261008T223500
 DTEND;TZID=Europe/Berlin:20261008T230000
 SUMMARY:TOP 24: Ausbaustrecke/Neubaustrecke Hannover - Hamburg
@@ -1941,7 +1974,7 @@ ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21099.pd
 END:VEVENT
 BEGIN:VEVENT
 UID:bt-102-top-24-brennstoffemissionshandelsgesetz@bundestag-kalender
-DTSTAMP:20261012T202025Z
+DTSTAMP:20261012T203134Z
 DTSTART;TZID=Europe/Berlin:20261015T195000
 DTEND;TZID=Europe/Berlin:20261015T201500
 SUMMARY:TOP 24: Brennstoffemissionshandelsgesetz
@@ -1970,7 +2003,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bt-102-top-30-buerokratierueckbau-modernisierung-desst@bundestag-kalend
  er
-DTSTAMP:20261012T202025Z
+DTSTAMP:20261012T203134Z
 DTSTART;TZID=Europe/Berlin:20261015T222000
 DTEND;TZID=Europe/Berlin:20261015T224500
 SUMMARY:TOP 30: Bürokratierückbau\, Modernisierung desStrahlenschutzrecht

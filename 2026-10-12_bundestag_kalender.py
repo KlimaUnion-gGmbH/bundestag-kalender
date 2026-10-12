@@ -44,13 +44,14 @@ MAX_ANHAENGE = 12  # ATTACH-Zeilen je Plenartermin
 MAX_ANHAENGE_AUSSCHUSS = 25
 SITZUNG_MINUTEN = 120  # geschätzte Dauer nicht öffentlicher Ausschusssitzungen
 MAX_DETAILS_PRO_LAUF = 50
+SKRIPT_VERSION = "v2 (Sammelpunkte nach Federführung gekürzt)"
 BERLIN = ZoneInfo("Europe/Berlin")
 
 # Betreiber und Adressen (für die Startseite)
 BETREIBER = "KlimaUnion gGmbH, Berlin"
 BETREIBER_URL = "https://klimaunion.org"
 IMPRESSUM_URL = "https://klimaunion.org/impressum"
-DATENSCHUTZ_URL = "datenschutz.html"
+DATENSCHUTZ_URL = "datenschutz.html"  # Seite im Ordner docs, bei Bedarf durch eine volle Adresse ersetzen
 REPO_URL = "https://github.com/KlimaUnion-gGmbH/bundestag-kalender"
 BASIS_URL = "https://klimaunion-ggmbh.github.io/bundestag-kalender/"  # Voreinstellung ohne GITHUB_REPOSITORY
 # Rollen, die in die Ausschuss-Feeds aufgenommen werden. Mitberatung ist bewusst ausgeschlossen.
@@ -71,6 +72,7 @@ AUSSCHUESSE = {
         "datei": "bundestag-wirtschaft-energie.ics",
         "name": "Wirtschaft und Energie",
         "nr": 9,
+        "kurz": "WE",
         "kuerzel": {"AfWE"},
         "alias": [r"Wirtschaft und Energie", r"Wirtschaftsausschuss"],
         # Eigene Sitzungen und Anhörungen laut Ausschussseite (ID-Teile stehen in den Seiten-Skripten).
@@ -86,6 +88,7 @@ AUSSCHUESSE = {
         "datei": "bundestag-umwelt-klima.ics",
         "name": "Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit",
         "nr": 16,
+        "kurz": "Umwelt",
         "kuerzel": {"AfU"},
         "alias": [r"Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit", r"Umweltausschuss"],
     },
@@ -510,7 +513,7 @@ def dip_lookup(dnr, vorgangs_cache):
     dr = dip_get("drucksache", **{"f.dokumentnummer": dnr, "f.zuordnung": "BT"})
     docs = dr.get("documents", [])
     if not docs:
-        return {"gefunden": False, "ausschuesse": {}}
+        return {"gefunden": False, "ausschuesse": {}, "titel": None}
     res = {}
     for vb in docs[0].get("vorgangsbezug", []):
         vid = vb["id"]
@@ -521,6 +524,7 @@ def dip_lookup(dnr, vorgangs_cache):
                 res[kz] = info
     return {"gefunden": True, "typ": docs[0].get("drucksachetyp"), "ausschuesse": res,
             "id": docs[0].get("id"),
+            "titel": ((docs[0].get("vorgangsbezug") or [{}])[0].get("titel") or docs[0].get("titel")),
             "vorgaenge": [vb["id"] for vb in docs[0].get("vorgangsbezug", [])][:3]}
 
 
@@ -531,7 +535,7 @@ def dip_phase(events, dipc):
         for d in ev["drucksachen"]:
             alle[d] = alle.get(d, False) or ev["aktuell"]
     todo = [d for d, akt in alle.items()
-            if d not in dipc or (akt and jetzt - dipc[d]["ts"] > TTL)]
+            if d not in dipc or "titel" not in dipc[d] or (akt and jetzt - dipc[d]["ts"] > TTL)]
     todo.sort(key=lambda d: (not alle[d], d not in dipc, d))
     vorgangs_cache, fehler, geholt = {}, 0, 0
     for d in todo[:MAX_DIP_PRO_LAUF]:
@@ -656,14 +660,15 @@ def protokoll_phase(events, prot):
     return geholt
 
 
-def links(ev, dipc, prot):
+def links(ev, dipc, prot, nur=None):
     """Textzeilen für die Beschreibung und Anhangs-Links (URL, Dateityp)."""
     zeilen, anhaenge = [], []
-    for d in ev["drucksachen"][:20]:
+    for d in [x for x in ev["drucksachen"] if nur is None or x in nur][:20]:
         pdf = drucksache_pdf(d)
         eintrag = dipc.get(d, {})
         typ = f" ({eintrag['typ']})" if eintrag.get("typ") else ""
-        z = f"Drucksache {d}{typ}: {pdf}"
+        titel = f" {kuerzen(eintrag['titel'], 90)}" if eintrag.get("titel") else ""
+        z = f"Drucksache {d}{typ}{titel}: {pdf}"
         if eintrag.get("id"):
             z += f"\n  DIP: https://dip.bundestag.de/drucksache/-/{eintrag['id']}"
         zeilen.append(z)
@@ -699,19 +704,85 @@ def zuordnen(ev, dipc, tac):
     return res
 
 
+def kuerzen(t, n):
+    t = re.sub(r"\s+", " ", t or "").strip()
+    return t if len(t) <= n else t[: n - 1].rsplit(" ", 1)[0] + "..."
+
+
+SAMMEL_RE = re.compile(r"Abschließende Beratungen|Überweisungen? im vereinfachten", re.I)
+
+
+def themen(ev, dipc, key):
+    """Themen (Vorgangstitel) je Rolle des Ausschusses key. Rückgabe: {rolle: [titel, ...]}"""
+    res = {}
+    for d in ev["drucksachen"]:
+        e = dipc.get(d, {})
+        titel = e.get("titel")
+        if not titel:
+            continue
+        for kz, info in e.get("ausschuesse", {}).items():
+            if key_fuer(kz, info.get("name")) == key:
+                liste = res.setdefault(info["rolle"], [])
+                if titel not in liste:
+                    liste.append(titel)
+    return res
+
+
+def fed_drucksachen(ev, dipc, key):
+    res = []
+    for d in ev["drucksachen"]:
+        for kz, info in dipc.get(d, {}).get("ausschuesse", {}).items():
+            if key_fuer(kz, info.get("name")) == key and info["rolle"] == "federführend":
+                res.append(d)
+                break
+    return res
+
+
+def beschreibung_ausschuss(ev, zuo, dipc, prot, key):
+    """Gekürzte Beschreibung für Ausschuss-Feeds: bei Sammelpunkten nur die Vorlagen mit
+    Federführung des Ausschusses. Rückgabe (Text, Anhänge) oder None, wenn nichts zu kürzen ist."""
+    fed = fed_drucksachen(ev, dipc, key)
+    if len(ev["drucksachen"]) < 2 or not fed or len(fed) == len(ev["drucksachen"]):
+        return None
+    a = AUSSCHUESSE[key]
+    z = zuo[key]
+    zeilen = list(ev["kopf"])
+    zeilen.append(f"Ausschuss {a['name']}: {z['rolle']} ({QUELLE_TEXT[z['quelle']]})")
+    zeilen.append(f"Aufgeführt sind nur die Vorlagen, bei denen {a['kurz']} federführend ist. "
+                  f"Weitere {len(ev['drucksachen']) - len(fed)} Drucksachen dieses Punktes stehen im Textarchiv.")
+    gewaehlt = []
+    for block in re.split(r"\n\s*\n", ev["detail"]):
+        if any(re.search(rf"(?<![\d/]){re.escape(d)}(?!\d)", block) for d in fed):
+            gewaehlt.append(block.strip())
+    if gewaehlt:
+        zeilen += [""] + ["\n\n".join(gewaehlt)]
+    lz, anh = links(ev, dipc, prot, nur=fed)
+    return "\n".join(zeilen) + "\n\nLinks und Dokumente:\n" + "\n".join(lz), anh
+
+
 def beschreibung(ev, zuo, dipc, prot):
     zeilen = list(ev["kopf"])
     for key, z in zuo.items():
         zeilen.append(f"Ausschuss {AUSSCHUESSE[key]['name']}: {z['rolle']} ({QUELLE_TEXT[z['quelle']]})")
+    if len(ev["drucksachen"]) > 1:
+        for key in zuo:
+            t = themen(ev, dipc, key)
+            for rolle in ("federführend", "mitberatend"):
+                if t.get(rolle):
+                    zeilen.append(f"{AUSSCHUESSE[key]['kurz']} {rolle} bei: "
+                                  + "; ".join(kuerzen(x, 90) for x in t[rolle][:8]))
     je_dnr = []
     for d in ev["drucksachen"]:
+        e = dipc.get(d, {})
         teile = []
-        for kz, info in dipc.get(d, {}).get("ausschuesse", {}).items():
-            if key_fuer(kz, info.get("name")):
-                teile.append(f"{info['name']} ({info['rolle']})")
+        for kz, info in e.get("ausschuesse", {}).items():
+            k = key_fuer(kz, info.get("name"))
+            if k:
+                teile.append(f"{AUSSCHUESSE[k]['kurz']} {info['rolle']}")
         if teile:
-            typ = dipc.get(d, {}).get("typ")
-            je_dnr.append(f"{d}{' (' + typ + ')' if typ else ''}: " + ", ".join(teile))
+            typ = f" ({e['typ']})" if e.get("typ") else ""
+            titel = f" {kuerzen(e['titel'], 90)}" if e.get("titel") else ""
+            je_dnr.append(f"{d}{typ}{titel}: " + ", ".join(teile))
     if je_dnr and len(ev["drucksachen"]) > 1:
         zeilen.append("Zuordnung je Drucksache (DIP):")
         zeilen += [f"  {z}" for z in je_dnr[:12]]
@@ -970,6 +1041,14 @@ def main():
             if not z or z["rolle"] not in FEED_ROLLEN:
                 continue
             e2 = dict(e)
+            alt = beschreibung_ausschuss(e, e["zuo"], dipc, prot, key)
+            if alt:
+                e2["description"], e2["anhaenge"] = alt
+            if SAMMEL_RE.search(e["summary"]):
+                t = themen(e, dipc, key)
+                fed = t.get("federführend", [])
+                if fed:
+                    e2["summary"] = kuerzen(e["summary"] + ": " + "; ".join(kuerzen(x, 45) for x in fed[:3]), 140)
             marken = []
             if z["rolle"] == "mitberatend":
                 marken.append("mitberatend")
@@ -1017,6 +1096,7 @@ def main():
         basis = BASIS_URL
     schreiben_wenn_geaendert(OUT / "index.html", index_html(basis, feeds))
 
+    print(f"Skript {SKRIPT_VERSION}")
     print(f"{len(events)} Termine, {len(wochen)} Sitzungswochen")
     print(f"DIP: {d_neu} Drucksachen abgefragt, {d_fehler} Fehler, {d_offen} noch offen")
     print(f"Textarchiv: {t_neu} Artikel gelesen, Plenarprotokolle: {p_neu} abgefragt")

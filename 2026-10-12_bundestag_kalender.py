@@ -49,7 +49,8 @@ BERLIN = ZoneInfo("Europe/Berlin")
 # Betreiber und Adressen (für die Startseite)
 BETREIBER = "KlimaUnion gGmbH, Berlin"
 BETREIBER_URL = "https://klimaunion.org"
-IMPRESSUM_URL = "https://klimaunion.org/impressum"  # bitte prüfen
+IMPRESSUM_URL = "https://klimaunion.org/impressum"
+DATENSCHUTZ_URL = "https://klimaunion.org/datenschutz"
 REPO_URL = "https://github.com/KlimaUnion-gGmbH/bundestag-kalender"
 BASIS_URL = "https://klimaunion-ggmbh.github.io/bundestag-kalender/"  # Voreinstellung ohne GITHUB_REPOSITORY
 # Rollen, die in die Ausschuss-Feeds aufgenommen werden. Mitberatung ist bewusst ausgeschlossen.
@@ -369,7 +370,10 @@ def ausschuss_events(cfg, cache, heute):
             verwendet.add(z["nr"])
         zeilen = ["Öffentliche Anhörung" + (f" ({z['nr']}. Sitzung)" if z else "")]
         if d.get("gegenstand"):
-            zeilen += ["", "Gegenstand: " + re.sub(r"\s*\((?:Dokument|PDF)[^)]*\)", "", d["gegenstand"])]
+            gegenstand = re.sub(r"\s*\((?:Dokument|PDF)[^)]*\)", "", d["gegenstand"])
+            if len(gegenstand) > 700:
+                gegenstand = gegenstand[:700].rsplit(" ", 1)[0] + " ... (weiter auf der Seite der Anhörung)"
+            zeilen += ["", "Gegenstand: " + gegenstand]
         if d.get("frist") or d.get("anmeldung"):
             zeilen += ["", "Anmeldung als Zuschauer" + (f" bis {d['frist']}" if d.get("frist") else "")
                        + (f": {d['anmeldung']}" if d.get("anmeldung") else "")]
@@ -894,7 +898,7 @@ als Angebot für die energie- und klimapolitische Informationsarbeit. Alle Daten
 {items}</ul>
 <p>Inoffizielles Angebot, keine Gewähr. Quellen: bundestag.de und das Dokumentations- und Informationssystem DIP.
 Endzeiten sind teils geschätzt. Ausschuss-Zuordnungen vor der ersten Beratung sind Vorschläge und im Titel gekennzeichnet.</p>
-<p><a href="{IMPRESSUM_URL}">Impressum</a> | <a href="{REPO_URL}">Quellcode</a></p>
+<p><a href="{IMPRESSUM_URL}">Impressum</a> | <a href="{DATENSCHUTZ_URL}">Datenschutz</a> | <a href="{REPO_URL}">Quellcode</a></p>
 </body></html>
 """
 
@@ -1008,7 +1012,7 @@ def main():
     repo = os.environ.get("GITHUB_REPOSITORY", "")
     if "/" in repo:
         eigner, name = repo.split("/", 1)
-        basis = f"https://{eigner}.github.io/{name}/"
+        basis = f"https://{eigner.lower()}.github.io/{name}/"
     else:
         basis = BASIS_URL
     schreiben_wenn_geaendert(OUT / "index.html", index_html(basis, feeds))

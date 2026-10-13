@@ -27,7 +27,7 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sw-20260112@bundestag-kalender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;VALUE=DATE:20260112
 DTEND;VALUE=DATE:20260117
 SUMMARY:Sitzungswoche
@@ -35,7 +35,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20260126@bundestag-kalender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;VALUE=DATE:20260126
 DTEND;VALUE=DATE:20260131
 SUMMARY:Sitzungswoche
@@ -43,7 +43,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20260223@bundestag-kalender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;VALUE=DATE:20260223
 DTEND;VALUE=DATE:20260228
 SUMMARY:Sitzungswoche
@@ -51,7 +51,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20260302@bundestag-kalender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;VALUE=DATE:20260302
 DTEND;VALUE=DATE:20260307
 SUMMARY:Sitzungswoche
@@ -59,7 +59,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20260316@bundestag-kalender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;VALUE=DATE:20260316
 DTEND;VALUE=DATE:20260321
 SUMMARY:Sitzungswoche
@@ -67,7 +67,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20260323@bundestag-kalender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;VALUE=DATE:20260323
 DTEND;VALUE=DATE:20260328
 SUMMARY:Sitzungswoche
@@ -75,7 +75,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20260413@bundestag-kalender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;VALUE=DATE:20260413
 DTEND;VALUE=DATE:20260418
 SUMMARY:Sitzungswoche
@@ -83,7 +83,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20260420@bundestag-kalender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;VALUE=DATE:20260420
 DTEND;VALUE=DATE:20260425
 SUMMARY:Sitzungswoche
@@ -91,7 +91,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20260504@bundestag-kalender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;VALUE=DATE:20260504
 DTEND;VALUE=DATE:20260509
 SUMMARY:Sitzungswoche
@@ -99,7 +99,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20260518@bundestag-kalender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;VALUE=DATE:20260518
 DTEND;VALUE=DATE:20260523
 SUMMARY:Sitzungswoche
@@ -107,7 +107,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20260608@bundestag-kalender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;VALUE=DATE:20260608
 DTEND;VALUE=DATE:20260613
 SUMMARY:Sitzungswoche
@@ -115,7 +115,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20260622@bundestag-kalender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;VALUE=DATE:20260622
 DTEND;VALUE=DATE:20260627
 SUMMARY:Sitzungswoche
@@ -123,7 +123,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20260706@bundestag-kalender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;VALUE=DATE:20260706
 DTEND;VALUE=DATE:20260711
 SUMMARY:Sitzungswoche
@@ -131,7 +131,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20260907@bundestag-kalender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;VALUE=DATE:20260907
 DTEND;VALUE=DATE:20260912
 SUMMARY:Sitzungswoche
@@ -139,7 +139,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20260921@bundestag-kalender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260926
 SUMMARY:Sitzungswoche
@@ -147,7 +147,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20261005@bundestag-kalender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261010
 SUMMARY:Sitzungswoche
@@ -155,7 +155,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20261012@bundestag-kalender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261017
 SUMMARY:Sitzungswoche
@@ -163,7 +163,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20261102@bundestag-kalender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261107
 SUMMARY:Sitzungswoche
@@ -171,7 +171,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20261109@bundestag-kalender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261114
 SUMMARY:Sitzungswoche
@@ -179,7 +179,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20261123@bundestag-kalender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261128
 SUMMARY:Sitzungswoche
@@ -187,7 +187,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20261207@bundestag-kalender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261212
 SUMMARY:Sitzungswoche
@@ -195,7 +195,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20261214@bundestag-kalender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;VALUE=DATE:20261214
 DTEND;VALUE=DATE:20261219
 SUMMARY:Sitzungswoche
@@ -203,7 +203,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20270111@bundestag-kalender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;VALUE=DATE:20270111
 DTEND;VALUE=DATE:20270116
 SUMMARY:Sitzungswoche
@@ -211,7 +211,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20270125@bundestag-kalender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;VALUE=DATE:20270125
 DTEND;VALUE=DATE:20270130
 SUMMARY:Sitzungswoche
@@ -219,7 +219,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20270215@bundestag-kalender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;VALUE=DATE:20270215
 DTEND;VALUE=DATE:20270220
 SUMMARY:Sitzungswoche
@@ -227,7 +227,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20270301@bundestag-kalender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;VALUE=DATE:20270301
 DTEND;VALUE=DATE:20270306
 SUMMARY:Sitzungswoche
@@ -235,7 +235,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20270315@bundestag-kalender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;VALUE=DATE:20270315
 DTEND;VALUE=DATE:20270320
 SUMMARY:Sitzungswoche
@@ -243,7 +243,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20270405@bundestag-kalender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;VALUE=DATE:20270405
 DTEND;VALUE=DATE:20270410
 SUMMARY:Sitzungswoche
@@ -251,7 +251,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20270412@bundestag-kalender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;VALUE=DATE:20270412
 DTEND;VALUE=DATE:20270417
 SUMMARY:Sitzungswoche
@@ -259,7 +259,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20270426@bundestag-kalender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;VALUE=DATE:20270426
 DTEND;VALUE=DATE:20270501
 SUMMARY:Sitzungswoche
@@ -267,7 +267,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20270510@bundestag-kalender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;VALUE=DATE:20270510
 DTEND;VALUE=DATE:20270515
 SUMMARY:Sitzungswoche
@@ -275,7 +275,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20270531@bundestag-kalender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;VALUE=DATE:20270531
 DTEND;VALUE=DATE:20270605
 SUMMARY:Sitzungswoche
@@ -283,7 +283,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20270614@bundestag-kalender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;VALUE=DATE:20270614
 DTEND;VALUE=DATE:20270619
 SUMMARY:Sitzungswoche
@@ -291,7 +291,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20270628@bundestag-kalender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;VALUE=DATE:20270628
 DTEND;VALUE=DATE:20270703
 SUMMARY:Sitzungswoche
@@ -299,7 +299,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20270705@bundestag-kalender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;VALUE=DATE:20270705
 DTEND;VALUE=DATE:20270710
 SUMMARY:Sitzungswoche
@@ -307,7 +307,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20270906@bundestag-kalender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;VALUE=DATE:20270906
 DTEND;VALUE=DATE:20270911
 SUMMARY:Sitzungswoche
@@ -315,7 +315,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20270920@bundestag-kalender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;VALUE=DATE:20270920
 DTEND;VALUE=DATE:20270925
 SUMMARY:Sitzungswoche
@@ -323,7 +323,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20271004@bundestag-kalender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;VALUE=DATE:20271004
 DTEND;VALUE=DATE:20271009
 SUMMARY:Sitzungswoche
@@ -331,7 +331,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20271025@bundestag-kalender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;VALUE=DATE:20271025
 DTEND;VALUE=DATE:20271030
 SUMMARY:Sitzungswoche
@@ -339,7 +339,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20271108@bundestag-kalender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;VALUE=DATE:20271108
 DTEND;VALUE=DATE:20271113
 SUMMARY:Sitzungswoche
@@ -347,7 +347,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20271122@bundestag-kalender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;VALUE=DATE:20271122
 DTEND;VALUE=DATE:20271127
 SUMMARY:Sitzungswoche
@@ -355,7 +355,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20271129@bundestag-kalender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;VALUE=DATE:20271129
 DTEND;VALUE=DATE:20271204
 SUMMARY:Sitzungswoche
@@ -363,7 +363,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20271213@bundestag-kalender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;VALUE=DATE:20271213
 DTEND;VALUE=DATE:20271218
 SUMMARY:Sitzungswoche
@@ -371,7 +371,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-a09-wirtschaft-sitzung-22@bundestag-kalender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;TZID=Europe/Berlin:20260114T103000
 DTEND;TZID=Europe/Berlin:20260114T123000
 SUMMARY:Ausschuss WE: 22. Sitzung (nicht öffentlich)
@@ -390,7 +390,7 @@ ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11362
 END:VEVENT
 BEGIN:VEVENT
 UID:bt-53-top-7-mittelstandspolitik-waermepumpenoffensiv@bundestag-kalender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;TZID=Europe/Berlin:20260115T101000
 DTEND;TZID=Europe/Berlin:20260115T112500
 SUMMARY:TOP 7: Mittelstandspolitik\, Wärmepumpenoffensive
@@ -420,7 +420,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bt-53-top-31-top-22-zp-4-ueberweisungen-im-vereinfachten-verfahre@bunde
  stag-kalender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;TZID=Europe/Berlin:20260115T133500
 DTEND;TZID=Europe/Berlin:20260115T134000
 SUMMARY:TOP 31\, TOP 22\, ZP 4: Überweisungen im vereinfachten Verfahren: 
@@ -455,7 +455,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bt-53-top-11-beschleunigte-beschaffung-fuer-die-bunde@bundestag-kalende
  r
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;TZID=Europe/Berlin:20260115T151000
 DTEND;TZID=Europe/Berlin:20260115T154500
 SUMMARY:TOP 11: Beschleunigte Beschaffung für die Bundeswehr
@@ -504,7 +504,7 @@ ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21053.pd
 END:VEVENT
 BEGIN:VEVENT
 UID:bt-53-top-15-sanktionsstrafrecht@bundestag-kalender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;TZID=Europe/Berlin:20260115T172500
 DTEND;TZID=Europe/Berlin:20260115T175500
 SUMMARY:TOP 15: Sanktionsstrafrecht
@@ -554,7 +554,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bt-53-top-23-zp-7-nachhaltige-nutzung-der-meere-hochseesch@bundestag-ka
  lender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;TZID=Europe/Berlin:20260115T212500
 DTEND;TZID=Europe/Berlin:20260115T215000
 SUMMARY:TOP 23\, ZP 7: Nachhaltige Nutzung der Meere\, Hochseeschutzgesetz
@@ -586,7 +586,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bt-54-top-26-natur-u-umweltschutz-b-windkraft-u-solar@bundestag-kalende
  r
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;TZID=Europe/Berlin:20260116T100500
 DTEND;TZID=Europe/Berlin:20260116T112500
 SUMMARY:TOP 26: Natur- u. Umweltschutz b. Windkraft- u. Solaranlagen
@@ -623,7 +623,7 @@ ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21054.pd
 END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-a09-wirtschaft-sitzung-23@bundestag-kalender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;TZID=Europe/Berlin:20260128T102000
 DTEND;TZID=Europe/Berlin:20260128T122000
 SUMMARY:Ausschuss WE: 23. Sitzung (nicht öffentlich)
@@ -648,7 +648,7 @@ ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11398
 END:VEVENT
 BEGIN:VEVENT
 UID:bt-55-top-4-buerokratie-und-steuerentlastung-fuer-un@bundestag-kalender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;TZID=Europe/Berlin:20260128T182500
 DTEND;TZID=Europe/Berlin:20260128T190000
 SUMMARY:TOP 4: Bürokratie- und Steuerentlastung für Unternehmen
@@ -675,7 +675,7 @@ ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21055.pd
 END:VEVENT
 BEGIN:VEVENT
 UID:bt-55-top-3-buerokratierueckbau-gewo-aufhebung-von-b@bundestag-kalender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;TZID=Europe/Berlin:20260128T190000
 DTEND;TZID=Europe/Berlin:20260128T193000
 SUMMARY:TOP 3: Bürokratierückbau GewO\, Aufhebung von Berichtspflichten
@@ -705,7 +705,7 @@ ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21055.pd
 END:VEVENT
 BEGIN:VEVENT
 UID:bt-57-top-7-regierungserklaerung-zum-jahreswirtschaf@bundestag-kalender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;TZID=Europe/Berlin:20260130T090000
 DTEND;TZID=Europe/Berlin:20260130T103000
 SUMMARY:TOP 7: Regierungserklärung zum Jahreswirtschaftsbericht 2026
@@ -734,7 +734,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-a09-wirtschaft-anhoerung-1140336@bundestag-kalend
  er
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;TZID=Europe/Berlin:20260225T090000
 DTEND;TZID=Europe/Berlin:20260225T100000
 SUMMARY:Ausschuss WE: Anhörung „Unitarisierungsabkommen zwischen Deutsch
@@ -798,7 +798,7 @@ ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11509
 END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-a09-wirtschaft-sitzung-26@bundestag-kalender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;TZID=Europe/Berlin:20260225T103000
 DTEND;TZID=Europe/Berlin:20260225T123000
 SUMMARY:Ausschuss WE: 26. Sitzung (nicht öffentlich)
@@ -818,7 +818,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bt-58-zp-4-top-5-finanzierung-von-startups-scaleups-buero@bundestag-kal
  ender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;TZID=Europe/Berlin:20260225T180500
 DTEND;TZID=Europe/Berlin:20260225T185000
 SUMMARY:ZP 4\, TOP 5: Finanzierung von Startups/Scaleups\, Bürokratieabbau
@@ -848,7 +848,7 @@ ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21058.pd
 END:VEVENT
 BEGIN:VEVENT
 UID:bt-59-zp-7-top-9-klimaschutz-bezahlbarer-strom@bundestag-kalender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;TZID=Europe/Berlin:20260226T101000
 DTEND;TZID=Europe/Berlin:20260226T113000
 SUMMARY:ZP 7\, TOP 9: Klimaschutz\, bezahlbarer Strom
@@ -877,7 +877,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bt-59-top-31-zp-10-ueberweisungen-im-vereinfachten-verfahre@bundestag-k
  alender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;TZID=Europe/Berlin:20260226T134000
 DTEND;TZID=Europe/Berlin:20260226T135000
 SUMMARY:TOP 31\, ZP 10: Überweisungen im vereinfachten Verfahren: Gesetz z
@@ -909,7 +909,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bt-59-top-32-zp-11-abschliessende-beratungen-ohne-aussprach@bundestag-k
  alender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;TZID=Europe/Berlin:20260226T134000
 DTEND;TZID=Europe/Berlin:20260226T135000
 SUMMARY:TOP 32\, ZP 11: Abschließende Beratungen ohne Aussprache: Zweiundz
@@ -954,7 +954,7 @@ ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21059.pd
 END:VEVENT
 BEGIN:VEVENT
 UID:bt-59-zp-13-wasserstoffhochlauf@bundestag-kalender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;TZID=Europe/Berlin:20260226T161000
 DTEND;TZID=Europe/Berlin:20260226T164500
 SUMMARY:ZP 13: Wasserstoffhochlauf
@@ -1009,7 +1009,7 @@ ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21059.pd
 END:VEVENT
 BEGIN:VEVENT
 UID:bt-60-top-26-rohstoffpolitik@bundestag-kalender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;TZID=Europe/Berlin:20260227T110500
 DTEND;TZID=Europe/Berlin:20260227T121500
 SUMMARY:TOP 26: Rohstoffpolitik
@@ -1036,7 +1036,7 @@ ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21060.pd
 END:VEVENT
 BEGIN:VEVENT
 UID:bt-60-top-28-recht-auf-heizen@bundestag-kalender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;TZID=Europe/Berlin:20260227T125000
 DTEND;TZID=Europe/Berlin:20260227T132500
 SUMMARY:TOP 28: Recht auf Heizen
@@ -1063,7 +1063,7 @@ ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21060.pd
 END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-a09-wirtschaft-sitzung-27@bundestag-kalender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;TZID=Europe/Berlin:20260304T103000
 DTEND;TZID=Europe/Berlin:20260304T123000
 SUMMARY:Ausschuss WE: 27. Sitzung (nicht öffentlich)
@@ -1085,7 +1085,7 @@ ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11509
 END:VEVENT
 BEGIN:VEVENT
 UID:bt-62-zp-3-top-4-erneuerbare-energien-waermewende@bundestag-kalender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;TZID=Europe/Berlin:20260305T125000
 DTEND;TZID=Europe/Berlin:20260305T140500
 SUMMARY:ZP 3\, TOP 4: Erneuerbare Energien\, Wärmewende
@@ -1143,7 +1143,7 @@ ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21062.pd
 END:VEVENT
 BEGIN:VEVENT
 UID:bt-62-top-12-kernenergie@bundestag-kalender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;TZID=Europe/Berlin:20260305T161500
 DTEND;TZID=Europe/Berlin:20260305T165000
 SUMMARY:TOP 12: Kernenergie
@@ -1187,7 +1187,7 @@ ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21062.pd
 END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-a09-wirtschaft-sitzung-28@bundestag-kalender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;TZID=Europe/Berlin:20260318T103000
 DTEND;TZID=Europe/Berlin:20260318T123000
 SUMMARY:Ausschuss WE: 28. Sitzung (nicht öffentlich)
@@ -1210,7 +1210,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bt-65-zp-2-4-top-9-kraftstoffmassnahmenpaket-energiepreisst@bundestag-k
  alender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;TZID=Europe/Berlin:20260319T113000
 DTEND;TZID=Europe/Berlin:20260319T125000
 SUMMARY:ZP 2 - 4\, TOP 9: Kraftstoffmaßnahmenpaket\, Energiepreissteigerun
@@ -1282,7 +1282,7 @@ ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21065.pd
 END:VEVENT
 BEGIN:VEVENT
 UID:bt-65-zp-5-kernkraftausstieg@bundestag-kalender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;TZID=Europe/Berlin:20260319T125000
 DTEND;TZID=Europe/Berlin:20260319T140500
 SUMMARY:ZP 5: Kernkraftausstieg
@@ -1311,7 +1311,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bt-65-top-18-greentech-zukunft-der-europaeischen-chem@bundestag-kalende
  r
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;TZID=Europe/Berlin:20260319T194500
 DTEND;TZID=Europe/Berlin:20260319T202500
 SUMMARY:TOP 18: GreenTech\, Zukunft der europäischen Chemieindustrie
@@ -1327,7 +1327,7 @@ DESCRIPTION:Status: beendet\n65. Sitzung\nAusschuss Umwelt\, Klimaschutz\,
  ) Wirtschaft 2045 - GreenTech als Wachstumstreiber nutzen\, Technologiesou
  veränität stärken: Umwelt mitberatend\, WE federführend\n  21/4755 (An
  trag) Zukunft der europäischen Chemieindustrie sichern - Innovation\, Nac
- hhaltigkeit und...: Umwelt mitberatend\, WE federführend\n\na) Beratung d
+ hhaltigkeit und...: WE federführend\, Umwelt mitberatend\n\na) Beratung d
  es Antrags der Fraktion BÜNDNIS 90/DIE GRÜNEN\nWirtschaft 2045 – Green
  Tech als Wachstumstreiber nutzen\, Technologiesouveränität stärken\nDru
  cksache 21/4754 (https://dserver.bundestag.de/btd/21/047/2104754.pdf)\n\nb
@@ -1359,7 +1359,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-a09-wirtschaft-anhoerung-1156340@bundestag-kalend
  er
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;TZID=Europe/Berlin:20260320T073000
 DTEND;TZID=Europe/Berlin:20260320T090000
 SUMMARY:Ausschuss WE: Anhörung zum „Kraftstoffmaßnahmenpaket“
@@ -1426,7 +1426,7 @@ ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11570
 END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-a09-wirtschaft-sitzung-30@bundestag-kalender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;TZID=Europe/Berlin:20260325T103000
 DTEND;TZID=Europe/Berlin:20260325T123000
 SUMMARY:Ausschuss WE: 30. Sitzung (nicht öffentlich)
@@ -1442,7 +1442,7 @@ ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11570
 END:VEVENT
 BEGIN:VEVENT
 UID:bt-68-top-7-kraftstoffmassnahmenpaket-energiepreisst@bundestag-kalender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;TZID=Europe/Berlin:20260326T090000
 DTEND;TZID=Europe/Berlin:20260326T103000
 SUMMARY:TOP 7: Kraftstoffmaßnahmenpaket\, Energiepreissteigerungen
@@ -1514,7 +1514,7 @@ ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21068.pd
 END:VEVENT
 BEGIN:VEVENT
 UID:bt-68-top-4-boykottmassnahmen-durch-nichtregierungso@bundestag-kalender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;TZID=Europe/Berlin:20260326T205000
 DTEND;TZID=Europe/Berlin:20260326T210000
 SUMMARY:TOP 4: Boykottmaßnahmen durch Nichtregierungsorganisationen
@@ -1540,7 +1540,7 @@ ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21068.pd
 END:VEVENT
 BEGIN:VEVENT
 UID:bt-69-top-25-zp-10-zukunft-der-automobilindustrie@bundestag-kalender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;TZID=Europe/Berlin:20260327T101500
 DTEND;TZID=Europe/Berlin:20260327T113000
 SUMMARY:TOP 25\, ZP 10: Zukunft der Automobilindustrie
@@ -1585,7 +1585,7 @@ ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21069.pd
 END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-a09-wirtschaft-sitzung-31@bundestag-kalender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;TZID=Europe/Berlin:20260415T103000
 DTEND;TZID=Europe/Berlin:20260415T123000
 SUMMARY:Ausschuss WE: 31. Sitzung (nicht öffentlich)
@@ -1600,7 +1600,7 @@ ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11650
 END:VEVENT
 BEGIN:VEVENT
 UID:bt-70-top-3-oekodesign-und-energieverbrauchskennzeic@bundestag-kalender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;TZID=Europe/Berlin:20260415T173500
 DTEND;TZID=Europe/Berlin:20260415T181000
 SUMMARY:TOP 3: Ökodesign und Energieverbrauchskennzeichnung
@@ -1631,7 +1631,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bt-71-top-10-small-modular-reactors-miniatomkraftwerk@bundestag-kalende
  r
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;TZID=Europe/Berlin:20260416T163000
 DTEND;TZID=Europe/Berlin:20260416T171000
 SUMMARY:TOP 10: Small Modular Reactors - Miniatomkraftwerke
@@ -1660,7 +1660,7 @@ ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21071.pd
 END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-a09-wirtschaft-sitzung-32@bundestag-kalender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;TZID=Europe/Berlin:20260422T103000
 DTEND;TZID=Europe/Berlin:20260422T123000
 SUMMARY:Ausschuss WE: 32. Sitzung (nicht öffentlich)
@@ -1685,7 +1685,7 @@ ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11669
 END:VEVENT
 BEGIN:VEVENT
 UID:bt-73-top-3-eu-rl-zum-elektromagnetische-vertraeglic@bundestag-kalender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;TZID=Europe/Berlin:20260422T174500
 DTEND;TZID=Europe/Berlin:20260422T181500
 SUMMARY:TOP 3: EU-RL zum Elektromagnetische-Verträglichkeit-Gesetz
@@ -1715,7 +1715,7 @@ ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21073.pd
 END:VEVENT
 BEGIN:VEVENT
 UID:bt-74-zp-3-beschleunigung-der-vergabe-oeffentlicher@bundestag-kalender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;TZID=Europe/Berlin:20260423T090000
 DTEND;TZID=Europe/Berlin:20260423T101000
 SUMMARY:ZP 3: Beschleunigung der Vergabe öffentlicher Aufträge
@@ -1763,7 +1763,7 @@ ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21074.pd
 END:VEVENT
 BEGIN:VEVENT
 UID:bt-74-top-18-maritime-wirtschaft@bundestag-kalender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;TZID=Europe/Berlin:20260423T112000
 DTEND;TZID=Europe/Berlin:20260423T122500
 SUMMARY:TOP 18: Maritime Wirtschaft
@@ -1794,7 +1794,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bt-74-top-23-zp-6-ueberweisungen-im-vereinfachten-verfahre@bundestag-ka
  lender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;TZID=Europe/Berlin:20260423T133000
 DTEND;TZID=Europe/Berlin:20260423T133500
 SUMMARY:TOP 23\, ZP 6: Überweisungen im vereinfachten Verfahren: Ausverkau
@@ -1826,7 +1826,7 @@ ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21074.pd
 END:VEVENT
 BEGIN:VEVENT
 UID:bt-74-top-9-eu-verordnung-datenaustausch-bei-kurzzei@bundestag-kalender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;TZID=Europe/Berlin:20260423T145000
 DTEND;TZID=Europe/Berlin:20260423T152000
 SUMMARY:TOP 9: EU-Verordnung: Datenaustausch bei Kurzzeitvermietungen
@@ -1870,7 +1870,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bt-74-top-11-aenderung-des-energiewirtschaftsgesetzes@bundestag-kalende
  r
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;TZID=Europe/Berlin:20260423T171500
 DTEND;TZID=Europe/Berlin:20260423T175000
 SUMMARY:TOP 11: Änderung des Energiewirtschaftsgesetzes
@@ -1900,7 +1900,7 @@ ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21074.pd
 END:VEVENT
 BEGIN:VEVENT
 UID:bt-75-top-4-zp-14-gasnetzentgelte@bundestag-kalender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;TZID=Europe/Berlin:20260424T130000
 DTEND;TZID=Europe/Berlin:20260424T133500
 SUMMARY:TOP 4\, ZP 14: Gasnetzentgelte
@@ -1942,7 +1942,7 @@ ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21075.pd
 END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-a09-wirtschaft-sitzung-33@bundestag-kalender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;TZID=Europe/Berlin:20260506T103000
 DTEND;TZID=Europe/Berlin:20260506T123000
 SUMMARY:Ausschuss WE: 33. Sitzung (nicht öffentlich)
@@ -1958,7 +1958,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bt-77-top-27-top-26-zp-4-ueberweisungen-im-vereinfachten-verfahre@bunde
  stag-kalender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;TZID=Europe/Berlin:20260507T134500
 DTEND;TZID=Europe/Berlin:20260507T135000
 SUMMARY:TOP 27\, TOP 26\, ZP 4: Überweisungen im vereinfachten Verfahren: 
@@ -1989,7 +1989,7 @@ ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21077.pd
 END:VEVENT
 BEGIN:VEVENT
 UID:bt-78-top-23-windenergie@bundestag-kalender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;TZID=Europe/Berlin:20260508T102500
 DTEND;TZID=Europe/Berlin:20260508T114500
 SUMMARY:TOP 23: Windenergie
@@ -2033,7 +2033,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-a09-wirtschaft-anhoerung-1174384@bundestag-kalend
  er
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;TZID=Europe/Berlin:20260518T143000
 DTEND;TZID=Europe/Berlin:20260518T160000
 SUMMARY:Ausschuss WE: Anhörung zum „Ökodesign“
@@ -2082,7 +2082,7 @@ ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11786
 END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-a09-wirtschaft-sitzung-35@bundestag-kalender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;TZID=Europe/Berlin:20260520T103000
 DTEND;TZID=Europe/Berlin:20260520T123000
 SUMMARY:Ausschuss WE: 35. Sitzung (nicht öffentlich)
@@ -2102,7 +2102,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-a09-wirtschaft-anhoerung-1174410@bundestag-kalend
  er
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;TZID=Europe/Berlin:20260520T140000
 DTEND;TZID=Europe/Berlin:20260520T160000
 SUMMARY:Ausschuss WE: Anhörung zum Gas-/H2-Binnenmarktpaket
@@ -2177,30 +2177,30 @@ ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11791
 END:VEVENT
 BEGIN:VEVENT
 UID:bt-80-top-9-eu-gebaeuderichtlinie-energieunabhaengig@bundestag-kalender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;TZID=Europe/Berlin:20260521T123000
 DTEND;TZID=Europe/Berlin:20260521T140000
 SUMMARY:TOP 9: EU-Gebäuderichtlinie\, Energieunabhängigkeit
-DESCRIPTION:Status: beendet\n80. Sitzung\nAusschuss Wirtschaft und Energie:
-  federführend (DIP\, amtlich)\nAusschuss Umwelt\, Klimaschutz\, Naturschu
- tz und nukleare Sicherheit: mitberatend (DIP\, amtlich)\nWE federführend 
- bei: Sanierungsoffensive für Deutschland - Heizkostensenkung durch eine v
- ollständige...\; Heizkostenfalle verhindern - Klima und Mieterinnen und M
- ieter schützen\,...\; Jetzt für den nächsten Winter vorsorgen - Gasverb
- rauch wirksam reduzieren und...\; Heizkostendeckel sofort einführen und G
- asausstieg ermöglichen\nUmwelt mitberatend bei: Sanierungsoffensive für 
+DESCRIPTION:Status: beendet\n80. Sitzung\nAusschuss Umwelt\, Klimaschutz\, 
+ Naturschutz und nukleare Sicherheit: mitberatend (DIP\, amtlich)\nAusschus
+ s Wirtschaft und Energie: federführend (DIP\, amtlich)\nUmwelt mitberaten
+ d bei: Sanierungsoffensive für Deutschland - Heizkostensenkung durch eine
+  vollständige...\; Heizkostenfalle verhindern - Klima und Mieterinnen und
+  Mieter schützen\,...\; Jetzt für den nächsten Winter vorsorgen - Gasve
+ rbrauch wirksam reduzieren und...\; Heizkostendeckel sofort einführen und
+  Gasausstieg ermöglichen\nWE federführend bei: Sanierungsoffensive für 
  Deutschland - Heizkostensenkung durch eine vollständige...\; Heizkostenfa
  lle verhindern - Klima und Mieterinnen und Mieter schützen\,...\; Jetzt f
  ür den nächsten Winter vorsorgen - Gasverbrauch wirksam reduzieren und..
  .\; Heizkostendeckel sofort einführen und Gasausstieg ermöglichen\nZuord
  nung je Drucksache (DIP):\n  21/6005 (Antrag) Sanierungsoffensive für Deu
- tschland - Heizkostensenkung durch eine vollständige...: WE federführend
- \, Umwelt mitberatend\n  21/6006 (Antrag) Heizkostenfalle verhindern - Kli
- ma und Mieterinnen und Mieter schützen\,...: WE federführend\, Umwelt mi
- tberatend\n  21/6007 (Antrag) Jetzt für den nächsten Winter vorsorgen - 
- Gasverbrauch wirksam reduzieren und...: WE federführend\, Umwelt mitberat
+ tschland - Heizkostensenkung durch eine vollständige...: Umwelt mitberate
+ nd\, WE federführend\n  21/6006 (Antrag) Heizkostenfalle verhindern - Kli
+ ma und Mieterinnen und Mieter schützen\,...: Umwelt mitberatend\, WE fede
+ rführend\n  21/6007 (Antrag) Jetzt für den nächsten Winter vorsorgen - 
+ Gasverbrauch wirksam reduzieren und...: Umwelt mitberatend\, WE federführ
  end\n  21/6019 (Antrag) Heizkostendeckel sofort einführen und Gasausstieg
-  ermöglichen: WE federführend\, Umwelt mitberatend\n\na) Beratung des An
+  ermöglichen: Umwelt mitberatend\, WE federführend\n\na) Beratung des An
  trags der Fraktion BÜNDNIS 90/DIE GRÜNEN\nSanierungsoffensive für Deuts
  chland – Heizkostensenkung durch eine vollständige Umsetzung der EU-Geb
  äuderichtlinie\nDrucksache 21/6005 (https://dserver.bundestag.de/btd/21/0
@@ -2248,7 +2248,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bt-80-top-12-oekodesign-und-energieverbrauchskennzeic@bundestag-kalende
  r
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;TZID=Europe/Berlin:20260521T180000
 DTEND;TZID=Europe/Berlin:20260521T183500
 SUMMARY:TOP 12: Ökodesign und Energieverbrauchskennzeichnung
@@ -2262,8 +2262,8 @@ DESCRIPTION:Status: beendet\n80. Sitzung\nAusschuss Umwelt\, Klimaschutz\,
  1 (Gesetzentwurf) Gesetz zur Modernisierung der nationalen Umsetzung von e
  uropäischen Regelungen zum...: Umwelt mitberatend\, WE federführend\n  2
  1/6051 (Beschlussempfehlung und Bericht) Gesetz zur Modernisierung der nat
- ionalen Umsetzung von europäischen Regelungen zum...: WE federführend\, 
- Umwelt mitberatend\n\nZweite und dritte Beratung des von der Bundesregieru
+ ionalen Umsetzung von europäischen Regelungen zum...: Umwelt mitberatend\
+ , WE federführend\n\nZweite und dritte Beratung des von der Bundesregieru
  ng\neingebrachten Entwurfs eines Gesetzes zur Modernisierung der nationale
  n Umsetzung von europäischen Regelungen zum Ökodesign\, zur Energieverbr
  auchskennzeichnung und zu weiteren Regelungen\nDrucksache 21/5141 (https:/
@@ -2295,7 +2295,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bt-80-top-17-zp-5-zukunft-des-handwerks-wirtschaft-2045@bundestag-kalen
  der
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;TZID=Europe/Berlin:20260521T194500
 DTEND;TZID=Europe/Berlin:20260521T202000
 SUMMARY:TOP 17\, ZP 5: Zukunft des Handwerks\, Wirtschaft 2045
@@ -2348,7 +2348,7 @@ ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21080.pd
 END:VEVENT
 BEGIN:VEVENT
 UID:bt-80-top-22-aenderung-des-preisangabenrechts@bundestag-kalender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;TZID=Europe/Berlin:20260521T214500
 DTEND;TZID=Europe/Berlin:20260521T220000
 SUMMARY:TOP 22: Änderung des Preisangabenrechts
@@ -2377,7 +2377,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bt-81-top-29-erhalt-des-gaskraftwerks-am-standort-lub@bundestag-kalende
  r
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;TZID=Europe/Berlin:20260522T132500
 DTEND;TZID=Europe/Berlin:20260522T140500
 SUMMARY:TOP 29: Erhalt des Gaskraftwerks am Standort Lubmin
@@ -2404,7 +2404,7 @@ ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21081.pd
 END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-a09-wirtschaft-sitzung-37@bundestag-kalender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;TZID=Europe/Berlin:20260610T100000
 DTEND;TZID=Europe/Berlin:20260610T120000
 SUMMARY:Ausschuss WE: 37. Sitzung (nicht öffentlich)
@@ -2437,13 +2437,13 @@ ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11839
 END:VEVENT
 BEGIN:VEVENT
 UID:bt-83-top-9-aenderung-des-gebaeudeenergiegesetzes@bundestag-kalender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;TZID=Europe/Berlin:20260611T123000
 DTEND;TZID=Europe/Berlin:20260611T135000
 SUMMARY:TOP 9: Änderung des Gebäudeenergiegesetzes
-DESCRIPTION:Status: beendet\n83. Sitzung\nAusschuss Wirtschaft und Energie:
-  federführend (DIP\, amtlich)\nAusschuss Umwelt\, Klimaschutz\, Naturschu
- tz und nukleare Sicherheit: mitberatend (DIP\, amtlich)\n\nErste Beratung 
+DESCRIPTION:Status: beendet\n83. Sitzung\nAusschuss Umwelt\, Klimaschutz\, 
+ Naturschutz und nukleare Sicherheit: mitberatend (DIP\, amtlich)\nAusschus
+ s Wirtschaft und Energie: federführend (DIP\, amtlich)\n\nErste Beratung 
  des von der Bundesregierung\neingebrachten Entwurfs eines Gesetzes zur Än
  derung des Gebäudeenergiegesetzes\, zur Änderung des Gebäude-Elektromob
  ilitätsinfrastruktur-Gesetzes und zur Änderung weiterer Vorschriften im 
@@ -2467,7 +2467,7 @@ ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21083.pd
 END:VEVENT
 BEGIN:VEVENT
 UID:bt-83-top-15-zp-8-versorgungssicherheit-strom@bundestag-kalender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;TZID=Europe/Berlin:20260611T183000
 DTEND;TZID=Europe/Berlin:20260611T190000
 SUMMARY:TOP 15\, ZP 8: Versorgungssicherheit Strom
@@ -2486,9 +2486,9 @@ DESCRIPTION:Status: beendet\n83. Sitzung\nAusschuss Wirtschaft und Energie:
  neuer...: WE federführend\n  21/6369 (Antrag) Effiziente Kapazitätsaussc
  hreibungen mit Zukunft - Für eine Versorgungssicherheit ohne...: WE feder
  führend\n  21/6360 (Antrag) Energieversorgung sichern - Bezahlbar\, erneu
- erbar und dezentral: WE federführend\, Umwelt mitberatend\n  21/5920 (Ges
+ erbar und dezentral: Umwelt mitberatend\, WE federführend\n  21/5920 (Ges
  etzentwurf) ... Gesetz zur Änderung des Erneuerbare-Energien-Gesetzes zur
-  Beschleunigung des Ausbaus...: WE federführend\, Umwelt mitberatend\n\na
+  Beschleunigung des Ausbaus...: Umwelt mitberatend\, WE federführend\n\na
  ) Erste Beratung des von der Bundesregierung\neingebrachten Entwurfs eines
   Gesetzes zur Sicherung der Versorgungssicherheit Strom und zur Bereitstel
  lung neuer Kapazitäten und zur Änderung der Besonderen Gebührenverordnu
@@ -2537,7 +2537,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bt-83-zp-14-top-15-buerokratierueckbau-gewo-aufhebung-von-b@bundestag-k
  alender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;TZID=Europe/Berlin:20260611T220500
 DTEND;TZID=Europe/Berlin:20260611T222000
 SUMMARY:ZP 14\, TOP 15: Bürokratierückbau GewO\, Aufhebung von Berichtspf
@@ -2552,9 +2552,9 @@ DESCRIPTION:Status: beendet\n83. Sitzung\nAusschuss Umwelt\, Klimaschutz\,
  en -...\nZuordnung je Drucksache (DIP):\n  21/3740 (Gesetzentwurf) Gesetz 
  zum Bürokratierückbau in der Gewerbeordnung und dem...: Umwelt mitberate
  nd\, WE federführend\n  21/6396 (Beschlussempfehlung und Bericht) Gesetz 
- zum Bürokratierückbau in der Gewerbeordnung und dem...: WE federführend
- \, Umwelt mitberatend\n  21/6397 (Bericht) Gesetz zum Bürokratierückbau 
- in der Gewerbeordnung und dem...: WE federführend\, Umwelt mitberatend\n 
+ zum Bürokratierückbau in der Gewerbeordnung und dem...: Umwelt mitberate
+ nd\, WE federführend\n  21/6397 (Bericht) Gesetz zum Bürokratierückbau 
+ in der Gewerbeordnung und dem...: Umwelt mitberatend\, WE federführend\n 
   21/5136 (Antrag) Transparenz\, Wirtschaftlichkeit und Kontrolle bei Ausla
  ndshandelskammern sicherstellen -...: WE federführend\n\nZP 14) – Zweit
  e und dritte Beratung des von der Bundesregierung\neingebrachten Entwurfs 
@@ -2603,7 +2603,7 @@ ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21083.pd
 END:VEVENT
 BEGIN:VEVENT
 UID:bt-83-top-26-aenderung-des-bundesbedarfsplangesetzes@bundestag-kalender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;TZID=Europe/Berlin:20260612T001500
 DTEND;TZID=Europe/Berlin:20260612T002500
 SUMMARY:TOP 26: Änderung des Bundesbedarfsplangesetzes
@@ -2631,7 +2631,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-a09-wirtschaft-anhoerung-1184240@bundestag-kalend
  er
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;TZID=Europe/Berlin:20260622T114500
 DTEND;TZID=Europe/Berlin:20260622T131500
 SUMMARY:Ausschuss WE: Anhörung zum Bundesbedarfsplangesetz
@@ -2685,7 +2685,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-a09-wirtschaft-anhoerung-1184258@bundestag-kalend
  er
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;TZID=Europe/Berlin:20260622T133000
 DTEND;TZID=Europe/Berlin:20260622T160000
 SUMMARY:Ausschuss WE: Anhörung zum Gebäudemodernisierungsgesetz
@@ -2778,7 +2778,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-a09-wirtschaft-anhoerung-1184264@bundestag-kalend
  er
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;TZID=Europe/Berlin:20260624T080000
 DTEND;TZID=Europe/Berlin:20260624T100000
 SUMMARY:Ausschuss WE: Anhörung zum StromVKG
@@ -2844,7 +2844,7 @@ ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11930
 END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-a09-wirtschaft-sitzung-41@bundestag-kalender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;TZID=Europe/Berlin:20260624T103000
 DTEND;TZID=Europe/Berlin:20260624T123000
 SUMMARY:Ausschuss WE: 41. Sitzung (nicht öffentlich)
@@ -2866,13 +2866,13 @@ ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11919
 END:VEVENT
 BEGIN:VEVENT
 UID:bt-85-top-4-wirtschaftspolitik@bundestag-kalender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;TZID=Europe/Berlin:20260624T175000
 DTEND;TZID=Europe/Berlin:20260624T182000
 SUMMARY:TOP 4: Wirtschaftspolitik
-DESCRIPTION:Status: beendet\n85. Sitzung\nAusschuss Wirtschaft und Energie:
-  federführend (DIP\, amtlich)\nAusschuss Umwelt\, Klimaschutz\, Naturschu
- tz und nukleare Sicherheit: mitberatend (DIP\, amtlich)\n\nBeratung des An
+DESCRIPTION:Status: beendet\n85. Sitzung\nAusschuss Umwelt\, Klimaschutz\, 
+ Naturschutz und nukleare Sicherheit: mitberatend (DIP\, amtlich)\nAusschus
+ s Wirtschaft und Energie: federführend (DIP\, amtlich)\n\nBeratung des An
  trags der Fraktion der AfD\nNeue Wirtschaftskraft entfesseln – Bürger u
  nd Unternehmen entlasten\nDrucksache 21/6636 (https://dserver.bundestag.de
  /btd/21/066/2106636.pdf)\n\nLinks und Dokumente:\nDrucksache 21/6636 (Antr
@@ -2895,7 +2895,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bt-86-top-30-zp-6-ueberweisungen-im-vereinfachten-verfahre@bundestag-ka
  lender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;TZID=Europe/Berlin:20260625T140000
 DTEND;TZID=Europe/Berlin:20260625T141000
 SUMMARY:TOP 30\, ZP 6: Überweisungen im vereinfachten Verfahren: Erstes Un
@@ -2926,7 +2926,7 @@ ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21086.pd
 END:VEVENT
 BEGIN:VEVENT
 UID:bt-86-zp-14-aenderung-des-waermeplanungsgesetzes@bundestag-kalender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;TZID=Europe/Berlin:20260625T231000
 DTEND;TZID=Europe/Berlin:20260625T232500
 SUMMARY:ZP 14: Änderung des Wärmeplanungsgesetzes
@@ -2952,7 +2952,7 @@ ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21086.pd
 END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-a09-wirtschaft-sitzung-43@bundestag-kalender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;TZID=Europe/Berlin:20260708T103000
 DTEND;TZID=Europe/Berlin:20260708T123000
 SUMMARY:Ausschuss WE: 43. Sitzung (nicht öffentlich)
@@ -2982,7 +2982,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bt-89-top-28-zp-5-ueberweisungen-im-vereinfachten-verfahre@bundestag-ka
  lender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;TZID=Europe/Berlin:20260709T150000
 DTEND;TZID=Europe/Berlin:20260709T150500
 SUMMARY:TOP 28\, ZP 5: Überweisungen im vereinfachten Verfahren: Zweites G
@@ -3016,7 +3016,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bt-89-top-29-zp-6-top-23-abschliessende-beratungen-ohne-aussprach@bunde
  stag-kalender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;TZID=Europe/Berlin:20260709T150500
 DTEND;TZID=Europe/Berlin:20260709T152000
 SUMMARY:TOP 29\, ZP 6\, TOP 23: Abschließende Beratungen ohne Aussprache: 
@@ -3094,7 +3094,7 @@ ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21089.pd
 END:VEVENT
 BEGIN:VEVENT
 UID:bt-89-top-7-zp-9-11-sicherung-der-stromversorgung@bundestag-kalender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;TZID=Europe/Berlin:20260709T165000
 DTEND;TZID=Europe/Berlin:20260709T174000
 SUMMARY:TOP 7\, ZP 9-11: Sicherung der Stromversorgung
@@ -3116,11 +3116,11 @@ DESCRIPTION:Status: beendet\n89. Sitzung\nAusschuss Wirtschaft und Energie:
  ellung neuer...: WE federführend\n  21/6563 (Unterrichtung) Gesetz zur Si
  cherung der Versorgungssicherheit Strom und zur Bereitstellung neuer...: W
  E federführend\n  21/6998 (Beschlussempfehlung und Bericht) Strompreise f
- ür alle Unternehmen in Deutschland senken: WE federführend\, Umwelt mitb
- eratend\n  21/6369 (Antrag) Effiziente Kapazitätsausschreibungen mit Zuku
+ ür alle Unternehmen in Deutschland senken: Umwelt mitberatend\, WE federf
+ ührend\n  21/6369 (Antrag) Effiziente Kapazitätsausschreibungen mit Zuku
  nft - Für eine Versorgungssicherheit ohne...: WE federführend\n  21/6360
   (Antrag) Energieversorgung sichern - Bezahlbar\, erneuerbar und dezentral
- : WE federführend\, Umwelt mitberatend\n  21/5493 (Antrag) Strompreise f
+ : Umwelt mitberatend\, WE federführend\n  21/5493 (Antrag) Strompreise f
  ür alle Unternehmen in Deutschland senken: Umwelt mitberatend\, WE federf
  ührend\n  21/4460 (Antrag) Anzahl staatlich subventioniert neu zu erricht
  ender Gaskraftwerke durch den...: Umwelt mitberatend\, WE federführend\n 
@@ -3218,7 +3218,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bt-89-zp-16-top-17-zukunft-der-automobilindustrie-e-fahrzeu@bundestag-k
  alender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;TZID=Europe/Berlin:20260709T221500
 DTEND;TZID=Europe/Berlin:20260709T222500
 SUMMARY:ZP 16\, TOP 17: Zukunft der Automobilindustrie\, E-Fahrzeugförderu
@@ -3256,13 +3256,13 @@ ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21089.pd
 END:VEVENT
 BEGIN:VEVENT
 UID:bt-90-zp-18-wirtschaftsstandort-deutschland@bundestag-kalender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;TZID=Europe/Berlin:20260710T105500
 DTEND;TZID=Europe/Berlin:20260710T121500
 SUMMARY:ZP 18: Wirtschaftsstandort Deutschland
-DESCRIPTION:Status: beendet\n90. Sitzung\nAusschuss Wirtschaft und Energie:
-  federführend (DIP\, amtlich)\nAusschuss Umwelt\, Klimaschutz\, Naturschu
- tz und nukleare Sicherheit: mitberatend (DIP\, amtlich)\n\nBeratung des An
+DESCRIPTION:Status: beendet\n90. Sitzung\nAusschuss Umwelt\, Klimaschutz\, 
+ Naturschutz und nukleare Sicherheit: mitberatend (DIP\, amtlich)\nAusschus
+ s Wirtschaft und Energie: federführend (DIP\, amtlich)\n\nBeratung des An
  trags der Fraktion der AfD\nDeutschland braucht echte Reformen – Der Kri
  se des Wirtschaftsstandorts Deutschland wirksam entgegentreten\nDrucksache
   21/6928 (https://dserver.bundestag.de/btd/21/069/2106928.pdf)\n\nLinks un
@@ -3285,37 +3285,37 @@ ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21090.pd
 END:VEVENT
 BEGIN:VEVENT
 UID:bt-90-zp-28-top-29-gebaeudeenergiegesetz@bundestag-kalender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;TZID=Europe/Berlin:20260710T121500
 DTEND;TZID=Europe/Berlin:20260710T131000
 SUMMARY:ZP 28\, TOP 29: Gebäudeenergiegesetz
-DESCRIPTION:Status: beendet\n90. Sitzung\nAusschuss Wirtschaft und Energie:
-  Beschlussempfehlung und Bericht (Beschlussempfehlung der Tagesordnung\, a
- mtlich)\nAusschuss Umwelt\, Klimaschutz\, Naturschutz und nukleare Sicherh
- eit: mitberatend (DIP\, amtlich)\nWE federführend bei: Gesetz zur Änderu
- ng des Gebäudeenergiegesetzes\, zur Änderung des...\; Heizkostendeckel s
- ofort einführen und Gasausstieg ermöglichen\; Für das Recht auf Heizen 
- - Bezahlbar und erneuerbar\; Heizkostenfalle verhindern - Klima und Mieter
- innen und Mieter schützen\,...\nUmwelt mitberatend bei: Gesetz zur Änder
+DESCRIPTION:Status: beendet\n90. Sitzung\nAusschuss Umwelt\, Klimaschutz\, 
+ Naturschutz und nukleare Sicherheit: mitberatend (DIP\, amtlich)\nAusschus
+ s Wirtschaft und Energie: Beschlussempfehlung und Bericht (Beschlussempfeh
+ lung der Tagesordnung\, amtlich)\nUmwelt mitberatend bei: Gesetz zur Ände
+ rung des Gebäudeenergiegesetzes\, zur Änderung des...\; Heizkostendeckel
+  sofort einführen und Gasausstieg ermöglichen\; Für das Recht auf Heize
+ n - Bezahlbar und erneuerbar\; Heizkostenfalle verhindern - Klima und Miet
+ erinnen und Mieter schützen\,...\nWE federführend bei: Gesetz zur Änder
  ung des Gebäudeenergiegesetzes\, zur Änderung des...\; Heizkostendeckel 
  sofort einführen und Gasausstieg ermöglichen\; Für das Recht auf Heizen
   - Bezahlbar und erneuerbar\; Heizkostenfalle verhindern - Klima und Miete
  rinnen und Mieter schützen\,...\nZuordnung je Drucksache (DIP):\n  21/627
  8 (Gesetzentwurf) Gesetz zur Änderung des Gebäudeenergiegesetzes\, zur 
- Änderung des...: WE federführend\, Umwelt mitberatend\n  21/6565 (Unterr
+ Änderung des...: Umwelt mitberatend\, WE federführend\n  21/6565 (Unterr
  ichtung) Gesetz zur Änderung des Gebäudeenergiegesetzes\, zur Änderung 
- des...: WE federführend\, Umwelt mitberatend\n  21/7009 (Beschlussempfehl
+ des...: Umwelt mitberatend\, WE federführend\n  21/7009 (Beschlussempfehl
  ung und Bericht) Heizkostendeckel sofort einführen und Gasausstieg ermög
- lichen: WE federführend\, Umwelt mitberatend\n  21/7010 (Bericht) Gesetz 
- zur Änderung des Gebäudeenergiegesetzes\, zur Änderung des...: WE feder
- führend\, Umwelt mitberatend\n  21/3910 (Antrag) Für das Recht auf Heize
+ lichen: Umwelt mitberatend\, WE federführend\n  21/7010 (Bericht) Gesetz 
+ zur Änderung des Gebäudeenergiegesetzes\, zur Änderung des...: Umwelt m
+ itberatend\, WE federführend\n  21/3910 (Antrag) Für das Recht auf Heize
  n - Bezahlbar und erneuerbar: Umwelt mitberatend\, WE federführend\n  21/
  6019 (Antrag) Heizkostendeckel sofort einführen und Gasausstieg ermöglic
- hen: WE federführend\, Umwelt mitberatend\n  21/6006 (Antrag) Heizkostenf
- alle verhindern - Klima und Mieterinnen und Mieter schützen\,...: WE fede
- rführend\, Umwelt mitberatend\n  21/7008 (Beschlussempfehlung und Bericht
+ hen: Umwelt mitberatend\, WE federführend\n  21/6006 (Antrag) Heizkostenf
+ alle verhindern - Klima und Mieterinnen und Mieter schützen\,...: Umwelt 
+ mitberatend\, WE federführend\n  21/7008 (Beschlussempfehlung und Bericht
  ) Heizkostenfalle verhindern - Klima und Mieterinnen und Mieter schützen\
- ,...: WE federführend\, Umwelt mitberatend\n\na) – Zweite und dritte Be
+ ,...: Umwelt mitberatend\, WE federführend\n\na) – Zweite und dritte Be
  ratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes z
  ur Änderung des Gebäudeenergiegesetzes\, zur Änderung des Gebäude-Elek
  tromobilitätsinfrastruktur-Gesetzes und zur Änderung weiterer Vorschrift
@@ -3392,7 +3392,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-a09-wirtschaft-anhoerung-1205008@bundestag-kalend
  er
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;TZID=Europe/Berlin:20260908T080000
 DTEND;TZID=Europe/Berlin:20260908T093000
 SUMMARY:Ausschuss WE: Anhörung zum Wärmeplanungsgesetz
@@ -3456,7 +3456,7 @@ ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12102
 END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-a09-wirtschaft-sitzung-46@bundestag-kalender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;TZID=Europe/Berlin:20260923T103000
 DTEND;TZID=Europe/Berlin:20260923T123000
 SUMMARY:Ausschuss WE: 46. Sitzung (nicht öffentlich)
@@ -3482,7 +3482,7 @@ ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12170
 END:VEVENT
 BEGIN:VEVENT
 UID:bt-96-top-8-energiekosten-energiepolitik@bundestag-kalender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;TZID=Europe/Berlin:20260924T101000
 DTEND;TZID=Europe/Berlin:20260924T112500
 SUMMARY:TOP 8: Energiekosten\, Energiepolitik
@@ -3493,11 +3493,13 @@ DESCRIPTION:Status: beendet\n96. Sitzung\nAusschuss Wirtschaft und Energie:
  Kraftstoffkrise durch souveräne Energiepolitik entgegenwirken – Industr
  ie und Mittelstand retten\nDrucksache 21/8115 (https://dserver.bundestag.d
  e/btd/21/081/2108115.pdf)\n\nLinks und Dokumente:\nDrucksache 21/8115 (Ant
- rag): https://dserver.bundestag.de/btd/21/081/2108115.pdf\nPlenarprotokoll
-  96. Sitzung: https://dserver.bundestag.de/btp/21/21096.pdf\nTextarchiv: h
- ttps://www.bundestag.de/dokumente/textarchiv/2026/kw39-de-energiekosten-12
- 16634\nMediathek: https://www.bundestag.de/mediathek/plenarsitzungen\nTage
- sordnung: https://www.bundestag.de/tagesordnung
+ rag) Der drohenden Kraftstoffkrise durch souveräne Energiepolitik entgege
+ nwirken - Industrie...: https://dserver.bundestag.de/btd/21/081/2108115.pd
+ f\n  DIP: https://dip.bundestag.de/drucksache/-/290960\nPlenarprotokoll 96
+ . Sitzung: https://dserver.bundestag.de/btp/21/21096.pdf\nTextarchiv: http
+ s://www.bundestag.de/dokumente/textarchiv/2026/kw39-de-energiekosten-12166
+ 34\nMediathek: https://www.bundestag.de/mediathek/plenarsitzungen\nTagesor
+ dnung: https://www.bundestag.de/tagesordnung
 LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
  lin
 URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw39-de-energiekoste
@@ -3510,7 +3512,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bt-96-top-40-zp-2-ueberweisungen-im-vereinfachten-verfahre@bundestag-ka
  lender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;TZID=Europe/Berlin:20260924T135500
 DTEND;TZID=Europe/Berlin:20260924T140000
 SUMMARY:TOP 40\, ZP 2: Überweisungen im vereinfachten Verfahren: Gesetz zu
@@ -3553,41 +3555,63 @@ ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21096.pd
 END:VEVENT
 BEGIN:VEVENT
 UID:bt-96-top-14-ausbau-der-erneuerbaren-energien@bundestag-kalender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;TZID=Europe/Berlin:20260924T174000
 DTEND;TZID=Europe/Berlin:20260924T181500
 SUMMARY:TOP 14: Ausbau der erneuerbaren Energien
 DESCRIPTION:Status: beendet\n96. Sitzung\nAusschuss Wirtschaft und Energie:
   federführend (DIP\, amtlich)\nAusschuss Umwelt\, Klimaschutz\, Naturschu
- tz und nukleare Sicherheit: mitberatend (DIP\, amtlich)\nZuordnung je Druc
- ksache (DIP):\n  21/7867 (Gesetzentwurf): WE federführend\n  21/8108 (Ges
- etzentwurf): Umwelt mitberatend\, WE federführend\n  21/8119 (Antrag): Um
- welt mitberatend\, WE federführend\n  21/7907 (Antrag): Umwelt mitberaten
- d\, WE federführend\n\na) Erste Beratung des von der Bundesregierung\nein
- gebrachten Entwurfs eines Gesetzes für einen planbaren\, kosteneffiziente
- n\, netzverträglichen und marktorientierten Ausbau der erneuerbaren Energ
- ien im Stromsektor\nDrucksache 21/7867 (https://dserver.bundestag.de/btd/2
- 1/078/2107867.pdf)\n\nb) Erste Beratung des von der Fraktion der AfD\neing
- ebrachten Entwurfs eines Gesetzes zur Abschaffung des Gesetzes für den Au
- sbau erneuerbarer Energien (Erneuerbare-Energien-Gesetz-Abschaffungsgesetz
-  – EEGAG)\nDrucksache 21/8108 (https://dserver.bundestag.de/btd/21/081/2
- 108108.pdf)\n\nc) Beratung des Antrags der Fraktion BÜNDNIS 90/DIE GRÜNE
- N\nEnergiewende gemeinsam gestalten – Für ein Erneuerbare-Energien-Gese
- tz mit fairen Chancen für alle\nDrucksache 21/8119 (https://dserver.bunde
- stag.de/btd/21/081/2108119.pdf)\n\nd) Beratung des Antrags der Fraktion Di
- e Linke\nAuf Kürzungen beim Erneuerbare-Energien-Gesetz verzichten – Zu
- kunftsfähige Arbeitsplätze in der Wind- und Solarwirtschaft ausbauen –
-  Bezahlbaren Strom aus Sonne und Wind für alle ermöglichen\nDrucksache 2
- 1/7907 (https://dserver.bundestag.de/btd/21/079/2107907.pdf)\n\nLinks und 
- Dokumente:\nDrucksache 21/7867 (Gesetzentwurf): https://dserver.bundestag.
- de/btd/21/078/2107867.pdf\nDrucksache 21/8108 (Gesetzentwurf): https://dse
- rver.bundestag.de/btd/21/081/2108108.pdf\nDrucksache 21/8119 (Antrag): htt
- ps://dserver.bundestag.de/btd/21/081/2108119.pdf\nDrucksache 21/7907 (Antr
- ag): https://dserver.bundestag.de/btd/21/079/2107907.pdf\nPlenarprotokoll 
- 96. Sitzung: https://dserver.bundestag.de/btp/21/21096.pdf\nTextarchiv: ht
- tps://www.bundestag.de/dokumente/textarchiv/2026/kw39-de-energie-stromsekt
- or-1211294\nMediathek: https://www.bundestag.de/mediathek/plenarsitzungen\
- nTagesordnung: https://www.bundestag.de/tagesordnung
+ tz und nukleare Sicherheit: mitberatend (DIP\, amtlich)\nWE federführend 
+ bei: Gesetz für einen planbaren\, kosteneffizienten\, netzverträglichen 
+ und marktorientierten...\; Gesetz zur Abschaffung des Gesetzes für den Au
+ sbau erneuerbarer Energien...\; Energiewende gemeinsam gestalten - Für ei
+ n Erneuerbare-Energien-Gesetz mit fairen...\; Auf Kürzungen beim Erneuerb
+ are-Energien-Gesetz verzichten - Zukunftsfähige Arbeitsplätze...\nUmwelt
+  mitberatend bei: Gesetz zur Abschaffung des Gesetzes für den Ausbau erne
+ uerbarer Energien...\; Energiewende gemeinsam gestalten - Für ein Erneuer
+ bare-Energien-Gesetz mit fairen...\; Auf Kürzungen beim Erneuerbare-Energ
+ ien-Gesetz verzichten - Zukunftsfähige Arbeitsplätze...\nZuordnung je Dr
+ ucksache (DIP):\n  21/7867 (Gesetzentwurf) Gesetz für einen planbaren\, k
+ osteneffizienten\, netzverträglichen und marktorientierten...: WE federf
+ ührend\n  21/8108 (Gesetzentwurf) Gesetz zur Abschaffung des Gesetzes fü
+ r den Ausbau erneuerbarer Energien...: WE federführend\, Umwelt mitberate
+ nd\n  21/8119 (Antrag) Energiewende gemeinsam gestalten - Für ein Erneuer
+ bare-Energien-Gesetz mit fairen...: WE federführend\, Umwelt mitberatend\
+ n  21/7907 (Antrag) Auf Kürzungen beim Erneuerbare-Energien-Gesetz verzic
+ hten - Zukunftsfähige Arbeitsplätze...: WE federführend\, Umwelt mitber
+ atend\n\na) Erste Beratung des von der Bundesregierung\neingebrachten Entw
+ urfs eines Gesetzes für einen planbaren\, kosteneffizienten\, netzverträ
+ glichen und marktorientierten Ausbau der erneuerbaren Energien im Stromsek
+ tor\nDrucksache 21/7867 (https://dserver.bundestag.de/btd/21/078/2107867.p
+ df)\n\nb) Erste Beratung des von der Fraktion der AfD\neingebrachten Entwu
+ rfs eines Gesetzes zur Abschaffung des Gesetzes für den Ausbau erneuerbar
+ er Energien (Erneuerbare-Energien-Gesetz-Abschaffungsgesetz – EEGAG)\nDr
+ ucksache 21/8108 (https://dserver.bundestag.de/btd/21/081/2108108.pdf)\n\n
+ c) Beratung des Antrags der Fraktion BÜNDNIS 90/DIE GRÜNEN\nEnergiewende
+  gemeinsam gestalten – Für ein Erneuerbare-Energien-Gesetz mit fairen C
+ hancen für alle\nDrucksache 21/8119 (https://dserver.bundestag.de/btd/21/
+ 081/2108119.pdf)\n\nd) Beratung des Antrags der Fraktion Die Linke\nAuf K
+ ürzungen beim Erneuerbare-Energien-Gesetz verzichten – Zukunftsfähige 
+ Arbeitsplätze in der Wind- und Solarwirtschaft ausbauen – Bezahlbaren S
+ trom aus Sonne und Wind für alle ermöglichen\nDrucksache 21/7907 (https:
+ //dserver.bundestag.de/btd/21/079/2107907.pdf)\n\nLinks und Dokumente:\nDr
+ ucksache 21/7867 (Gesetzentwurf) Gesetz für einen planbaren\, kosteneffiz
+ ienten\, netzverträglichen und marktorientierten...: https://dserver.bund
+ estag.de/btd/21/078/2107867.pdf\n  DIP: https://dip.bundestag.de/drucksach
+ e/-/290561\nDrucksache 21/8108 (Gesetzentwurf) Gesetz zur Abschaffung des 
+ Gesetzes für den Ausbau erneuerbarer Energien...: https://dserver.bundest
+ ag.de/btd/21/081/2108108.pdf\n  DIP: https://dip.bundestag.de/drucksache/-
+ /290947\nDrucksache 21/8119 (Antrag) Energiewende gemeinsam gestalten - F
+ ür ein Erneuerbare-Energien-Gesetz mit fairen...: https://dserver.bundest
+ ag.de/btd/21/081/2108119.pdf\n  DIP: https://dip.bundestag.de/drucksache/-
+ /290987\nDrucksache 21/7907 (Antrag) Auf Kürzungen beim Erneuerbare-Energ
+ ien-Gesetz verzichten - Zukunftsfähige Arbeitsplätze...: https://dserver
+ .bundestag.de/btd/21/079/2107907.pdf\n  DIP: https://dip.bundestag.de/druc
+ ksache/-/290598\nPlenarprotokoll 96. Sitzung: https://dserver.bundestag.de
+ /btp/21/21096.pdf\nTextarchiv: https://www.bundestag.de/dokumente/textarch
+ iv/2026/kw39-de-energie-stromsektor-1211294\nMediathek: https://www.bundes
+ tag.de/mediathek/plenarsitzungen\nTagesordnung: https://www.bundestag.de/t
+ agesordnung
 LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
  lin
 URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw39-de-energie-stro
@@ -3605,42 +3629,58 @@ ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21096.pd
 END:VEVENT
 BEGIN:VEVENT
 UID:bt-96-top-16-netzausbau@bundestag-kalender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;TZID=Europe/Berlin:20260924T185000
 DTEND;TZID=Europe/Berlin:20260924T192500
 SUMMARY:TOP 16: Netzausbau
 DESCRIPTION:Status: beendet\n96. Sitzung\nAusschuss Wirtschaft und Energie:
   federführend (DIP\, amtlich)\nAusschuss Umwelt\, Klimaschutz\, Naturschu
  tz und nukleare Sicherheit: mitberatend (DIP\, amtlich)\nWE federführend 
- bei: Bezahlbar und erneuerbar - Übertragungsnetze in öffentlicher Hand\n
- Zuordnung je Drucksache (DIP):\n  21/7866 (Gesetzentwurf): WE federführen
- d\n  21/8121 (Antrag): Umwelt mitberatend\, WE federführend\n  21/7906 (A
- ntrag): Umwelt mitberatend\, WE federführend\n  21/3911 (Antrag) Bezahlba
- r und erneuerbar - Übertragungsnetze in öffentlicher Hand: WE federführ
- end\n\na) Erste Beratung des von der Bundesregierung\neingebrachten Entwur
- fs eines Gesetzes zur Änderung des Energiewirtschaftsrechts zur Synchroni
- sierung des Anlagenzubaus mit dem Netzausbau sowie zur Verbesserung des Ne
- tzanschlussverfahrens\nDrucksache 21/7866 (https://dserver.bundestag.de/bt
- d/21/078/2107866.pdf)\n\nb) Beratung des Antrags der Fraktion BÜNDNIS 90/
- DIE GRÜNEN\nFlexibel\, digital und effizient – Ein Netzpaket für ein v
- ersorgungssicheres 100-Prozent-Erneuerbare-Energiesystem\nDrucksache 21/81
- 21 (https://dserver.bundestag.de/btd/21/081/2108121.pdf)\n\nc) Beratung de
- s Antrags der Fraktion Die Linke\nInnovative Netzengpasslösungen vorantre
- iben – Ausbau der erneuerbaren Energien nicht ausbremsen\nDrucksache 21/
- 7906 (https://dserver.bundestag.de/btd/21/079/2107906.pdf)\n\nd) Beratung 
- des Antrags der Fraktion Die Linke\nBezahlbar und erneuerbar – Übertrag
- ungsnetze in öffentlicher Hand\nDrucksache 21/3911 (https://dserver.bunde
- stag.de/btd/21/039/2103911.pdf)\n\nLinks und Dokumente:\nDrucksache 21/786
- 6 (Gesetzentwurf): https://dserver.bundestag.de/btd/21/078/2107866.pdf\nDr
- ucksache 21/8121 (Antrag): https://dserver.bundestag.de/btd/21/081/2108121
- .pdf\nDrucksache 21/7906 (Antrag): https://dserver.bundestag.de/btd/21/079
- /2107906.pdf\nDrucksache 21/3911 (Antrag) Bezahlbar und erneuerbar - Über
- tragungsnetze in öffentlicher Hand: https://dserver.bundestag.de/btd/21/0
- 39/2103911.pdf\n  DIP: https://dip.bundestag.de/drucksache/-/284907\nPlena
- rprotokoll 96. Sitzung: https://dserver.bundestag.de/btp/21/21096.pdf\nTex
- tarchiv: https://www.bundestag.de/dokumente/textarchiv/2026/kw39-de-energi
- ewirtschaftsrecht-1211298\nMediathek: https://www.bundestag.de/mediathek/p
- lenarsitzungen\nTagesordnung: https://www.bundestag.de/tagesordnung
+ bei: Gesetz zur Änderung des Energiewirtschaftsrechts zur Synchronisierun
+ g des Anlagenzubaus...\; Flexibel\, digital und effizient - Ein Netzpaket 
+ für ein versorgungssicheres...\; Innovative Netzengpasslösungen vorantre
+ iben - Ausbau der erneuerbaren Energien nicht...\; Bezahlbar und erneuerba
+ r - Übertragungsnetze in öffentlicher Hand\nUmwelt mitberatend bei: Flex
+ ibel\, digital und effizient - Ein Netzpaket für ein versorgungssicheres.
+ ..\; Innovative Netzengpasslösungen vorantreiben - Ausbau der erneuerbare
+ n Energien nicht...\nZuordnung je Drucksache (DIP):\n  21/7866 (Gesetzentw
+ urf) Gesetz zur Änderung des Energiewirtschaftsrechts zur Synchronisierun
+ g des Anlagenzubaus...: WE federführend\n  21/8121 (Antrag) Flexibel\, di
+ gital und effizient - Ein Netzpaket für ein versorgungssicheres...: WE fe
+ derführend\, Umwelt mitberatend\n  21/7906 (Antrag) Innovative Netzengpas
+ slösungen vorantreiben - Ausbau der erneuerbaren Energien nicht...: WE fe
+ derführend\, Umwelt mitberatend\n  21/3911 (Antrag) Bezahlbar und erneuer
+ bar - Übertragungsnetze in öffentlicher Hand: WE federführend\n\na) Ers
+ te Beratung des von der Bundesregierung\neingebrachten Entwurfs eines Gese
+ tzes zur Änderung des Energiewirtschaftsrechts zur Synchronisierung des A
+ nlagenzubaus mit dem Netzausbau sowie zur Verbesserung des Netzanschlussve
+ rfahrens\nDrucksache 21/7866 (https://dserver.bundestag.de/btd/21/078/2107
+ 866.pdf)\n\nb) Beratung des Antrags der Fraktion BÜNDNIS 90/DIE GRÜNEN\n
+ Flexibel\, digital und effizient – Ein Netzpaket für ein versorgungssic
+ heres 100-Prozent-Erneuerbare-Energiesystem\nDrucksache 21/8121 (https://d
+ server.bundestag.de/btd/21/081/2108121.pdf)\n\nc) Beratung des Antrags der
+  Fraktion Die Linke\nInnovative Netzengpasslösungen vorantreiben – Ausb
+ au der erneuerbaren Energien nicht ausbremsen\nDrucksache 21/7906 (https:/
+ /dserver.bundestag.de/btd/21/079/2107906.pdf)\n\nd) Beratung des Antrags d
+ er Fraktion Die Linke\nBezahlbar und erneuerbar – Übertragungsnetze in 
+ öffentlicher Hand\nDrucksache 21/3911 (https://dserver.bundestag.de/btd/2
+ 1/039/2103911.pdf)\n\nLinks und Dokumente:\nDrucksache 21/7866 (Gesetzentw
+ urf) Gesetz zur Änderung des Energiewirtschaftsrechts zur Synchronisierun
+ g des Anlagenzubaus...: https://dserver.bundestag.de/btd/21/078/2107866.pd
+ f\n  DIP: https://dip.bundestag.de/drucksache/-/290560\nDrucksache 21/8121
+  (Antrag) Flexibel\, digital und effizient - Ein Netzpaket für ein versor
+ gungssicheres...: https://dserver.bundestag.de/btd/21/081/2108121.pdf\n  D
+ IP: https://dip.bundestag.de/drucksache/-/290969\nDrucksache 21/7906 (Antr
+ ag) Innovative Netzengpasslösungen vorantreiben - Ausbau der erneuerbaren
+  Energien nicht...: https://dserver.bundestag.de/btd/21/079/2107906.pdf\n 
+  DIP: https://dip.bundestag.de/drucksache/-/290628\nDrucksache 21/3911 (An
+ trag) Bezahlbar und erneuerbar - Übertragungsnetze in öffentlicher Hand:
+  https://dserver.bundestag.de/btd/21/039/2103911.pdf\n  DIP: https://dip.b
+ undestag.de/drucksache/-/284907\nPlenarprotokoll 96. Sitzung: https://dser
+ ver.bundestag.de/btp/21/21096.pdf\nTextarchiv: https://www.bundestag.de/do
+ kumente/textarchiv/2026/kw39-de-energiewirtschaftsrecht-1211298\nMediathek
+ : https://www.bundestag.de/mediathek/plenarsitzungen\nTagesordnung: https:
+ //www.bundestag.de/tagesordnung
 LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
  lin
 URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw39-de-energiewirts
@@ -3659,7 +3699,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bt-96-top-21-boykottmassnahmen-durch-nichtregierungso@bundestag-kalende
  r
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;TZID=Europe/Berlin:20260924T210000
 DTEND;TZID=Europe/Berlin:20260924T211500
 SUMMARY:TOP 21: Boykottmaßnahmen durch Nichtregierungsorganisationen
@@ -3668,22 +3708,24 @@ DESCRIPTION:Status: beendet\n96. Sitzung\nAusschuss Wirtschaft und Energie:
  mtlich)\nWE federführend bei: Gesetz zur Ächtung politisch motivierter B
  oykottmaßnahmen durch...\nZuordnung je Drucksache (DIP):\n  21/4933 (Gese
  tzentwurf) Gesetz zur Ächtung politisch motivierter Boykottmaßnahmen dur
- ch...: WE federführend\n  21/8156 (Beschlussempfehlung und Bericht): WE f
- ederführend\n\nZweite und dritte Beratung des von der Fraktion der AfD\ne
- ingebrachten Entwurfs eines Gesetzes zur Ächtung politisch motivierter Bo
- ykottmaßnahmen durch Nichtregierungsorganisationen\nDrucksache 21/4933 (h
- ttps://dserver.bundestag.de/btd/21/049/2104933.pdf)\nBeschlussempfehlung u
- nd Bericht des Ausschusses für Wirtschaft und Energie (9. Ausschuss)\nDru
- cksache 21/8156 (https://dserver.bundestag.de/btd/21/081/2108156.pdf)\n\nL
- inks und Dokumente:\nDrucksache 21/4933 (Gesetzentwurf) Gesetz zur Ächtun
- g politisch motivierter Boykottmaßnahmen durch...: https://dserver.bundes
- tag.de/btd/21/049/2104933.pdf\n  DIP: https://dip.bundestag.de/drucksache/
- -/286148\nDrucksache 21/8156 (Beschlussempfehlung und Bericht): https://ds
- erver.bundestag.de/btd/21/081/2108156.pdf\nPlenarprotokoll 96. Sitzung: ht
- tps://dserver.bundestag.de/btp/21/21096.pdf\nTextarchiv: https://www.bunde
- stag.de/dokumente/textarchiv/2026/kw39-de-ngos-boykott-1211270\nMediathek:
-  https://www.bundestag.de/mediathek/plenarsitzungen\nTagesordnung: https:/
- /www.bundestag.de/tagesordnung
+ ch...: WE federführend\n  21/8156 (Beschlussempfehlung und Bericht) Geset
+ z zur Ächtung politisch motivierter Boykottmaßnahmen durch...: WE federf
+ ührend\n\nZweite und dritte Beratung des von der Fraktion der AfD\neingeb
+ rachten Entwurfs eines Gesetzes zur Ächtung politisch motivierter Boykott
+ maßnahmen durch Nichtregierungsorganisationen\nDrucksache 21/4933 (https:
+ //dserver.bundestag.de/btd/21/049/2104933.pdf)\nBeschlussempfehlung und Be
+ richt des Ausschusses für Wirtschaft und Energie (9. Ausschuss)\nDrucksac
+ he 21/8156 (https://dserver.bundestag.de/btd/21/081/2108156.pdf)\n\nLinks 
+ und Dokumente:\nDrucksache 21/4933 (Gesetzentwurf) Gesetz zur Ächtung pol
+ itisch motivierter Boykottmaßnahmen durch...: https://dserver.bundestag.d
+ e/btd/21/049/2104933.pdf\n  DIP: https://dip.bundestag.de/drucksache/-/286
+ 148\nDrucksache 21/8156 (Beschlussempfehlung und Bericht) Gesetz zur Ächt
+ ung politisch motivierter Boykottmaßnahmen durch...: https://dserver.bund
+ estag.de/btd/21/081/2108156.pdf\n  DIP: https://dip.bundestag.de/drucksach
+ e/-/291010\nPlenarprotokoll 96. Sitzung: https://dserver.bundestag.de/btp/
+ 21/21096.pdf\nTextarchiv: https://www.bundestag.de/dokumente/textarchiv/20
+ 26/kw39-de-ngos-boykott-1211270\nMediathek: https://www.bundestag.de/media
+ thek/plenarsitzungen\nTagesordnung: https://www.bundestag.de/tagesordnung
 LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
  lin
 URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw39-de-ngos-boykott
@@ -3698,7 +3740,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bt-96-top-27-aenderung-des-gesetzes-gegen-wettbewerbs@bundestag-kalende
  r
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;TZID=Europe/Berlin:20260924T223000
 DTEND;TZID=Europe/Berlin:20260924T224500
 SUMMARY:TOP 27: Änderung des Gesetzes gegen Wettbewerbsbeschränkungen
@@ -3707,12 +3749,14 @@ DESCRIPTION:Status: beendet\n96. Sitzung\nAusschuss Wirtschaft und Energie:
  ng\neingebrachten Entwurfs eines Zwölften Gesetzes zur Änderung des Gese
  tzes gegen Wettbewerbsbeschränkungen und anderer Gesetze\n(12. GWB-Novell
  e)\nDrucksache 21/7865 (https://dserver.bundestag.de/btd/21/078/2107865.pd
- f)\n\nLinks und Dokumente:\nDrucksache 21/7865 (Gesetzentwurf): https://ds
- erver.bundestag.de/btd/21/078/2107865.pdf\nPlenarprotokoll 96. Sitzung: ht
- tps://dserver.bundestag.de/btp/21/21096.pdf\nTextarchiv: https://www.bunde
- stag.de/dokumente/textarchiv/2026/kw39-de-gwb-novelle-1211322\nMediathek: 
- https://www.bundestag.de/mediathek/plenarsitzungen\nTagesordnung: https://
- www.bundestag.de/tagesordnung
+ f)\n\nLinks und Dokumente:\nDrucksache 21/7865 (Gesetzentwurf) Zwölftes G
+ esetz zur Änderung des Gesetzes gegen Wettbewerbsbeschränkungen und ande
+ rer...: https://dserver.bundestag.de/btd/21/078/2107865.pdf\n  DIP: https:
+ //dip.bundestag.de/drucksache/-/290559\nPlenarprotokoll 96. Sitzung: https
+ ://dserver.bundestag.de/btp/21/21096.pdf\nTextarchiv: https://www.bundesta
+ g.de/dokumente/textarchiv/2026/kw39-de-gwb-novelle-1211322\nMediathek: htt
+ ps://www.bundestag.de/mediathek/plenarsitzungen\nTagesordnung: https://www
+ .bundestag.de/tagesordnung
 LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
  lin
 URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw39-de-gwb-novelle-
@@ -3725,33 +3769,48 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bt-96-top-29-zp-7-umsetzung-der-energieeffizienzrichtlinie@bundestag-ka
  lender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;TZID=Europe/Berlin:20260924T231000
 DTEND;TZID=Europe/Berlin:20260924T232500
 SUMMARY:TOP 29\, ZP 7: Umsetzung der Energieeffizienzrichtlinie
-DESCRIPTION:Status: beendet\n96. Sitzung\nAusschuss Umwelt\, Klimaschutz\, 
- Naturschutz und nukleare Sicherheit: mitberatend (DIP\, amtlich)\nAusschus
- s Wirtschaft und Energie: federführend (DIP\, amtlich)\nZuordnung je Druc
- ksache (DIP):\n  21/8027 (Gesetzentwurf): Umwelt mitberatend\, WE federfü
- hrend\n  21/8139 (Antrag): Umwelt mitberatend\, WE federführend\n  21/811
- 1 (Antrag): Umwelt mitberatend\, WE federführend\n\na) Erste Beratung des
-  von der Bundesregierung\neingebrachten Entwurfs eines Gesetzes zur Beschl
- eunigung der Umsetzung der Energieeffizienzrichtlinie\nDrucksache 21/8027 
- (https://dserver.bundestag.de/btd/21/080/2108027.pdf)\n\nb) Beratung des A
- ntrags der Fraktion BÜNDNIS 90/DIE GRÜNEN\nEnergieverschwendung stoppen 
- und Wirtschaft um Milliarden entlasten\nDrucksache 21/8139 (https://dserve
- r.bundestag.de/btd/21/081/2108139.pdf)\n\nZP 7) Beratung des Antrags der F
- raktion Die Linke\nKein grenzenloser Ausbau von Rechenzentren – Echte Na
- chhaltigkeitsstandards gewährleisten\nDrucksache 21/8111 (https://dserver
- .bundestag.de/btd/21/081/2108111.pdf)\n\nLinks und Dokumente:\nDrucksache 
- 21/8027 (Gesetzentwurf): https://dserver.bundestag.de/btd/21/080/2108027.p
- df\nDrucksache 21/8139 (Antrag): https://dserver.bundestag.de/btd/21/081/2
- 108139.pdf\nDrucksache 21/8111 (Antrag): https://dserver.bundestag.de/btd/
- 21/081/2108111.pdf\nPlenarprotokoll 96. Sitzung: https://dserver.bundestag
- .de/btp/21/21096.pdf\nTextarchiv: https://www.bundestag.de/dokumente/texta
- rchiv/2026/kw39-de-energieeffizienzrichtlinie-1211306\nMediathek: https://
- www.bundestag.de/mediathek/plenarsitzungen\nTagesordnung: https://www.bund
- estag.de/tagesordnung
+DESCRIPTION:Status: beendet\n96. Sitzung\nAusschuss Wirtschaft und Energie:
+  federführend (DIP\, amtlich)\nAusschuss Umwelt\, Klimaschutz\, Naturschu
+ tz und nukleare Sicherheit: mitberatend (DIP\, amtlich)\nWE federführend 
+ bei: Gesetz zur Beschleunigung der Umsetzung der Energieeffizienzrichtlini
+ e\; Energieverschwendung stoppen und Wirtschaft um Milliarden entlasten\; 
+ Kein grenzenloser Ausbau von Rechenzentren - Echte Nachhaltigkeitsstandard
+ s gewährleisten\nUmwelt mitberatend bei: Gesetz zur Beschleunigung der Um
+ setzung der Energieeffizienzrichtlinie\; Energieverschwendung stoppen und 
+ Wirtschaft um Milliarden entlasten\; Kein grenzenloser Ausbau von Rechenze
+ ntren - Echte Nachhaltigkeitsstandards gewährleisten\nZuordnung je Drucks
+ ache (DIP):\n  21/8027 (Gesetzentwurf) Gesetz zur Beschleunigung der Umset
+ zung der Energieeffizienzrichtlinie: WE federführend\, Umwelt mitberatend
+ \n  21/8139 (Antrag) Energieverschwendung stoppen und Wirtschaft um Millia
+ rden entlasten: WE federführend\, Umwelt mitberatend\n  21/8111 (Antrag) 
+ Kein grenzenloser Ausbau von Rechenzentren - Echte Nachhaltigkeitsstandard
+ s gewährleisten: WE federführend\, Umwelt mitberatend\n\na) Erste Beratu
+ ng des von der Bundesregierung\neingebrachten Entwurfs eines Gesetzes zur 
+ Beschleunigung der Umsetzung der Energieeffizienzrichtlinie\nDrucksache 21
+ /8027 (https://dserver.bundestag.de/btd/21/080/2108027.pdf)\n\nb) Beratung
+  des Antrags der Fraktion BÜNDNIS 90/DIE GRÜNEN\nEnergieverschwendung st
+ oppen und Wirtschaft um Milliarden entlasten\nDrucksache 21/8139 (https://
+ dserver.bundestag.de/btd/21/081/2108139.pdf)\n\nZP 7) Beratung des Antrags
+  der Fraktion Die Linke\nKein grenzenloser Ausbau von Rechenzentren – Ec
+ hte Nachhaltigkeitsstandards gewährleisten\nDrucksache 21/8111 (https://d
+ server.bundestag.de/btd/21/081/2108111.pdf)\n\nLinks und Dokumente:\nDruck
+ sache 21/8027 (Gesetzentwurf) Gesetz zur Beschleunigung der Umsetzung der 
+ Energieeffizienzrichtlinie: https://dserver.bundestag.de/btd/21/080/210802
+ 7.pdf\n  DIP: https://dip.bundestag.de/drucksache/-/290815\nDrucksache 21/
+ 8139 (Antrag) Energieverschwendung stoppen und Wirtschaft um Milliarden en
+ tlasten: https://dserver.bundestag.de/btd/21/081/2108139.pdf\n  DIP: https
+ ://dip.bundestag.de/drucksache/-/290992\nDrucksache 21/8111 (Antrag) Kein 
+ grenzenloser Ausbau von Rechenzentren - Echte Nachhaltigkeitsstandards gew
+ ährleisten: https://dserver.bundestag.de/btd/21/081/2108111.pdf\n  DIP: h
+ ttps://dip.bundestag.de/drucksache/-/291015\nPlenarprotokoll 96. Sitzung: 
+ https://dserver.bundestag.de/btp/21/21096.pdf\nTextarchiv: https://www.bun
+ destag.de/dokumente/textarchiv/2026/kw39-de-energieeffizienzrichtlinie-121
+ 1306\nMediathek: https://www.bundestag.de/mediathek/plenarsitzungen\nTages
+ ordnung: https://www.bundestag.de/tagesordnung
 LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
  lin
 URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw39-de-energieeffiz
@@ -3768,7 +3827,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-a09-wirtschaft-anhoerung-1217432@bundestag-kalend
  er
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;TZID=Europe/Berlin:20261005T121500
 DTEND;TZID=Europe/Berlin:20261005T141500
 SUMMARY:Ausschuss WE: Anhörung zu Vorlagen zum Erneuerbare-Energien-Gesetz
@@ -3846,7 +3905,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-a09-wirtschaft-anhoerung-1217440@bundestag-kalend
  er
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;TZID=Europe/Berlin:20261005T143000
 DTEND;TZID=Europe/Berlin:20261005T160000
 SUMMARY:Ausschuss WE: Anhörung zu Vorlagen zur Umsetzung der Energieeffizi
@@ -3923,7 +3982,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-a09-wirtschaft-anhoerung-1217454@bundestag-kalend
  er
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;TZID=Europe/Berlin:20261007T080000
 DTEND;TZID=Europe/Berlin:20261007T100000
 SUMMARY:Ausschuss WE: Anhörung zu Vorlagen zum Netzanschlusspaket
@@ -4002,7 +4061,7 @@ ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12228
 END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-a09-wirtschaft-sitzung-50@bundestag-kalender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;TZID=Europe/Berlin:20261007T103000
 DTEND;TZID=Europe/Berlin:20261007T123000
 SUMMARY:Ausschuss WE: 50. Sitzung (nicht öffentlich)
@@ -4022,7 +4081,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bt-99-top-42-zp-4-ueberweisungen-im-vereinfachten-verfahre@bundestag-ka
  lender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;TZID=Europe/Berlin:20261008T150000
 DTEND;TZID=Europe/Berlin:20261008T150500
 SUMMARY:TOP 42\, ZP 4: Überweisungen im vereinfachten Verfahren: Gesetz ü
@@ -4088,7 +4147,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bt-99-top-12-bericht-der-beauftragten-der-bundesregie@bundestag-kalende
  r
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;TZID=Europe/Berlin:20261008T162500
 DTEND;TZID=Europe/Berlin:20261008T170000
 SUMMARY:TOP 12: Bericht der Beauftragten der Bundesregierung für Ostdeutsc
@@ -4117,13 +4176,13 @@ ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21099.pd
 END:VEVENT
 BEGIN:VEVENT
 UID:bt-99-top-13-energieversorgung@bundestag-kalender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;TZID=Europe/Berlin:20261008T170000
 DTEND;TZID=Europe/Berlin:20261008T173500
 SUMMARY:TOP 13: Energieversorgung
-DESCRIPTION:Status: beendet\n99. Sitzung\nAusschuss Umwelt\, Klimaschutz\, 
- Naturschutz und nukleare Sicherheit: mitberatend (DIP\, amtlich)\nAusschus
- s Wirtschaft und Energie: federführend (DIP\, amtlich)\n\nBeratung des An
+DESCRIPTION:Status: beendet\n99. Sitzung\nAusschuss Wirtschaft und Energie:
+  federführend (DIP\, amtlich)\nAusschuss Umwelt\, Klimaschutz\, Naturschu
+ tz und nukleare Sicherheit: mitberatend (DIP\, amtlich)\n\nBeratung des An
  trags der Fraktion Die Linke\nEnergieversorgung bezahlbar sichern – Repr
  ivatisierung von Uniper SE und SEFE GmbH stoppen\nDrucksache 21/8188 (http
  s://dserver.bundestag.de/btd/21/081/2108188.pdf)\n\nLinks und Dokumente:\n
@@ -4145,7 +4204,7 @@ ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21099.pd
 END:VEVENT
 BEGIN:VEVENT
 UID:bt-99-top-29-zp-8-ausbau-der-windenergie-auf-see@bundestag-kalender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;TZID=Europe/Berlin:20261008T235500
 DTEND;TZID=Europe/Berlin:20261009T001000
 SUMMARY:TOP 29\, ZP 8: Ausbau der Windenergie auf See (Ausschuss-Vorschlag)
@@ -4181,7 +4240,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bt-99-top-30-energiewirtschaftsgesetz-uebertragungsne@bundestag-kalende
  r
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;TZID=Europe/Berlin:20261009T001000
 DTEND;TZID=Europe/Berlin:20261009T002500
 SUMMARY:TOP 30: Energiewirtschaftsgesetz\, Übertragungsnetzkosten (Ausschu
@@ -4212,7 +4271,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-a09-wirtschaft-anhoerung-1217464@bundestag-kalend
  er
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;TZID=Europe/Berlin:20261009T080000
 DTEND;TZID=Europe/Berlin:20261009T090000
 SUMMARY:Ausschuss WE: Anhörung zur Änderung der Biomasseverordnung
@@ -4276,7 +4335,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-a09-wirtschaft-anhoerung-1221614@bundestag-kalend
  er
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;TZID=Europe/Berlin:20261014T083000
 DTEND;TZID=Europe/Berlin:20261014T100000
 SUMMARY:Ausschuss WE: Anhörung zum Ersten Unternehmensstatistikreformgeset
@@ -4315,7 +4374,7 @@ ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12243
 END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-a09-wirtschaft-sitzung-53@bundestag-kalender
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;TZID=Europe/Berlin:20261014T103000
 DTEND;TZID=Europe/Berlin:20261014T123000
 SUMMARY:Ausschuss WE: 53. Sitzung (nicht öffentlich)
@@ -4338,7 +4397,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-a09-wirtschaft-anhoerung-1217466@bundestag-kalend
  er
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;TZID=Europe/Berlin:20261014T143000
 DTEND;TZID=Europe/Berlin:20261014T160000
 SUMMARY:Ausschuss WE: Anhörung zur 12. GWB-Novelle
@@ -4390,7 +4449,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bt-102-top-39-abschliessende-beratungen-ohne-aussprach@bundestag-kalend
  er
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;TZID=Europe/Berlin:20261015T134500
 DTEND;TZID=Europe/Berlin:20261015T140000
 SUMMARY:TOP 39: Abschließende Beratungen ohne Aussprache: Für ein Handwer
@@ -4435,7 +4494,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bt-102-top-19-schutz-des-fairen-wettbewerbs-und-der-na@bundestag-kalend
  er
-DTSTAMP:20261012T203134Z
+DTSTAMP:20261013T013005Z
 DTSTART;TZID=Europe/Berlin:20261015T173500
 DTEND;TZID=Europe/Berlin:20261015T181000
 SUMMARY:TOP 19: Schutz des fairen Wettbewerbs und der nationalenSicherheit

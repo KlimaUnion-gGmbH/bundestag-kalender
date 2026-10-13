@@ -44,7 +44,7 @@ MAX_ANHAENGE = 12  # ATTACH-Zeilen je Plenartermin
 MAX_ANHAENGE_AUSSCHUSS = 25
 SITZUNG_MINUTEN = 120  # geschätzte Dauer nicht öffentlicher Ausschusssitzungen
 MAX_DETAILS_PRO_LAUF = 50
-SKRIPT_VERSION = "v2 (Sammelpunkte nach Federführung gekürzt)"
+SKRIPT_VERSION = "v3 (noindex, einstellbare Basis-Adresse)"
 BERLIN = ZoneInfo("Europe/Berlin")
 
 # Betreiber und Adressen (für die Startseite)
@@ -958,6 +958,7 @@ def index_html(basis, feeds):
                   f'(<a href="{basis + datei}">Link kopieren</a>)</li>\n')
     return f"""<!doctype html>
 <html lang="de"><meta charset="utf-8"><title>Bundestag-Kalender</title>
+<meta name="robots" content="noindex, nofollow">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <body style="font-family:system-ui,sans-serif;max-width:40rem;margin:2rem auto;padding:0 1rem">
 <h1>Bundestag-Kalender</h1>
@@ -972,6 +973,20 @@ Endzeiten sind teils geschätzt. Ausschuss-Zuordnungen vor der ersten Beratung s
 <p><a href="{IMPRESSUM_URL}">Impressum</a> | <a href="{DATENSCHUTZ_URL}">Datenschutz</a> | <a href="{REPO_URL}">Quellcode</a></p>
 </body></html>
 """
+
+
+def noindex_sicherstellen(pfad):
+    """Fügt in eine von Hand gepflegte HTML-Seite den noindex-Hinweis ein, falls er fehlt."""
+    if not pfad.exists():
+        return False
+    t = pfad.read_bytes().decode("utf-8")
+    if 'name="robots"' in t:
+        return False
+    neu = t.replace('<meta charset="utf-8">', '<meta charset="utf-8">\n<meta name="robots" content="noindex, nofollow">', 1)
+    if neu == t:
+        return False
+    pfad.write_bytes(neu.encode("utf-8"))
+    return True
 
 
 # ------------------------------------------------------------------ main
@@ -1089,12 +1104,17 @@ def main():
                 print(f"Warnung: Ausschussseite {key}: {e}", file=sys.stderr)
 
     repo = os.environ.get("GITHUB_REPOSITORY", "")
-    if "/" in repo:
+    eigene_basis = (os.environ.get("KALENDER_BASIS_URL") or "").strip()
+    if eigene_basis:
+        basis = eigene_basis if eigene_basis.endswith("/") else eigene_basis + "/"
+    elif "/" in repo:
         eigner, name = repo.split("/", 1)
         basis = f"https://{eigner.lower()}.github.io/{name}/"
     else:
         basis = BASIS_URL
     schreiben_wenn_geaendert(OUT / "index.html", index_html(basis, feeds))
+    schreiben_wenn_geaendert(OUT / "robots.txt", "User-agent: *\nDisallow: /\n")
+    noindex_sicherstellen(OUT / "datenschutz.html")
 
     print(f"Skript {SKRIPT_VERSION}")
     print(f"{len(events)} Termine, {len(wochen)} Sitzungswochen")

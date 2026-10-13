@@ -46,7 +46,7 @@ Der Bundestag beschließt die Überweisung erst in der ersten Beratung. Termine,
 
 ## Technik
 
-Ein Python-Skript (nur Standardbibliothek) erzeugt die Feeds. GitHub Actions führt es Mittwoch bis Freitag etwa alle 15 Minuten, sonst stündlich, aus und veröffentlicht das Ergebnis über GitHub Pages.
+Ein Python-Skript (nur Standardbibliothek) erzeugt die Feeds. GitHub Actions führt es Montag bis Freitag mehrmals pro Stunde und sonst stündlich aus (der genaue Takt hängt von GitHub ab) und veröffentlicht das Ergebnis über GitHub Pages.
 
 - `2026-10-12_bundestag_kalender.py`: Skript
 - `.github/workflows/`: Zeitplan und Veröffentlichung

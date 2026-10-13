@@ -715,7 +715,7 @@
    },
    "datum": "2026-10-07",
    "titel": "Anhörung zu Vorlagen zum Netzanschlusspaket",
-   "ts": 1791854997.6460443
+   "ts": 1791884218.4196754
   },
   "1217464": {
    "daten": {
@@ -771,7 +771,7 @@
    },
    "datum": "2026-10-09",
    "titel": "Anhörung zur Änderung der Biomasseverordnung",
-   "ts": 1791854997.6460443
+   "ts": 1791884218.4196754
   },
   "1217466": {
    "daten": {
@@ -812,6 +812,14 @@
      {
       "href": "https://www.bundestag.de/resource/blob/1224352/Neuer-Inhalt.pdf",
       "titel": "21(9)404 Stellungnahme Dr. Till Steinvorth (für MVFP, BDZV)"
+     },
+     {
+      "href": "https://www.bundestag.de/resource/blob/1224410/Stellungnahme_SV_Dr-_Jan_Heithecker_DENTONS.pdf",
+      "titel": "21(9)405 Stellungnahme des Sachverständigen Dr. Jan Heithecker, DENTONS"
+     },
+     {
+      "href": "https://www.bundestag.de/resource/blob/1224414/Stellungnahme_SV_Dr-_Rupprecht_Podszun_HH-Uni_Duesseldorf.pdf",
+      "titel": "21(9)406 Stellungnahme des Sachverständigen Prof. Dr. Rupprecht Podszun, Heinrich-Heine-Universität Düsseldorf"
      }
     ],
     "end": "2026-10-14T16:00:00",
@@ -823,7 +831,7 @@
    },
    "datum": "2026-10-14",
    "titel": "Anhörung zur 12. GWB-Novelle",
-   "ts": 1791854997.6460443
+   "ts": 1791884218.4196754
   },
   "1221614": {
    "daten": {
@@ -863,7 +871,7 @@
    },
    "datum": "2026-10-14",
    "titel": "Anhörung zum Ersten Unternehmensstatistikreformgesetz",
-   "ts": 1791854997.6460443
+   "ts": 1791884218.4196754
   }
  },
  "dokumente": {

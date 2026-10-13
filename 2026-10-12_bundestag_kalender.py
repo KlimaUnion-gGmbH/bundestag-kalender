@@ -44,7 +44,7 @@ MAX_ANHAENGE = 12  # ATTACH-Zeilen je Plenartermin
 MAX_ANHAENGE_AUSSCHUSS = 25
 SITZUNG_MINUTEN = 120  # geschätzte Dauer nicht öffentlicher Ausschusssitzungen
 MAX_DETAILS_PRO_LAUF = 50
-SKRIPT_VERSION = "v3 (noindex, einstellbare Basis-Adresse)"
+SKRIPT_VERSION = "v4 (Zeitplan alle Werktage, Titel geglättet)"
 BERLIN = ZoneInfo("Europe/Berlin")
 
 # Betreiber und Adressen (für die Startseite)
@@ -965,7 +965,7 @@ def index_html(basis, feeds):
 <p>Kalenderabos mit der Tagesordnung des Plenums und den Terminen des Ausschusses für Wirtschaft und Energie
 des Deutschen Bundestages. Betrieben von der <a href="{BETREIBER_URL}">{html.escape(BETREIBER)}</a>
 als Angebot für die energie- und klimapolitische Informationsarbeit. Alle Daten sind öffentliche Parlamentsdaten.</p>
-<p>Aktualisierung automatisch, in Sitzungswochen etwa alle 15 Minuten. Abo-Programme holen oft seltener ab.</p>
+<p>Aktualisierung automatisch, an Werktagen mehrmals pro Stunde, je nach GitHub auch seltener. Abo-Programme holen oft nur alle paar Stunden ab.</p>
 <ul>
 {items}</ul>
 <p>Inoffizielles Angebot, keine Gewähr. Quellen: bundestag.de und das Dokumentations- und Informationssystem DIP.
@@ -1063,7 +1063,21 @@ def main():
                 t = themen(e, dipc, key)
                 fed = t.get("federführend", [])
                 if fed:
-                    e2["summary"] = kuerzen(e["summary"] + ": " + "; ".join(kuerzen(x, 45) for x in fed[:3]), 140)
+                    kurz_t = []
+                    for x in fed:
+                        k = kuerzen(x, 40)
+                        if not any(k[:25].lower() == y[:25].lower() for y in kurz_t):
+                            kurz_t.append(k)
+                    kurz_t = kurz_t[:3]
+                    kandidat = e["summary"]
+                    while kurz_t:
+                        kandidat = e["summary"] + ": " + "; ".join(kurz_t)
+                        if len(kandidat) <= 140:
+                            break
+                        kurz_t.pop()
+                    else:
+                        kandidat = e["summary"]
+                    e2["summary"] = kandidat
             marken = []
             if z["rolle"] == "mitberatend":
                 marken.append("mitberatend")

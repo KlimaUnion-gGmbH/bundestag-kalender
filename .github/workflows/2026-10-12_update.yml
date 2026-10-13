@@ -2,10 +2,13 @@ name: Bundestag-Kalender aktualisieren
 
 on:
   schedule:
-    # Sitzungstage (Mi bis Fr), alle 15 Minuten, Zeiten in UTC
+    # Normal (öffentliches Repository, Actions kostenlos). Zeiten in UTC.
     - cron: "*/15 7-22 * * 3-5"
-    # sonst stündlich
     - cron: "23 * * * *"
+    # Gedrosselt für ein privates Repository (3.000 Minuten im Team-Plan):
+    # die zwei Zeilen darüber auskommentieren, diese zwei aktivieren.
+    # - cron: "*/30 7-22 * * 3-5"
+    # - cron: "23 */3 * * 0,1,2,6"
   workflow_dispatch:
 
 permissions:
@@ -24,6 +27,11 @@ jobs:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
+    env:
+      # Optionaler Versand auf eigenen Webspace (nur aktiv, wenn FTP_HOST als Secret gesetzt ist).
+      FTP_HOST: ${{ secrets.FTP_HOST }}
+      FTP_USER: ${{ secrets.FTP_USER }}
+      FTP_PFAD: ${{ vars.FTP_PFAD }}
     steps:
       - uses: actions/checkout@v4
 
@@ -36,6 +44,9 @@ jobs:
           # Optional: eigener DIP-Schlüssel als Repository-Secret DIP_API_KEY.
           # Ohne Secret nutzt das Skript den öffentlichen Schlüssel des Bundestags.
           DIP_API_KEY: ${{ secrets.DIP_API_KEY }}
+          # Optional: Basis-Adresse der Seite als Repository-Variable KALENDER_BASIS_URL,
+          # zum Beispiel https://kalender.klimaunion.org (ohne Variable: github.io-Adresse).
+          KALENDER_BASIS_URL: ${{ vars.KALENDER_BASIS_URL }}
         run: python 2026-10-12_bundestag_kalender.py
 
       - name: Änderungen committen
@@ -68,3 +79,14 @@ jobs:
         id: deployment
         if: steps.commit.outputs.docs_geaendert == 'true' || github.event_name == 'workflow_dispatch'
         uses: actions/deploy-pages@v4
+
+      # Optional und ungetestet: Dateien zusätzlich per FTPS auf eigenen Webspace übertragen.
+      # Läuft nur, wenn das Secret FTP_HOST gesetzt ist. Siehe interne Anleitung zum Umzug.
+      - name: Auf eigenen Webspace übertragen (optional)
+        if: env.FTP_HOST != '' && (steps.commit.outputs.docs_geaendert == 'true' || github.event_name == 'workflow_dispatch')
+        env:
+          FTP_PASSWORD: ${{ secrets.FTP_PASSWORD }}
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq lftp
+          lftp -u "$FTP_USER,$FTP_PASSWORD" -e "set ftp:ssl-force true; set ssl:verify-certificate yes; mirror -R docs ${FTP_PFAD:-.}; quit" "$FTP_HOST"

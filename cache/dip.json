@@ -555,6 +555,50 @@
    "325556"
   ]
  },
+ "21/1568": {
+  "ausschuesse": {
+   "AfArbSoz": {
+    "name": "Ausschuss für Arbeit und Soziales",
+    "rolle": "mitberatend"
+   },
+   "AfG": {
+    "name": "Ausschuss für Gesundheit",
+    "rolle": "federführend"
+   },
+   "AfRechtVer": {
+    "name": "Ausschuss für Recht und Verbraucherschutz",
+    "rolle": "mitberatend"
+   },
+   "HaushA": {
+    "name": "Haushaltsausschuss",
+    "rolle": "mitberatend"
+   }
+  },
+  "gefunden": true,
+  "id": "281292",
+  "titel": "Psychotherapeuten bedarfsgerecht ausbilden - Weiterbildung sichern",
+  "ts": 1791922501.340119,
+  "typ": "Antrag",
+  "vorgaenge": [
+   "325566"
+  ]
+ },
+ "21/1571": {
+  "ausschuesse": {
+   "AfG": {
+    "name": "Ausschuss für Gesundheit",
+    "rolle": "federführend"
+   }
+  },
+  "gefunden": true,
+  "id": "281295",
+  "titel": "Streichung der Konsiliarberichtspflicht vor Beginn einer Psychotherapie",
+  "ts": 1791922501.340119,
+  "typ": "Antrag",
+  "vorgaenge": [
+   "325561"
+  ]
+ },
  "21/1596": {
   "ausschuesse": {
    "AfBFSFJ": {
@@ -1339,6 +1383,46 @@
    "327215"
   ]
  },
+ "21/2353": {
+  "ausschuesse": {
+   "AfArbSoz": {
+    "name": "Ausschuss für Arbeit und Soziales",
+    "rolle": "mitberatend"
+   },
+   "AfFTRT": {
+    "name": "Ausschuss für Forschung, Technologie, Raumfahrt und Technikfolgenabschätzung",
+    "rolle": "mitberatend"
+   },
+   "AfWE": {
+    "name": "Ausschuss für Wirtschaft und Energie",
+    "rolle": "mitberatend"
+   },
+   "FinanzA": {
+    "name": "Finanzausschuss",
+    "rolle": "mitberatend"
+   },
+   "HaushA": {
+    "name": "Haushaltsausschuss",
+    "rolle": "federführend"
+   },
+   "VerkA": {
+    "name": "Verkehrsausschuss",
+    "rolle": "mitberatend"
+   },
+   "VgA": {
+    "name": "Verteidigungsausschuss",
+    "rolle": "mitberatend"
+   }
+  },
+  "gefunden": true,
+  "id": "282558",
+  "titel": "Entlastung der Bundesregierung für das Haushaltsjahr 2024\r\n- Haushalts- und Vermögensrechnung des Bundes für das Haushaltsjahr 2024 -",
+  "ts": 1791922501.340119,
+  "typ": "Antrag",
+  "vorgaenge": [
+   "323944"
+  ]
+ },
  "21/2363": {
   "ausschuesse": {
    "AfArbSoz": {
@@ -1753,6 +1837,17 @@
   "typ": "Antrag",
   "vorgaenge": [
    "327788"
+  ]
+ },
+ "21/2562": {
+  "ausschuesse": {},
+  "gefunden": true,
+  "id": "282906",
+  "titel": "Weiterbildung für alle möglich machen - Aufstiegs-BAföG jetzt grundlegend reformieren",
+  "ts": 1791922501.340119,
+  "typ": "Antrag",
+  "vorgaenge": [
+   "327834"
   ]
  },
  "21/2574": {
@@ -3065,6 +3160,46 @@
    "326707"
   ]
  },
+ "21/3200": {
+  "ausschuesse": {
+   "AfArbSoz": {
+    "name": "Ausschuss für Arbeit und Soziales",
+    "rolle": "mitberatend"
+   },
+   "AfFTRT": {
+    "name": "Ausschuss für Forschung, Technologie, Raumfahrt und Technikfolgenabschätzung",
+    "rolle": "mitberatend"
+   },
+   "AfWE": {
+    "name": "Ausschuss für Wirtschaft und Energie",
+    "rolle": "mitberatend"
+   },
+   "FinanzA": {
+    "name": "Finanzausschuss",
+    "rolle": "mitberatend"
+   },
+   "HaushA": {
+    "name": "Haushaltsausschuss",
+    "rolle": "federführend"
+   },
+   "VerkA": {
+    "name": "Verkehrsausschuss",
+    "rolle": "mitberatend"
+   },
+   "VgA": {
+    "name": "Verteidigungsausschuss",
+    "rolle": "mitberatend"
+   }
+  },
+  "gefunden": true,
+  "id": "283785",
+  "titel": "Entlastung der Bundesregierung für das Haushaltsjahr 2024\r\n- Haushalts- und Vermögensrechnung des Bundes für das Haushaltsjahr 2024 -",
+  "ts": 1791922501.340119,
+  "typ": "Unterrichtung",
+  "vorgaenge": [
+   "323944"
+  ]
+ },
  "21/3203": {
   "ausschuesse": {
    "AfU": {
@@ -3577,6 +3712,80 @@
   "typ": "Unterrichtung",
   "vorgaenge": [
    "329452"
+  ]
+ },
+ "21/3375": {
+  "ausschuesse": {
+   "ADi": {
+    "name": "Ausschuss für Digitales und Staatsmodernisierung",
+    "rolle": "federführend"
+   },
+   "AWZ": {
+    "name": "Ausschuss für wirtschaftliche Zusammenarbeit und Entwicklung",
+    "rolle": "mitberatend"
+   },
+   "AfArbSoz": {
+    "name": "Ausschuss für Arbeit und Soziales",
+    "rolle": "mitberatend"
+   },
+   "AfEU": {
+    "name": "Ausschuss für die Angelegenheiten der Europäischen Union",
+    "rolle": "mitberatend"
+   },
+   "AfFTRT": {
+    "name": "Ausschuss für Forschung, Technologie, Raumfahrt und Technikfolgenabschätzung",
+    "rolle": "mitberatend"
+   },
+   "AfKult": {
+    "name": "Ausschuss für Kultur und Medien",
+    "rolle": "federführend"
+   },
+   "AfLEH": {
+    "name": "Ausschuss für Landwirtschaft, Ernährung und Heimat",
+    "rolle": "mitberatend"
+   },
+   "AfRechtVer": {
+    "name": "Ausschuss für Recht und Verbraucherschutz",
+    "rolle": "mitberatend"
+   },
+   "AfU": {
+    "name": "Ausschuss für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit",
+    "rolle": "mitberatend"
+   },
+   "AfWE": {
+    "name": "Ausschuss für Wirtschaft und Energie",
+    "rolle": "federführend"
+   },
+   "FinanzA": {
+    "name": "Finanzausschuss",
+    "rolle": "mitberatend"
+   },
+   "HaushA": {
+    "name": "Haushaltsausschuss",
+    "rolle": "federführend"
+   },
+   "InnenA": {
+    "name": "Innenausschuss",
+    "rolle": "mitberatend"
+   },
+   "VerkA": {
+    "name": "Verkehrsausschuss",
+    "rolle": "mitberatend"
+   },
+   "VgA": {
+    "name": "Verteidigungsausschuss",
+    "rolle": "mitberatend"
+   }
+  },
+  "gefunden": true,
+  "id": "283989",
+  "titel": "Jahresbericht 2025 des Nationalen Normenkontrollrates \r\nEinfach, schnell, wirksam. - Den Staat neu gestalten",
+  "ts": 1791922501.340119,
+  "typ": "Unterrichtung",
+  "vorgaenge": [
+   "328855",
+   "328820",
+   "328936"
   ]
  },
  "21/341": {
@@ -15378,6 +15587,46 @@
    "334215"
   ]
  },
+ "21/5600": {
+  "ausschuesse": {
+   "AfArbSoz": {
+    "name": "Ausschuss für Arbeit und Soziales",
+    "rolle": "mitberatend"
+   },
+   "AfFTRT": {
+    "name": "Ausschuss für Forschung, Technologie, Raumfahrt und Technikfolgenabschätzung",
+    "rolle": "mitberatend"
+   },
+   "AfWE": {
+    "name": "Ausschuss für Wirtschaft und Energie",
+    "rolle": "mitberatend"
+   },
+   "FinanzA": {
+    "name": "Finanzausschuss",
+    "rolle": "mitberatend"
+   },
+   "HaushA": {
+    "name": "Haushaltsausschuss",
+    "rolle": "federführend"
+   },
+   "VerkA": {
+    "name": "Verkehrsausschuss",
+    "rolle": "mitberatend"
+   },
+   "VgA": {
+    "name": "Verteidigungsausschuss",
+    "rolle": "mitberatend"
+   }
+  },
+  "gefunden": true,
+  "id": "287549",
+  "titel": "Entlastung der Bundesregierung für das Haushaltsjahr 2024\r\n- Haushalts- und Vermögensrechnung des Bundes für das Haushaltsjahr 2024 -",
+  "ts": 1791922501.340119,
+  "typ": "Unterrichtung",
+  "vorgaenge": [
+   "323944"
+  ]
+ },
  "21/5617": {
   "ausschuesse": {
    "AfU": {
@@ -18904,6 +19153,72 @@
    "334536"
   ]
  },
+ "21/6122": {
+  "ausschuesse": {
+   "AWZ": {
+    "name": "Ausschuss für wirtschaftliche Zusammenarbeit und Entwicklung",
+    "rolle": "mitberatend"
+   },
+   "AfArbSoz": {
+    "name": "Ausschuss für Arbeit und Soziales",
+    "rolle": "mitberatend"
+   },
+   "AfEU": {
+    "name": "Ausschuss für die Angelegenheiten der Europäischen Union",
+    "rolle": "mitberatend"
+   },
+   "AfFTRT": {
+    "name": "Ausschuss für Forschung, Technologie, Raumfahrt und Technikfolgenabschätzung",
+    "rolle": "mitberatend"
+   },
+   "AfKult": {
+    "name": "Ausschuss für Kultur und Medien",
+    "rolle": "federführend"
+   },
+   "AfMenschenr": {
+    "name": "Ausschuss für Menschenrechte und humanitäre Hilfe",
+    "rolle": "mitberatend"
+   },
+   "AfTour": {
+    "name": "Ausschuss für Tourismus",
+    "rolle": "mitberatend"
+   },
+   "AfWE": {
+    "name": "Ausschuss für Wirtschaft und Energie",
+    "rolle": "mitberatend"
+   },
+   "AuswA": {
+    "name": "Auswärtiger Ausschuss",
+    "rolle": "federführend"
+   },
+   "FinanzA": {
+    "name": "Finanzausschuss",
+    "rolle": "mitberatend"
+   },
+   "HaushA": {
+    "name": "Haushaltsausschuss",
+    "rolle": "federführend"
+   },
+   "VerkA": {
+    "name": "Verkehrsausschuss",
+    "rolle": "federführend"
+   },
+   "VgA": {
+    "name": "Verteidigungsausschuss",
+    "rolle": "mitberatend"
+   }
+  },
+  "gefunden": true,
+  "id": "288058",
+  "titel": "Deutscher Fortschrittsbericht 2026",
+  "ts": 1791922501.340119,
+  "typ": "Unterrichtung",
+  "vorgaenge": [
+   "334167",
+   "334220",
+   "334636"
+  ]
+ },
  "21/6124": {
   "ausschuesse": {
    "AfU": {
@@ -19150,7 +19465,7 @@
   "gefunden": true,
   "id": "288379",
   "titel": "Rechnung des Bundesrechnungshofes für das Haushaltsjahr 2025\r\n- Einzelplan 20 -",
-  "ts": 1791836605.0126982,
+  "ts": 1791922501.340119,
   "typ": "Antrag",
   "vorgaenge": [
    "335836"
@@ -20913,7 +21228,7 @@
   "gefunden": true,
   "id": "288776",
   "titel": "Streichung der Konsiliarberichtspflicht vor Beginn einer Psychotherapie",
-  "ts": 1791836605.0126982,
+  "ts": 1791922501.340119,
   "typ": "Beschlussempfehlung und Bericht",
   "vorgaenge": [
    "325561",
@@ -25112,6 +25427,62 @@
    "336553",
    "336552",
    "336550"
+  ]
+ },
+ "21/7107": {
+  "ausschuesse": {
+   "HaushA": {
+    "name": "Haushaltsausschuss",
+    "rolle": "federführend"
+   }
+  },
+  "gefunden": true,
+  "id": "289641",
+  "titel": "Rechnung des Bundesrechnungshofes für das Haushaltsjahr 2025\r\n- Einzelplan 20 -",
+  "ts": 1791922501.340119,
+  "typ": "Beschlussempfehlung und Bericht",
+  "vorgaenge": [
+   "335836"
+  ]
+ },
+ "21/7108": {
+  "ausschuesse": {
+   "AfArbSoz": {
+    "name": "Ausschuss für Arbeit und Soziales",
+    "rolle": "mitberatend"
+   },
+   "AfFTRT": {
+    "name": "Ausschuss für Forschung, Technologie, Raumfahrt und Technikfolgenabschätzung",
+    "rolle": "mitberatend"
+   },
+   "AfWE": {
+    "name": "Ausschuss für Wirtschaft und Energie",
+    "rolle": "mitberatend"
+   },
+   "FinanzA": {
+    "name": "Finanzausschuss",
+    "rolle": "mitberatend"
+   },
+   "HaushA": {
+    "name": "Haushaltsausschuss",
+    "rolle": "federführend"
+   },
+   "VerkA": {
+    "name": "Verkehrsausschuss",
+    "rolle": "mitberatend"
+   },
+   "VgA": {
+    "name": "Verteidigungsausschuss",
+    "rolle": "mitberatend"
+   }
+  },
+  "gefunden": true,
+  "id": "289642",
+  "titel": "Entlastung der Bundesregierung für das Haushaltsjahr 2024\r\n- Haushalts- und Vermögensrechnung des Bundes für das Haushaltsjahr 2024 -",
+  "ts": 1791922501.340119,
+  "typ": "Beschlussempfehlung und Bericht",
+  "vorgaenge": [
+   "323944"
   ]
  },
  "21/7193": {
@@ -29671,6 +30042,53 @@
   "vorgaenge": [
    "335472"
   ]
+ },
+ "21/8520": {
+  "ausschuesse": {},
+  "gefunden": true,
+  "id": "291574",
+  "titel": "Wahl von Mitgliedern des Gremiums gemäß § 3 des Bundesschuldenwesengesetzes",
+  "ts": 1791922501.340119,
+  "typ": "Wahlvorschlag",
+  "vorgaenge": [
+   "340298"
+  ]
+ },
+ "21/8537": {
+  "ausschuesse": {},
+  "gefunden": true,
+  "id": "291577",
+  "titel": "Ausstieg aus der UN‑Agenda 2030 - Deutsche Entwicklungsziele nach nationalen Prioritäten definieren",
+  "ts": 1791922501.340119,
+  "typ": "Antrag",
+  "vorgaenge": []
+ },
+ "21/8538": {
+  "ausschuesse": {},
+  "gefunden": true,
+  "id": "291578",
+  "titel": "Bürger-Baugenossenschaft verankern - Wohneigentum risikoarm möglich machen",
+  "ts": 1791922501.340119,
+  "typ": "Antrag",
+  "vorgaenge": []
+ },
+ "21/8539": {
+  "ausschuesse": {},
+  "gefunden": false,
+  "titel": null,
+  "ts": 1791922501.340119
+ },
+ "21/8540": {
+  "ausschuesse": {},
+  "gefunden": false,
+  "titel": null,
+  "ts": 1791922501.340119
+ },
+ "21/8541": {
+  "ausschuesse": {},
+  "gefunden": false,
+  "titel": null,
+  "ts": 1791922501.340119
  },
  "24/900": {
   "ausschuesse": {},

@@ -3,12 +3,15 @@ name: Bundestag-Kalender aktualisieren
 on:
   schedule:
     # Normal (öffentliches Repository, Actions kostenlos). Zeiten in UTC.
-    - cron: "*/15 7-22 * * 3-5"
+    # Montag bis Freitag alle 15 Minuten, versetzt zu den vollen Zeiten (GitHub lässt zu den
+    # Spitzenzeiten eher Läufe aus). Das Fenster 7 bis 23 Uhr UTC deckt Sommer- und Winterzeit ab.
+    - cron: "7,22,37,52 7-23 * * 1-5"
+    # Sicherheitsnetz: an allen Tagen einmal pro Stunde.
     - cron: "23 * * * *"
     # Gedrosselt für ein privates Repository (3.000 Minuten im Team-Plan):
     # die zwei Zeilen darüber auskommentieren, diese zwei aktivieren.
-    # - cron: "*/30 7-22 * * 3-5"
-    # - cron: "23 */3 * * 0,1,2,6"
+    # - cron: "7,37 7-23 * * 1-5"
+    # - cron: "23 */3 * * *"
   workflow_dispatch:
 
 permissions:

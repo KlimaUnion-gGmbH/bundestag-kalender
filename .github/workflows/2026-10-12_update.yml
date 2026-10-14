@@ -68,19 +68,44 @@ jobs:
             git push
           fi
 
+      # Selbstheilung: Schlägt die Veröffentlichung bei GitHub fehl, erzeugt der nächste Lauf ohne
+      # Änderung keine neue. Deshalb wird in vier Läufen pro Tag (Stundentakt, UTC 0, 6, 12, 18 Uhr) immer veröffentlicht.
+      - name: Regelmäßige Neu-Veröffentlichung festlegen
+        id: heilung
+        env:
+          ZEITPLAN: ${{ github.event.schedule }}
+        run: |
+          h=$(date -u +%H)
+          if [ "$ZEITPLAN" = "23 * * * *" ] && [ $((10#$h % 6)) -eq 0 ]; then
+            echo "ja=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "ja=false" >> "$GITHUB_OUTPUT"
+          fi
+
       - name: Seite vorbereiten
-        if: steps.commit.outputs.docs_geaendert == 'true' || github.event_name == 'workflow_dispatch'
+        if: steps.commit.outputs.docs_geaendert == 'true' || github.event_name == 'workflow_dispatch' || steps.heilung.outputs.ja == 'true'
         uses: actions/configure-pages@v5
 
       - name: Seite hochladen
-        if: steps.commit.outputs.docs_geaendert == 'true' || github.event_name == 'workflow_dispatch'
+        if: steps.commit.outputs.docs_geaendert == 'true' || github.event_name == 'workflow_dispatch' || steps.heilung.outputs.ja == 'true'
         uses: actions/upload-pages-artifact@v3
         with:
           path: docs
 
       - name: Seite veröffentlichen
         id: deployment
-        if: steps.commit.outputs.docs_geaendert == 'true' || github.event_name == 'workflow_dispatch'
+        if: steps.commit.outputs.docs_geaendert == 'true' || github.event_name == 'workflow_dispatch' || steps.heilung.outputs.ja == 'true'
+        continue-on-error: true
+        uses: actions/deploy-pages@v4
+
+      # GitHub Pages antwortet gelegentlich mit Fehler 504. Dann zwei Minuten warten und ein zweites Mal versuchen.
+      - name: Warten vor zweitem Versuch
+        if: steps.deployment.outcome == 'failure'
+        run: sleep 120
+
+      - name: Seite veröffentlichen (zweiter Versuch)
+        id: deployment2
+        if: steps.deployment.outcome == 'failure'
         uses: actions/deploy-pages@v4
 
       # Optional und ungetestet: Dateien zusätzlich per FTPS auf eigenen Webspace übertragen.

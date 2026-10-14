@@ -27,7 +27,7 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sw-20260112@bundestag-kalender
-DTSTAMP:20261014T125449Z
+DTSTAMP:20261014T174214Z
 DTSTART;VALUE=DATE:20260112
 DTEND;VALUE=DATE:20260117
 SUMMARY:Sitzungswoche
@@ -35,7 +35,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20260126@bundestag-kalender
-DTSTAMP:20261014T125449Z
+DTSTAMP:20261014T174214Z
 DTSTART;VALUE=DATE:20260126
 DTEND;VALUE=DATE:20260131
 SUMMARY:Sitzungswoche
@@ -43,7 +43,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20260223@bundestag-kalender
-DTSTAMP:20261014T125449Z
+DTSTAMP:20261014T174214Z
 DTSTART;VALUE=DATE:20260223
 DTEND;VALUE=DATE:20260228
 SUMMARY:Sitzungswoche
@@ -51,7 +51,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20260302@bundestag-kalender
-DTSTAMP:20261014T125449Z
+DTSTAMP:20261014T174214Z
 DTSTART;VALUE=DATE:20260302
 DTEND;VALUE=DATE:20260307
 SUMMARY:Sitzungswoche
@@ -59,7 +59,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20260316@bundestag-kalender
-DTSTAMP:20261014T125449Z
+DTSTAMP:20261014T174214Z
 DTSTART;VALUE=DATE:20260316
 DTEND;VALUE=DATE:20260321
 SUMMARY:Sitzungswoche
@@ -67,7 +67,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20260323@bundestag-kalender
-DTSTAMP:20261014T125449Z
+DTSTAMP:20261014T174214Z
 DTSTART;VALUE=DATE:20260323
 DTEND;VALUE=DATE:20260328
 SUMMARY:Sitzungswoche
@@ -75,7 +75,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20260413@bundestag-kalender
-DTSTAMP:20261014T125449Z
+DTSTAMP:20261014T174214Z
 DTSTART;VALUE=DATE:20260413
 DTEND;VALUE=DATE:20260418
 SUMMARY:Sitzungswoche
@@ -83,7 +83,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20260420@bundestag-kalender
-DTSTAMP:20261014T125449Z
+DTSTAMP:20261014T174214Z
 DTSTART;VALUE=DATE:20260420
 DTEND;VALUE=DATE:20260425
 SUMMARY:Sitzungswoche
@@ -91,7 +91,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20260504@bundestag-kalender
-DTSTAMP:20261014T125449Z
+DTSTAMP:20261014T174214Z
 DTSTART;VALUE=DATE:20260504
 DTEND;VALUE=DATE:20260509
 SUMMARY:Sitzungswoche
@@ -99,7 +99,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20260518@bundestag-kalender
-DTSTAMP:20261014T125449Z
+DTSTAMP:20261014T174214Z
 DTSTART;VALUE=DATE:20260518
 DTEND;VALUE=DATE:20260523
 SUMMARY:Sitzungswoche
@@ -107,7 +107,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20260608@bundestag-kalender
-DTSTAMP:20261014T125449Z
+DTSTAMP:20261014T174214Z
 DTSTART;VALUE=DATE:20260608
 DTEND;VALUE=DATE:20260613
 SUMMARY:Sitzungswoche
@@ -115,7 +115,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20260622@bundestag-kalender
-DTSTAMP:20261014T125449Z
+DTSTAMP:20261014T174214Z
 DTSTART;VALUE=DATE:20260622
 DTEND;VALUE=DATE:20260627
 SUMMARY:Sitzungswoche
@@ -123,7 +123,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20260706@bundestag-kalender
-DTSTAMP:20261014T125449Z
+DTSTAMP:20261014T174214Z
 DTSTART;VALUE=DATE:20260706
 DTEND;VALUE=DATE:20260711
 SUMMARY:Sitzungswoche
@@ -131,7 +131,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20260907@bundestag-kalender
-DTSTAMP:20261014T125449Z
+DTSTAMP:20261014T174214Z
 DTSTART;VALUE=DATE:20260907
 DTEND;VALUE=DATE:20260912
 SUMMARY:Sitzungswoche
@@ -139,7 +139,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20260921@bundestag-kalender
-DTSTAMP:20261014T125449Z
+DTSTAMP:20261014T174214Z
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260926
 SUMMARY:Sitzungswoche
@@ -147,7 +147,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20261005@bundestag-kalender
-DTSTAMP:20261014T125449Z
+DTSTAMP:20261014T174214Z
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261010
 SUMMARY:Sitzungswoche
@@ -155,7 +155,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20261012@bundestag-kalender
-DTSTAMP:20261014T125449Z
+DTSTAMP:20261014T174214Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261017
 SUMMARY:Sitzungswoche
@@ -163,7 +163,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20261102@bundestag-kalender
-DTSTAMP:20261014T125449Z
+DTSTAMP:20261014T174214Z
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261107
 SUMMARY:Sitzungswoche
@@ -171,7 +171,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20261109@bundestag-kalender
-DTSTAMP:20261014T125449Z
+DTSTAMP:20261014T174214Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261114
 SUMMARY:Sitzungswoche
@@ -179,7 +179,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20261123@bundestag-kalender
-DTSTAMP:20261014T125449Z
+DTSTAMP:20261014T174214Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261128
 SUMMARY:Sitzungswoche
@@ -187,7 +187,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20261207@bundestag-kalender
-DTSTAMP:20261014T125449Z
+DTSTAMP:20261014T174214Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261212
 SUMMARY:Sitzungswoche
@@ -195,7 +195,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20261214@bundestag-kalender
-DTSTAMP:20261014T125449Z
+DTSTAMP:20261014T174214Z
 DTSTART;VALUE=DATE:20261214
 DTEND;VALUE=DATE:20261219
 SUMMARY:Sitzungswoche
@@ -203,7 +203,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20270111@bundestag-kalender
-DTSTAMP:20261014T125449Z
+DTSTAMP:20261014T174214Z
 DTSTART;VALUE=DATE:20270111
 DTEND;VALUE=DATE:20270116
 SUMMARY:Sitzungswoche
@@ -211,7 +211,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20270125@bundestag-kalender
-DTSTAMP:20261014T125449Z
+DTSTAMP:20261014T174214Z
 DTSTART;VALUE=DATE:20270125
 DTEND;VALUE=DATE:20270130
 SUMMARY:Sitzungswoche
@@ -219,7 +219,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20270215@bundestag-kalender
-DTSTAMP:20261014T125449Z
+DTSTAMP:20261014T174214Z
 DTSTART;VALUE=DATE:20270215
 DTEND;VALUE=DATE:20270220
 SUMMARY:Sitzungswoche
@@ -227,7 +227,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20270301@bundestag-kalender
-DTSTAMP:20261014T125449Z
+DTSTAMP:20261014T174214Z
 DTSTART;VALUE=DATE:20270301
 DTEND;VALUE=DATE:20270306
 SUMMARY:Sitzungswoche
@@ -235,7 +235,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20270315@bundestag-kalender
-DTSTAMP:20261014T125449Z
+DTSTAMP:20261014T174214Z
 DTSTART;VALUE=DATE:20270315
 DTEND;VALUE=DATE:20270320
 SUMMARY:Sitzungswoche
@@ -243,7 +243,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20270405@bundestag-kalender
-DTSTAMP:20261014T125449Z
+DTSTAMP:20261014T174214Z
 DTSTART;VALUE=DATE:20270405
 DTEND;VALUE=DATE:20270410
 SUMMARY:Sitzungswoche
@@ -251,7 +251,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20270412@bundestag-kalender
-DTSTAMP:20261014T125449Z
+DTSTAMP:20261014T174214Z
 DTSTART;VALUE=DATE:20270412
 DTEND;VALUE=DATE:20270417
 SUMMARY:Sitzungswoche
@@ -259,7 +259,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20270426@bundestag-kalender
-DTSTAMP:20261014T125449Z
+DTSTAMP:20261014T174214Z
 DTSTART;VALUE=DATE:20270426
 DTEND;VALUE=DATE:20270501
 SUMMARY:Sitzungswoche
@@ -267,7 +267,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20270510@bundestag-kalender
-DTSTAMP:20261014T125449Z
+DTSTAMP:20261014T174214Z
 DTSTART;VALUE=DATE:20270510
 DTEND;VALUE=DATE:20270515
 SUMMARY:Sitzungswoche
@@ -275,7 +275,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20270531@bundestag-kalender
-DTSTAMP:20261014T125449Z
+DTSTAMP:20261014T174214Z
 DTSTART;VALUE=DATE:20270531
 DTEND;VALUE=DATE:20270605
 SUMMARY:Sitzungswoche
@@ -283,7 +283,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20270614@bundestag-kalender
-DTSTAMP:20261014T125449Z
+DTSTAMP:20261014T174214Z
 DTSTART;VALUE=DATE:20270614
 DTEND;VALUE=DATE:20270619
 SUMMARY:Sitzungswoche
@@ -291,7 +291,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20270628@bundestag-kalender
-DTSTAMP:20261014T125449Z
+DTSTAMP:20261014T174214Z
 DTSTART;VALUE=DATE:20270628
 DTEND;VALUE=DATE:20270703
 SUMMARY:Sitzungswoche
@@ -299,7 +299,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20270705@bundestag-kalender
-DTSTAMP:20261014T125449Z
+DTSTAMP:20261014T174214Z
 DTSTART;VALUE=DATE:20270705
 DTEND;VALUE=DATE:20270710
 SUMMARY:Sitzungswoche
@@ -307,7 +307,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20270906@bundestag-kalender
-DTSTAMP:20261014T125449Z
+DTSTAMP:20261014T174214Z
 DTSTART;VALUE=DATE:20270906
 DTEND;VALUE=DATE:20270911
 SUMMARY:Sitzungswoche
@@ -315,7 +315,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20270920@bundestag-kalender
-DTSTAMP:20261014T125449Z
+DTSTAMP:20261014T174214Z
 DTSTART;VALUE=DATE:20270920
 DTEND;VALUE=DATE:20270925
 SUMMARY:Sitzungswoche
@@ -323,7 +323,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20271004@bundestag-kalender
-DTSTAMP:20261014T125449Z
+DTSTAMP:20261014T174214Z
 DTSTART;VALUE=DATE:20271004
 DTEND;VALUE=DATE:20271009
 SUMMARY:Sitzungswoche
@@ -331,7 +331,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20271025@bundestag-kalender
-DTSTAMP:20261014T125449Z
+DTSTAMP:20261014T174214Z
 DTSTART;VALUE=DATE:20271025
 DTEND;VALUE=DATE:20271030
 SUMMARY:Sitzungswoche
@@ -339,7 +339,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20271108@bundestag-kalender
-DTSTAMP:20261014T125449Z
+DTSTAMP:20261014T174214Z
 DTSTART;VALUE=DATE:20271108
 DTEND;VALUE=DATE:20271113
 SUMMARY:Sitzungswoche
@@ -347,7 +347,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20271122@bundestag-kalender
-DTSTAMP:20261014T125449Z
+DTSTAMP:20261014T174214Z
 DTSTART;VALUE=DATE:20271122
 DTEND;VALUE=DATE:20271127
 SUMMARY:Sitzungswoche
@@ -355,7 +355,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20271129@bundestag-kalender
-DTSTAMP:20261014T125449Z
+DTSTAMP:20261014T174214Z
 DTSTART;VALUE=DATE:20271129
 DTEND;VALUE=DATE:20271204
 SUMMARY:Sitzungswoche
@@ -363,7 +363,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20271213@bundestag-kalender
-DTSTAMP:20261014T125449Z
+DTSTAMP:20261014T174214Z
 DTSTART;VALUE=DATE:20271213
 DTEND;VALUE=DATE:20271218
 SUMMARY:Sitzungswoche
@@ -371,7 +371,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-a09-wirtschaft-sitzung-22@bundestag-kalender
-DTSTAMP:20261014T125449Z
+DTSTAMP:20261014T174214Z
 DTSTART;TZID=Europe/Berlin:20260114T103000
 DTEND;TZID=Europe/Berlin:20260114T123000
 SUMMARY:Ausschuss WE: 22. Sitzung (nicht öffentlich)
@@ -390,7 +390,7 @@ ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11362
 END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-a09-wirtschaft-sitzung-23@bundestag-kalender
-DTSTAMP:20261014T125449Z
+DTSTAMP:20261014T174214Z
 DTSTART;TZID=Europe/Berlin:20260128T102000
 DTEND;TZID=Europe/Berlin:20260128T122000
 SUMMARY:Ausschuss WE: 23. Sitzung (nicht öffentlich)
@@ -416,7 +416,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-a09-wirtschaft-anhoerung-1140336@bundestag-kalend
  er
-DTSTAMP:20261014T125449Z
+DTSTAMP:20261014T174214Z
 DTSTART;TZID=Europe/Berlin:20260225T090000
 DTEND;TZID=Europe/Berlin:20260225T100000
 SUMMARY:Ausschuss WE: Anhörung „Unitarisierungsabkommen zwischen Deutsch
@@ -480,7 +480,7 @@ ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11509
 END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-a09-wirtschaft-sitzung-26@bundestag-kalender
-DTSTAMP:20261014T125449Z
+DTSTAMP:20261014T174214Z
 DTSTART;TZID=Europe/Berlin:20260225T103000
 DTEND;TZID=Europe/Berlin:20260225T123000
 SUMMARY:Ausschuss WE: 26. Sitzung (nicht öffentlich)
@@ -499,7 +499,7 @@ ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11496
 END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-a09-wirtschaft-sitzung-27@bundestag-kalender
-DTSTAMP:20261014T125449Z
+DTSTAMP:20261014T174214Z
 DTSTART;TZID=Europe/Berlin:20260304T103000
 DTEND;TZID=Europe/Berlin:20260304T123000
 SUMMARY:Ausschuss WE: 27. Sitzung (nicht öffentlich)
@@ -521,7 +521,7 @@ ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11509
 END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-a09-wirtschaft-sitzung-28@bundestag-kalender
-DTSTAMP:20261014T125449Z
+DTSTAMP:20261014T174214Z
 DTSTART;TZID=Europe/Berlin:20260318T103000
 DTEND;TZID=Europe/Berlin:20260318T123000
 SUMMARY:Ausschuss WE: 28. Sitzung (nicht öffentlich)
@@ -544,7 +544,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-a09-wirtschaft-anhoerung-1156340@bundestag-kalend
  er
-DTSTAMP:20261014T125449Z
+DTSTAMP:20261014T174214Z
 DTSTART;TZID=Europe/Berlin:20260320T073000
 DTEND;TZID=Europe/Berlin:20260320T090000
 SUMMARY:Ausschuss WE: Anhörung zum „Kraftstoffmaßnahmenpaket“
@@ -611,7 +611,7 @@ ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11570
 END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-a09-wirtschaft-sitzung-30@bundestag-kalender
-DTSTAMP:20261014T125449Z
+DTSTAMP:20261014T174214Z
 DTSTART;TZID=Europe/Berlin:20260325T103000
 DTEND;TZID=Europe/Berlin:20260325T123000
 SUMMARY:Ausschuss WE: 30. Sitzung (nicht öffentlich)
@@ -627,7 +627,7 @@ ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11570
 END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-a09-wirtschaft-sitzung-31@bundestag-kalender
-DTSTAMP:20261014T125449Z
+DTSTAMP:20261014T174214Z
 DTSTART;TZID=Europe/Berlin:20260415T103000
 DTEND;TZID=Europe/Berlin:20260415T123000
 SUMMARY:Ausschuss WE: 31. Sitzung (nicht öffentlich)
@@ -642,7 +642,7 @@ ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11650
 END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-a09-wirtschaft-sitzung-32@bundestag-kalender
-DTSTAMP:20261014T125449Z
+DTSTAMP:20261014T174214Z
 DTSTART;TZID=Europe/Berlin:20260422T103000
 DTEND;TZID=Europe/Berlin:20260422T123000
 SUMMARY:Ausschuss WE: 32. Sitzung (nicht öffentlich)
@@ -667,7 +667,7 @@ ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11669
 END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-a09-wirtschaft-sitzung-33@bundestag-kalender
-DTSTAMP:20261014T125449Z
+DTSTAMP:20261014T174214Z
 DTSTART;TZID=Europe/Berlin:20260506T103000
 DTEND;TZID=Europe/Berlin:20260506T123000
 SUMMARY:Ausschuss WE: 33. Sitzung (nicht öffentlich)
@@ -683,7 +683,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-a09-wirtschaft-anhoerung-1174384@bundestag-kalend
  er
-DTSTAMP:20261014T125449Z
+DTSTAMP:20261014T174214Z
 DTSTART;TZID=Europe/Berlin:20260518T143000
 DTEND;TZID=Europe/Berlin:20260518T160000
 SUMMARY:Ausschuss WE: Anhörung zum „Ökodesign“
@@ -732,7 +732,7 @@ ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11786
 END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-a09-wirtschaft-sitzung-35@bundestag-kalender
-DTSTAMP:20261014T125449Z
+DTSTAMP:20261014T174214Z
 DTSTART;TZID=Europe/Berlin:20260520T103000
 DTEND;TZID=Europe/Berlin:20260520T123000
 SUMMARY:Ausschuss WE: 35. Sitzung (nicht öffentlich)
@@ -752,7 +752,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-a09-wirtschaft-anhoerung-1174410@bundestag-kalend
  er
-DTSTAMP:20261014T125449Z
+DTSTAMP:20261014T174214Z
 DTSTART;TZID=Europe/Berlin:20260520T140000
 DTEND;TZID=Europe/Berlin:20260520T160000
 SUMMARY:Ausschuss WE: Anhörung zum Gas-/H2-Binnenmarktpaket
@@ -827,7 +827,7 @@ ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11791
 END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-a09-wirtschaft-sitzung-37@bundestag-kalender
-DTSTAMP:20261014T125449Z
+DTSTAMP:20261014T174214Z
 DTSTART;TZID=Europe/Berlin:20260610T100000
 DTEND;TZID=Europe/Berlin:20260610T120000
 SUMMARY:Ausschuss WE: 37. Sitzung (nicht öffentlich)
@@ -861,7 +861,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-a09-wirtschaft-anhoerung-1184240@bundestag-kalend
  er
-DTSTAMP:20261014T125449Z
+DTSTAMP:20261014T174214Z
 DTSTART;TZID=Europe/Berlin:20260622T114500
 DTEND;TZID=Europe/Berlin:20260622T131500
 SUMMARY:Ausschuss WE: Anhörung zum Bundesbedarfsplangesetz
@@ -915,7 +915,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-a09-wirtschaft-anhoerung-1184258@bundestag-kalend
  er
-DTSTAMP:20261014T125449Z
+DTSTAMP:20261014T174214Z
 DTSTART;TZID=Europe/Berlin:20260622T133000
 DTEND;TZID=Europe/Berlin:20260622T160000
 SUMMARY:Ausschuss WE: Anhörung zum Gebäudemodernisierungsgesetz
@@ -1008,7 +1008,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-a09-wirtschaft-anhoerung-1184264@bundestag-kalend
  er
-DTSTAMP:20261014T125449Z
+DTSTAMP:20261014T174214Z
 DTSTART;TZID=Europe/Berlin:20260624T080000
 DTEND;TZID=Europe/Berlin:20260624T100000
 SUMMARY:Ausschuss WE: Anhörung zum StromVKG
@@ -1074,7 +1074,7 @@ ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11930
 END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-a09-wirtschaft-sitzung-41@bundestag-kalender
-DTSTAMP:20261014T125449Z
+DTSTAMP:20261014T174214Z
 DTSTART;TZID=Europe/Berlin:20260624T103000
 DTEND;TZID=Europe/Berlin:20260624T123000
 SUMMARY:Ausschuss WE: 41. Sitzung (nicht öffentlich)
@@ -1096,7 +1096,7 @@ ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11919
 END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-a09-wirtschaft-sitzung-43@bundestag-kalender
-DTSTAMP:20261014T125449Z
+DTSTAMP:20261014T174214Z
 DTSTART;TZID=Europe/Berlin:20260708T103000
 DTEND;TZID=Europe/Berlin:20260708T123000
 SUMMARY:Ausschuss WE: 43. Sitzung (nicht öffentlich)
@@ -1126,7 +1126,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-a09-wirtschaft-anhoerung-1205008@bundestag-kalend
  er
-DTSTAMP:20261014T125449Z
+DTSTAMP:20261014T174214Z
 DTSTART;TZID=Europe/Berlin:20260908T080000
 DTEND;TZID=Europe/Berlin:20260908T093000
 SUMMARY:Ausschuss WE: Anhörung zum Wärmeplanungsgesetz
@@ -1190,7 +1190,7 @@ ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12102
 END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-a09-wirtschaft-sitzung-46@bundestag-kalender
-DTSTAMP:20261014T125449Z
+DTSTAMP:20261014T174214Z
 DTSTART;TZID=Europe/Berlin:20260923T103000
 DTEND;TZID=Europe/Berlin:20260923T123000
 SUMMARY:Ausschuss WE: 46. Sitzung (nicht öffentlich)
@@ -1217,7 +1217,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-a09-wirtschaft-anhoerung-1217432@bundestag-kalend
  er
-DTSTAMP:20261014T125449Z
+DTSTAMP:20261014T174214Z
 DTSTART;TZID=Europe/Berlin:20261005T121500
 DTEND;TZID=Europe/Berlin:20261005T141500
 SUMMARY:Ausschuss WE: Anhörung zu Vorlagen zum Erneuerbare-Energien-Gesetz
@@ -1295,7 +1295,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-a09-wirtschaft-anhoerung-1217440@bundestag-kalend
  er
-DTSTAMP:20261014T125449Z
+DTSTAMP:20261014T174214Z
 DTSTART;TZID=Europe/Berlin:20261005T143000
 DTEND;TZID=Europe/Berlin:20261005T160000
 SUMMARY:Ausschuss WE: Anhörung zu Vorlagen zur Umsetzung der Energieeffizi
@@ -1372,7 +1372,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-a09-wirtschaft-anhoerung-1217454@bundestag-kalend
  er
-DTSTAMP:20261014T125449Z
+DTSTAMP:20261014T174214Z
 DTSTART;TZID=Europe/Berlin:20261007T080000
 DTEND;TZID=Europe/Berlin:20261007T100000
 SUMMARY:Ausschuss WE: Anhörung zu Vorlagen zum Netzanschlusspaket
@@ -1451,7 +1451,7 @@ ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12228
 END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-a09-wirtschaft-sitzung-50@bundestag-kalender
-DTSTAMP:20261014T125449Z
+DTSTAMP:20261014T174214Z
 DTSTART;TZID=Europe/Berlin:20261007T103000
 DTEND;TZID=Europe/Berlin:20261007T123000
 SUMMARY:Ausschuss WE: 50. Sitzung (nicht öffentlich)
@@ -1471,7 +1471,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-a09-wirtschaft-anhoerung-1217464@bundestag-kalend
  er
-DTSTAMP:20261014T125449Z
+DTSTAMP:20261014T174214Z
 DTSTART;TZID=Europe/Berlin:20261009T080000
 DTEND;TZID=Europe/Berlin:20261009T090000
 SUMMARY:Ausschuss WE: Anhörung zur Änderung der Biomasseverordnung
@@ -1535,7 +1535,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-a09-wirtschaft-anhoerung-1221614@bundestag-kalend
  er
-DTSTAMP:20261014T125449Z
+DTSTAMP:20261014T174214Z
 DTSTART;TZID=Europe/Berlin:20261014T083000
 DTEND;TZID=Europe/Berlin:20261014T100000
 SUMMARY:Ausschuss WE: Anhörung zum Ersten Unternehmensstatistikreformgeset
@@ -1592,7 +1592,7 @@ ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12245
 END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-a09-wirtschaft-sitzung-53@bundestag-kalender
-DTSTAMP:20261014T125449Z
+DTSTAMP:20261014T174214Z
 DTSTART;TZID=Europe/Berlin:20261014T103000
 DTEND;TZID=Europe/Berlin:20261014T123000
 SUMMARY:Ausschuss WE: 53. Sitzung (nicht öffentlich)
@@ -1619,43 +1619,51 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-a09-wirtschaft-anhoerung-1217466@bundestag-kalend
  er
-DTSTAMP:20261014T125449Z
+DTSTAMP:20261014T174214Z
 DTSTART;TZID=Europe/Berlin:20261014T143000
 DTEND;TZID=Europe/Berlin:20261014T160000
 SUMMARY:Ausschuss WE: Anhörung zur 12. GWB-Novelle
-DESCRIPTION:Öffentliche Anhörung (54. Sitzung)\n\nGegenstand: Gesetzentwu
- rf der Bundesregierung Entwurf eines Zwölften Gesetzes zur Änderung des 
- Gesetzes gegen Wettbewerbsbeschränkungen und anderer Gesetze (12. GWB-Nov
- elle)\, BT-Drucksache 21/7865\n\nAnmeldung als Zuschauer bis 12. Oktober 2
- 026: https://registration.bundestag.de/#/events/a1f5f404-0237-43a3-8e9e-8e
- d3721e38be\n\nDokumente:\nTagesordnung: https://www.bundestag.de/resource/
- blob/1218000/to_54_14-10-2026_oeA_GWB-Novelle.pdf\n1. Ergänzungsmitteilun
- g: https://www.bundestag.de/resource/blob/1223490/to_54_14-10-2026_oeA_GWB
- -Novelle_1-_Ergaenzung.pdf\n21/7865: https://dserver.bundestag.de/btd/21/0
- 78/2107865.pdf\nListe der Sachverständigen: https://www.bundestag.de/reso
- urce/blob/1222860/Sachverstaendigenliste.pdf\n21(9)388 Stellungnahme der B
- undesvereinigung der kommunalen Spitzenverbände: https://www.bundestag.de
- /resource/blob/1222862/Stellungnahme_Bundesvereinigung_komm-_Spitzenverbae
- nde.pdf\n21(9)399 Stellungnahme Prof. Dr. Hertwig\, CBH Rechtsanwälte: ht
- tps://www.bundestag.de/resource/blob/1223548/Stellungnahme-Prof-Dr-Hertwig
- -CBH-Rechtsanwaelte.pdf\n21(9)400 Stellungnahme des Bundeskartellamtes: ht
- tps://www.bundestag.de/resource/blob/1224062/Stellungnahme_Bundeskartellam
- t.pdf\n21(9)402 Stellungnahme des Handelsverbandes Deutschland e.V. (HDE):
-  https://www.bundestag.de/resource/blob/1224318/Stellungnahme_HDE.pdf\n21(
- 9)404 Stellungnahme Dr. Till Steinvorth (für MVFP\, BDZV): https://www.bu
- ndestag.de/resource/blob/1224352/Neuer-Inhalt.pdf\n21(9)405 Stellungnahme 
- des Sachverständigen Dr. Jan Heithecker\, DENTONS: https://www.bundestag.
- de/resource/blob/1224410/Stellungnahme_SV_Dr-_Jan_Heithecker_DENTONS.pdf\n
- 21(9)406 Stellungnahme des Sachverständigen Prof. Dr. Rupprecht Podszun\,
-  Heinrich-Heine-Universität Düsseldorf: https://www.bundestag.de/resourc
- e/blob/1224414/Stellungnahme_SV_Dr-_Rupprecht_Podszun_HH-Uni_Duesseldorf.p
- df\n21(9)407 Stellungnahme des Sachverständigen Prof. Dr. Daniel Zimmer\,
-  Universität Bonn: https://www.bundestag.de/resource/blob/1224456/Stellun
- gnahme_SV_Dr-_Daniel_Zimmer_Uni_Bonn.pdf\n21(9)408 Stellungnahme des Sachv
- erständigen Ulrich Müller\, Rebalance Now e.V.: https://www.bundestag.de
- /resource/blob/1224564/Stellungnahme_SV_Ulrich_Moeller_Rebalance_Now_eV.pd
- f\n\nSeite des Ausschusses: https://www.bundestag.de/ausschuesse/a09_wirts
- chaft\nÜbertragung: https://www.bundestag.de/mediathek
+DESCRIPTION:Öffentliche Anhörung (54. Sitzung)\n\nGegenstand: Die von der
+  Regierung geplante Kartellrechtsreform ist von den Sachverständigen unte
+ rschiedlich bewertet worden. Das Bundeskartellamt begrüßte die Einführu
+ ng eines Vergabescreenings\, mit dem nun auch in Deutschland ein zusätzli
+ ches Instrument zur Kartellrechtsdurchsetzung und zur Stärkung des fairen
+  Wettbewerbs in öffentlichen Vergabeverfahren etabliert werden solle\, er
+ klärte Andreas Mundt\, der Präsident des Bundeskartellamtes\, am Mittwoc
+ h\, 14. Oktober 2026\, in einer öffentlichen Anhörung des Ausschusses f
+ ür Wirtschaft und Energie\, die vom Vorsitzenden Christian Freiherr von S
+ tetten (CDU/CSU) geleitet wurde. In vielen anderen EU-Mitgliedstaaten werd
+ e das Screening bereits erfolgreich ... (weiter auf der Seite der Anhörun
+ g)\n\nDokumente:\nTagesordnung: https://www.bundestag.de/resource/blob/121
+ 8000/to_54_14-10-2026_oeA_GWB-Novelle.pdf\n1. Ergänzungsmitteilung: https
+ ://www.bundestag.de/resource/blob/1223490/to_54_14-10-2026_oeA_GWB-Novelle
+ _1-_Ergaenzung.pdf\n21/7865: https://dserver.bundestag.de/btd/21/078/21078
+ 65.pdf\n21/8302: https://dserver.bundestag.de/btd/21/083/2108302.pdf\n21/8
+ 395: https://dserver.bundestag.de/btd/21/083/2108395.pdf\nListe der Sachve
+ rständigen: https://www.bundestag.de/resource/blob/1222860/Sachverstaendi
+ genliste.pdf\n21(9)388 Stellungnahme der Bundesvereinigung der kommunalen 
+ Spitzenverbände: https://www.bundestag.de/resource/blob/1222862/Stellungn
+ ahme_Bundesvereinigung_komm-_Spitzenverbaende.pdf\n21(9)399 Stellungnahme 
+ Prof. Dr. Hertwig\, CBH Rechtsanwälte: https://www.bundestag.de/resource/
+ blob/1223548/Stellungnahme-Prof-Dr-Hertwig-CBH-Rechtsanwaelte.pdf\n21(9)40
+ 0 Stellungnahme des Bundeskartellamtes: https://www.bundestag.de/resource/
+ blob/1224062/Stellungnahme_Bundeskartellamt.pdf\n21(9)402 Stellungnahme de
+ s Handelsverbandes Deutschland e.V. (HDE): https://www.bundestag.de/resour
+ ce/blob/1224318/Stellungnahme_HDE.pdf\n21(9)404 Stellungnahme Dr. Till Ste
+ invorth (für MVFP\, BDZV): https://www.bundestag.de/resource/blob/1224352
+ /Neuer-Inhalt.pdf\n21(9)405 Stellungnahme des Sachverständigen Dr. Jan He
+ ithecker\, DENTONS: https://www.bundestag.de/resource/blob/1224410/Stellun
+ gnahme_SV_Dr-_Jan_Heithecker_DENTONS.pdf\n21(9)406 Stellungnahme des Sachv
+ erständigen Prof. Dr. Rupprecht Podszun\, Heinrich-Heine-Universität Dü
+ sseldorf: https://www.bundestag.de/resource/blob/1224414/Stellungnahme_SV_
+ Dr-_Rupprecht_Podszun_HH-Uni_Duesseldorf.pdf\n21(9)407 Stellungnahme des S
+ achverständigen Prof. Dr. Daniel Zimmer\, Universität Bonn: https://www.
+ bundestag.de/resource/blob/1224456/Stellungnahme_SV_Dr-_Daniel_Zimmer_Uni_
+ Bonn.pdf\n21(9)408 Stellungnahme des Sachverständigen Ulrich Müller\, Re
+ balance Now e.V.: https://www.bundestag.de/resource/blob/1224564/Stellungn
+ ahme_SV_Ulrich_Moeller_Rebalance_Now_eV.pdf\n\nSeite des Ausschusses: http
+ s://www.bundestag.de/ausschuesse/a09_wirtschaft\nÜbertragung: https://www
+ .bundestag.de/mediathek
 LOCATION:Berlin\, Paul-Löbe-Haus\, Sitzungssaal PLH E.200
 URL:https://www.bundestag.de/ausschuesse/a09_wirtschaft/wp21_a09_Anhoerunge
  n/1217466-1217466
@@ -1665,6 +1673,10 @@ ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12234
  90/to_54_14-10-2026_oeA_GWB-Novelle_1-_Ergaenzung.pdf
 ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/078/2107
  865.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/083/2108
+ 302.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/083/2108
+ 395.pdf
 ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12228
  60/Sachverstaendigenliste.pdf
 ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12228

@@ -37,6 +37,10 @@ jobs:
       FTP_PFAD: ${{ vars.FTP_PFAD }}
     steps:
       - uses: actions/checkout@v4
+        with:
+          # Immer den neuesten Stand von main laden. Ein wartender Lauf würde sonst den älteren
+          # Stand aus der Zeit seiner Planung holen, und das Speichern würde abgelehnt.
+          ref: ${{ github.event.repository.default_branch }}
 
       - uses: actions/setup-python@v5
         with:
@@ -65,7 +69,17 @@ jobs:
           fi
           if ! git diff --staged --quiet; then
             git commit -m "Kalender aktualisiert"
-            git push
+            for versuch in 1 2 3; do
+              if git push; then
+                break
+              fi
+              if [ "$versuch" = "3" ]; then
+                echo "Speichern nach drei Versuchen abgelehnt"
+                exit 1
+              fi
+              echo "Speichern abgelehnt (Versuch $versuch), hole den neuesten Stand und versuche es erneut"
+              git pull --rebase -X theirs origin main
+            done
           fi
 
       # Selbstheilung: Schlägt die Veröffentlichung bei GitHub fehl, erzeugt der nächste Lauf ohne

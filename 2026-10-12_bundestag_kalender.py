@@ -44,7 +44,7 @@ MAX_ANHAENGE = 12  # ATTACH-Zeilen je Plenartermin
 MAX_ANHAENGE_AUSSCHUSS = 25
 SITZUNG_MINUTEN = 120  # geschätzte Dauer nicht öffentlicher Ausschusssitzungen
 MAX_DETAILS_PRO_LAUF = 50
-SKRIPT_VERSION = "v4 (Zeitplan alle Werktage, Titel geglättet)"
+SKRIPT_VERSION = "v7 (Startseite ohne Quellcode-Link, schlanker Text)"
 BERLIN = ZoneInfo("Europe/Berlin")
 
 # Betreiber und Adressen (für die Startseite)
@@ -52,7 +52,6 @@ BETREIBER = "KlimaUnion gGmbH, Berlin"
 BETREIBER_URL = "https://klimaunion.org"
 IMPRESSUM_URL = "https://klimaunion.org/impressum"
 DATENSCHUTZ_URL = "datenschutz.html"  # Seite im Ordner docs, bei Bedarf durch eine volle Adresse ersetzen
-REPO_URL = "https://github.com/KlimaUnion-gGmbH/bundestag-kalender"
 BASIS_URL = "https://klimaunion-ggmbh.github.io/bundestag-kalender/"  # Voreinstellung ohne GITHUB_REPOSITORY
 # Rollen, die in die Ausschuss-Feeds aufgenommen werden. Mitberatung ist bewusst ausgeschlossen.
 # Zum Wiederaufnehmen "mitberatend" ergänzen.
@@ -963,14 +962,12 @@ def index_html(basis, feeds):
 <body style="font-family:system-ui,sans-serif;max-width:40rem;margin:2rem auto;padding:0 1rem">
 <h1>Bundestag-Kalender</h1>
 <p>Kalenderabos mit der Tagesordnung des Plenums und den Terminen des Ausschusses für Wirtschaft und Energie
-des Deutschen Bundestages. Betrieben von der <a href="{BETREIBER_URL}">{html.escape(BETREIBER)}</a>
-als Angebot für die energie- und klimapolitische Informationsarbeit. Alle Daten sind öffentliche Parlamentsdaten.</p>
-<p>Aktualisierung automatisch, an Werktagen mehrmals pro Stunde, je nach GitHub auch seltener. Abo-Programme holen oft nur alle paar Stunden ab.</p>
+des Deutschen Bundestages. Alle Daten sind öffentliche Parlamentsdaten. Betreiber: {html.escape(BETREIBER)}.</p>
 <ul>
 {items}</ul>
-<p>Inoffizielles Angebot, keine Gewähr. Quellen: bundestag.de und das Dokumentations- und Informationssystem DIP.
-Endzeiten sind teils geschätzt. Ausschuss-Zuordnungen vor der ersten Beratung sind Vorschläge und im Titel gekennzeichnet.</p>
-<p><a href="{IMPRESSUM_URL}">Impressum</a> | <a href="{DATENSCHUTZ_URL}">Datenschutz</a> | <a href="{REPO_URL}">Quellcode</a></p>
+<p>Inoffizielles Angebot, keine Gewähr. Quellen: bundestag.de und DIP. Endzeiten sind teils geschätzt.
+Ausschuss-Zuordnungen vor der ersten Beratung sind Vorschläge.</p>
+<p><a href="{IMPRESSUM_URL}">Impressum</a> | <a href="{DATENSCHUTZ_URL}">Datenschutz</a></p>
 </body></html>
 """
 

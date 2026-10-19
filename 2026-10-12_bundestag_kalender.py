@@ -44,7 +44,7 @@ MAX_ANHAENGE = 12  # ATTACH-Zeilen je Plenartermin
 MAX_ANHAENGE_AUSSCHUSS = 25
 SITZUNG_MINUTEN = 120  # geschätzte Dauer nicht öffentlicher Ausschusssitzungen
 MAX_DETAILS_PRO_LAUF = 50
-SKRIPT_VERSION = "v7 (Startseite ohne Quellcode-Link, schlanker Text)"
+SKRIPT_VERSION = "v8 (Kalender in Ordner mit nicht erratbarem Namen)"
 BERLIN = ZoneInfo("Europe/Berlin")
 
 # Betreiber und Adressen (für die Startseite)
@@ -59,6 +59,9 @@ FEED_ROLLEN = ("federführend", "Beschlussempfehlung und Bericht")
 
 ROOT = Path(__file__).resolve().parent
 OUT = ROOT / "docs"
+# Alle Seiten und Kalender liegen in diesem Unterordner von docs. Der Name ist Teil der Adresse und
+# nicht erratbar. Ändern: Repository-Variable KALENDER_ORDNER setzen. "-" legt alles direkt in docs ab.
+ORDNER_STANDARD = "kalender-fc17bc3557718e10"
 CACHE = ROOT / "cache"
 
 ORT = "Plenarsaal, Reichstagsgebäude, Platz der Republik 1, 11011 Berlin"
@@ -1038,8 +1041,20 @@ def main():
         ev["zuo"] = zuordnen(ev, dipc, tac)
         ev["description"] = beschreibung(ev, ev["zuo"], dipc, prot)
 
-    OUT.mkdir(exist_ok=True)
-    geaendert = schreiben_wenn_geaendert(OUT / "bundestag.ics", ics_bauen(
+    ordner = os.environ.get("KALENDER_ORDNER", "").strip() or ORDNER_STANDARD
+    if ordner == "-":
+        ordner = ""
+    ZIEL = OUT / ordner if ordner else OUT
+    ZIEL.mkdir(parents=True, exist_ok=True)
+    if ordner:
+        # Alte Orte im Hauptordner aufräumen: Datenschutzseite verschieben, alte Kalender und Startseite löschen.
+        alt_ds = OUT / "datenschutz.html"
+        if alt_ds.exists() and not (ZIEL / "datenschutz.html").exists():
+            alt_ds.replace(ZIEL / "datenschutz.html")
+        for alt in list(OUT.glob("bundestag*.ics")) + [OUT / "index.html", alt_ds]:
+            if alt.exists():
+                alt.unlink()
+    geaendert = schreiben_wenn_geaendert(ZIEL / "bundestag.ics", ics_bauen(
         "Tagesordnung Bundestag",
         "Tagesordnung des Plenums des Deutschen Bundestages (inoffiziell, Quelle: bundestag.de)",
         events, wochen))
@@ -1084,7 +1099,7 @@ def main():
                 e2["summary"] += " (" + ", ".join(marken) + ")"
             teil.append(e2)
         anzahl[key] = (len(teil), sum(1 for e in teil if e["zuo"][key]["quelle"] in VORSCHLAG))
-        geaendert |= schreiben_wenn_geaendert(OUT / a["datei"], ics_bauen(
+        geaendert |= schreiben_wenn_geaendert(ZIEL / a["datei"], ics_bauen(
             f"Bundestag: Ausschuss {a['name']}",
             f"Plenarpunkte, bei denen der Ausschuss {a['name']} federführend ist (inoffiziell, Quellen: DIP und bundestag.de)",
             teil, wochen))
@@ -1100,11 +1115,11 @@ def main():
                 speichere_json(CACHE / f"ausschuss-{key}.json", acache)
                 aev = ausschuss_events(cfg, acache, heute_)
                 base = a["datei"][:-4]
-                geaendert |= schreiben_wenn_geaendert(OUT / f"{base}-ausschuss.ics", ics_bauen(
+                geaendert |= schreiben_wenn_geaendert(ZIEL / f"{base}-ausschuss.ics", ics_bauen(
                     f"Bundestag: {cfg['kurz']} Sitzungen und Anhörungen",
                     f"Sitzungen und öffentliche Anhörungen des Ausschusses {a['name']} (inoffiziell, Quelle: bundestag.de)",
                     aev, wochen))
-                geaendert |= schreiben_wenn_geaendert(OUT / f"{base}-komplett.ics", ics_bauen(
+                geaendert |= schreiben_wenn_geaendert(ZIEL / f"{base}-komplett.ics", ics_bauen(
                     f"Bundestag: {cfg['kurz']} komplett",
                     f"Plenarpunkte, Sitzungen und Anhörungen des Ausschusses {a['name']} (inoffiziell)",
                     sorted(teil + aev, key=lambda e: e["start"]), wochen))
@@ -1123,9 +1138,11 @@ def main():
         basis = f"https://{eigner.lower()}.github.io/{name}/"
     else:
         basis = BASIS_URL
-    schreiben_wenn_geaendert(OUT / "index.html", index_html(basis, feeds))
+    if ordner:
+        basis = basis + ordner + "/"
+    schreiben_wenn_geaendert(ZIEL / "index.html", index_html(basis, feeds))
     schreiben_wenn_geaendert(OUT / "robots.txt", "User-agent: *\nDisallow: /\n")
-    noindex_sicherstellen(OUT / "datenschutz.html")
+    noindex_sicherstellen(ZIEL / "datenschutz.html")
 
     print(f"Skript {SKRIPT_VERSION}")
     print(f"{len(events)} Termine, {len(wochen)} Sitzungswochen")

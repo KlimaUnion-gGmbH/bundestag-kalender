@@ -44,7 +44,7 @@ MAX_ANHAENGE = 12  # ATTACH-Zeilen je Plenartermin
 MAX_ANHAENGE_AUSSCHUSS = 25
 SITZUNG_MINUTEN = 120  # geschätzte Dauer nicht öffentlicher Ausschusssitzungen
 MAX_DETAILS_PRO_LAUF = 50
-SKRIPT_VERSION = "v8 (Kalender in Ordner mit nicht erratbarem Namen)"
+SKRIPT_VERSION = "v9 (vier Ausschüsse, Sitzungsnummern, Teile gekennzeichnet)"
 BERLIN = ZoneInfo("Europe/Berlin")
 
 # Betreiber und Adressen (für die Startseite)
@@ -77,7 +77,8 @@ AUSSCHUESSE = {
         "kurz": "WE",
         "kuerzel": {"AfWE"},
         "alias": [r"Wirtschaft und Energie", r"Wirtschaftsausschuss"],
-        # Eigene Sitzungen und Anhörungen laut Ausschussseite (ID-Teile stehen in den Seiten-Skripten).
+        "uebw": ["Wirtschaft und Energie"],
+        # Eigene Sitzungen und Anhörungen laut Ausschussseite (Listen-Adressen aus dem Seitenquelltext).
         "sitzungen": {
             "kurz": "Ausschuss WE",
             "seite": "ausschuesse/a09_wirtschaft",
@@ -93,6 +94,48 @@ AUSSCHUESSE = {
         "kurz": "Umwelt",
         "kuerzel": {"AfU"},
         "alias": [r"Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit", r"Umweltausschuss"],
+        "uebw": ["Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit"],
+        "sitzungen": {
+            "kurz": "Ausschuss Umwelt",
+            "seite": "ausschuesse/umwelt",
+            "to_pfad": "ausschuesse/umwelt/tagesordnungen/1075046-1075046",
+            "ah_pfad": "ausschuesse/umwelt/sitzungen/1075184-1075184",
+            "ah_seite": "ausschuesse/umwelt/sitzungen",
+        },
+    },
+    "verkehr": {
+        "datei": "bundestag-verkehr.ics",
+        "name": "Verkehr",
+        "nr": 15,
+        "kurz": "Verkehr",
+        "kuerzel": {"VerkA"},
+        "alias": [r"Verkehrsausschuss", r"Ausschuss für Verkehr"],
+        "uebw": ["Verkehr"],
+        "sitzungen": {
+            "kurz": "Ausschuss Verkehr",
+            "seite": "ausschuesse/verkehr",
+            "to_pfad": "ausschuesse/verkehr/tagesordnungen/tagesordnungen-1075040",
+            "ah_pfad": "ausschuesse/verkehr/sitzungen/1075178-1075178",
+            "ah_seite": "ausschuesse/verkehr/sitzungen",
+        },
+    },
+    "wohnen": {
+        "datei": "bundestag-wohnen.ics",
+        # Amtlicher Name laut bundestag.de. Eine amtliche Abkürzung gibt es nicht (DIP nennt ihn "BauA").
+        # Das Kürzel im Titel steht in "kurz" der Sitzungs-Einstellungen und lässt sich dort ändern.
+        "name": "Wohnen, Stadtentwicklung, Bauwesen und Kommunen",
+        "nr": 24,
+        "kurz": "Wohnen/Bau",
+        "kuerzel": {"BauA"},
+        "alias": [r"Wohnen, Stadtentwicklung, Bauwesen und Kommunen", r"Bauausschuss"],
+        "uebw": ["Wohnen, Stadtentwicklung, Bauwesen und Kommunen"],
+        "sitzungen": {
+            "kurz": "Ausschuss Wohnen/Bau",
+            "seite": "ausschuesse/a24_wohnen",
+            "to_pfad": "ausschuesse/a24_wohnen/Tagesordnungen/1076648-1076648",
+            "ah_pfad": "ausschuesse/a24_wohnen/anhoerungen/1076654-1076654",
+            "ah_seite": "ausschuesse/a24_wohnen/anhoerungen",
+        },
     },
 }
 
@@ -175,11 +218,6 @@ def lade_woche(jahr, kw, montag):
 
 # ------------------------------------------------ Ausschuss-Sitzungen
 
-SITZ_RE = re.compile(
-    r"(\d+)\. Sitzung am [A-Za-zäöüÄÖÜ]+,? den (\d{1,2})\.\s*([A-Za-zäöüÄÖÜ]+)\s+(\d{4}),?\s*"
-    r"(\d{1,2})[:.](\d{2}) Uhr(?:,\s*(.+?))?\s*[-–]\s*(nicht öffentlich|öffentlich)")
-
-
 def reintext(s):
     return re.sub(r"\s+", " ", html.unescape(re.sub(r"<[^>]+>", " ", s or ""))).strip()
 
@@ -229,21 +267,43 @@ def crawl_tagesordnungen(cfg, cache, heute):
         time.sleep(0.3)
 
 
+def parse_sitzungstitel(titel):
+    """Liest Nummer, Beginn, Öffentlichkeit, Ort und Dokumentart aus dem Titel einer Tagesordnung.
+    Die Ausschüsse schreiben die Titel unterschiedlich, deshalb werden die Teile einzeln gesucht."""
+    m = re.search(r"(\d+)\.\s*Sitzung", titel)
+    d = re.search(r"(\d{1,2})\.\s*([A-Za-zäöüÄÖÜ]+)\s+(\d{4})", titel)
+    t = re.search(r"(\d{1,2})[:.](\d{2})\s*Uhr", titel)
+    if not (m and d and t) or d.group(2).lower() not in MONATE:
+        return None
+    start = datetime(int(d.group(3)), MONATE[d.group(2).lower()], int(d.group(1)),
+                     int(t.group(1)), int(t.group(2)))
+    klein = titel.lower()
+    if re.search(r"nicht\s*öffentlich|nichtöffentlich", klein):
+        oeff = False
+    elif "öffentlich" in klein:
+        oeff = True
+    else:
+        oeff = None
+    mo = re.search(r"Uhr,\s*(.+?)\s*[-–]\s*(?:nicht\s*öffentlich|nichtöffentlich|öffentlich)", titel)
+    am = re.search(r"(?:\d+\.\s*)?(?:Änderungs-/Ergänzungsmitteilung|Ergänzungsmitteilung|Änderungsmitteilung)", titel)
+    return {"nr": int(m.group(1)), "start": start, "oeffentlich": oeff,
+            "ort": mo.group(1).strip() if mo else "",
+            "art": am.group(0).strip() if am else "Tagesordnung"}
+
+
 def sitzungen_aus_dokumenten(doks):
     sitz = {}
     for r in doks.values():
-        m = SITZ_RE.search(r["titel"])
-        if not m or m.group(3).lower() not in MONATE:
+        p = parse_sitzungstitel(r["titel"])
+        if not p:
             continue
-        nr = int(m.group(1))
-        start = datetime(int(m.group(4)), MONATE[m.group(3).lower()], int(m.group(2)),
-                         int(m.group(5)), int(m.group(6)))
-        z = sitz.setdefault(nr, {"nr": nr, "start": start, "ort": "", "oeffentlich": False, "docs": []})
-        z["oeffentlich"] = m.group(8) == "öffentlich"
-        if m.group(7):
-            z["ort"] = m.group(7).strip()
-        art = "Tagesordnung" if re.match(r"\s*\d+\. Sitzung", r["titel"]) else r["titel"].split(" zur ")[0]
-        z["docs"].append({"art": art, "href": r["href"], "veroeff": r["veroeff"]})
+        z = sitz.setdefault(p["nr"], {"nr": p["nr"], "start": p["start"], "ort": "",
+                                      "oeffentlich": None, "docs": []})
+        if p["oeffentlich"] is not None:
+            z["oeffentlich"] = p["oeffentlich"]
+        if p["ort"]:
+            z["ort"] = p["ort"]
+        z["docs"].append({"art": p["art"], "href": r["href"], "veroeff": r["veroeff"]})
     for z in sitz.values():
         z["docs"].sort(key=lambda d: (d["art"] != "Tagesordnung", d["veroeff"]))
     return sitz
@@ -256,7 +316,9 @@ def crawl_anhoerungen(cfg, cache, heute):
     for _ in range(40):
         h = ajax(cfg["ah_pfad"], offset)
         aktuell, gefunden, neu, letzte = "", 0, 0, ""
-        for m in re.finditer(r"<h4>(.*?)</h4>|<a[^>]*title=\"([^\"]*)\"[^>]*href=\"[^\"]*Anhoerungen/(\d+)-", h, re.S):
+        for m in re.finditer(
+                r"<h4>(.*?)</h4>|<a[^>]*title=\"([^\"]*)\"[^>]*href=\"[^\"]*(?:[Aa]nhoerungen|sitzungen)/(\d+)-",
+                h, re.S):
             if m.group(1) is not None:
                 d = datum_de(m.group(1))
                 aktuell = d.isoformat() if d else aktuell
@@ -301,6 +363,20 @@ def ics_felder(text):
             "ort": feld("LOCATION"), "beschreibung": feld("DESCRIPTION")}
 
 
+def zeit_aus_text(text):
+    """Ersatz, falls keine Kalenderdatei vorhanden ist: 'Zeit: Montag, 7. Dezember 2026, 12.30 bis 14.30 Uhr'."""
+    m = re.search(r"Zeit:\s*[A-Za-zäöüÄÖÜ]+,\s*(\d{1,2})\.\s*([A-Za-zäöüÄÖÜ]+)\s+(\d{4}),\s*"
+                  r"(\d{1,2})(?:[.:](\d{2}))?\s*(?:bis\s*(\d{1,2})(?:[.:](\d{2}))?\s*)?Uhr", text)
+    if not m or m.group(2).lower() not in MONATE:
+        return None, None
+    tag = date(int(m.group(3)), MONATE[m.group(2).lower()], int(m.group(1)))
+    start = datetime(tag.year, tag.month, tag.day, int(m.group(4)), int(m.group(5) or 0))
+    ende = None
+    if m.group(6):
+        ende = datetime(tag.year, tag.month, tag.day, int(m.group(6)), int(m.group(7) or 0))
+    return start, ende
+
+
 def parse_anhoerung(aid, ics_text, seite):
     f = ics_felder(ics_text) if ics_text else {}
     docs, gesehen = [], set()
@@ -314,9 +390,15 @@ def parse_anhoerung(aid, ics_text, seite):
     anm = re.search(r'<a[^>]+href="([^"]+)"[^>]*>(?:(?!</a>).)*Anmeldung zur Sitzung', seite, re.S)
     text = reintext(seite)
     frist = re.search(r"melden Sie sich bitte bis zum (\d{1,2}\. [A-Za-zäöü]+ \d{4})", text)
-    return {"start": f.get("start").isoformat() if f.get("start") else "",
-            "end": f.get("end").isoformat() if f.get("end") else "",
-            "ort": f.get("ort", ""), "gegenstand": f.get("beschreibung", ""),
+    start, ende, ort = f.get("start"), f.get("end"), f.get("ort", "")
+    if not start:
+        start, ende = zeit_aus_text(text)
+    if not ort:
+        mo = re.search(r"Ort:\s*(.+?)\s*(?:Die Sitzung|Gegenstand|$)", text)
+        ort = mo.group(1).strip() if mo else ""
+    return {"start": start.isoformat() if start else "",
+            "end": ende.isoformat() if ende else "",
+            "ort": ort, "gegenstand": f.get("beschreibung", ""),
             "oeffentlich": "Die Sitzung ist öffentlich" in text,
             "docs": docs, "anmeldung": urljoin(BASE, anm.group(1)) if anm else "",
             "frist": frist.group(1) if frist else ""}
@@ -348,6 +430,9 @@ def details_phase(cfg, cache, heute):
     return geholt
 
 
+STICHWORT_TERMIN = re.compile(r"Anhörung|Fachgespräch|Gespräch|Sitzung", re.I)
+
+
 def ausschuss_events(cfg, cache, heute):
     kurz = cfg["kurz"]
     sitz = sitzungen_aus_dokumenten(cache.get("dokumente", {}))
@@ -357,12 +442,16 @@ def ausschuss_events(cfg, cache, heute):
     to_seite = f"{BASE}/{cfg['seite']}"
 
     def sitzung_zu(start):
+        beste, abstand = None, 2701
         for z in sitz.values():
-            if z["oeffentlich"] and abs((z["start"] - start).total_seconds()) <= 2700:
-                return z
-        return None
+            if z["oeffentlich"] is False or z["nr"] in verwendet:
+                continue
+            ab = abs((z["start"] - start).total_seconds())
+            if ab < abstand:
+                beste, abstand = z, ab
+        return beste
 
-    for aid, a in ahs.items():
+    for aid, a in sorted(ahs.items(), key=lambda x: x[1]["daten"].get("start", "")):
         d = a["daten"]
         if not d.get("start"):
             continue
@@ -373,11 +462,22 @@ def ausschuss_events(cfg, cache, heute):
         z = sitzung_zu(start)
         if z:
             verwendet.add(z["nr"])
-        zeilen = ["Öffentliche Anhörung" + (f" ({z['nr']}. Sitzung)" if z else "")]
+        titel = a["titel"]
+        if z and re.match(r"Öffentliche", titel):
+            summary = f"{kurz}: {z['nr']}. Sitzung: {titel}"
+        elif z:
+            summary = f"{kurz}: {z['nr']}. Sitzung (öffentlich): {titel}"
+        elif STICHWORT_TERMIN.search(titel):
+            summary = f"{kurz}: {titel}"
+        else:
+            summary = f"{kurz}: Öffentliche Sitzung: {titel}"
+        zeilen = [("Öffentliche Sitzung" if not re.search(r"Anhörung", titel) else "Öffentliche Anhörung")
+                  + (f", {z['nr']}. Sitzung des Ausschusses" if z else "")
+                  + ". Anhörungen zählen als zusätzliche Sitzungen neben der regulären Sitzung der Sitzungswoche."]
         if d.get("gegenstand"):
             gegenstand = re.sub(r"\s*\((?:Dokument|PDF)[^)]*\)", "", d["gegenstand"])
             if len(gegenstand) > 700:
-                gegenstand = gegenstand[:700].rsplit(" ", 1)[0] + " ... (weiter auf der Seite der Anhörung)"
+                gegenstand = gegenstand[:700].rsplit(" ", 1)[0] + " ... (weiter auf der Seite der Sitzung)"
             zeilen += ["", "Gegenstand: " + gegenstand]
         if d.get("frist") or d.get("anmeldung"):
             zeilen += ["", "Anmeldung als Zuschauer" + (f" bis {d['frist']}" if d.get("frist") else "")
@@ -403,22 +503,24 @@ def ausschuss_events(cfg, cache, heute):
                    "Übertragung: https://www.bundestag.de/mediathek"]
         events.append({
             "uid": f"ausschuss-{slug(cfg['seite'])}-anhoerung-{aid}@bundestag-kalender",
-            "start": start, "end": ende, "summary": f"{kurz}: {a['titel']}",
+            "start": start, "end": ende, "summary": summary,
             "description": "\n".join(zeilen),
             "url": f"{BASE}/{cfg['ah_seite']}/{aid}-{aid}",
-            "ort": d.get("ort") or "", "anhaenge": anh[:MAX_ANHAENGE_AUSSCHUSS]})
+            "ort": d.get("ort") or (z["ort"] if z else ""), "anhaenge": anh[:MAX_ANHAENGE_AUSSCHUSS]})
 
     for nr, z in sitz.items():
         if nr in verwendet or z["start"] < grenze:
             continue
-        art = "öffentlich" if z["oeffentlich"] else "nicht öffentlich"
-        zeilen = [f"{nr}. Sitzung des Ausschusses ({art})", "Ende geschätzt.", "", "Tagesordnung und Ergänzungen:"]
+        art = {True: "öffentlich", False: "nicht öffentlich", None: ""}[z["oeffentlich"]]
+        zeilen = [f"{nr}. Sitzung des Ausschusses" + (f" ({art})" if art else ""), "Ende geschätzt.",
+                  "", "Tagesordnung und Ergänzungen:"]
         zeilen += [f"{dk['art']}: {dk['href']}" for dk in z["docs"]]
         zeilen += ["", f"Seite des Ausschusses: {to_seite}"]
         events.append({
             "uid": f"ausschuss-{slug(cfg['seite'])}-sitzung-{nr}@bundestag-kalender",
             "start": z["start"], "end": z["start"] + timedelta(minutes=SITZUNG_MINUTEN),
-            "summary": f"{kurz}: {nr}. Sitzung ({art})", "description": "\n".join(zeilen),
+            "summary": f"{kurz}: {nr}. Sitzung" + (f" ({art})" if art else ""),
+            "description": "\n".join(zeilen),
             "url": to_seite, "ort": z["ort"],
             "anhaenge": [(dk["href"], "application/pdf") for dk in z["docs"]][:MAX_ANHAENGE_AUSSCHUSS]})
     events.sort(key=lambda e: e["start"])
@@ -861,10 +963,10 @@ def konferenz_zu_events(c):
         beschr = [b for b in beschr if b]
         bericht, uebw = [], {}
         for key, a in AUSSCHUESSE.items():
-            n = re.escape(a["name"])
-            if re.search(rf"Ausschuss(?:es)? für {n}\s*\({a['nr']}\. Ausschuss\)", detail):
+            if re.search(rf"\({a['nr']}\. Ausschuss\)", detail):
                 bericht.append(key)
-            m2 = re.search(rf"A\. f\. {n}( \(f\))?", detail)
+            namen = "|".join(re.escape(x) for x in sorted(a["uebw"], key=len, reverse=True))
+            m2 = re.search(rf"A\. f\. (?:{namen})( \(f\))?", detail)
             if m2:
                 uebw[key] = "federführend" if m2.group(1) else "mitberatend"
         drucksachen = list(dict.fromkeys(
@@ -930,8 +1032,10 @@ def ics_bauen(name, beschreibung, events, wochen):
                  f"DTSTART;TZID=Europe/Berlin:{ev['start']:%Y%m%dT%H%M%S}",
                  f"DTEND;TZID=Europe/Berlin:{ev['end']:%Y%m%dT%H%M%S}",
                  f"SUMMARY:{esc(ev['summary'])}",
-                 f"DESCRIPTION:{esc(ev['description'])}",
-                 f"LOCATION:{esc(ev.get('ort') or ORT)}"]
+                 f"DESCRIPTION:{esc(ev['description'])}"]
+        ort = ev.get("ort", ORT)
+        if ort:
+            body.append(f"LOCATION:{esc(ort)}")
         if ev["url"]:
             body.append(f"URL:{ev['url']}")
         for url, typ in ev.get("anhaenge", []):
@@ -953,21 +1057,33 @@ def schreiben_wenn_geaendert(pfad, neu):
 
 
 def index_html(basis, feeds):
-    items = ""
-    for datei, label in feeds:
-        web = (basis + datei).replace("https://", "webcal://")
-        items += (f'<li>{html.escape(label)}: <a href="{web}">abonnieren</a> '
-                  f'(<a href="{basis + datei}">Link kopieren</a>)</li>\n')
+    def liste(gruppe):
+        items = ""
+        for datei, label, g in feeds:
+            if g != gruppe:
+                continue
+            web = (basis + datei).replace("https://", "webcal://")
+            items += (f'<li>{html.escape(label)}: <a href="{web}">abonnieren</a> '
+                      f'(<a href="{basis + datei}">Link kopieren</a>)</li>\n')
+        return items
     return f"""<!doctype html>
 <html lang="de"><meta charset="utf-8"><title>Bundestag-Kalender</title>
 <meta name="robots" content="noindex, nofollow">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <body style="font-family:system-ui,sans-serif;max-width:40rem;margin:2rem auto;padding:0 1rem">
 <h1>Bundestag-Kalender</h1>
-<p>Kalenderabos mit der Tagesordnung des Plenums und den Terminen des Ausschusses für Wirtschaft und Energie
+<p>Kalenderabos mit der Tagesordnung des Plenums und den Terminen ausgewählter Ausschüsse
 des Deutschen Bundestages. Alle Daten sind öffentliche Parlamentsdaten. Betreiber: {html.escape(BETREIBER)}.</p>
+<h2>Kalender</h2>
 <ul>
-{items}</ul>
+{liste("haupt")}</ul>
+<p>Jeder Ausschuss-Kalender enthält die Plenarpunkte, bei denen der Ausschuss federführend ist, die Sitzungen
+des Ausschusses (mit Sitzungsnummer) und seine öffentlichen Anhörungen. Anhörungen zählen als zusätzliche Sitzungen.</p>
+<h2>Teile der Ausschuss-Kalender</h2>
+<p>Diese Kalender sind nur Ausschnitte der Ausschuss-Kalender oben. Wer den Ausschuss-Kalender abonniert,
+braucht sie nicht zusätzlich, sonst erscheinen die Termine doppelt.</p>
+<ul>
+{liste("teil")}</ul>
 <p>Inoffizielles Angebot, keine Gewähr. Quellen: bundestag.de und DIP. Endzeiten sind teils geschätzt.
 Ausschuss-Zuordnungen vor der ersten Beratung sind Vorschläge.</p>
 <p><a href="{IMPRESSUM_URL}">Impressum</a> | <a href="{DATENSCHUTZ_URL}">Datenschutz</a></p>
@@ -1059,8 +1175,9 @@ def main():
         "Tagesordnung des Plenums des Deutschen Bundestages (inoffiziell, Quelle: bundestag.de)",
         events, wochen))
     anzahl = {}
-    feeds = [("bundestag.ics", "Alle Tagesordnungspunkte des Plenums")]
+    feeds = [("bundestag.ics", "Plenum komplett: alle Tagesordnungspunkte", "haupt")]
     a_info = []
+    haupt_ausschuss, teile = [], []
     for key, a in AUSSCHUESSE.items():
         teil = []
         for e in events:
@@ -1099,35 +1216,40 @@ def main():
                 e2["summary"] += " (" + ", ".join(marken) + ")"
             teil.append(e2)
         anzahl[key] = (len(teil), sum(1 for e in teil if e["zuo"][key]["quelle"] in VORSCHLAG))
+        base = a["datei"][:-4]
+        cfg = a["sitzungen"]
+        komplett = f"{cfg['kurz']} komplett"
+        aev = []
+        try:
+            acache = lade_json(CACHE / f"ausschuss-{key}.json")
+            heute_ = date.today()
+            crawl_tagesordnungen(cfg, acache, heute_)
+            crawl_anhoerungen(cfg, acache, heute_)
+            d_neu2 = details_phase(cfg, acache, heute_)
+            speichere_json(CACHE / f"ausschuss-{key}.json", acache)
+            aev = ausschuss_events(cfg, acache, heute_)
+            a_info.append(f"  {key}: {len(aev)} Ausschuss-Termine, {d_neu2} Detailseiten neu gelesen")
+        except Exception as e:  # noqa: BLE001
+            print(f"Warnung: Ausschussseite {key}: {e}", file=sys.stderr)
+        geaendert |= schreiben_wenn_geaendert(ZIEL / f"{base}-komplett.ics", ics_bauen(
+            f"Bundestag: {komplett}",
+            f"Plenarpunkte (federführend), Sitzungen mit Nummer und Anhörungen des Ausschusses {a['name']} "
+            f"(inoffiziell, Quellen: bundestag.de und DIP)",
+            sorted(teil + aev, key=lambda e: e["start"]), wochen))
         geaendert |= schreiben_wenn_geaendert(ZIEL / a["datei"], ics_bauen(
-            f"Bundestag: Ausschuss {a['name']}",
-            f"Plenarpunkte, bei denen der Ausschuss {a['name']} federführend ist (inoffiziell, Quellen: DIP und bundestag.de)",
+            f"Bundestag: TEIL von {komplett}: nur Plenum",
+            f"Nur ein Teil des Kalenders {komplett}: Plenarpunkte, bei denen der Ausschuss {a['name']} federführend ist. "
+            f"Nicht zusätzlich zum kompletten Kalender abonnieren.",
             teil, wochen))
-        feeds.append((a["datei"], f"Plenum: {a['name']}"))
-        cfg = a.get("sitzungen")
-        if cfg:
-            try:
-                acache = lade_json(CACHE / f"ausschuss-{key}.json")
-                heute_ = date.today()
-                crawl_tagesordnungen(cfg, acache, heute_)
-                crawl_anhoerungen(cfg, acache, heute_)
-                d_neu2 = details_phase(cfg, acache, heute_)
-                speichere_json(CACHE / f"ausschuss-{key}.json", acache)
-                aev = ausschuss_events(cfg, acache, heute_)
-                base = a["datei"][:-4]
-                geaendert |= schreiben_wenn_geaendert(ZIEL / f"{base}-ausschuss.ics", ics_bauen(
-                    f"Bundestag: {cfg['kurz']} Sitzungen und Anhörungen",
-                    f"Sitzungen und öffentliche Anhörungen des Ausschusses {a['name']} (inoffiziell, Quelle: bundestag.de)",
-                    aev, wochen))
-                geaendert |= schreiben_wenn_geaendert(ZIEL / f"{base}-komplett.ics", ics_bauen(
-                    f"Bundestag: {cfg['kurz']} komplett",
-                    f"Plenarpunkte, Sitzungen und Anhörungen des Ausschusses {a['name']} (inoffiziell)",
-                    sorted(teil + aev, key=lambda e: e["start"]), wochen))
-                feeds.append((f"{base}-ausschuss.ics", f"Ausschuss-Sitzungen und Anhörungen: {a['name']}"))
-                feeds.append((f"{base}-komplett.ics", f"Komplett (Plenum, Sitzungen, Anhörungen): {a['name']}"))
-                a_info.append(f"  {key}: {len(aev)} Ausschuss-Termine, {d_neu2} Detailseiten neu gelesen")
-            except Exception as e:  # noqa: BLE001
-                print(f"Warnung: Ausschussseite {key}: {e}", file=sys.stderr)
+        geaendert |= schreiben_wenn_geaendert(ZIEL / f"{base}-ausschuss.ics", ics_bauen(
+            f"Bundestag: TEIL von {komplett}: nur Sitzungen und Anhörungen",
+            f"Nur ein Teil des Kalenders {komplett}: Sitzungen und öffentliche Anhörungen des Ausschusses {a['name']}. "
+            f"Nicht zusätzlich zum kompletten Kalender abonnieren.",
+            aev, wochen))
+        haupt_ausschuss.append((f"{base}-komplett.ics", f"{komplett} ({a['name']}): Plenum, Sitzungen, Anhörungen", "haupt"))
+        teile.append((a["datei"], f"Teil von {komplett}: nur Plenum", "teil"))
+        teile.append((f"{base}-ausschuss.ics", f"Teil von {komplett}: nur Sitzungen und Anhörungen", "teil"))
+    feeds += haupt_ausschuss + teile
 
     repo = os.environ.get("GITHUB_REPOSITORY", "")
     eigene_basis = (os.environ.get("KALENDER_BASIS_URL") or "").strip()

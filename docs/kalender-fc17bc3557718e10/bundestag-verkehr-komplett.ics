@@ -27,7 +27,7 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sw-20260112@bundestag-kalender
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;VALUE=DATE:20260112
 DTEND;VALUE=DATE:20260117
 SUMMARY:Sitzungswoche
@@ -35,7 +35,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20260126@bundestag-kalender
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;VALUE=DATE:20260126
 DTEND;VALUE=DATE:20260131
 SUMMARY:Sitzungswoche
@@ -43,7 +43,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20260223@bundestag-kalender
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;VALUE=DATE:20260223
 DTEND;VALUE=DATE:20260228
 SUMMARY:Sitzungswoche
@@ -51,7 +51,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20260302@bundestag-kalender
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;VALUE=DATE:20260302
 DTEND;VALUE=DATE:20260307
 SUMMARY:Sitzungswoche
@@ -59,7 +59,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20260316@bundestag-kalender
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;VALUE=DATE:20260316
 DTEND;VALUE=DATE:20260321
 SUMMARY:Sitzungswoche
@@ -67,7 +67,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20260323@bundestag-kalender
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;VALUE=DATE:20260323
 DTEND;VALUE=DATE:20260328
 SUMMARY:Sitzungswoche
@@ -75,7 +75,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20260413@bundestag-kalender
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;VALUE=DATE:20260413
 DTEND;VALUE=DATE:20260418
 SUMMARY:Sitzungswoche
@@ -83,7 +83,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20260420@bundestag-kalender
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;VALUE=DATE:20260420
 DTEND;VALUE=DATE:20260425
 SUMMARY:Sitzungswoche
@@ -91,7 +91,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20260504@bundestag-kalender
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;VALUE=DATE:20260504
 DTEND;VALUE=DATE:20260509
 SUMMARY:Sitzungswoche
@@ -99,7 +99,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20260518@bundestag-kalender
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;VALUE=DATE:20260518
 DTEND;VALUE=DATE:20260523
 SUMMARY:Sitzungswoche
@@ -107,7 +107,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20260608@bundestag-kalender
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;VALUE=DATE:20260608
 DTEND;VALUE=DATE:20260613
 SUMMARY:Sitzungswoche
@@ -115,7 +115,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20260622@bundestag-kalender
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;VALUE=DATE:20260622
 DTEND;VALUE=DATE:20260627
 SUMMARY:Sitzungswoche
@@ -123,7 +123,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20260706@bundestag-kalender
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;VALUE=DATE:20260706
 DTEND;VALUE=DATE:20260711
 SUMMARY:Sitzungswoche
@@ -131,7 +131,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20260907@bundestag-kalender
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;VALUE=DATE:20260907
 DTEND;VALUE=DATE:20260912
 SUMMARY:Sitzungswoche
@@ -139,7 +139,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20260921@bundestag-kalender
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260926
 SUMMARY:Sitzungswoche
@@ -147,7 +147,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20261005@bundestag-kalender
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261010
 SUMMARY:Sitzungswoche
@@ -155,7 +155,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20261012@bundestag-kalender
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261017
 SUMMARY:Sitzungswoche
@@ -163,7 +163,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20261102@bundestag-kalender
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261107
 SUMMARY:Sitzungswoche
@@ -171,7 +171,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20261109@bundestag-kalender
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261114
 SUMMARY:Sitzungswoche
@@ -179,7 +179,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20261123@bundestag-kalender
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261128
 SUMMARY:Sitzungswoche
@@ -187,7 +187,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20261207@bundestag-kalender
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261212
 SUMMARY:Sitzungswoche
@@ -195,7 +195,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20261214@bundestag-kalender
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;VALUE=DATE:20261214
 DTEND;VALUE=DATE:20261219
 SUMMARY:Sitzungswoche
@@ -203,7 +203,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20270111@bundestag-kalender
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;VALUE=DATE:20270111
 DTEND;VALUE=DATE:20270116
 SUMMARY:Sitzungswoche
@@ -211,7 +211,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20270125@bundestag-kalender
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;VALUE=DATE:20270125
 DTEND;VALUE=DATE:20270130
 SUMMARY:Sitzungswoche
@@ -219,7 +219,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20270215@bundestag-kalender
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;VALUE=DATE:20270215
 DTEND;VALUE=DATE:20270220
 SUMMARY:Sitzungswoche
@@ -227,7 +227,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20270301@bundestag-kalender
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;VALUE=DATE:20270301
 DTEND;VALUE=DATE:20270306
 SUMMARY:Sitzungswoche
@@ -235,7 +235,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20270315@bundestag-kalender
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;VALUE=DATE:20270315
 DTEND;VALUE=DATE:20270320
 SUMMARY:Sitzungswoche
@@ -243,7 +243,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20270405@bundestag-kalender
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;VALUE=DATE:20270405
 DTEND;VALUE=DATE:20270410
 SUMMARY:Sitzungswoche
@@ -251,7 +251,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20270412@bundestag-kalender
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;VALUE=DATE:20270412
 DTEND;VALUE=DATE:20270417
 SUMMARY:Sitzungswoche
@@ -259,7 +259,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20270426@bundestag-kalender
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;VALUE=DATE:20270426
 DTEND;VALUE=DATE:20270501
 SUMMARY:Sitzungswoche
@@ -267,7 +267,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20270510@bundestag-kalender
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;VALUE=DATE:20270510
 DTEND;VALUE=DATE:20270515
 SUMMARY:Sitzungswoche
@@ -275,7 +275,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20270531@bundestag-kalender
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;VALUE=DATE:20270531
 DTEND;VALUE=DATE:20270605
 SUMMARY:Sitzungswoche
@@ -283,7 +283,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20270614@bundestag-kalender
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;VALUE=DATE:20270614
 DTEND;VALUE=DATE:20270619
 SUMMARY:Sitzungswoche
@@ -291,7 +291,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20270628@bundestag-kalender
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;VALUE=DATE:20270628
 DTEND;VALUE=DATE:20270703
 SUMMARY:Sitzungswoche
@@ -299,7 +299,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20270705@bundestag-kalender
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;VALUE=DATE:20270705
 DTEND;VALUE=DATE:20270710
 SUMMARY:Sitzungswoche
@@ -307,7 +307,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20270906@bundestag-kalender
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;VALUE=DATE:20270906
 DTEND;VALUE=DATE:20270911
 SUMMARY:Sitzungswoche
@@ -315,7 +315,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20270920@bundestag-kalender
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;VALUE=DATE:20270920
 DTEND;VALUE=DATE:20270925
 SUMMARY:Sitzungswoche
@@ -323,7 +323,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20271004@bundestag-kalender
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;VALUE=DATE:20271004
 DTEND;VALUE=DATE:20271009
 SUMMARY:Sitzungswoche
@@ -331,7 +331,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20271025@bundestag-kalender
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;VALUE=DATE:20271025
 DTEND;VALUE=DATE:20271030
 SUMMARY:Sitzungswoche
@@ -339,7 +339,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20271108@bundestag-kalender
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;VALUE=DATE:20271108
 DTEND;VALUE=DATE:20271113
 SUMMARY:Sitzungswoche
@@ -347,7 +347,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20271122@bundestag-kalender
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;VALUE=DATE:20271122
 DTEND;VALUE=DATE:20271127
 SUMMARY:Sitzungswoche
@@ -355,7 +355,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20271129@bundestag-kalender
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;VALUE=DATE:20271129
 DTEND;VALUE=DATE:20271204
 SUMMARY:Sitzungswoche
@@ -363,7 +363,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20271213@bundestag-kalender
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;VALUE=DATE:20271213
 DTEND;VALUE=DATE:20271218
 SUMMARY:Sitzungswoche
@@ -371,7 +371,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-verkehr-sitzung-17@bundestag-kalender
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;TZID=Europe/Berlin:20260114T083000
 DTEND;TZID=Europe/Berlin:20260114T103000
 SUMMARY:Ausschuss Verkehr: 17. Sitzung
@@ -389,7 +389,7 @@ ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11361
 END:VEVENT
 BEGIN:VEVENT
 UID:bt-54-top-27-aenderung-des-strassenverkehrsgesetzes@bundestag-kalender
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;TZID=Europe/Berlin:20260116T112500
 DTEND;TZID=Europe/Berlin:20260116T120000
 SUMMARY:TOP 27: Änderung des Straßenverkehrsgesetzes
@@ -436,7 +436,7 @@ ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21054.pd
 END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-verkehr-anhoerung-1135370@bundestag-kalender
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;TZID=Europe/Berlin:20260126T130000
 DTEND;TZID=Europe/Berlin:20260126T150000
 SUMMARY:Ausschuss Verkehr: 18. Sitzung (öffentlich): Anhörung „Intellig
@@ -505,7 +505,7 @@ ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11392
 END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-verkehr-sitzung-19@bundestag-kalender
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;TZID=Europe/Berlin:20260128T083000
 DTEND;TZID=Europe/Berlin:20260128T103000
 SUMMARY:Ausschuss Verkehr: 19. Sitzung
@@ -523,7 +523,7 @@ ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11396
 END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-verkehr-sitzung-20@bundestag-kalender
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;TZID=Europe/Berlin:20260128T203000
 DTEND;TZID=Europe/Berlin:20260128T223000
 SUMMARY:Ausschuss Verkehr: 20. Sitzung
@@ -537,7 +537,7 @@ ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11400
 END:VEVENT
 BEGIN:VEVENT
 UID:bt-57-top-24-zp-7-mobilitaetsgarantie@bundestag-kalender
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;TZID=Europe/Berlin:20260130T103000
 DTEND;TZID=Europe/Berlin:20260130T113500
 SUMMARY:TOP 24\, ZP 7: Mobilitätsgarantie
@@ -585,7 +585,7 @@ ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21057.pd
 END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-verkehr-anhoerung-1135916@bundestag-kalender
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;TZID=Europe/Berlin:20260223T130000
 DTEND;TZID=Europe/Berlin:20260223T150000
 SUMMARY:Ausschuss Verkehr: 21. Sitzung (öffentlich): Anhörung „Straßen
@@ -651,28 +651,28 @@ ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11491
 END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-verkehr-sitzung-22@bundestag-kalender
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;TZID=Europe/Berlin:20260225T083000
 DTEND;TZID=Europe/Berlin:20260225T103000
 SUMMARY:Ausschuss Verkehr: 22. Sitzung
 DESCRIPTION:22. Sitzung des Ausschusses\nEnde geschätzt.\n\nTagesordnung u
  nd Ergänzungen:\nTagesordnung: https://www.bundestag.de/resource/blob/114
- 9144/22-Sitzung-25-02-2026.pdf\n2. Ergänzungsmitteilung: https://www.bund
- estag.de/resource/blob/1149492/22-Sitzung-25-02-2026-2-Ergaenzungsmitteilu
- ng.pdf\n1. Ergänzungsmitteilung: https://www.bundestag.de/resource/blob/1
- 149402/22-Sitzung-25-02-2026-1-Ergaenzungsmitteilung.pdf\n\nSeite des Auss
+ 9144/22-Sitzung-25-02-2026.pdf\n1. Ergänzungsmitteilung: https://www.bund
+ estag.de/resource/blob/1149402/22-Sitzung-25-02-2026-1-Ergaenzungsmitteilu
+ ng.pdf\n2. Ergänzungsmitteilung: https://www.bundestag.de/resource/blob/1
+ 149492/22-Sitzung-25-02-2026-2-Ergaenzungsmitteilung.pdf\n\nSeite des Auss
  chusses: https://www.bundestag.de/ausschuesse/verkehr
 URL:https://www.bundestag.de/ausschuesse/verkehr
 ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11491
  44/22-Sitzung-25-02-2026.pdf
 ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11494
- 92/22-Sitzung-25-02-2026-2-Ergaenzungsmitteilung.pdf
-ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11494
  02/22-Sitzung-25-02-2026-1-Ergaenzungsmitteilung.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11494
+ 92/22-Sitzung-25-02-2026-2-Ergaenzungsmitteilung.pdf
 END:VEVENT
 BEGIN:VEVENT
 UID:bt-59-top-7-infrastruktur-zukunftsgesetz@bundestag-kalender
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;TZID=Europe/Berlin:20260226T113000
 DTEND;TZID=Europe/Berlin:20260226T124000
 SUMMARY:TOP 7: Infrastruktur-Zukunftsgesetz
@@ -713,7 +713,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bt-59-top-31-zp-10-ueberweisungen-im-vereinfachten-verfahre@bundestag-k
  alender
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;TZID=Europe/Berlin:20260226T134000
 DTEND;TZID=Europe/Berlin:20260226T135000
 SUMMARY:TOP 31\, ZP 10: Überweisungen im vereinfachten Verfahren: Gesetz z
@@ -744,7 +744,7 @@ ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21059.pd
 END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-verkehr-sitzung-23@bundestag-kalender
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;TZID=Europe/Berlin:20260302T150000
 DTEND;TZID=Europe/Berlin:20260302T170000
 SUMMARY:Ausschuss Verkehr: 23. Sitzung
@@ -762,7 +762,7 @@ ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11508
 END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-verkehr-sitzung-24@bundestag-kalender
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;TZID=Europe/Berlin:20260304T083000
 DTEND;TZID=Europe/Berlin:20260304T103000
 SUMMARY:Ausschuss Verkehr: 24. Sitzung
@@ -783,7 +783,7 @@ ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11511
 END:VEVENT
 BEGIN:VEVENT
 UID:bt-62-top-25-infrastrukturvorhaben-im-schienennetz@bundestag-kalender
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;TZID=Europe/Berlin:20260305T192000
 DTEND;TZID=Europe/Berlin:20260305T195000
 SUMMARY:TOP 25: Infrastrukturvorhaben im Schienennetz
@@ -812,7 +812,7 @@ ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21062.pd
 END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-verkehr-anhoerung-1139982@bundestag-kalender
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;TZID=Europe/Berlin:20260316T130000
 DTEND;TZID=Europe/Berlin:20260316T153000
 SUMMARY:Ausschuss Verkehr: Anhörung „Infrastruktur-Zukunftsgesetz“
@@ -893,7 +893,7 @@ ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11820
 END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-verkehr-sitzung-25@bundestag-kalender
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;TZID=Europe/Berlin:20260316T153000
 DTEND;TZID=Europe/Berlin:20260316T173000
 SUMMARY:Ausschuss Verkehr: 25. Sitzung
@@ -907,7 +907,7 @@ ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11554
 END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-verkehr-sitzung-26@bundestag-kalender
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;TZID=Europe/Berlin:20260318T083000
 DTEND;TZID=Europe/Berlin:20260318T103000
 SUMMARY:Ausschuss Verkehr: 26. Sitzung
@@ -921,7 +921,7 @@ ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11554
 END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-verkehr-sitzung-27@bundestag-kalender
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;TZID=Europe/Berlin:20260325T083000
 DTEND;TZID=Europe/Berlin:20260325T103000
 SUMMARY:Ausschuss Verkehr: 27. Sitzung
@@ -942,7 +942,7 @@ ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11575
 END:VEVENT
 BEGIN:VEVENT
 UID:bt-68-top-15-intelligente-verkehrssysteme-gesetz@bundestag-kalender
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;TZID=Europe/Berlin:20260326T180000
 DTEND;TZID=Europe/Berlin:20260326T183500
 SUMMARY:TOP 15: Intelligente-Verkehrssysteme-Gesetz
@@ -1001,7 +1001,7 @@ ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21068.pd
 END:VEVENT
 BEGIN:VEVENT
 UID:bt-68-zp-9-aenderung-strassenverkehrsrechtlicher-vo@bundestag-kalender
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;TZID=Europe/Berlin:20260326T210000
 DTEND;TZID=Europe/Berlin:20260326T212500
 SUMMARY:ZP 9: Änderung straßenverkehrsrechtlicher Vorschriften
@@ -1054,7 +1054,7 @@ ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21068.pd
 END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-verkehr-sitzung-28@bundestag-kalender
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;TZID=Europe/Berlin:20260415T083000
 DTEND;TZID=Europe/Berlin:20260415T103000
 SUMMARY:Ausschuss Verkehr: 28. Sitzung
@@ -1069,7 +1069,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bt-71-zp-4-top-5-stromsteuergesetz-strassenverkehrsgesetz@bundestag-kal
  ender
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;TZID=Europe/Berlin:20260416T102500
 DTEND;TZID=Europe/Berlin:20260416T113500
 SUMMARY:ZP 4\, TOP 5: Stromsteuergesetz\, Straßenverkehrsgesetz
@@ -1098,7 +1098,7 @@ ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21071.pd
 END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-verkehr-anhoerung-1150874@bundestag-kalender
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;TZID=Europe/Berlin:20260420T130000
 DTEND;TZID=Europe/Berlin:20260420T160000
 SUMMARY:Ausschuss Verkehr: Anhörung „Ausbaustrecke/Neubaustrecke Hannove
@@ -1168,7 +1168,7 @@ ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11674
 END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-verkehr-sitzung-29@bundestag-kalender
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;TZID=Europe/Berlin:20260420T160000
 DTEND;TZID=Europe/Berlin:20260420T180000
 SUMMARY:Ausschuss Verkehr: 29. Sitzung
@@ -1182,33 +1182,33 @@ ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11656
 END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-verkehr-sitzung-30@bundestag-kalender
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;TZID=Europe/Berlin:20260422T083000
 DTEND;TZID=Europe/Berlin:20260422T103000
 SUMMARY:Ausschuss Verkehr: 30. Sitzung
 DESCRIPTION:30. Sitzung des Ausschusses\nEnde geschätzt.\n\nTagesordnung u
  nd Ergänzungen:\nTagesordnung: https://www.bundestag.de/resource/blob/116
- 5842/30-Sitzung-22-04-2026.pdf\n2. Ergänzungsmitteilung: https://www.bund
- estag.de/resource/blob/1166500/30-Sitzung-22-04-2026-2-Ergaenzungsmitteilu
- ng.pdf\n1. Ergänzungsmitteilung: https://www.bundestag.de/resource/blob/1
- 166498/30-Sitzung-22-04-2026-1-Ergaenzungsmitteilung.pdf\n3. Ergänzungsmi
+ 5842/30-Sitzung-22-04-2026.pdf\n1. Ergänzungsmitteilung: https://www.bund
+ estag.de/resource/blob/1166498/30-Sitzung-22-04-2026-1-Ergaenzungsmitteilu
+ ng.pdf\n2. Ergänzungsmitteilung: https://www.bundestag.de/resource/blob/1
+ 166500/30-Sitzung-22-04-2026-2-Ergaenzungsmitteilung.pdf\n3. Ergänzungsmi
  tteilung: https://www.bundestag.de/resource/blob/1166714/30-Sitzung-22-04-
  2026-3-Ergaenzungsmitteilung.pdf\n\nSeite des Ausschusses: https://www.bun
  destag.de/ausschuesse/verkehr
 URL:https://www.bundestag.de/ausschuesse/verkehr
 ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11658
  42/30-Sitzung-22-04-2026.pdf
-ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11665
- 00/30-Sitzung-22-04-2026-2-Ergaenzungsmitteilung.pdf
 ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11664
  98/30-Sitzung-22-04-2026-1-Ergaenzungsmitteilung.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11665
+ 00/30-Sitzung-22-04-2026-2-Ergaenzungsmitteilung.pdf
 ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11667
  14/30-Sitzung-22-04-2026-3-Ergaenzungsmitteilung.pdf
 END:VEVENT
 BEGIN:VEVENT
 UID:bt-75-top-19-zp-13-neun-euro-ticket-gemeindeverkehrsfinanzi@bundestag-k
  alender
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;TZID=Europe/Berlin:20260424T102500
 DTEND;TZID=Europe/Berlin:20260424T115000
 SUMMARY:TOP 19\, ZP 13: Neun-Euro-Ticket\, Gemeindeverkehrsfinanzierung
@@ -1276,7 +1276,7 @@ ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21075.pd
 END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-verkehr-sitzung-31@bundestag-kalender
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;TZID=Europe/Berlin:20260506T083000
 DTEND;TZID=Europe/Berlin:20260506T103000
 SUMMARY:Ausschuss Verkehr: 31. Sitzung
@@ -1291,7 +1291,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bt-77-top-27-top-26-zp-4-ueberweisungen-im-vereinfachten-verfahre@bunde
  stag-kalender
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;TZID=Europe/Berlin:20260507T134500
 DTEND;TZID=Europe/Berlin:20260507T135000
 SUMMARY:TOP 27\, TOP 26\, ZP 4: Überweisungen im vereinfachten Verfahren: 
@@ -1322,7 +1322,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bt-77-top-28-zp-5-abschliessende-beratungen-ohne-aussprach@bundestag-ka
  lender
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;TZID=Europe/Berlin:20260507T134500
 DTEND;TZID=Europe/Berlin:20260507T135000
 SUMMARY:TOP 28\, ZP 5: Abschließende Beratungen ohne Aussprache: Gesetz zu
@@ -1361,7 +1361,7 @@ ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21077.pd
 END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-verkehr-sitzung-32@bundestag-kalender
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;TZID=Europe/Berlin:20260520T083000
 DTEND;TZID=Europe/Berlin:20260520T103000
 SUMMARY:Ausschuss Verkehr: 32. Sitzung
@@ -1376,7 +1376,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bt-80-top-16-ergebnisse-der-vorplanung-von-neu-und-au@bundestag-kalende
  r
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;TZID=Europe/Berlin:20260521T190500
 DTEND;TZID=Europe/Berlin:20260521T194500
 SUMMARY:TOP 16: Ergebnisse der Vorplanung von Neu- und Ausbaustrecken der D
@@ -1461,7 +1461,7 @@ ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21080.pd
 END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-verkehr-sitzung-33@bundestag-kalender
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;TZID=Europe/Berlin:20260610T083000
 DTEND;TZID=Europe/Berlin:20260610T103000
 SUMMARY:Ausschuss Verkehr: 33. Sitzung
@@ -1479,7 +1479,7 @@ ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11834
 END:VEVENT
 BEGIN:VEVENT
 UID:bt-82-top-6-regenbogenbeflaggung-bei-der-deutschen-b@bundestag-kalender
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;TZID=Europe/Berlin:20260610T202000
 DTEND;TZID=Europe/Berlin:20260610T205500
 SUMMARY:TOP 6: Regenbogenbeflaggung bei der Deutschen Bahn
@@ -1507,7 +1507,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bt-83-top-37-ueberweisungen-im-vereinfachten-verfahre@bundestag-kalende
  r
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;TZID=Europe/Berlin:20260611T145500
 DTEND;TZID=Europe/Berlin:20260611T150000
 SUMMARY:TOP 37: Überweisungen im vereinfachten Verfahren: Gesetz zur Ermö
@@ -1539,7 +1539,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bt-83-top-16-verbrennerfahrzeuge-zulassung-von-export@bundestag-kalende
  r
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;TZID=Europe/Berlin:20260611T190000
 DTEND;TZID=Europe/Berlin:20260611T194000
 SUMMARY:TOP 16: Verbrennerfahrzeuge\, Zulassung von Export-Simson-Kleinkraf
@@ -1589,7 +1589,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bt-83-top-23-jahresemissionsgesamtmengen-verordnung-2@bundestag-kalende
  r
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;TZID=Europe/Berlin:20260611T225500
 DTEND;TZID=Europe/Berlin:20260611T231500
 SUMMARY:TOP 23: Jahresemissionsgesamtmengen-Verordnung 2031-2040
@@ -1623,7 +1623,7 @@ ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21083.pd
 END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-verkehr-sitzung-34@bundestag-kalender
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;TZID=Europe/Berlin:20260624T083000
 DTEND;TZID=Europe/Berlin:20260624T103000
 SUMMARY:Ausschuss Verkehr: 34. Sitzung
@@ -1637,7 +1637,7 @@ ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11880
 END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-verkehr-sitzung-35@bundestag-kalender
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;TZID=Europe/Berlin:20260625T073000
 DTEND;TZID=Europe/Berlin:20260625T093000
 SUMMARY:Ausschuss Verkehr: 35. Sitzung
@@ -1652,7 +1652,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bt-86-top-30-zp-6-ueberweisungen-im-vereinfachten-verfahre@bundestag-ka
  lender
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;TZID=Europe/Berlin:20260625T140000
 DTEND;TZID=Europe/Berlin:20260625T141000
 SUMMARY:TOP 30\, ZP 6: Überweisungen im vereinfachten Verfahren: Zweites G
@@ -1691,7 +1691,7 @@ ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21086.pd
 END:VEVENT
 BEGIN:VEVENT
 UID:bt-87-top-6-zp-16-infrastruktur-zukunftsgesetz@bundestag-kalender
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;TZID=Europe/Berlin:20260626T090000
 DTEND;TZID=Europe/Berlin:20260626T102500
 SUMMARY:TOP 6\, ZP 16: Infrastruktur-Zukunftsgesetz
@@ -1764,7 +1764,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bt-87-top-19-ermoeglichung-der-digitalen-fluggastabfe@bundestag-kalende
  r
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;TZID=Europe/Berlin:20260626T113500
 DTEND;TZID=Europe/Berlin:20260626T120500
 SUMMARY:TOP 19: Ermöglichung der digitalen Fluggastabfertigung
@@ -1810,7 +1810,7 @@ ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21087.pd
 END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-verkehr-sitzung-36@bundestag-kalender
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;TZID=Europe/Berlin:20260708T083000
 DTEND;TZID=Europe/Berlin:20260708T103000
 SUMMARY:Ausschuss Verkehr: 36. Sitzung
@@ -1825,7 +1825,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bt-89-top-8-zp-4-bahnpolitik-tempolimit-verkehrspolitik@bundestag-kalen
  der
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;TZID=Europe/Berlin:20260709T111500
 DTEND;TZID=Europe/Berlin:20260709T124000
 SUMMARY:TOP 8\, ZP 4: Bahnpolitik\, Tempolimit\, Verkehrspolitik
@@ -1898,7 +1898,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bt-89-top-29-zp-6-top-23-abschliessende-beratungen-ohne-aussprach@bunde
  stag-kalender
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;TZID=Europe/Berlin:20260709T150500
 DTEND;TZID=Europe/Berlin:20260709T152000
 SUMMARY:TOP 29\, ZP 6\, TOP 23: Abschließende Beratungen ohne Aussprache: 
@@ -1981,7 +1981,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bt-89-zp-16-top-17-zukunft-der-automobilindustrie-e-fahrzeu@bundestag-k
  alender
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;TZID=Europe/Berlin:20260709T221500
 DTEND;TZID=Europe/Berlin:20260709T222500
 SUMMARY:ZP 16\, TOP 17: Zukunft der Automobilindustrie\, E-Fahrzeugförderu
@@ -2011,7 +2011,7 @@ ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21089.pd
 END:VEVENT
 BEGIN:VEVENT
 UID:bt-93-top-6-abschliessende-beratung-ohne-aussprache@bundestag-kalender
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;TZID=Europe/Berlin:20260910T123000
 DTEND;TZID=Europe/Berlin:20260910T123500
 SUMMARY:TOP 6: Abschließende Beratung ohne Aussprache
@@ -2052,7 +2052,7 @@ ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21093.pd
 END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-verkehr-sitzung-37@bundestag-kalender
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;TZID=Europe/Berlin:20260923T083000
 DTEND;TZID=Europe/Berlin:20260923T103000
 SUMMARY:Ausschuss Verkehr: 37. Sitzung
@@ -2067,7 +2067,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bt-96-top-40-zp-2-ueberweisungen-im-vereinfachten-verfahre@bundestag-ka
  lender
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;TZID=Europe/Berlin:20260924T135500
 DTEND;TZID=Europe/Berlin:20260924T140000
 SUMMARY:TOP 40\, ZP 2: Überweisungen im vereinfachten Verfahren: Gesetz zu
@@ -2128,7 +2128,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bt-96-top-41-abschliessende-beratungen-ohne-aussprach@bundestag-kalende
  r
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;TZID=Europe/Berlin:20260924T140000
 DTEND;TZID=Europe/Berlin:20260924T141000
 SUMMARY:TOP 41: Abschließende Beratungen ohne Aussprache: Drittes Gesetz z
@@ -2165,7 +2165,7 @@ ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21096.pd
 END:VEVENT
 BEGIN:VEVENT
 UID:bt-96-top-25-fahrlehrergesetz-fuehrerscheinkosten@bundestag-kalender
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;TZID=Europe/Berlin:20260924T215500
 DTEND;TZID=Europe/Berlin:20260924T221500
 SUMMARY:TOP 25: Fahrlehrergesetz\, Führerscheinkosten
@@ -2207,7 +2207,7 @@ ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21096.pd
 END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-verkehr-anhoerung-1215508@bundestag-kalender
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;TZID=Europe/Berlin:20261005T110000
 DTEND;TZID=Europe/Berlin:20261005T130000
 SUMMARY:Ausschuss Verkehr: 38. Sitzung (öffentlich): Anhörung „Führers
@@ -2273,7 +2273,7 @@ ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12220
 END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-verkehr-sitzung-39@bundestag-kalender
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;TZID=Europe/Berlin:20261007T083000
 DTEND;TZID=Europe/Berlin:20261007T103000
 SUMMARY:Ausschuss Verkehr: 39. Sitzung
@@ -2292,7 +2292,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bt-99-top-42-zp-4-ueberweisungen-im-vereinfachten-verfahre@bundestag-ka
  lender
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;TZID=Europe/Berlin:20261008T150000
 DTEND;TZID=Europe/Berlin:20261008T150500
 SUMMARY:TOP 42\, ZP 4: Überweisungen im vereinfachten Verfahren: Gesetz ü
@@ -2332,7 +2332,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bt-99-top-24-ausbaustrecke-neubaustrecke-hannover-ham@bundestag-kalende
  r
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;TZID=Europe/Berlin:20261008T223500
 DTEND;TZID=Europe/Berlin:20261008T230000
 SUMMARY:TOP 24: Ausbaustrecke/Neubaustrecke Hannover - Hamburg
@@ -2389,7 +2389,7 @@ ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21099.pd
 END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-verkehr-sitzung-40@bundestag-kalender
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;TZID=Europe/Berlin:20261014T083000
 DTEND;TZID=Europe/Berlin:20261014T103000
 SUMMARY:Ausschuss Verkehr: 40. Sitzung
@@ -2408,7 +2408,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bt-102-top-39-zp-7-top-19b-abschliessende-beratungen-ohne-aussprach@bun
  destag-kalender
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;TZID=Europe/Berlin:20261015T134500
 DTEND;TZID=Europe/Berlin:20261015T140000
 SUMMARY:TOP 39\, ZP 7\, TOP 19b: Abschließende Beratungen ohne Aussprache:
@@ -2450,7 +2450,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bt-102-top-22-nachhaltige-flugkraftstoffe-flugsicherun@bundestag-kalend
  er
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;TZID=Europe/Berlin:20261015T220000
 DTEND;TZID=Europe/Berlin:20261015T221500
 SUMMARY:TOP 22: Nachhaltige Flugkraftstoffe\, Flugsicherung
@@ -2516,7 +2516,7 @@ ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21102.pd
 END:VEVENT
 BEGIN:VEVENT
 UID:bt-103-top-34-buerokratierueckbau-im-verkehrsbereich@bundestag-kalender
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;TZID=Europe/Berlin:20261016T112500
 DTEND;TZID=Europe/Berlin:20261016T120000
 SUMMARY:TOP 34: Bürokratierückbau im Verkehrsbereich
@@ -2543,7 +2543,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bt-105-top-9-bevorrechtigung-elektrisch-betriebener-f@bundestag-kalende
  r
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;TZID=Europe/Berlin:20261105T125000
 DTEND;TZID=Europe/Berlin:20261105T132500
 SUMMARY:TOP 9: Bevorrechtigung elektrisch betriebener Fahrzeuge
@@ -2583,7 +2583,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bt-106-top-26-finanzierung-der-infrastrukturgesellscha@bundestag-kalend
  er
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;TZID=Europe/Berlin:20261106T123000
 DTEND;TZID=Europe/Berlin:20261106T130500
 SUMMARY:TOP 26: Finanzierung der Infrastrukturgesellschaft für Autobahnen 
@@ -2603,7 +2603,7 @@ URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw45-de-autobahn-ges
 END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-verkehr-anhoerung-1223022@bundestag-kalender
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;TZID=Europe/Berlin:20261111T110000
 DTEND;TZID=Europe/Berlin:20261111T130000
 SUMMARY:Ausschuss Verkehr: Anhörung „Luftverkehrsgesetz“
@@ -2622,7 +2622,7 @@ ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/074/2107
 END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-verkehr-anhoerung-1222698@bundestag-kalender
-DTSTAMP:20261020T103724Z
+DTSTAMP:20261020T114917Z
 DTSTART;TZID=Europe/Berlin:20261207T123000
 DTEND;TZID=Europe/Berlin:20261207T143000
 SUMMARY:Ausschuss Verkehr: Anhörung „Neubaustrecke Frankfurt – Mannhei

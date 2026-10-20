@@ -1,0 +1,626 @@
+{
+ "ah_vollstaendig": true,
+ "anhoerungen": {
+  "1110038": {
+   "datum": "2025-10-06",
+   "titel": "Anhörung „Regionalisierungsgesetz“"
+  },
+  "1110042": {
+   "datum": "2025-10-13",
+   "titel": "Anhörung „Trassenentgelte“"
+  },
+  "1135370": {
+   "daten": {
+    "anmeldung": "",
+    "docs": [
+     {
+      "href": "https://dserver.bundestag.de/btd/21/029/2102999.pdf",
+      "titel": "21/2999"
+     },
+     {
+      "href": "https://www.bundestag.de/resource/blob/1139250/18-Sitzung-26-01-2026.pdf",
+      "titel": "Tagesordnung der 18. Sitzung des Verkehrsausschusses am Montag, den 26. Januar 2026, 13.00 Uhr"
+     },
+     {
+      "href": "https://www.bundestag.de/resource/blob/1150194/Protokoll-18-Sitzung-26-01-2026-OeA.pdf",
+      "titel": "Wortprotokoll der 18. Sitzung des Verkehrsausschusses am Montag, den 26. Januar 2026, 13.00 Uhr"
+     },
+     {
+      "href": "https://www.bundestag.de/resource/blob/1135372/Liste-der-Auskunftspersonen.pdf",
+      "titel": "Liste der Auskunftspersonen der Anhörung am 26.01.2026"
+     },
+     {
+      "href": "https://www.bundestag.de/resource/blob/1135380/Stellungnahme-Bitkom.pdf",
+      "titel": "Stellungnahme des Bitkom e. V."
+     },
+     {
+      "href": "https://www.bundestag.de/resource/blob/1139202/Stellungnahme-triptix.pdf",
+      "titel": "Stellungnahme der triptix GmbH"
+     },
+     {
+      "href": "https://www.bundestag.de/resource/blob/1139272/Stellungnahme-BMW.pdf",
+      "titel": "Stellungnahme der BMW Group"
+     },
+     {
+      "href": "https://www.bundestag.de/resource/blob/1139274/Stellungnahme-bcs.pdf",
+      "titel": "Stellungnahme des Bundesverbandes Carsharing e. V. (bcs)"
+     },
+     {
+      "href": "https://www.bundestag.de/resource/blob/1139292/Stellungnahme-VDV.pdf",
+      "titel": "Stellungnahme des Verbands Deutscher Verkehrsunternehmen (VDV) e. V."
+     },
+     {
+      "href": "https://www.bundestag.de/resource/blob/1139290/Stellungnahme-Wikimedia.pdf",
+      "titel": "Stellungnahme der Wikimedia Deutschland – Gesellschaft zur Förderung Freien Wissens e. V."
+     },
+     {
+      "href": "https://www.bundestag.de/resource/blob/1139294/Stellungnahme-Schneider.pdf",
+      "titel": "Stellungnahme von Paul Schneider, Wuppertal Institut für Klima, Umwelt, Energie gGmbH"
+     }
+    ],
+    "end": "2026-01-26T15:00:00",
+    "frist": "",
+    "gegenstand": "Die von der Bundesregierung geplante Regelung zur digitalen Bereitstellung von Mobilitätsdaten über einen Nationalen Zugangspunkt trifft bei Sachverständigen auf ein geteiltes Echo. Bei einer öffentlichen Anhörung des Verkehrsausschusses zu dem Gesetzentwurf der Bundesregierung „zur Neuregelung des Rechtsrahmens für intelligente Verkehrssysteme im Straßenverkehr und deren Schnittstellen zu anderen Verkehrsträgern und die Datenbereitstellung über den Nationalen Zugangspunkt“ (21/2999(Dokument, öffnet ein neues Fenster)) verband Dr. Felix Gündling, Geschäftsführer der triptix GmbH, mit der Neuregelung die Hoffnung, dass künftig nicht nur US-amerikanische Unternehmen wie Google in der Lage sein werden, qualitätsgesicherte Rooting-Dienste für Verkehrsverbindungen anzubieten. Gunnar Nehrke, Geschäftsführer des Bundesverbandes Carsharing, bezeichnete den Gesetzentwurf in seiner jetzigen Form hingegen als „existenzbedrohend für die Carsharing-Branche“. Gesetzentwurf der Bundesregierung Der Gesetzesentwurf schafft laut Bundesregierung einen neuen nationalen Rechtsrahmen für die Einführung, den Betrieb und die Qualitätssicherung von Intelligenten Verkehrssystemen (IVS) im Straßenverkehr sowie deren Schnittstellen zu anderen Verkehrsträgern. Damit würden die EU-rechtlichen Vorgaben der Richtlinie 2010/40/EU (IVS-Richtlinie) und der dazugehörigen delegierten Verordnungen in nationales Recht umgesetzt und die digitale Transformation des Verkehrssektors gefördert, heißt es in dem Entwurf. Die Umsetzung sei ein essenzieller Baustein, um statische und dynamische Verkehrsdaten offen und uneingeschränkt zur Verfügung zu stellen, sagte Triptix-Geschäftsführer Gündling. Aktuell hätten nur amerikanische Großkonzerne wie Google und Apple die finanziellen Ressourcen, um Daten im großen Stil einzukaufen und qualitätsgesichert auf ihren Plattformen anzubieten. Wenn Deutschland digital souverän werden und europäische Plattformen begünstigen wolle, seien offene Daten ein essenzieller Grundbaustein, damit auch kleinere Unternehmen hierzulande, wie etwa die triptix GmbH, ähnliche Plattformen entwickeln und anbieten können, sagte Gündling. Unverhältnismäßig weitreichende Darstellungspflicht Aus Sicht des IT-Branchenverbandes Bitkom sind die Regelungen zur Nationalen Stelle sowie zum System zur Verbesserung der Datenqualität grundsätzlich zu begrüßen. Jedoch ist nach Einschätzung von Bitkom-Vertreter Felix Lennart Hake die Pflicht zur unentgeltlichen und unbeschränkten Bereitstellung der Mobilitätsdaten über den Nationalen Zugangspunkt „unverhältnismäßig weitreichend“. Sie gehe über die europäischen Vorgaben hinaus und berge Risiken für wettbewerbsrelevanten Daten, sagte er. Auch sei die pauschale Verpflichtung zur Eigenerklärung zusätzlich zur Übermittlung der geforderten Daten mit Blick auf die Pläne der Bundesregierung zum Bürokratierückbau „nicht nachvollziehbar“. Stefan Kaufmann von Wikimedia Deutschland begrüßte die Orientierung an den Open-Data-Leitlinien der EU hinsichtlich eines unentgeltlichen und unmittelbaren Zugangs und der Wiederverwendung der Informationen zu jedem Zweck sowie zu diskriminierungsfreien Standardlizenzen ausdrücklich. Um eine niederschwellige Wiederverwendbarkeit über die gesamte Europäische Union hinweg zu ermöglichen, sollten jedoch auch der direkte Zugang ohne Registrierungspflichten und die Verwendung international anerkannter Lizenzen – wie der Creative-Commons-Lizenzen – im Gesetz festgeschrieben werden, forderte Kaufmann. Das schaffe die Voraussetzung, dass auch künftig eine Vielfalt innovativer Auskunftssysteme, „auch aus der digitalen Zivilgesellschaft“, entstehen könne. Auch dann, wenn diese nicht kommerziell vermarktbar seien. Registrierungspflicht für Datennutzer gefordert Aktuell gehörten deutsche Carsharing-Anbieter weltweit zu den wenigen, „die Carsharing profitabel betreiben können“, sagte der Geschäftsführer des Bundesverbandes Carsharing, Gunnar Nehrke. Der Schlüssel zum Erfolg liege vor allem im richtigen Verhältnis von Auslastung und Verfügbarkeit – ein Know-how, das über Jahre erarbeitet worden sei. Die Standort- und Verfügbarkeitsdaten von Carsharing-Fahrzeugen, die beim Nationalen Zugangspunkt nun öffentlich zugänglich und für jeden Zweck nutzbar gemacht werden sollen, stellten jedoch den Kern des Geschäftsmodells der Carsharing-Anbieter dar. Folglich könnten Wettbewerber aus dem In- und Ausland die bisher geschützten Daten sammeln und die Geschäftsmodelle deutscher Carsharing-Anbieter kopieren, sagte Nehrke. Er forderte eine Registrierungspflicht für Datennutzer. Zudem müssten Dateninhaber die Nutzung dynamischer Verfügbarkeitsdaten auf legitime Zwecke wie Reiseauskünfte, die Forschung und die behördliche Aufgabenerfüllung einschränken können. Zudem brauche es pragmatische Regelungen für Eigenerklärungen. Marktbreite statt Verdrängung Rüdiger Pape von der BMW Group wies darauf hin, dass Rohdaten, die beispielsweise Fahrzeughersteller liefern, wie etwa Fahrzustände, Warnereignisse oder Umgebungszustände, im ersten Schritt als Service nicht nutzbar seien und nachbearbeitet werden müssten. Das erfordere bestimmte Ressourcen und müsse daher mit einer Wertschöpfung hinterlegt werden, sagte der Unternehmensvertreter. Pape sprach sich dafür aus, die Rollen sauber zu trennen. Auf der einen Seite könne die Mobilithek für öffentliche und obligatorische Daten stehen, die unentgeltlich und offen sei. Auf der anderen Seite stünden Datenräume für kommerzielle Datensätze mit differenzierten Lizenzen. Dadurch entstehe Marktbreite statt Verdrängung, befand er. Datenbereitstellungspflichten nicht erweitern Martin Schmitz vom Verband Deutscher Verkehrsunternehmen (VDV) begrüßte das Ziel, qualitativ hochwertige, flächendeckende und intermodale Mobilitätsdaten zu schaffen, um Verkehrsangebote besser, intelligenter und nachhaltiger zu steuern. Die Verkehrsunternehmen seien auch unmittelbar von dem Gesetz betroffen, da der Entwurf vielfältige Anforderungen an sie – insbesondere in der Rolle als Inhaber von Mobilitätsdaten – stelle. „Für uns ist entscheidend, dass mit dem Entwurf keine Erweiterung von Datenerhebungs- und -bereitstellungspflichten einhergehen“, sagte Schmitz. Der Regierungsentwurf gehe jedoch an einigen Stellen über eine Eins-zu-eins-Umsetzung der europäischen IVS-Richtlinie hinaus und umfasse inhaltliche Aspekte des gescheiterten Entwurfs eines Mobilitätsdatengesetzes der vorherigen Bundesregierung, bemängelte er. Der VDV-Vertreter forderte unter anderem den Verzicht auf die Pflicht zur Bereitstellung von Daten zur Auslastung von Vorrangplätzen und Stellflächen für Hilfsmittel. Zudem brauche es faire Lizenzbedingungen für die Dateninhaber. Datenbereitstellungspflicht für Mobilitätsdienstleister gefordert Paul Schneider vom Wuppertal Institut für Klima, Umwelt, Energie sieht in dem Entwurf erhebliche Potenziale. Das gelte mit Blick auf die Innovations- und Wettbewerbsfähigkeit des deutschen Mobilitätsdienstleistungssektors, die Verbesserung urbaner wie ländlicher Mobilität und für kostengünstige Fortschritte in Richtung Klimaneutralität. Dazu müssten Mobilitätsdaten umfassend für Reiseinformations- und Buchungsdienste verfügbar gemacht werden, so Schneider. Er fordert eine Datenbereitstellungspflicht für alle Mobilitätsdienstleister, um Reiseinformationsdiensten die vollständige Darstellung aller verkehrsmittelübergreifenden Routenoptionen zu ermöglichen. Mobilitätsdienstleister müssten zudem den Ticketkauf durch Drittanbieter ermöglichen, „damit Buchungsplattformen durchgehende Tickets für die gesamte Reisekette anbieten können“, sagte Schneider. (hau/26.01.2026)",
+    "oeffentlich": false,
+    "ort": "Berlin, Paul-Löbe-Haus, Sitzungssaal E.700",
+    "start": "2026-01-26T13:00:00"
+   },
+   "datum": "2026-01-26",
+   "titel": "Anhörung „Intelligente-Verkehrssysteme-Gesetz (IVS)“",
+   "ts": 1792492632.4357924
+  },
+  "1135916": {
+   "daten": {
+    "anmeldung": "",
+    "docs": [
+     {
+      "href": "https://dserver.bundestag.de/btd/21/035/2103505.pdf",
+      "titel": "21/3505"
+     },
+     {
+      "href": "https://www.bundestag.de/resource/blob/1149142/21-Sitzung-23-02-2026.pdf",
+      "titel": "Tagesordnung der 21. Sitzung des Verkehrsausschusses am Montag, den 23. Februar 2026, 13.00 Uhr"
+     },
+     {
+      "href": "https://www.bundestag.de/resource/blob/1151882/Protokoll-21-Sitzung-23-02-2026-OeA.pdf",
+      "titel": "Wortprotokoll der 21. Sitzung des Verkehrsausschusses am Montag, den 23. Februar 2026, 13.00 Uhr"
+     },
+     {
+      "href": "https://www.bundestag.de/resource/blob/1135918/Liste-der-Auskunftspersonen.pdf",
+      "titel": "Liste der Auskunftspersonen der Anhörung am 23.02.2026"
+     },
+     {
+      "href": "https://www.bundestag.de/resource/blob/1135920/Stellungnahme-DPolG.pdf",
+      "titel": "Stellungnahme der Deutschen Polizeigewerkschaft (DPolG)"
+     },
+     {
+      "href": "https://www.bundestag.de/resource/blob/1148912/Stellungnahme-Bitkom.pdf",
+      "titel": "Stellungnahme des Bitkom e. V."
+     },
+     {
+      "href": "https://www.bundestag.de/resource/blob/1149088/Stellungnahme-ACE.pdf",
+      "titel": "Stellungnahme des ACE Auto Club Europa e. V."
+     },
+     {
+      "href": "https://www.bundestag.de/resource/blob/1149108/Stellungnahme-KBA.pdf",
+      "titel": "Stellungnahme von Richard Damm, Präsident des Kraftfahrt-Bundesamtes"
+     },
+     {
+      "href": "https://www.bundestag.de/resource/blob/1149146/Stellungnahme-BVkom.pdf",
+      "titel": "Stellungnahme der Bundesvereinigung der kommunalen Spitzenverbände"
+     },
+     {
+      "href": "https://www.bundestag.de/resource/blob/1149148/Stellungnahme-Heck.pdf",
+      "titel": "Stellungnahme von Prof. Dr. Dirk Heckmann, Technische Universität München"
+     },
+     {
+      "href": "https://www.bundestag.de/resource/blob/1149150/Stellungnahme-DUH.pdf",
+      "titel": "Stellungnahme der Deutschen Umwelthilfe e. V. (DUH)"
+     }
+    ],
+    "end": "2026-02-23T15:00:00",
+    "frist": "",
+    "gegenstand": "Die von der Bundesregierung geplante Novellierung des Straßenverkehrsgesetzes (21/3505(Dokument, öffnet ein neues Fenster)) stößt bei Sachverständigen überwiegend auf ein positives Echo. Das wurde bei einer öffentlichen Anhörung des Verkehrsausschusses am Montag, 23. Februar 2026, deutlich. Mit der Regelung will die Bundesregierung Rechtsgrundlagen im Straßenverkehrsrecht für die Digitalisierung der fahrer- und fahrzeugbezogenen Papiere, für eine digitale Parkraumkontrolle sowie für einen digitalen Datenaustausch in der Verwaltung schaffen. Angemahnt wurde von den Sachverständigen, eine Möglichkeit für sozial abgestufte Tarife beim Bewohnerparken zu schaffen. Regelung zum digitalen Führerschein Richard Damm, Präsident des Kraftfahrt-Bundesamtes (KBA), sieht die Regelung zum digitalen Führerschein als „essentiell für die Digitalisierung“ an. Die geplante vorzeitige Umsetzung der entsprechenden EU-Vorgabe werde vom KBA befürwortet. Auch der Austausch von Dokumenten sei im Interesse einer modernen Verwaltung ausdrücklich zu begrüßen, sagte Damm. Felix Lennart Hake vom IT-Branchenverband Bitkom sprach sich ebenfalls für die Digitalisierung von Fahrzeug- und Führerschein aus. Es sei richtig, dass der Regierungsentwurf die nötigen Grundlagen für die Nutzung in EUDI-Wallets lege, betonte er. Unverständlich sei aber, weshalb der Gesetzgeber vorgebe, dass der digitale Führerschein nur im Inland gültig sein soll. Hake plädierte zudem dafür, den Anwendungsbereich digitaler Führerscheine insbesondere auch auf den vorläufigen Nachweis (VNF) der Fahrerlaubnis AM15 und die Prüfbescheinigung für das begleitete Fahren ab 17 (BF17) auszudehnen. Digitale Parkraumkontrolle Kerstin Hurek vom Auto Club Europa (ACE) bezeichnete die digitale Parkraumkontrolle als Hebel für die „Vision Zero“. Eine bessere Verfügbarkeit regulärer Parkplätze verringere den Parkdruck - und damit auch gefährliches Falschparken auf Gehwegen, in zweiter Reihe oder in Kreuzungsbereichen. Außerdem reduziere es den Parksuchverkehr, der in Innenstädten bis zu 30 Prozent des Verkehrs ausmache, sagte Hurek. Nachhaltige Akzeptanz entstehe aber nur, wenn klar sei, „dass Regelverstöße Folgen haben“. Eine effektive Parkraumbewirtschaftung und konsequente Kontrollen seien daher weit mehr als reine Verwaltungsmaßnahmen. Sie seien „essenziell für den Schutz aller Verkehrsteilnehmenden“, so die ACE-Vertreterin. Die digitale Parkraumkontrolle müsse ohne große Hürden und Nachkontrollerfordernisse praxistauglich und nicht nur stichprobenhaft eingeführt werden, verlangte Thomas Kiel d'Aragon von der Bundesvereinigung der kommunalen Spitzenverbände. Das zur Datensicherheit erforderliche Verschlüsselungsverfahren für das Fahrzeugkennzeichen sei zudem technologieoffen auszuprägen, betonte er. Kiel d'Aragon wies außerdem darauf hin, dass Parkprivilegien auch disruptive Wirkungen haben könnten. Sämtliche Ausnahmen gingen schließlich auf die Kosten des Bewohnerparkens. Gleichzeitig forderte der Kommunalvertreter, beim Bewohnerparken sozial abgestufte Tarife ausdrücklich zu ermöglichen. Staffelung bei den Gebühren Letzteres befürwortete auch der Anwalt für Straßen- und Straßenverkehrsrecht Roman Ringwald. Eine soziale Staffelung bei den Gebühren wäre aus seiner Sicht „sinnvoll und gut“. Das sei auch möglich, ohne einen großen Bürokratieaufwand zu erzeugen, sagte er mit Blick auf die Lösung bei den „Sozialtickets im ÖPNV“. Dass es zu einer bundeseinheitlichen Regelung bei der digitalen Parkraumkontrolle kommen soll, begrüßte Ringwald. Es gebe dann einen einheitlichen Spielraum, den jede Kommune unterschiedlich nutzen könne. Das sei besser als eine Vielzahl an Einzelregelungen, befand er. Dorothee Saar von der Deutschen Umwelthilfe (DUH) sprach sich ebenfalls dafür aus, den Gesetzentwurf dergestalt anzupassen, dass eine Staffelung der Gebühren nach sozialen Kriterien künftig rechtssicher möglich ist. Im Interesse einer „sozialverträglichen Mobilität für alle“ schlage die DUH außerdem vor, die Einnahmen aus Parkgebühren ebenso wie Bußgelder, die im Rahmen der Parkraumbewirtschaftung eingenommen würden, „in den Ausbau von Bus und Bahn sowie in die Rad- und Gehwegeplanung investiert werden“, sagte Saar. Wenn der Führerschein in physischer Form nicht mehr mitgeführt werden muss, sei das nicht ganz unproblematisch, befand Marco Schäler als Vertreter der Deutschen Polizeigewerkschaft (DPolG). Zum einen, weil nicht immer mit einer flächendeckenden Netzabdeckung an den Kontrollörtlichkeiten zu rechnen sei. Zudem sei eine polizeiliche Beschlagnahme des Führerscheins nur in Folge einer polizeilichen Verwahrung des „physischen“ Dokumentes möglich. Schäler begrüßte, dass künftig der so genannte „Punktehandel“ unterbunden werden soll. Unklar bleibe allerdings, warum nur gewerbsmäßige Verhaltensweisen von der Bußgeldvorschrift erfasst würden, da eine Vielzahl von „Punkteübernahmen“ im Kontext von familiären Beziehungen oder im Freundes- oder Bekanntenkreis erfolgten. (hau/23.02.2026)",
+    "oeffentlich": false,
+    "ort": "Berlin, Paul-Löbe-Haus, Sitzungssaal E.600",
+    "start": "2026-02-23T13:00:00"
+   },
+   "datum": "2026-02-23",
+   "titel": "Anhörung „Straßenverkehrsgesetz“",
+   "ts": 1792492632.4357924
+  },
+  "1139982": {
+   "daten": {
+    "anmeldung": "",
+    "docs": [
+     {
+      "href": "https://dserver.bundestag.de/btd/21/040/2104099.pdf",
+      "titel": "21/4099"
+     },
+     {
+      "href": "https://www.bundestag.de/resource/blob/1155414/25-Sitzung-16-03-2026.pdf",
+      "titel": "Tagesordnung der 25. Sitzung des Verkehrsausschusses am Montag, den 16. März 2026, 13.00 bis ca. 15.30 Uhr"
+     },
+     {
+      "href": "https://www.bundestag.de/resource/blob/1165684/Protokoll-25-Sitzung-16-03-2026-OeA.pdf",
+      "titel": "Wortprotokoll der 25. Sitzung (neu) des Verkehrsausschusses am Montag, den 16. März 2026, 13.00 Uhr"
+     },
+     {
+      "href": "https://www.bundestag.de/resource/blob/1139984/Liste-der-Auskunftspersonen.pdf",
+      "titel": "Liste der Auskunftspersonen der Anhörung am 16.03.2026"
+     },
+     {
+      "href": "https://www.bundestag.de/resource/blob/1139986/Stellungnahme-Hess.pdf",
+      "titel": "Stellungnahme von Dr. Franziska Heß"
+     },
+     {
+      "href": "https://www.bundestag.de/resource/blob/1155404/Stellungnahme-VCD.pdf",
+      "titel": "Stellungnahme des Verkehrsclubs Deutschland e. V. (VCD)"
+     },
+     {
+      "href": "https://www.bundestag.de/resource/blob/1155572/Stellungnahme-HDB.pdf",
+      "titel": "Stellungnahme des Hauptverbands der Deutschen Bauindustrie e. V. (HDB)"
+     },
+     {
+      "href": "https://www.bundestag.de/resource/blob/1155574/Stellungnahme-HDB-Anlage.pdf",
+      "titel": "Anlage zur Stellungnahme des Hauptverbands der Deutschen Bauindustrie e. V. (HDB)"
+     },
+     {
+      "href": "https://www.bundestag.de/resource/blob/1155606/Stellungnahme-BVkom.pdf",
+      "titel": "Stellungnahme der Bundesvereinigung der kommunalen Spitzenverbände"
+     },
+     {
+      "href": "https://www.bundestag.de/resource/blob/1155632/Stellungnahme-DB.pdf",
+      "titel": "Stellungnahme der Deutschen Bahn AG"
+     },
+     {
+      "href": "https://www.bundestag.de/resource/blob/1155630/Stellungnahme-VDV.pdf",
+      "titel": "Stellungnahme des Verbands Deutscher Verkehrsunternehmen e. V. (VDV)"
+     },
+     {
+      "href": "https://www.bundestag.de/resource/blob/1155698/Stellungnahme-Ewer.pdf",
+      "titel": "Stellungnahme von Prof. Dr. Wolfgang Ewer"
+     },
+     {
+      "href": "https://www.bundestag.de/resource/blob/1155774/Stellungnahme-Collee.pdf",
+      "titel": "Stellungnahme von Jürgen Collée [Datei ist nicht barrierefrei.]"
+     },
+     {
+      "href": "https://www.bundestag.de/resource/blob/1156012/Stellungnahme-Autobahn.pdf",
+      "titel": "Stellungnahme der Autobahn GmbH"
+     },
+     {
+      "href": "https://www.bundestag.de/resource/blob/1182078/Aenderungsantrag.pdf",
+      "titel": "Ausschussdrucksache 21(15)59 - Änderungsantrag der Fraktionen der CDU/CSU und SPD"
+     }
+    ],
+    "end": "2026-03-16T15:30:00",
+    "frist": "",
+    "gegenstand": "Der Entwurf der Bundesregierung für ein „Infrastruktur-Zukunftsgesetz“ (21/4099(Dokument, öffnet ein neues Fenster)) wird von Sachverständigen unterschiedlich beurteilt. Das wurde während einer öffentlichen Anhörung des Verkehrsausschusses am Montag, 16. März 2026, deutlich. Durch den Entwurf sollen wesentliche Verkehrsinfrastrukturen in das „überragende öffentliche Interesse“ gestellt werden. Damit will die Regierung klarstellen, dass diese Verkehrsinfrastrukturen der öffentlichen Sicherheit und den Belangen der Landes- und Bündnisverteidigung dienen und einen Schutzgütervorrang genießen. Auf Zuspruch stieß der Gesetzentwurf unter anderem bei der Autobahn GmbH, der Deutschen Bahn AG (DB AG) und dem Hauptverband der Deutschen Bauindustrie (HDB). Die Regelungen fügten sich systematisch in die bisherige Beschleunigungsgesetzgebung ein, lobte Dr. Ruth Hadamek von der Autobahn GmbH des Bundes. HDB-Hauptgeschäftsführer Tim-Oliver Müller forderte, die Regelung als Gesamtpaket bestehen zu lassen. DB-Vertreterin Dr. Nina Kaden begrüßte vor allem die geplante Planrechtsfreiheit für kleine Baumaßnahmen. Alle drei zeigten sich auch als Befürworter der vorgesehenen Gleichrangigkeit der Ersatzgeldzahlung mit der Ausweisung naturschutzrechtlicher Ausgleichsflächen. Nur ortsnaher Ausgleich für Natureingriffe schützt Arten Letzteres stieß insbesondere bei der Fachanwältin für Verwaltungsrecht, Dr. Franziska Heß, wie auch bei Christiane Rohleder, Bundesvorsitzende des Verkehrsclubs Deutschland (VCD), auf Ablehnung. Kein Vorhabenträger werde künftig noch reale Ausgleichsflächen suchen, sagte Heß. Nur ein ortsnaher Ausgleich für die Eingriffe in die Natur schütze die konkret betroffenen Arten, betonte Rohleder. Die „zunehmend inflationäre“ Verwendung des Begriffs des „überragenden öffentlichen Interesses“ stieß bei Klaus Ritgen von der Bundesvereinigung der Kommunalen Spitzenverbände auf Kritik. Für Alexander Möller vom Verband Deutscher Verkehrsunternehmen bleibt der Entwurf trotz wichtiger Initiativen in einigen Punkten hinter den dringenden Notwendigkeiten eines wirksamen und schnelleren Aus-, Neu- und Ersatzbaus von Schieneninfrastrukturen zurück. Rechtsschutz für Betroffene wird nicht verletzt Prof. Dr. Wolfgang Ewer, Fachanwalt für Verwaltungsrecht, hält den vorzeitigen Maßnahmenbeginn für „rechtlich unbedenklich“. Der Rechtsschutz für Betroffene werde nicht verletzt. Es sei später noch eine Klage gegen den Planfeststellungsbeschluss möglich, sagte er. Jürgen Collée, Kapitän der Binnenschifffahrt, forderte die Einbeziehung der Wasserstraße in das Sondervermögen Infrastruktur und Klimaneutralität. Aus seiner Sicht kämpft aktuell in Deutschland „jeder Verkehrsträger gegen den anderen“. Das System müsse aber ineinandergreifen „und jeder dort stark sein, wo er stark ist“. Vereinfachte und beschleunigte Fernstraßen-Vorhaben Für priorisierte Vorhaben von Fernstraßen könnten die Verfahren nun rechtlich vereinfacht und beschleunigt werden, sagte Autobahn GmbH-Vertreterin Hadamek. Dies gelte für Erhaltungsmaßnahmen wie Brücken, „aber auch für die dringendsten Bedarfsplanvorhaben“. Hadamek verwies auf die Abschaffung von Doppelprüfungen bei Raumordnungsverfahren und Linienbestimmung. Umweltprüfungen würden dadurch nicht abgeschafft, „sondern konzentriert für die Planfeststellung vorbereitet und dort in einer Umweltverträglichkeitsprüfung durchgeführt“, betonte sie. Dass künftig die Gesichtspunkte der Raumordnung im Planfeststellungsverfahren geprüft würden, stieß auf Zuspruch bei DB-Vertreterin Kaden. Damit entfalle ein gesondertes der Planfeststellung vorgelagertes Verfahren, das oft landespolitisch aufgeladen sei. Von der Gleichstellung von Ersatzzahlung und Realkompensation verspricht sich Kaden eine Beschleunigung zu Beginn der Projekte, „weil die Flächensuche sehr viel Zeit in Anspruch nimmt“. Begrenzte Beschleunigungswirkung VDV-Vertreter Möller begrüßte, dass die planfeststellungsfreien Vorhaben erweitert werden. Da die Genehmigungsfreiheit weiterhin nur gelten solle, wenn die Maßnahmen einzeln ausgeführt werden, sei die Beschleunigungswirkung aber begrenzt, sagte Möller in Übereinstimmung mit DB-Vertreterin Kaden. Dies sei in der Regel nicht effizient, insbesondere wenn die Kombination mehrerer genehmigungsfreier Vorhaben keine zusätzlichen Belange berührt. Die Regelung zum Ersatzgeld bewerte er als „Win-Win-Situation für Naturräume und Infrastrukturentwicklung“. Eine zentrale Koordination von Ausgleichs- und Ersatzmaßnahmen ermögliche trotz immer stärkerer Flächenknappheit wirksamere Maßnahmen zugunsten zusammenhängender Naturräume. Das Gesetz sei ein „sehr, sehr guter Vorschlag“, befand HDB-Hauptgeschäftsführer Müller. Wichtig sei nun, dieses Gesetz als Gesamtpaket, „wie es heute ist“, bestehen zu lassen. Alles, was herausgelöst werden könnte, lasse „eine offene Flanke“ zu. Müller warb dafür, das Infrastruktur-Zukunftsgesetz immer im Zusammenhang mit anderen Gesetzen wie etwa zum Naturflächenbedarf und zum Vergaberecht zu denken. „Wenn in dieser gesamten Prozesskette irgendwo eine Vollbremse reinkommt, haben wir mit diesem einen Gesetz nicht viel gewonnen“, sagte er. Kritik an Genehmigungsfiktionen und Fristverkürzungen Kommunalvertreter Ritgen sprach von zahlreichen begrüßenswerten Regelungen zur Planungs- und Verfahrensbeschleunigung. Die Ausweitung von Genehmigungs- und Einvernehmensfiktionen sowie von pauschalen Fristverkürzungen bei unverminderter oder sogar zunehmender Komplexität der Rechtsmaterien und anhaltendem Mangel an Fachkräften bewertete er jedoch kritisch. Damit erhöhe sich das Risiko von Fehlern und materiellen Vollzugsdefiziten. Den Begriff des „überragenden öffentlichen Interesses“ hält Ritgen für zu inflationär verwendet. Eine sehr breite Priorisierung erleichtere die Abwägung vor Ort letztlich nicht, sondern könne Nutzungskonkurrenzen verstärken und Konflikte in andere Verfahrensstufen verlagern, gab er zu bedenken. Verwaltungsrechtlerin Heß äußerte ähnliche Einwände. „Wenn nun praktisch alles überragend ist, verliert der Begriff letztlich seine Funktion“, sagte sie. Die damit intendierte Vorrangwirkung laufe ins Leere. Aus ihrer Sicht werden mit dem Entwurf die tatsächlichen Ursachen langer Verfahren nicht adressiert. Es fehle an einer Planpriorisierung, an Personal, an Umweltdaten, an einheitlichen Bewertungsstandards und an digitaler Ausstattung der Behörden, sagte Heß. Gesetzentwurf offensichtlich verfassungswidrig Aus Sicht der VCD-Bundesvorsitzenden Rohleder ist der Gesetzentwurf „offensichtlich verfassungswidrig“, da er nicht mit Verfassungsrang ausgestattete Infrastrukturvorhaben in großem Ausmaß durch die Zuschreibung eines „überragenden öffentlichen Interesses“ als höherrangig einstufe als den mit Verfassungsrang ausgestatteten Schutz der natürlichen Lebensgrundlagen. ohleder konstatierte zugleich eine Fehlsteuerung, wenn der Neubau von Fernstraßen priorisiert werden solle, „obwohl das Geld nicht einmal für die dringend nötigen Sanierungen der Autobahnbrücken ausreicht“. (hau/16.03.2026)",
+    "oeffentlich": false,
+    "ort": "Berlin, Paul-Löbe-Haus, Sitzungssaal E.700",
+    "start": "2026-03-16T13:00:00"
+   },
+   "datum": "2026-03-16",
+   "titel": "Anhörung „Infrastruktur-Zukunftsgesetz“",
+   "ts": 1792492632.4357924
+  },
+  "1150874": {
+   "daten": {
+    "anmeldung": "",
+    "docs": [
+     {
+      "href": "https://dserver.bundestag.de/btd/21/031/2103150.pdf",
+      "titel": "21/3150"
+     },
+     {
+      "href": "https://www.bundestag.de/resource/blob/1165622/29-Sitzung-20-04-2026.pdf",
+      "titel": "Tagesordnung der 29. Sitzung des Verkehrsausschusses am Montag, den 20. April 2026, 13.00 bis ca. 16.00 Uhr"
+     },
+     {
+      "href": "https://www.bundestag.de/resource/blob/1182136/Protokoll-29-Sitzung-20-04-2026-OeA.pdf",
+      "titel": "Wortprotokoll der 29. Sitzung des Verkehrsausschusses am Montag, den 20. April, 13.00 Uhr"
+     },
+     {
+      "href": "https://www.bundestag.de/resource/blob/1150876/Liste-der-Auskunftspersonen.pdf",
+      "titel": "Liste der Auskunftspersonen der Anhörung am 20.04.2026"
+     },
+     {
+      "href": "https://www.bundestag.de/resource/blob/1150878/Stellungnahme-VCD.pdf",
+      "titel": "Stellungnahme des VCD Niedersachsen e. V."
+     },
+     {
+      "href": "https://www.bundestag.de/resource/blob/1165838/Stellungnahme-Pro-Bahn.pdf",
+      "titel": "Stellungnahme des Fahrgastverbandes PRO BAHN e. V."
+     },
+     {
+      "href": "https://www.bundestag.de/resource/blob/1166000/Stellungnahme-Siefer.pdf",
+      "titel": "Stellungnahme von Prof. Dr.-Ing. Thomas Siefer"
+     },
+     {
+      "href": "https://www.bundestag.de/resource/blob/1166002/Stellungnahme-Najafi.pdf",
+      "titel": "Stellungnahme von Omid Najafi, MdL"
+     },
+     {
+      "href": "https://www.bundestag.de/resource/blob/1166054/Stellungnahme-Heidekreis.pdf",
+      "titel": "Stellungnahme des Heidekreises"
+     },
+     {
+      "href": "https://www.bundestag.de/resource/blob/1166166/Stellungnahme-Lueneburg.pdf",
+      "titel": "Stellungnahme der Stadt Lüneburg"
+     },
+     {
+      "href": "https://www.bundestag.de/resource/blob/1166288/Stellungnahme-Alpha-E.pdf",
+      "titel": "Stellungnahme von Dr. Peter Dörsam, Sprecher Projektbeirat Alpha-E"
+     },
+     {
+      "href": "https://www.bundestag.de/resource/blob/1167446/Stellungnahme-ZDS.pdf",
+      "titel": "Stellungnahme des Zentralverbandes der deutschen Seehafenbetriebe e. V. (ZDS)"
+     }
+    ],
+    "end": "2026-04-20T16:00:00",
+    "frist": "",
+    "gegenstand": "Befürworter und Gegner eines zweigleisigen Bahnstreckenneubaus zwischen Hannover-Vinnhorst und Hamburg-Meckelfeld mit einer Streckenlänge von 109 Kilometer kamen bei einer öffentlichen Anhörung des Verkehrsausschusses am Montag, 20. April 2026, zu Wort. In dem der Anhörung zugrunde gelegenen „Bericht über das Ergebnis der Vorplanung und der frühen Öffentlichkeitsbeteiligung Ausbaustrecke/Neubaustrecke Hannover - Hamburg“, (21/3150(Dokument, öffnet ein neues Fenster)) kommt das Eisenbahn-Bundesamt (EBA) zu der Einschätzung, dass mit der Vorzugsvariante der DB InfraGO AG der zuwendungsrechtlich geforderte Grundsatz der Wirtschaftlichkeit und Sparsamkeit gewahrt wird. Der Bund empfehle daher die Bestätigung der beschriebenen Vorzugsvariante als Grundlage für die weiteren Planungen, heißt es. Bahn: Neubaustrecke erfüllt alle Vorgaben und Ziele Matthias Hudaff, Leiter Großprojekte ABS/NBS Hamburg-Hannover bei der DB InfraGO AG, sagte unter Verweis auf eine Vielzahl von Variantenprüfungen: Nur die Neubaustrecke erfülle alle Vorgaben und Ziele, habe weniger Schallbelastung, einen geringeren Eingriff in den Naturschutz, geringere landwirtschaftliche Flächenverbrauche und eine kürzere Bauweise als andere Varianten. Die Region profitiere zweifach von dem Neubau, sagte er. Einmal im vorhandenen Netz durch Pünktlichkeit, mehr Nahverkehr, einer Halbierung des Güterverkehrs und das Potential für einen „Express-Nahverkehr“. Zudem werde der Seehafenhinterland-Verkehr in Bezug auf Arbeitsplätze, Standortfaktor und Erreichbarkeit „nachhaltig gestärkt“. Bis zur Inbetriebnahme der Neubaustrecke sei eine Generalsanierung der Bestandstrecke geplant, so der Bahnvertreter. Neun Maßnahmen seien über das Programm zur Erhöhung der Schienenkapazität aus dem Klimaschutzpaket finanziert. Zudem erfolge der Einbau des modernen Signalsystems ETCS. Pro und Contra aus der Region Vertreter aus der Region bewerteten die Planungen unterschiedlich. Peter Dörsam, Bürgermeister der Samtgemeinde Tostedt, lehnte den Neubau ab und sprach sich für einen bedarfsgerechten Ausbau von Bestandsstrecken im Dreieck Bremen-Hamburg-Hannover (Alpha-Variante E) aus. Für die Neubaustrecke, so Dörsam, gebe es eine Gesamtwertprognose von 14,1 Milliarden Euro. In die Nutzen-Kostenberechnung sei aber der Wert von 8,8 Milliarden Euro angesetzt worden. Hätte man die von Bund und Bahn bestätigte Gesamtwertprognose angesetzt, hätte das Nutzen-Kosten-Verhältnis (NKV) bei unter 1,0 gelegen, was eine Finanzierung mit Haushaltsmitteln ausgeschlossen hätte. Dem hielt im Verlaufe der Sitzung ein Vertreter des Verkehrsministeriums entgegen, bei der Kosten-Nutzen-Analyse seien die Ansätze des Jahres 2021 genutzt worden. Nehme man bei den Kosten den prognostizierten inflationsbedingten Wert von 2050 an (14,1 Milliarden Euro) müsse man auf die andere Seite auch einen deutlich höheren inflationsbedingten Nutzen stellen. Angesichts einer geplanten Inbetriebnahme 2050 oder 2065 bestehe in der Region die sehr große Sorge, dass sich die gegenwärtig nicht akzeptable verkehrliche Situation „in der Zeit bis dahin nicht im erforderlichen Maße verbessern wird“, sagte Jens Grote, Landrat des Landkreises Heidekreis. Der im Dialogforum Schiene Nord in einem „beispielgebenden partizipativen Prozess“ erzielte Kompromiss habe eine Perspektive auf zeitnahe Verbesserung gebracht. Er sei aber nicht umgesetzt worden. Die Schwierigkeiten insbesondere für Pendler seien geblieben. „Wir brauchen jetzt Lösungen“, sagte Grote. Verlagere man das Ganze in die Zukunft, „passiert in der Zwischenzeit im Zweifel nichts“, warnte er. Daher wende er sich - wie auch die Landkreise Celle, Uelzen und Harburg sowie das Land Niedersachsen geschlossen gegen das Neubauvorhaben. Die Oberbürgermeisterin der Hansestadt Lüneburg, Claudia Kalisch, ist hingegen für die Neubaustrecke. Die Trasse sei die einzige Möglichkeit, die südliche Metropolregion inklusive Lüneburg über die Schiene an Hamburg anzubinden. Um hier die dringend benötigten zusätzlichen Kapazitäten für den Regional- und Pendelverkehr zu schaffen und ein starkes Angebot machen zu können, brauche es eine Entlastung der Bestandsstrecke. „Diese Entlastung wird nur mit einer Neubautrasse zwischen Hamburg und Hannover erreicht, worüber Güterverkehr und Teile des Fernverkehrs fließen können, die derzeit die Bestandsstrecke nutzen“, sagte Kalisch. Wer die Neubaustrecke ablehnt, lehne gleichzeitig eine entscheidende Verbesserung im Schienenverkehr ab, die weit mehr als nur lokale Interessen betrifft. Kalisch machte zudem deutlich, dass die geplanten Generalsanierung benötigt werde, „um den akuten Zustand irgendwie aufzufangen“. Flaschenhals Korridor Hamburg-Hannover Für die Neubaustrecke sprach sich auch Lukas Iffländer, Bundesvorsitzender des Fahrgastverbandes PRO BAHN, aus. Die Auslastung der Strecke habe 2023 bei 147 Prozent der betrieblich zulässigen Werte gelegen. Verbesserungsmaßnahmen auf der Bestandsstrecke könnten die Kapazität zwischen Lüneburg und Uelzen nach Angaben der DB InfraGO aber um lediglich acht Prozent steigern. Zusätzliche Angebote können aufgrund der hohen Auslastung nicht verwirklicht werden. Nur die Vorzugsvariante löse diesen Engpass nachhaltig. Sie erfülle als einzige Variante die verkehrlichen, rechtlichen und wirtschaftlichen Anforderungen des gültigen Bedarfsplans und ermögliche die im Deutschlandtakt vorgesehene Reisezeit von 63 Minuten zwischen Hannover-Hauptbahnhof und Hamburg-Hauptbahnhof, sagte Iffländer. Der Korridor Hamburg-Hannover sei kein regionales, sondern „ein Schlüsselprojekt im gesamtnorddeutschen Hafenhinterland als Hauptachse“, sagte Lutz Könner, Geschäftsführer des Zentralverbandes der deutschen Seehafenbetriebe (ZDS). Funktioniert sie nicht, funktioniere ein erheblicher Teil der deutschen Ex- und Importlogistik nicht effizient. Ohne Aus- und Neubau würden die Wachstumspotenziale der Häfen begrenzt. Mit dem Aus- und Neubau gelinge ein deutlicher Kapazitätssprung und würden die Lieferketten stabilisieren. Neben der kurzfristig dringend nötigen Ertüchtigung und Optimierung der Bestandstrecke führe an einem zweigleisigen Neubau „kein Weg vorbei“, sagte Könner. Für Kay Rabe von Kühlewein vom VCD Landesverband Niedersachsen kommt ebenfalls nur ein Neubau in Frage. Auch eine kommende Generalsanierung 2029 löse das Kapazitätsproblem der Strecke nicht. Ein Neubau ist aus seiner Sicht auch in der Bauzeit die schnellste und kostengünstigste Variante. Bestandsausbauten würden aufgrund von schwierigeren Bauverhältnissen „teilweise Jahrzehnte länger dauern“. Zudem profitiere die Region von neuen Optionen beim Nahverkehr, so Rabe von Kühlewein. Trotzdem kann aus seiner Sicht die präsentierte Vorzugsvariante noch entscheidend verbessert werden. Das betreffe die Finanzierung der Regionalhalte, den Lärmschutz oder eine „naturverträglichen Führung“ entlang der Bundesautobahn A7. Eine extrem teure Planung Prof. Thomas Siefer von der Technischen Universität Braunschweig sprach von einer extrem teuren Planung. 14 Minuten Fahrzeiteinsparung stünden Kosten in Höhe von 14 Milliarden Euro gegenüber. „Wir erreichen also eine Minute Fahrzeitgewinn mit einer Milliarde Euro“, rechnete er vor. Bei anderen Projekten in Deutschland sei der Preis deutlich geringer gewesen. Die aktuellen Planungen bedeuteten für Lüneburg, Uelzen und Celle zudem eine Verringerung des Angebotes. Reisende aus diesen Städten müssten den Nahverkehr nutzen, um in Hamburg oder Hannover den Fernverkehr zu erreichen. Jeder erzwungene Umstieg reduziere aber die Attraktivität einer Verbindung. Denkbare Alternativen sind aus Sicht Siefers ein Ausbau vorhandener Strecken sowie eine Neubaustrecke für den Güterverkehr von Lüneburg bis Uelzen. Ebenfalls abgelehnt wurde der Neubau von Omid Najafi (AfD), Mitglied des Landtages von Niedersachsen, und dort Mitglied im Ausschuss für Wirtschaft, Verkehr, Bauen und Digitalisierung. Stattdessen müsse der beschleunigten Fertigstellung der Autobahn A 20 samt einer weiteren Elbquerung westlich von Hamburg höchste Priorität eingeräumt und deren Finanzierung gesichert werden, forderte er. Im Zuge der Generalsanierung sei zudem die dreigleisige Ertüchtigung der Strecke Uelzen Lüneburg zu prüfen und nach Möglichkeit zu realisieren, „um aus reinen Modellierungen ein tatsächlich messbares Faktum zu schaffen, aus dem sich weitere Bedarfsberechnungen ableiten lassen können“ . (hau/20.04.2026)",
+    "oeffentlich": false,
+    "ort": "Berlin, Marie-Elisabeth-Lüders-Haus, Sitzungssaal 3.101 (Anhörungssaal)",
+    "start": "2026-04-20T13:00:00"
+   },
+   "datum": "2026-04-20",
+   "titel": "Anhörung „Ausbaustrecke/Neubaustrecke Hannover – Hamburg“",
+   "ts": 1792492632.4357924
+  },
+  "1215508": {
+   "daten": {
+    "anmeldung": "",
+    "docs": [
+     {
+      "href": "https://dserver.bundestag.de/btd/21/074/2107404.pdf",
+      "titel": "21/7404"
+     },
+     {
+      "href": "https://www.bundestag.de/resource/blob/1222018/38-Sitzung-05-10-2026.pdf",
+      "titel": "Tagesordnung der 38. Sitzung des Verkehrsausschusses am Montag, den 5. Oktober 2026, 11.00 Uhr"
+     },
+     {
+      "href": "https://www.bundestag.de/resource/blob/1222356/38-Sitzung-05-10-2026-1-Ergaenzungsmitteilung.pdf",
+      "titel": "1. Änderungsmitteilung zur Tagesordnung der 38. Sitzung des Verkehrsausschusses am Montag, den 05. Oktober 2026, 11.00 Uhr"
+     },
+     {
+      "href": "https://www.bundestag.de/resource/blob/1215510/Liste-der-Auskunftspersonen.pdf",
+      "titel": "Liste der Auskunftspersonen der Anhörung am 05.10.2026"
+     },
+     {
+      "href": "https://www.bundestag.de/resource/blob/1215516/Stellungnahme-Kossmann-BASt.pdf",
+      "titel": "Stellungnahme von Dr. Ingo Koßmann (Bundesanstalt für Straßen- und Verkehrswesen)"
+     },
+     {
+      "href": "https://www.bundestag.de/resource/blob/1221858/Stellungnahme-Waschke-ACE.pdf",
+      "titel": "Stellungnahme des ACE Auto Club Europa e. V."
+     },
+     {
+      "href": "https://www.bundestag.de/resource/blob/1221860/Stellungnahme-Ewers-Lauer-DFA.pdf",
+      "titel": "Stellungnahme der Deutschen Fahrlehrer-Akademie e. V."
+     },
+     {
+      "href": "https://www.bundestag.de/resource/blob/1221870/Stellungnahme-Chiellino-ADAC.pdf",
+      "titel": "Stellungnahme des ADAC e. V."
+     },
+     {
+      "href": "https://www.bundestag.de/resource/blob/1222032/Stellungnahme-Kopp-BVF.pdf",
+      "titel": "Stellungnahme der Bundesvereinigung der Fahrlehrerverbände e. V. (BVF)"
+     },
+     {
+      "href": "https://www.bundestag.de/resource/blob/1222030/Stellungnahme-Tiessen.pdf",
+      "titel": "Stellungnahme von Gerhard Tiessen (A&G Fahrschul Akademie GmbH)"
+     },
+     {
+      "href": "https://www.bundestag.de/resource/blob/1222076/Stellungnahme-Engelhardt-BGL.pdf",
+      "titel": "Stellungnahme des Bundesverbandes Güterkraftverkehr Logistik und Entsorgung e. V. (BGL)"
+     }
+    ],
+    "end": "2026-10-05T13:00:00",
+    "frist": "",
+    "gegenstand": "Bei einer öffentlichen Anhörung des Verkehrsausschusses am Montag, 5. Oktober 2026, stieß der Gesetzentwurf „zur Änderung des Fahrlehrergesetzes und anderer straßenverkehrsrechtlicher Gesetze“ (21/7404(Dokument, öffnet ein neues Fenster)) unter anderem beim ADAC und beim Bundesverband Güterkraftverkehr Logistik und Entsorgung auf Zustimmung. Skeptisch zeigten sich indes Vertreterinnen und Vertreter aus der Fahrschulbranche, die vor Gefahren für die Verkehrssicherheit warnten. Gesetzentwurf der Bundesregierung Die geplante Reform der Fahrschulausbildung verfolgt unter anderem das Ziel, die Kosten für den Führerscheinerwerb zu reduzieren. Darüber hinaus sollen insbesondere Verwaltungsverfahren in dem zum 1. Januar 2018 reformierten Fahrlehrerrecht verbessert und Bürokratie abgebaut werden. Laut Gesetzentwurf soll künftig die Präsenzpflicht für den Theorieunterricht wegfallen. Zukünftig soll es möglich sein, sich das Wissen auch vollständig digital - etwa per App – anzueignen. Außerdem soll das komplexe Bewertungssystem bei der Theorieprüfung vereinfacht und der Umfang des Fragenkatalogs reduziert werden. Die praktische Fahrausbildung soll ebenfalls modernisiert werden. Eine Experimentierklausel im Gesetzentwurf soll es zudem ermöglichen, dass Fahrschüler künftig unter der Anleitung von nahestehenden Personen, wie beispielsweise den Eltern, Fahrpraxis auf öffentlichen Straßen erwerben dürfen. Unterstützung einer modernen Fahrausbildung Die Bundesvereinigung der Fahrlehrerverbände unterstütze eine moderne, flexible Fahrausbildung, sagte deren Vorsitzender Jürgen Kopp während der Anhörung. Digitalisierung, beschleunigte Verwaltungsverfahren, verlässliche Prüfungskapazitäten und eine kompetenzorientierte Ausbildungssteuerung böten dafür konkrete Ansatzpunkte. Voraussetzung sei aber, so Kopp, „dass die Fahrschulbindung erhalten bleibt, ein verbindlicher Präsenzanteil gesichert wird und die Prüfungsreife anhand nachvollziehbarer Lernstandskontrollen festgestellt wird“. Kostensenkungen müssten durch bessere Abläufe und geeignete Ausbildungsstrukturen erreicht werden. Abstriche bei sicherheitsrelevanten Kompetenzen dürfen hierfür nicht in Kauf genommen werden, machte er deutlich. Ähnlich äußerte sich Claudia Maria Ewers-Lauer, Präsidentin der Deutschen Fahrlehrer-Akademie. Eine Reform sei ausdrücklich zu begrüßen. Klar sei aber auch, dass Fahrschüler eine professionelle Ausbildung benötigen. „Sie benötigen persönliche Lernbegleitung sowie ausreichende Möglichkeiten zum gemeinsamen Lernen und zum gemeinsamen Reflektieren“, sagte sie. Anstatt die hochqualifizierte pädagogische Kompetenz der Fahrlehrerschaft zu nutzen, drohe durch die vorgeschlagenen Maßnahmen jedoch eine Geringschätzung der professionellen Ausbildung und eine damit einhergehende Gefährdung der Verkehrssicherheit, kritisierte Ewers-Lauer. Rolle der Fahrlehrer Aus Sicht von Tom Gerhard Tiessen von der A&G Fahrschul-Akademie GmbH in Lengede enthält der Gesetzentwurf „zahlreiche sinnvolle und längst überfällige Reformansätze“. Die Vereinfachung des Fragenkatalogs, die Entbürokratisierung, die Modernisierung des Bewertungssystems, die Flexibilisierung der Sonderfahrten sowie die Verkürzung der praktischen Fahrerlaubnisprüfung seien ausdrücklich zu begrüßen. Gleichzeitig sollten die vollständige Digitalisierung des Theorieunterrichts, die aktuelle Ausgestaltung der Schaltkompetenzregelung, die geplante Laienausbildung, die Lockerung von Standort- und Raumvorgaben sowie die konkrete Ausgestaltung des Transparenzregisters erneut kritisch überprüft werden, forderte Tiessen. Der Führerschein müsse bezahlbar bleiben. Gleichzeitig dürfte aber Verkehrssicherheit, Ausbildungsqualität und Chancengleichheit nicht geschwächt werden. Von einer „Deklassierung der pädagogisch qualifizierten Fahrlehrerschaft“, sprach Andreas Dietrich, Fahrlehrer und Inhaber einer Fahrschule. Die Rolle der professionellen Lehrkraft werde durch Öffnung der Laienausbildung und der reinen digitalen Ausbildung unterlaufen. Dadurch würden sowohl die Qualität der Ausbildung als auch die Verkehrssicherheit „extrem gefährdet“, befand Dietrich. Kritik an Begrifflichkeiten Ulrich Chiellino, Leiter Verkehrspolitik beim Allgemeinen Deutschen Automobil-Club (ADAC), sah das anders. Eine Flexibilisierung der Fahrausbildung im Rahmen der EU-Führerscheinrichtlinie könnte seiner Auffassung nach in Deutschland dazu beitragen, die Kosten für den Erwerb der Fahrerlaubnis um bis zu einem Drittel zu reduzieren. Zugleich biete sich so die Chance, die Fahrpraxis vor der Prüfung deutlich zu erhöhen. Der ADAC-Vertreter kritisierte im Gesetzentwurf genutzte Begrifflichkeiten, die die Reform in ein negatives Licht rückten. So könne von einer Laienausbildung nicht gesprochen werden, befand er. Der Begriff suggeriere, dass Eltern ausbilden sollen, was aber nicht vorgesehen sei. Vielmehr handle es sich in der Fahrpraxis um „Übungsstunden im vertrauten Umfeld“. Die Ausbildung indes verbleibe in der Fahrschule. Prof. Dr. Dirk Engelhardt, Vorstandssprecher des Bundesverbands Güterkraftverkehr Logistik und Entsorgung (BGL), begrüßte den Entwurf insbesondere mit Blick auf den akuten Mangel an Berufskraftfahrern in der Transportbranche, der mit inzwischen etwa 120.000 fehlenden Lkw-Fahrern die Versorgungssicherheit in Deutschland stark gefährde. Aus Sicht der Transportwirtschaft sollte die Reform allerdings noch stärker dafür genutzt werden, auch die Ausbildung für die Fahrerlaubnisklassen C und CE in den Blick zu nehmen und bestehende regulatorische Hemmnisse beim Zugang zum Berufskraftfahrerberuf abzubauen, sagte er. Engelhardt sprach sich daher für den Wegfall der Theorieprüfung bei der Erweiterung von C auf CE aus. Des Weiteren warb er für eine Verkürzung der Prüfungszeiten bei C und CE sowie für eine Verzahnung von Führerschein und Berufskraftfahrerqualifikation. Kosten des Fahrerlaubniserwerbs Es handle sich um eine Reform, „die den Namen verdient“, urteilte Direktor und Professor Dr. Ingo Koßmann, Leiter der Abteilung Verhalten und Sicherheit im Verkehr bei der Bundesanstalt für Straßen- und Verkehrswesen (BASt). Dem Bundesverkehrsministerium sei damit „ein richtig guter Wurf gelungen“. Fahrschulen könnten künftig selbst entscheiden, ob und in welcher Form sie die theoretische Ausbildung anbieten. Auch orientiere sich die praktische Ausbildung nicht mehr an starren Mindeststundenvorgaben, sondern stärker am individuellen Ausbildungsstand und am tatsächlichen Kompetenzerwerb. Die Fahrpraxis unter Anleitung vor der praktischen Fahrerlaubnisprüfung nutze Erkenntnisse aus Studien zum begleiteten Fahren mit 17 Jahren, die die positive Wirkung der Begleitung auf die Verkehrssicherheit und die Bestehensquoten wissenschaftlich belegt hätten, sagte Koßmann. Für Marc-Philipp Waschke-Deden, Ressortleiter Interessenvertretung und Strategie beim Auto Club Europa (ACE), bietet die Reform die Chance, die Fahrausbildung nach fast 30 Jahren grundlegend zu modernisieren. Digitalisierung und Flexibilisierung könnten dazu beitragen. „Sie dürfen aber nicht durch Abstriche bei Ausbildungsqualität, Prüfung und Verkehrssicherheit erkauft werden“, betonte er. Entscheidend seien verbindliche Qualitätsstandards, eine kontinuierliche Lernstandskontrolle und eine frühzeitige wissenschaftliche Evaluation der tiefgreifenden Veränderungen. Bezahlbarkeit müsse zudem sozial gedacht werden, so der ACE-Vertreter, der ergänzend ein einkommensabhängiges „Führerschein-BAföG“ vorschlug. So würden gezielt diejenigen jungen Menschen unterstützt, „für die die Kosten des Fahrerlaubniserwerbs tatsächlich eine Zugangshürde darstellen“. (hau/05.10.2026)",
+    "oeffentlich": false,
+    "ort": "Berlin, Paul-Löbe-Haus, Sitzungssaal E.700",
+    "start": "2026-10-05T11:00:00"
+   },
+   "datum": "2026-10-05",
+   "titel": "Anhörung „Führerscheinreform“",
+   "ts": 1792492632.4357924
+  },
+  "1222698": {
+   "daten": {
+    "anmeldung": "https://registration.bundestag.de/#/events/d62ab326-f394-4e03-b7ce-c354aab1e570",
+    "docs": [
+     {
+      "href": "https://dserver.bundestag.de/btd/21/071/2107155.pdf",
+      "titel": "21/7155"
+     }
+    ],
+    "end": "2026-12-07T14:30:00",
+    "frist": "",
+    "gegenstand": "Unterrichtung durch die Bundesregierung Bericht über das Ergebnis der Vorplanung und der frühen Öffentlichkeitsbeteiligung der Neubaustrecke Frankfurt – Mannheim Bundestagsdrucksache 21/7155(Dokument, öffnet ein neues Fenster)",
+    "oeffentlich": true,
+    "ort": "Berlin, Marie-Elisabeth-Lüders-Haus, Sitzungssaal 3.101 (Anhörungssaal)",
+    "start": "2026-12-07T12:30:00"
+   },
+   "datum": "2026-12-07",
+   "titel": "Anhörung „Neubaustrecke Frankfurt – Mannheim“",
+   "ts": 1792492632.4357924
+  },
+  "1223022": {
+   "daten": {
+    "anmeldung": "https://registration.bundestag.de/#/events/ca53333c-4422-4c79-bf8a-9cd2fb992d80",
+    "docs": [
+     {
+      "href": "https://dserver.bundestag.de/btd/21/074/2107403.pdf",
+      "titel": "21/7403"
+     }
+    ],
+    "end": "2026-11-11T13:00:00",
+    "frist": "",
+    "gegenstand": "Gesetzentwurf der Bundesregierung Entwurf eines Siebzehnten Gesetzes zur Änderung des Luftverkehrsgesetzes Bundestagsdrucksache 21/7403(Dokument, öffnet ein neues Fenster)",
+    "oeffentlich": true,
+    "ort": "Berlin, Paul-Löbe-Haus, Sitzungssaal E.600",
+    "start": "2026-11-11T11:00:00"
+   },
+   "datum": "2026-11-11",
+   "titel": "Anhörung „Luftverkehrsgesetz“",
+   "ts": 1792492632.4357924
+  }
+ },
+ "dokumente": {
+  "https://www.bundestag.de/resource/blob/1122072/13-Sitzung-12-11-2025.pdf": {
+   "href": "https://www.bundestag.de/resource/blob/1122072/13-Sitzung-12-11-2025.pdf",
+   "titel": "Tagesordnung der 13. Sitzung des Verkehrsausschusses am Mittwoch, den 12. November 2025, 08.30 Uhr",
+   "veroeff": "2025-11-06"
+  },
+  "https://www.bundestag.de/resource/blob/1125794/13-Sitzung-12-11-2025-1-Ergaenzungsmitteilung.pdf": {
+   "href": "https://www.bundestag.de/resource/blob/1125794/13-Sitzung-12-11-2025-1-Ergaenzungsmitteilung.pdf",
+   "titel": "1. Ergänzungsmitteilung zur Tagesordnung der 13. Sitzung des Verkehrsausschusses am Mittwoch, den 12. November 2025, 8.30 Uhr",
+   "veroeff": "2025-11-10"
+  },
+  "https://www.bundestag.de/resource/blob/1127686/14-Sitzung-25-11-2025.pdf": {
+   "href": "https://www.bundestag.de/resource/blob/1127686/14-Sitzung-25-11-2025.pdf",
+   "titel": "Tagesordnung der 14. Sitzung des Verkehrsausschusses am Dienstag, den 25. November 2025, 08.00 Uhr",
+   "veroeff": "2025-11-24"
+  },
+  "https://www.bundestag.de/resource/blob/1128114/15-Sitzung-03-12-2025.pdf": {
+   "href": "https://www.bundestag.de/resource/blob/1128114/15-Sitzung-03-12-2025.pdf",
+   "titel": "Tagesordnung der 15. Sitzung des Verkehrsausschusses am Mittwoch, den 3. Dezember 2025, 08.30 Uhr",
+   "veroeff": "2025-11-27"
+  },
+  "https://www.bundestag.de/resource/blob/1128532/15-Sitzung-03-12-2025-1-Ergaenzungsmitteilung.pdf": {
+   "href": "https://www.bundestag.de/resource/blob/1128532/15-Sitzung-03-12-2025-1-Ergaenzungsmitteilung.pdf",
+   "titel": "1. Ergänzungsmitteilung zur Tagesordnung der 15. Sitzung des Verkehrsausschusses am Mittwoch, den 3. Dezember 2025, 8.30 Uhr",
+   "veroeff": "2025-12-01"
+  },
+  "https://www.bundestag.de/resource/blob/1128626/15-Sitzung-03-12-2025-2-Ergaenzungsmitteilung.pdf": {
+   "href": "https://www.bundestag.de/resource/blob/1128626/15-Sitzung-03-12-2025-2-Ergaenzungsmitteilung.pdf",
+   "titel": "2. Ergänzungsmitteilung zur Tagesordnung der 15. Sitzung des Verkehrsausschusses am Mittwoch, den 3. Dezember 2025, 8.30 Uhr",
+   "veroeff": "2025-12-02"
+  },
+  "https://www.bundestag.de/resource/blob/1129694/16-Sitzung-17-12-2025.pdf": {
+   "href": "https://www.bundestag.de/resource/blob/1129694/16-Sitzung-17-12-2025.pdf",
+   "titel": "Tagesordnung der 16. Sitzung des Verkehrsausschusses am Mittwoch, den 17. Dezember 2025, 08.30 Uhr",
+   "veroeff": "2025-12-12"
+  },
+  "https://www.bundestag.de/resource/blob/1132232/16-Sitzung-17-12-2025-1-Ergaenzungsmitteilung.pdf": {
+   "href": "https://www.bundestag.de/resource/blob/1132232/16-Sitzung-17-12-2025-1-Ergaenzungsmitteilung.pdf",
+   "titel": "1. Ergänzungsmitteilung zur Tagesordnung der 16. Sitzung des Verkehrsausschusses am Mittwoch, den 17. Dezember 2025, 8.30 Uhr",
+   "veroeff": "2025-12-12"
+  },
+  "https://www.bundestag.de/resource/blob/1132508/16-Sitzung-17-12-2025-2-Ergaenzungsmitteilung.pdf": {
+   "href": "https://www.bundestag.de/resource/blob/1132508/16-Sitzung-17-12-2025-2-Ergaenzungsmitteilung.pdf",
+   "titel": "2. Ergänzungsmitteilung zur Tagesordnung der 16. Sitzung des Verkehrsausschusses am Mittwoch, den 17. Dezember 2025, 8.30 Uhr",
+   "veroeff": "2025-12-15"
+  },
+  "https://www.bundestag.de/resource/blob/1135744/17-Sitzung-14-01-2026.pdf": {
+   "href": "https://www.bundestag.de/resource/blob/1135744/17-Sitzung-14-01-2026.pdf",
+   "titel": "Tagesordnung der 17. Sitzung des Verkehrsausschusses am Mittwoch, den 14. Januar 2026, 08.30 Uhr",
+   "veroeff": "2026-01-08"
+  },
+  "https://www.bundestag.de/resource/blob/1136170/17-Sitzung-14-01-2026-1-Ergaenzungsmitteilung.pdf": {
+   "href": "https://www.bundestag.de/resource/blob/1136170/17-Sitzung-14-01-2026-1-Ergaenzungsmitteilung.pdf",
+   "titel": "1. Ergänzungsmitteilung zur Tagesordnung der 17. Sitzung des Verkehrsausschusses am Mittwoch, den 14. Januar 2026, 8.30 Uhr",
+   "veroeff": "2026-01-12"
+  },
+  "https://www.bundestag.de/resource/blob/1139250/18-Sitzung-26-01-2026.pdf": {
+   "href": "https://www.bundestag.de/resource/blob/1139250/18-Sitzung-26-01-2026.pdf",
+   "titel": "Tagesordnung der 18. Sitzung des Verkehrsausschusses am Montag, den 26. Januar 2026, 13.00 Uhr",
+   "veroeff": "2026-01-22"
+  },
+  "https://www.bundestag.de/resource/blob/1139256/19-Sitzung-28-01-2026.pdf": {
+   "href": "https://www.bundestag.de/resource/blob/1139256/19-Sitzung-28-01-2026.pdf",
+   "titel": "Tagesordnung der 19. Sitzung des Verkehrsausschusses am Mittwoch, den 28. Januar 2026, 08.30 Uhr",
+   "veroeff": "2026-01-22"
+  },
+  "https://www.bundestag.de/resource/blob/1139526/18-Sitzung-26-01-2026-1-Aenderungsmitteilung.pdf": {
+   "href": "https://www.bundestag.de/resource/blob/1139526/18-Sitzung-26-01-2026-1-Aenderungsmitteilung.pdf",
+   "titel": "1. Änderungsmitteilung zur Tagesordnung der 18. Sitzung des Verkehrsausschusses am Montag, den 26. Januar 2026, 13.00 Uhr",
+   "veroeff": "2026-01-26"
+  },
+  "https://www.bundestag.de/resource/blob/1139632/19-Sitzung-28-01-2026-1-Ergaenzungsmitteilung.pdf": {
+   "href": "https://www.bundestag.de/resource/blob/1139632/19-Sitzung-28-01-2026-1-Ergaenzungsmitteilung.pdf",
+   "titel": "1. Ergänzungsmitteilung zur Tagesordnung der 19. Sitzung des Verkehrsausschusses am Mittwoch, den 28. Januar 2026, 8.30 Uhr",
+   "veroeff": "2026-01-26"
+  },
+  "https://www.bundestag.de/resource/blob/1140088/20-Sitzung-28-01-2026.pdf": {
+   "href": "https://www.bundestag.de/resource/blob/1140088/20-Sitzung-28-01-2026.pdf",
+   "titel": "Tagesordnung der 20. Sitzung des Verkehrsausschusses am Mittwoch, den 28. Januar 2026, 20.30 Uhr",
+   "veroeff": "2026-01-28"
+  },
+  "https://www.bundestag.de/resource/blob/1149142/21-Sitzung-23-02-2026.pdf": {
+   "href": "https://www.bundestag.de/resource/blob/1149142/21-Sitzung-23-02-2026.pdf",
+   "titel": "Tagesordnung der 21. Sitzung des Verkehrsausschusses am Montag, den 23. Februar 2026, 13.00 Uhr",
+   "veroeff": "2026-02-19"
+  },
+  "https://www.bundestag.de/resource/blob/1149144/22-Sitzung-25-02-2026.pdf": {
+   "href": "https://www.bundestag.de/resource/blob/1149144/22-Sitzung-25-02-2026.pdf",
+   "titel": "Tagesordnung der 22. Sitzung des Verkehrsausschusses am Mittwoch, den 25. Februar 2026, 08.30 Uhr",
+   "veroeff": "2026-02-19"
+  },
+  "https://www.bundestag.de/resource/blob/1149402/22-Sitzung-25-02-2026-1-Ergaenzungsmitteilung.pdf": {
+   "href": "https://www.bundestag.de/resource/blob/1149402/22-Sitzung-25-02-2026-1-Ergaenzungsmitteilung.pdf",
+   "titel": "1. Ergänzungsmitteilung zur Tagesordnung der 22. Sitzung des Verkehrsausschusses am Mittwoch, den 25. Februar 2026, 8.30 Uhr",
+   "veroeff": "2026-02-23"
+  },
+  "https://www.bundestag.de/resource/blob/1149492/22-Sitzung-25-02-2026-2-Ergaenzungsmitteilung.pdf": {
+   "href": "https://www.bundestag.de/resource/blob/1149492/22-Sitzung-25-02-2026-2-Ergaenzungsmitteilung.pdf",
+   "titel": "2. Ergänzungsmitteilung zur Tagesordnung der 22. Sitzung des Verkehrsausschusses am Mittwoch, den 25. Februar 2026, 8.30 Uhr",
+   "veroeff": "2026-02-23"
+  },
+  "https://www.bundestag.de/resource/blob/1150234/23-Sitzung-02-03-2026.pdf": {
+   "href": "https://www.bundestag.de/resource/blob/1150234/23-Sitzung-02-03-2026.pdf",
+   "titel": "Tagesordnung der 23. Sitzung des Verkehrsausschusses am Montag, den 2. März 2026, 15.00 Uhr",
+   "veroeff": "2026-02-25"
+  },
+  "https://www.bundestag.de/resource/blob/1150396/24-Sitzung-04-03-2026.pdf": {
+   "href": "https://www.bundestag.de/resource/blob/1150396/24-Sitzung-04-03-2026.pdf",
+   "titel": "Tagesordnung der 24. Sitzung des Verkehrsausschusses am Mittwoch, den 4. März 2026, 08.30 Uhr",
+   "veroeff": "2026-02-26"
+  },
+  "https://www.bundestag.de/resource/blob/1150822/23-Sitzung-02-03-2026-1-Aenderungsmitteilung.pdf": {
+   "href": "https://www.bundestag.de/resource/blob/1150822/23-Sitzung-02-03-2026-1-Aenderungsmitteilung.pdf",
+   "titel": "1. Änderungsmitteilung zur Tagesordnung der 23. Sitzung des Verkehrsausschusses am Montag, den 2. März 2026, 15.00 Uhr",
+   "veroeff": "2026-03-02"
+  },
+  "https://www.bundestag.de/resource/blob/1150906/24-Sitzung-04-03-2026-1-Ergaenzungsmitteilung.pdf": {
+   "href": "https://www.bundestag.de/resource/blob/1150906/24-Sitzung-04-03-2026-1-Ergaenzungsmitteilung.pdf",
+   "titel": "1. Ergänzungsmitteilung zur Tagesordnung der 24. Sitzung des Verkehrsausschusses am Mittwoch, den 4. März 2026, 8.30 Uhr",
+   "veroeff": "2026-02-23"
+  },
+  "https://www.bundestag.de/resource/blob/1151142/24-Sitzung-04-03-2026-2-Ergaenzungsmitteilung.pdf": {
+   "href": "https://www.bundestag.de/resource/blob/1151142/24-Sitzung-04-03-2026-2-Ergaenzungsmitteilung.pdf",
+   "titel": "2. Ergänzungsmitteilung zur Tagesordnung der 24. Sitzung des Verkehrsausschusses am Mittwoch, den 4. März 2026, 8.30 Uhr",
+   "veroeff": "2026-03-03"
+  },
+  "https://www.bundestag.de/resource/blob/1155414/25-Sitzung-16-03-2026.pdf": {
+   "href": "https://www.bundestag.de/resource/blob/1155414/25-Sitzung-16-03-2026.pdf",
+   "titel": "Tagesordnung der 25. Sitzung des Verkehrsausschusses am Montag, den 16. März 2026, 13.00 bis ca. 15.30 Uhr",
+   "veroeff": "2026-03-12"
+  },
+  "https://www.bundestag.de/resource/blob/1155416/26-Sitzung-18-03-2026.pdf": {
+   "href": "https://www.bundestag.de/resource/blob/1155416/26-Sitzung-18-03-2026.pdf",
+   "titel": "Tagesordnung der 26. Sitzung des Verkehrsausschusses am Mittwoch, den 18. März 2026, 08.30 Uhr",
+   "veroeff": "2026-03-12"
+  },
+  "https://www.bundestag.de/resource/blob/1156668/27-Sitzung-25-03-2026.pdf": {
+   "href": "https://www.bundestag.de/resource/blob/1156668/27-Sitzung-25-03-2026.pdf",
+   "titel": "Tagesordnung der 27. Sitzung des Verkehrsausschusses am Mittwoch, den 25. März 2026, 08.30 Uhr",
+   "veroeff": "2026-03-19"
+  },
+  "https://www.bundestag.de/resource/blob/1157228/27-Sitzung-25-03-2026-1-Ergaenzungsmitteilung.pdf": {
+   "href": "https://www.bundestag.de/resource/blob/1157228/27-Sitzung-25-03-2026-1-Ergaenzungsmitteilung.pdf",
+   "titel": "1. Ergänzungsmitteilung zur Tagesordnung der 27. Sitzung des Verkehrsausschusses am Mittwoch, den 25. März 2026, 8.30 Uhr",
+   "veroeff": "2026-03-23"
+  },
+  "https://www.bundestag.de/resource/blob/1157562/27-Sitzung-25-03-2026-2-Ergaenzungsmitteilung.pdf": {
+   "href": "https://www.bundestag.de/resource/blob/1157562/27-Sitzung-25-03-2026-2-Ergaenzungsmitteilung.pdf",
+   "titel": "2. Ergänzungsmitteilung zur Tagesordnung der 27. Sitzung des Verkehrsausschusses am Mittwoch, den 25. März 2026, 8.30 Uhr",
+   "veroeff": "2026-03-24"
+  },
+  "https://www.bundestag.de/resource/blob/1162138/28-Sitzung-15-04-2026.pdf": {
+   "href": "https://www.bundestag.de/resource/blob/1162138/28-Sitzung-15-04-2026.pdf",
+   "titel": "Tagesordnung der 28. Sitzung des Verkehrsausschusses am Mittwoch, den 15. April 2026, 08.30 Uhr",
+   "veroeff": "2026-04-09"
+  },
+  "https://www.bundestag.de/resource/blob/1165622/29-Sitzung-20-04-2026.pdf": {
+   "href": "https://www.bundestag.de/resource/blob/1165622/29-Sitzung-20-04-2026.pdf",
+   "titel": "Tagesordnung der 29. Sitzung des Verkehrsausschusses am Montag, den 20. April 2026, 13.00 bis ca. 16.00 Uhr",
+   "veroeff": "2026-04-15"
+  },
+  "https://www.bundestag.de/resource/blob/1165842/30-Sitzung-22-04-2026.pdf": {
+   "href": "https://www.bundestag.de/resource/blob/1165842/30-Sitzung-22-04-2026.pdf",
+   "titel": "Tagesordnung der 30. Sitzung des Verkehrsausschusses am Mittwoch, den 22. April 2026, 08.30 Uhr",
+   "veroeff": "2026-04-16"
+  },
+  "https://www.bundestag.de/resource/blob/1166498/30-Sitzung-22-04-2026-1-Ergaenzungsmitteilung.pdf": {
+   "href": "https://www.bundestag.de/resource/blob/1166498/30-Sitzung-22-04-2026-1-Ergaenzungsmitteilung.pdf",
+   "titel": "1. Ergänzungsmitteilung zur Tagesordnung der 30. Sitzung des Verkehrsausschusses am Mittwoch, den 22. April 2026, 8.30 Uhr",
+   "veroeff": "2026-04-20"
+  },
+  "https://www.bundestag.de/resource/blob/1166500/30-Sitzung-22-04-2026-2-Ergaenzungsmitteilung.pdf": {
+   "href": "https://www.bundestag.de/resource/blob/1166500/30-Sitzung-22-04-2026-2-Ergaenzungsmitteilung.pdf",
+   "titel": "2. Ergänzungsmitteilung zur Tagesordnung der 30. Sitzung des Verkehrsausschusses am Mittwoch, den 22. April 2026, 8.30 Uhr",
+   "veroeff": "2026-04-20"
+  },
+  "https://www.bundestag.de/resource/blob/1166714/30-Sitzung-22-04-2026-3-Ergaenzungsmitteilung.pdf": {
+   "href": "https://www.bundestag.de/resource/blob/1166714/30-Sitzung-22-04-2026-3-Ergaenzungsmitteilung.pdf",
+   "titel": "3. Ergänzungsmitteilung zur Tagesordnung der 30. Sitzung des Verkehrsausschusses am Mittwoch, den 22. April 2026, 8.30 Uhr",
+   "veroeff": "2026-04-21"
+  },
+  "https://www.bundestag.de/resource/blob/1173254/31-Sitzung-06-05-2026.pdf": {
+   "href": "https://www.bundestag.de/resource/blob/1173254/31-Sitzung-06-05-2026.pdf",
+   "titel": "Tagesordnung der 31. Sitzung des Verkehrsausschusses am Mittwoch, den 6. Mai 2026, 08.30 Uhr",
+   "veroeff": "2026-04-29"
+  },
+  "https://www.bundestag.de/resource/blob/1178306/32-Sitzung-20-05-2026.pdf": {
+   "href": "https://www.bundestag.de/resource/blob/1178306/32-Sitzung-20-05-2026.pdf",
+   "titel": "Tagesordnung der 32. Sitzung des Verkehrsausschusses am Mittwoch, den 20. Mai 2026, 08.30 Uhr",
+   "veroeff": "2026-05-13"
+  },
+  "https://www.bundestag.de/resource/blob/1183390/33-Sitzung-10-06-2026.pdf": {
+   "href": "https://www.bundestag.de/resource/blob/1183390/33-Sitzung-10-06-2026.pdf",
+   "titel": "Tagesordnung der 33. Sitzung des Verkehrsausschusses am Mittwoch, den 10. Juni 2026, 08.30 Uhr",
+   "veroeff": "2026-06-04"
+  },
+  "https://www.bundestag.de/resource/blob/1183480/33-Sitzung-10-06-2026-1-Ergaenzungsmitteilung.pdf": {
+   "href": "https://www.bundestag.de/resource/blob/1183480/33-Sitzung-10-06-2026-1-Ergaenzungsmitteilung.pdf",
+   "titel": "1. Ergänzungsmitteilung zur Tagesordnung der 33. Sitzung des Verkehrsausschusses am Mittwoch, den 10. Juni 2026, 8.30 Uhr",
+   "veroeff": "2026-06-05"
+  },
+  "https://www.bundestag.de/resource/blob/1188064/34-Sitzung-24-06-2026.pdf": {
+   "href": "https://www.bundestag.de/resource/blob/1188064/34-Sitzung-24-06-2026.pdf",
+   "titel": "Tagesordnung der 34. Sitzung des Verkehrsausschusses am Mittwoch, den 24. Juni 2026, 08.30 Uhr",
+   "veroeff": "2026-06-18"
+  },
+  "https://www.bundestag.de/resource/blob/1188066/35-Sitzung-25-06-2026.pdf": {
+   "href": "https://www.bundestag.de/resource/blob/1188066/35-Sitzung-25-06-2026.pdf",
+   "titel": "Tagesordnung der 35. Sitzung des Verkehrsausschusses am Donnerstag, den 25. Juni 2026, 07.30 Uhr",
+   "veroeff": "2026-06-18"
+  },
+  "https://www.bundestag.de/resource/blob/1193332/36-Sitzung-08-07-2026.pdf": {
+   "href": "https://www.bundestag.de/resource/blob/1193332/36-Sitzung-08-07-2026.pdf",
+   "titel": "Tagesordnung der 36. Sitzung des Verkehrsausschusses am Mittwoch, den 8. Juli 2026, 08.30 Uhr",
+   "veroeff": "2026-07-02"
+  },
+  "https://www.bundestag.de/resource/blob/1216250/37-Sitzung-23-09-2026.pdf": {
+   "href": "https://www.bundestag.de/resource/blob/1216250/37-Sitzung-23-09-2026.pdf",
+   "titel": "Tagesordnung der 37. Sitzung des Verkehrsausschusses am Mittwoch, den 23. September 2026, 08.30 Uhr",
+   "veroeff": "2026-09-17"
+  },
+  "https://www.bundestag.de/resource/blob/1222018/38-Sitzung-05-10-2026.pdf": {
+   "href": "https://www.bundestag.de/resource/blob/1222018/38-Sitzung-05-10-2026.pdf",
+   "titel": "Tagesordnung der 38. Sitzung des Verkehrsausschusses am Montag, den 5. Oktober 2026, 11.00 Uhr",
+   "veroeff": "2026-10-01"
+  },
+  "https://www.bundestag.de/resource/blob/1222022/39-Sitzung-07-10-2026.pdf": {
+   "href": "https://www.bundestag.de/resource/blob/1222022/39-Sitzung-07-10-2026.pdf",
+   "titel": "Tagesordnung der 39. Sitzung des Verkehrsausschusses am Mittwoch, den 7. Oktober 2026, 08.30 Uhr",
+   "veroeff": "2026-10-01"
+  },
+  "https://www.bundestag.de/resource/blob/1222356/38-Sitzung-05-10-2026-1-Ergaenzungsmitteilung.pdf": {
+   "href": "https://www.bundestag.de/resource/blob/1222356/38-Sitzung-05-10-2026-1-Ergaenzungsmitteilung.pdf",
+   "titel": "1. Änderungsmitteilung zur Tagesordnung der 38. Sitzung des Verkehrsausschusses am Montag, den 05. Oktober 2026, 11.00 Uhr",
+   "veroeff": "2026-10-05"
+  },
+  "https://www.bundestag.de/resource/blob/1222880/39-Sitzung-07-10-2026-1-Ergaenzungsmitteilung.pdf": {
+   "href": "https://www.bundestag.de/resource/blob/1222880/39-Sitzung-07-10-2026-1-Ergaenzungsmitteilung.pdf",
+   "titel": "1. Ergänzungsmitteilung zur Tagesordnung der 39. Sitzung des Verkehrsausschusses am Mittwoch, den 07. Oktober 2026, 08.30 Uhr",
+   "veroeff": "2026-10-06"
+  },
+  "https://www.bundestag.de/resource/blob/1223496/40-Sitzung-14-10-2026.pdf": {
+   "href": "https://www.bundestag.de/resource/blob/1223496/40-Sitzung-14-10-2026.pdf",
+   "titel": "Tagesordnung der 40. Sitzung des Verkehrsausschusses am Mittwoch, den 14. Oktober 2026, 08.30 Uhr",
+   "veroeff": "2026-10-08"
+  },
+  "https://www.bundestag.de/resource/blob/1224090/40-Sitzung-14-10-2026-1-Ergaenzungsmitteilung.pdf": {
+   "href": "https://www.bundestag.de/resource/blob/1224090/40-Sitzung-14-10-2026-1-Ergaenzungsmitteilung.pdf",
+   "titel": "1. Ergänzungsmitteilung zur Tagesordnung der 40. Sitzung des Verkehrsausschusses am Mittwoch, den 14. Oktober 2026, 8.30 Uhr",
+   "veroeff": "2026-10-12"
+  }
+ },
+ "to_vollstaendig": true
+}

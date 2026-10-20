@@ -1,0 +1,1903 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//bundestag-kalender//DE
+CALSCALE:GREGORIAN
+X-WR-TIMEZONE:Europe/Berlin
+X-WR-CALNAME:Bundestag: TEIL von Ausschuss Verkehr komplett: nur Plenum
+DESCRIPTION:Nur ein Teil des Kalenders Ausschuss Verkehr komplett: Plenarpu
+ nkte\, bei denen der Ausschuss Verkehr federführend ist. Nicht zusätzlic
+ h zum kompletten Kalender abonnieren.
+REFRESH-INTERVAL;VALUE=DURATION:PT15M
+X-PUBLISHED-TTL:PT15M
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+BEGIN:STANDARD
+TZNAME:CET
+DTSTART:19701025T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+BEGIN:DAYLIGHT
+TZNAME:CEST
+DTSTART:19700329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sw-20260112@bundestag-kalender
+DTSTAMP:20261020T103724Z
+DTSTART;VALUE=DATE:20260112
+DTEND;VALUE=DATE:20260117
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20260126@bundestag-kalender
+DTSTAMP:20261020T103724Z
+DTSTART;VALUE=DATE:20260126
+DTEND;VALUE=DATE:20260131
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20260223@bundestag-kalender
+DTSTAMP:20261020T103724Z
+DTSTART;VALUE=DATE:20260223
+DTEND;VALUE=DATE:20260228
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20260302@bundestag-kalender
+DTSTAMP:20261020T103724Z
+DTSTART;VALUE=DATE:20260302
+DTEND;VALUE=DATE:20260307
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20260316@bundestag-kalender
+DTSTAMP:20261020T103724Z
+DTSTART;VALUE=DATE:20260316
+DTEND;VALUE=DATE:20260321
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20260323@bundestag-kalender
+DTSTAMP:20261020T103724Z
+DTSTART;VALUE=DATE:20260323
+DTEND;VALUE=DATE:20260328
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20260413@bundestag-kalender
+DTSTAMP:20261020T103724Z
+DTSTART;VALUE=DATE:20260413
+DTEND;VALUE=DATE:20260418
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20260420@bundestag-kalender
+DTSTAMP:20261020T103724Z
+DTSTART;VALUE=DATE:20260420
+DTEND;VALUE=DATE:20260425
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20260504@bundestag-kalender
+DTSTAMP:20261020T103724Z
+DTSTART;VALUE=DATE:20260504
+DTEND;VALUE=DATE:20260509
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20260518@bundestag-kalender
+DTSTAMP:20261020T103724Z
+DTSTART;VALUE=DATE:20260518
+DTEND;VALUE=DATE:20260523
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20260608@bundestag-kalender
+DTSTAMP:20261020T103724Z
+DTSTART;VALUE=DATE:20260608
+DTEND;VALUE=DATE:20260613
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20260622@bundestag-kalender
+DTSTAMP:20261020T103724Z
+DTSTART;VALUE=DATE:20260622
+DTEND;VALUE=DATE:20260627
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20260706@bundestag-kalender
+DTSTAMP:20261020T103724Z
+DTSTART;VALUE=DATE:20260706
+DTEND;VALUE=DATE:20260711
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20260907@bundestag-kalender
+DTSTAMP:20261020T103724Z
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260912
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20260921@bundestag-kalender
+DTSTAMP:20261020T103724Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260926
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20261005@bundestag-kalender
+DTSTAMP:20261020T103724Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261010
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20261012@bundestag-kalender
+DTSTAMP:20261020T103724Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261017
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20261102@bundestag-kalender
+DTSTAMP:20261020T103724Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261107
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20261109@bundestag-kalender
+DTSTAMP:20261020T103724Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261114
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20261123@bundestag-kalender
+DTSTAMP:20261020T103724Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261128
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20261207@bundestag-kalender
+DTSTAMP:20261020T103724Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261212
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20261214@bundestag-kalender
+DTSTAMP:20261020T103724Z
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261219
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20270111@bundestag-kalender
+DTSTAMP:20261020T103724Z
+DTSTART;VALUE=DATE:20270111
+DTEND;VALUE=DATE:20270116
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20270125@bundestag-kalender
+DTSTAMP:20261020T103724Z
+DTSTART;VALUE=DATE:20270125
+DTEND;VALUE=DATE:20270130
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20270215@bundestag-kalender
+DTSTAMP:20261020T103724Z
+DTSTART;VALUE=DATE:20270215
+DTEND;VALUE=DATE:20270220
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20270301@bundestag-kalender
+DTSTAMP:20261020T103724Z
+DTSTART;VALUE=DATE:20270301
+DTEND;VALUE=DATE:20270306
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20270315@bundestag-kalender
+DTSTAMP:20261020T103724Z
+DTSTART;VALUE=DATE:20270315
+DTEND;VALUE=DATE:20270320
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20270405@bundestag-kalender
+DTSTAMP:20261020T103724Z
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270410
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20270412@bundestag-kalender
+DTSTAMP:20261020T103724Z
+DTSTART;VALUE=DATE:20270412
+DTEND;VALUE=DATE:20270417
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20270426@bundestag-kalender
+DTSTAMP:20261020T103724Z
+DTSTART;VALUE=DATE:20270426
+DTEND;VALUE=DATE:20270501
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20270510@bundestag-kalender
+DTSTAMP:20261020T103724Z
+DTSTART;VALUE=DATE:20270510
+DTEND;VALUE=DATE:20270515
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20270531@bundestag-kalender
+DTSTAMP:20261020T103724Z
+DTSTART;VALUE=DATE:20270531
+DTEND;VALUE=DATE:20270605
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20270614@bundestag-kalender
+DTSTAMP:20261020T103724Z
+DTSTART;VALUE=DATE:20270614
+DTEND;VALUE=DATE:20270619
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20270628@bundestag-kalender
+DTSTAMP:20261020T103724Z
+DTSTART;VALUE=DATE:20270628
+DTEND;VALUE=DATE:20270703
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20270705@bundestag-kalender
+DTSTAMP:20261020T103724Z
+DTSTART;VALUE=DATE:20270705
+DTEND;VALUE=DATE:20270710
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20270906@bundestag-kalender
+DTSTAMP:20261020T103724Z
+DTSTART;VALUE=DATE:20270906
+DTEND;VALUE=DATE:20270911
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20270920@bundestag-kalender
+DTSTAMP:20261020T103724Z
+DTSTART;VALUE=DATE:20270920
+DTEND;VALUE=DATE:20270925
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20271004@bundestag-kalender
+DTSTAMP:20261020T103724Z
+DTSTART;VALUE=DATE:20271004
+DTEND;VALUE=DATE:20271009
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20271025@bundestag-kalender
+DTSTAMP:20261020T103724Z
+DTSTART;VALUE=DATE:20271025
+DTEND;VALUE=DATE:20271030
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20271108@bundestag-kalender
+DTSTAMP:20261020T103724Z
+DTSTART;VALUE=DATE:20271108
+DTEND;VALUE=DATE:20271113
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20271122@bundestag-kalender
+DTSTAMP:20261020T103724Z
+DTSTART;VALUE=DATE:20271122
+DTEND;VALUE=DATE:20271127
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20271129@bundestag-kalender
+DTSTAMP:20261020T103724Z
+DTSTART;VALUE=DATE:20271129
+DTEND;VALUE=DATE:20271204
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20271213@bundestag-kalender
+DTSTAMP:20261020T103724Z
+DTSTART;VALUE=DATE:20271213
+DTEND;VALUE=DATE:20271218
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bt-54-top-27-aenderung-des-strassenverkehrsgesetzes@bundestag-kalender
+DTSTAMP:20261020T103724Z
+DTSTART;TZID=Europe/Berlin:20260116T112500
+DTEND;TZID=Europe/Berlin:20260116T120000
+SUMMARY:TOP 27: Änderung des Straßenverkehrsgesetzes
+DESCRIPTION:Status: beendet\n54. Sitzung\nAusschuss Umwelt\, Klimaschutz\, 
+ Naturschutz und nukleare Sicherheit: mitberatend (DIP\, amtlich)\nAusschus
+ s Verkehr: federführend (DIP\, amtlich)\nAusschuss Wohnen\, Stadtentwickl
+ ung\, Bauwesen und Kommunen: mitberatend (DIP\, amtlich)\nUmwelt mitberate
+ nd bei: Fünftes Gesetz zur Änderung des Straßenverkehrsgesetzes und and
+ erer...\nVerkehr federführend bei: Fünftes Gesetz zur Änderung des Stra
+ ßenverkehrsgesetzes und anderer...\; Parken fair gestalten - Nachhaltig\,
+  digital und sozial gerecht\nWohnen/Bau mitberatend bei: Parken fair gesta
+ lten - Nachhaltig\, digital und sozial gerecht\nZuordnung je Drucksache (D
+ IP):\n  21/3505 (Gesetzentwurf) Fünftes Gesetz zur Änderung des Straßen
+ verkehrsgesetzes und anderer...: Umwelt mitberatend\, Verkehr federführen
+ d\n  21/3610 (Antrag) Parken fair gestalten - Nachhaltig\, digital und soz
+ ial gerecht: Wohnen/Bau mitberatend\, Verkehr federführend\n\na) Erste Be
+ ratung des von der Bundesregierung eingebrachten Entwurfs eines Fünften G
+ esetzes zur Änderung des Straßenverkehrsgesetzes und anderer straßenver
+ kehrsrechtlicher Vorschriften\nDrucksache 21/3505 (https://dserver.bundest
+ ag.de/btd/21/035/2103505.pdf)\n\nb) Beratung des Antrags der Fraktion BÜN
+ DNIS 90/DIE GRÜNEN\nParken fair gestalten – Nachhaltig\, digital und so
+ zial gerecht\nDrucksache 21/3610 (https://dserver.bundestag.de/btd/21/036/
+ 2103610.pdf)\n\nLinks und Dokumente:\nDrucksache 21/3505 (Gesetzentwurf) F
+ ünftes Gesetz zur Änderung des Straßenverkehrsgesetzes und anderer...: 
+ https://dserver.bundestag.de/btd/21/035/2103505.pdf\n  DIP: https://dip.bu
+ ndestag.de/drucksache/-/284256\nDrucksache 21/3610 (Antrag) Parken fair ge
+ stalten - Nachhaltig\, digital und sozial gerecht: https://dserver.bundest
+ ag.de/btd/21/036/2103610.pdf\n  DIP: https://dip.bundestag.de/drucksache/-
+ /284370\nPlenarprotokoll 54. Sitzung: https://dserver.bundestag.de/btp/21/
+ 21054.pdf\nTextarchiv: https://www.bundestag.de/dokumente/textarchiv/2026/
+ kw03-de-strassenverkehrsgesetz-1134280\nMediathek: https://www.bundestag.d
+ e/mediathek/plenarsitzungen\nTagesordnung: https://www.bundestag.de/tageso
+ rdnung
+LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
+ lin
+URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw03-de-strassenverk
+ ehrsgesetz-1134280
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/035/2103
+ 505.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/036/2103
+ 610.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21054.pd
+ f
+END:VEVENT
+BEGIN:VEVENT
+UID:bt-57-top-24-zp-7-mobilitaetsgarantie@bundestag-kalender
+DTSTAMP:20261020T103724Z
+DTSTART;TZID=Europe/Berlin:20260130T103000
+DTEND;TZID=Europe/Berlin:20260130T113500
+SUMMARY:TOP 24\, ZP 7: Mobilitätsgarantie
+DESCRIPTION:Status: beendet\n57. Sitzung\nAusschuss Wirtschaft und Energie:
+  mitberatend (DIP\, amtlich)\nAusschuss Verkehr: federführend (DIP\, amtl
+ ich)\nAusschuss Wohnen\, Stadtentwicklung\, Bauwesen und Kommunen: mitbera
+ tend (DIP\, amtlich)\nWE mitberatend bei: Mobilitätsgarantie einführen -
+  Produktionskapazitäten für die Verkehrswende aufbauen\nVerkehr federfü
+ hrend bei: Mobilitätsgarantie einführen - Produktionskapazitäten für d
+ ie Verkehrswende aufbauen\; Gemeindeverkehrsfinanzierungsgesetz novelliere
+ n - Kommunen stärken und Ausbau des...\nWohnen/Bau mitberatend bei: Gemei
+ ndeverkehrsfinanzierungsgesetz novellieren - Kommunen stärken und Ausbau 
+ des...\nZuordnung je Drucksache (DIP):\n  21/3661 (Antrag) Mobilitätsgara
+ ntie einführen - Produktionskapazitäten für die Verkehrswende aufbauen:
+  WE mitberatend\, Verkehr federführend\n  21/3842 (Antrag) Gemeindeverkeh
+ rsfinanzierungsgesetz novellieren - Kommunen stärken und Ausbau des...: W
+ ohnen/Bau mitberatend\, Verkehr federführend\n\nTOP 24) Beratung des Antr
+ ags der Fraktion Die Linke\nMobilitätsgarantie einführen – Produktions
+ kapazitäten für die Verkehrswende aufbauen\nDrucksache 21/3661 (https://
+ dserver.bundestag.de/btd/21/036/2103661.pdf)\n\nZP 7) Beratung des Antrags
+  der Fraktion BÜNDNIS 90/DIE GRÜNEN\nGemeindeverkehrsfinanzierungsgesetz
+  novellieren – Kommunen stärken und Ausbau des öffentlichen Personenna
+ hverkehrs langfristig absichern\nDrucksache 21/3842 (https://dserver.bunde
+ stag.de/btd/21/038/2103842.pdf)\n\nLinks und Dokumente:\nDrucksache 21/366
+ 1 (Antrag) Mobilitätsgarantie einführen - Produktionskapazitäten für d
+ ie Verkehrswende aufbauen: https://dserver.bundestag.de/btd/21/036/2103661
+ .pdf\n  DIP: https://dip.bundestag.de/drucksache/-/284442\nDrucksache 21/3
+ 842 (Antrag) Gemeindeverkehrsfinanzierungsgesetz novellieren - Kommunen st
+ ärken und Ausbau des...: https://dserver.bundestag.de/btd/21/038/2103842.
+ pdf\n  DIP: https://dip.bundestag.de/drucksache/-/284700\nPlenarprotokoll 
+ 57. Sitzung: https://dserver.bundestag.de/btp/21/21057.pdf\nTextarchiv: ht
+ tps://www.bundestag.de/dokumente/textarchiv/2026/kw05-de-mobilitaetsgarant
+ ie-1136998\nMediathek: https://www.bundestag.de/mediathek/plenarsitzungen\
+ nTagesordnung: https://www.bundestag.de/tagesordnung
+LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
+ lin
+URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw05-de-mobilitaetsg
+ arantie-1136998
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/036/2103
+ 661.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/038/2103
+ 842.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21057.pd
+ f
+END:VEVENT
+BEGIN:VEVENT
+UID:bt-59-top-7-infrastruktur-zukunftsgesetz@bundestag-kalender
+DTSTAMP:20261020T103724Z
+DTSTART;TZID=Europe/Berlin:20260226T113000
+DTEND;TZID=Europe/Berlin:20260226T124000
+SUMMARY:TOP 7: Infrastruktur-Zukunftsgesetz
+DESCRIPTION:Status: beendet\n59. Sitzung\nAusschuss Umwelt\, Klimaschutz\, 
+ Naturschutz und nukleare Sicherheit: mitberatend (DIP\, amtlich)\nAusschus
+ s Wohnen\, Stadtentwicklung\, Bauwesen und Kommunen: mitberatend (DIP\, am
+ tlich)\nAusschuss Verkehr: federführend (DIP\, amtlich)\nUmwelt mitberate
+ nd bei: Infrastruktur-Zukunftsgesetz\nWohnen/Bau mitberatend bei: Infrastr
+ uktur-Zukunftsgesetz\nVerkehr federführend bei: Infrastruktur-Zukunftsges
+ etz\nZuordnung je Drucksache (DIP):\n  21/4099 (Gesetzentwurf) Infrastrukt
+ ur-Zukunftsgesetz: Umwelt mitberatend\, Wohnen/Bau mitberatend\, Verkehr f
+ ederführend\n  21/4301 (Unterrichtung) Infrastruktur-Zukunftsgesetz: Umwe
+ lt mitberatend\, Wohnen/Bau mitberatend\, Verkehr federführend\n\nErste B
+ eratung des von der Bundesregierung\neingebrachten Entwurfs eines Infrastr
+ uktur-Zukunftsgesetzes\nDrucksachen 21/4099 (https://dserver.bundestag.de/
+ btd/21/040/2104099.pdf)\, 21/4301 (https://dserver.bundestag.de/btd/21/043
+ /2104301.pdf)\n\nLinks und Dokumente:\nDrucksache 21/4099 (Gesetzentwurf) 
+ Infrastruktur-Zukunftsgesetz: https://dserver.bundestag.de/btd/21/040/2104
+ 099.pdf\n  DIP: https://dip.bundestag.de/drucksache/-/285079\nDrucksache 2
+ 1/4301 (Unterrichtung) Infrastruktur-Zukunftsgesetz: https://dserver.bunde
+ stag.de/btd/21/043/2104301.pdf\n  DIP: https://dip.bundestag.de/drucksache
+ /-/285340\nPlenarprotokoll 59. Sitzung: https://dserver.bundestag.de/btp/2
+ 1/21059.pdf\nTextarchiv: https://www.bundestag.de/dokumente/textarchiv/202
+ 6/kw09-de-infrastruktur-zukunftsgesetz-1140372\nMediathek: https://www.bun
+ destag.de/mediathek/plenarsitzungen\nTagesordnung: https://www.bundestag.d
+ e/tagesordnung
+LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
+ lin
+URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw09-de-infrastruktu
+ r-zukunftsgesetz-1140372
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/040/2104
+ 099.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/043/2104
+ 301.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21059.pd
+ f
+END:VEVENT
+BEGIN:VEVENT
+UID:bt-59-top-31-zp-10-ueberweisungen-im-vereinfachten-verfahre@bundestag-k
+ alender
+DTSTAMP:20261020T103724Z
+DTSTART;TZID=Europe/Berlin:20260226T134000
+DTEND;TZID=Europe/Berlin:20260226T135000
+SUMMARY:TOP 31\, ZP 10: Überweisungen im vereinfachten Verfahren: Gesetz z
+ ur Änderung flaggen-\,...
+DESCRIPTION:Status: beendet\n59. Sitzung\nAusschuss Verkehr: federführend 
+ (DIP\, amtlich)\nAufgeführt sind nur die Vorlagen\, bei denen Verkehr fed
+ erführend ist. Weitere 7 Drucksachen dieses Punktes stehen im Textarchiv.
+ \n\nb) Erste Beratung des von der Bundesregierung\neingebrachten Entwurfs 
+ eines Gesetzes zur Änderung flaggen-\, schiffsregister- und seefischereir
+ echtlicher Vorschriften\nDrucksache 21/3948 (https://dserver.bundestag.de/
+ btd/21/039/2103948.pdf)\nÜberweisungsvorschlag:\nVerkehrsausschuss (f)\nA
+ . f. Recht und Verbraucherschutz\n\nLinks und Dokumente:\nDrucksache 21/39
+ 48 (Gesetzentwurf) Gesetz zur Änderung flaggen-\, schiffsregister- und se
+ efischereirechtlicher Vorschriften: https://dserver.bundestag.de/btd/21/03
+ 9/2103948.pdf\n  DIP: https://dip.bundestag.de/drucksache/-/284904\nPlenar
+ protokoll 59. Sitzung: https://dserver.bundestag.de/btp/21/21059.pdf\nText
+ archiv: https://www.bundestag.de/dokumente/textarchiv/2026/kw09-de-ueberwe
+ isungen-1139496\nMediathek: https://www.bundestag.de/mediathek/plenarsitzu
+ ngen\nTagesordnung: https://www.bundestag.de/tagesordnung
+LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
+ lin
+URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw09-de-ueberweisung
+ en-1139496
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/039/2103
+ 948.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21059.pd
+ f
+END:VEVENT
+BEGIN:VEVENT
+UID:bt-62-top-25-infrastrukturvorhaben-im-schienennetz@bundestag-kalender
+DTSTAMP:20261020T103724Z
+DTSTART;TZID=Europe/Berlin:20260305T192000
+DTEND;TZID=Europe/Berlin:20260305T195000
+SUMMARY:TOP 25: Infrastrukturvorhaben im Schienennetz
+DESCRIPTION:Status: beendet\n62. Sitzung\nAusschuss Umwelt\, Klimaschutz\, 
+ Naturschutz und nukleare Sicherheit: mitberatend (DIP\, amtlich)\nAusschus
+ s Wohnen\, Stadtentwicklung\, Bauwesen und Kommunen: mitberatend (DIP\, am
+ tlich)\nAusschuss Verkehr: federführend (DIP\, amtlich)\n\nBeratung des A
+ ntrags der Fraktion BÜNDNIS 90/DIE GRÜNEN\nInfrastrukturvorhaben im Schi
+ enennetz effektiv beschleunigen\nDrucksache 21/4458 (https://dserver.bunde
+ stag.de/btd/21/044/2104458.pdf)\n\nLinks und Dokumente:\nDrucksache 21/445
+ 8 (Antrag) Infrastrukturvorhaben im Schienennetz effektiv beschleunigen: h
+ ttps://dserver.bundestag.de/btd/21/044/2104458.pdf\n  DIP: https://dip.bun
+ destag.de/drucksache/-/285520\nPlenarprotokoll 62. Sitzung: https://dserve
+ r.bundestag.de/btp/21/21062.pdf\nTextarchiv: https://www.bundestag.de/doku
+ mente/textarchiv/2026/kw10-de-schienennetz-1151182\nMediathek: https://www
+ .bundestag.de/mediathek/plenarsitzungen\nTagesordnung: https://www.bundest
+ ag.de/tagesordnung
+LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
+ lin
+URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw10-de-schienennetz
+ -1151182
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/044/2104
+ 458.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21062.pd
+ f
+END:VEVENT
+BEGIN:VEVENT
+UID:bt-68-top-15-intelligente-verkehrssysteme-gesetz@bundestag-kalender
+DTSTAMP:20261020T103724Z
+DTSTART;TZID=Europe/Berlin:20260326T180000
+DTEND;TZID=Europe/Berlin:20260326T183500
+SUMMARY:TOP 15: Intelligente-Verkehrssysteme-Gesetz
+DESCRIPTION:Status: beendet\n68. Sitzung\nAusschuss Verkehr: Beschlussempfe
+ hlung und Bericht (Beschlussempfehlung der Tagesordnung\, amtlich)\nVerkeh
+ r federführend bei: Gesetz zur Neuregelung des Rechtsrahmens für intelli
+ gente Verkehrssysteme im...\nZuordnung je Drucksache (DIP):\n  21/2999 (Ge
+ setzentwurf) Gesetz zur Neuregelung des Rechtsrahmens für intelligente Ve
+ rkehrssysteme im...: Verkehr federführend\n  21/3507 (Unterrichtung) Gese
+ tz zur Neuregelung des Rechtsrahmens für intelligente Verkehrssysteme im.
+ ..: Verkehr federführend\n  21/4983 (Beschlussempfehlung und Bericht) Ges
+ etz zur Neuregelung des Rechtsrahmens für intelligente Verkehrssysteme im
+ ...: Verkehr federführend\n  21/4985 (Bericht) Gesetz zur Neuregelung des
+  Rechtsrahmens für intelligente Verkehrssysteme im...: Verkehr federführ
+ end\n\n– Zweite und dritte Beratung des von der Bundesregierung\neingebr
+ achten Entwurfs eines Gesetzes zur Neuregelung des Rechtsrahmens für inte
+ lligente Verkehrssysteme im Straßenverkehr und deren Schnittstellen zu an
+ deren Verkehrsträgern und die Datenbereitstellung über den Nationalen Zu
+ gangspunkt\nDrucksachen 21/2999 (https://dserver.bundestag.de/btd/21/029/2
+ 102999.pdf)\, 21/3507 (https://dserver.bundestag.de/btd/21/035/2103507.pdf
+ )\nBeschlussempfehlung und Bericht des Verkehrsausschusses (15. Ausschuss)
+ \nDrucksache 21/4983 (https://dserver.bundestag.de/btd/21/049/2104983.pdf)
+ \n– Bericht des Haushaltsausschusses (8. Ausschuss) gemäß § 96 der Ge
+ schäftsordnung\nDrucksache 21/4985 (https://dserver.bundestag.de/btd/21/0
+ 49/2104985.pdf)\n\nLinks und Dokumente:\nDrucksache 21/2999 (Gesetzentwurf
+ ) Gesetz zur Neuregelung des Rechtsrahmens für intelligente Verkehrssyste
+ me im...: https://dserver.bundestag.de/btd/21/029/2102999.pdf\n  DIP: http
+ s://dip.bundestag.de/drucksache/-/283509\nDrucksache 21/3507 (Unterrichtun
+ g) Gesetz zur Neuregelung des Rechtsrahmens für intelligente Verkehrssyst
+ eme im...: https://dserver.bundestag.de/btd/21/035/2103507.pdf\n  DIP: htt
+ ps://dip.bundestag.de/drucksache/-/284260\nDrucksache 21/4983 (Beschlussem
+ pfehlung und Bericht) Gesetz zur Neuregelung des Rechtsrahmens für intell
+ igente Verkehrssysteme im...: https://dserver.bundestag.de/btd/21/049/2104
+ 983.pdf\n  DIP: https://dip.bundestag.de/drucksache/-/286239\nDrucksache 2
+ 1/4985 (Bericht) Gesetz zur Neuregelung des Rechtsrahmens für intelligent
+ e Verkehrssysteme im...: https://dserver.bundestag.de/btd/21/049/2104985.p
+ df\n  DIP: https://dip.bundestag.de/drucksache/-/286214\nPlenarprotokoll 6
+ 8. Sitzung: https://dserver.bundestag.de/btp/21/21068.pdf\nTextarchiv: htt
+ ps://www.bundestag.de/dokumente/textarchiv/2026/kw13-de-intelligente-verke
+ hrssysteme-1156744\nMediathek: https://www.bundestag.de/mediathek/plenarsi
+ tzungen\nTagesordnung: https://www.bundestag.de/tagesordnung
+LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
+ lin
+URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw13-de-intelligente
+ -verkehrssysteme-1156744
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/029/2102
+ 999.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/035/2103
+ 507.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/049/2104
+ 983.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/049/2104
+ 985.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21068.pd
+ f
+END:VEVENT
+BEGIN:VEVENT
+UID:bt-68-zp-9-aenderung-strassenverkehrsrechtlicher-vo@bundestag-kalender
+DTSTAMP:20261020T103724Z
+DTSTART;TZID=Europe/Berlin:20260326T210000
+DTEND;TZID=Europe/Berlin:20260326T212500
+SUMMARY:ZP 9: Änderung straßenverkehrsrechtlicher Vorschriften
+DESCRIPTION:Status: beendet\n68. Sitzung\nAusschuss Umwelt\, Klimaschutz\, 
+ Naturschutz und nukleare Sicherheit: mitberatend (DIP\, amtlich)\nAusschus
+ s Verkehr: Beschlussempfehlung und Bericht (Beschlussempfehlung der Tageso
+ rdnung\, amtlich)\nUmwelt mitberatend bei: Fünftes Gesetz zur Änderung d
+ es Straßenverkehrsgesetzes und anderer...\nVerkehr federführend bei: Fü
+ nftes Gesetz zur Änderung des Straßenverkehrsgesetzes und anderer...\nZu
+ ordnung je Drucksache (DIP):\n  21/3505 (Gesetzentwurf) Fünftes Gesetz zu
+ r Änderung des Straßenverkehrsgesetzes und anderer...: Umwelt mitberaten
+ d\, Verkehr federführend\n  21/4979 (Beschlussempfehlung und Bericht) Fü
+ nftes Gesetz zur Änderung des Straßenverkehrsgesetzes und anderer...: Um
+ welt mitberatend\, Verkehr federführend\n  21/4982 (Bericht) Fünftes Ges
+ etz zur Änderung des Straßenverkehrsgesetzes und anderer...: Umwelt mitb
+ eratend\, Verkehr federführend\n\n– Zweite und dritte Beratung des von 
+ der Bundesregierung\neingebrachten Entwurfs eines Fünften Gesetzes zur Ä
+ nderung des Straßenverkehrsgesetzes und anderer straßenverkehrsrechtlich
+ er Vorschriften\nDrucksache 21/3505 (https://dserver.bundestag.de/btd/21/0
+ 35/2103505.pdf)\nBeschlussempfehlung und Bericht des Verkehrsausschusses (
+ 15. Ausschuss)\nDrucksache 21/4979 (https://dserver.bundestag.de/btd/21/04
+ 9/2104979.pdf)\n– Bericht des Haushaltsausschusses (8. Ausschuss) gemä
+ ß § 96 der Geschäftsordnung\nDrucksache 21/4982 (https://dserver.bundes
+ tag.de/btd/21/049/2104982.pdf)\n\nLinks und Dokumente:\nDrucksache 21/3505
+  (Gesetzentwurf) Fünftes Gesetz zur Änderung des Straßenverkehrsgesetze
+ s und anderer...: https://dserver.bundestag.de/btd/21/035/2103505.pdf\n  D
+ IP: https://dip.bundestag.de/drucksache/-/284256\nDrucksache 21/4979 (Besc
+ hlussempfehlung und Bericht) Fünftes Gesetz zur Änderung des Straßenver
+ kehrsgesetzes und anderer...: https://dserver.bundestag.de/btd/21/049/2104
+ 979.pdf\n  DIP: https://dip.bundestag.de/drucksache/-/286236\nDrucksache 2
+ 1/4982 (Bericht) Fünftes Gesetz zur Änderung des Straßenverkehrsgesetze
+ s und anderer...: https://dserver.bundestag.de/btd/21/049/2104982.pdf\n  D
+ IP: https://dip.bundestag.de/drucksache/-/286213\nPlenarprotokoll 68. Sitz
+ ung: https://dserver.bundestag.de/btp/21/21068.pdf\nTextarchiv: https://ww
+ w.bundestag.de/dokumente/textarchiv/2026/kw13-de-strassenverkehrsgesetz-11
+ 57678\nMediathek: https://www.bundestag.de/mediathek/plenarsitzungen\nTage
+ sordnung: https://www.bundestag.de/tagesordnung
+LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
+ lin
+URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw13-de-strassenverk
+ ehrsgesetz-1157678
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/035/2103
+ 505.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/049/2104
+ 979.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/049/2104
+ 982.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21068.pd
+ f
+END:VEVENT
+BEGIN:VEVENT
+UID:bt-71-zp-4-top-5-stromsteuergesetz-strassenverkehrsgesetz@bundestag-kal
+ ender
+DTSTAMP:20261020T103724Z
+DTSTART;TZID=Europe/Berlin:20260416T102500
+DTEND;TZID=Europe/Berlin:20260416T113500
+SUMMARY:ZP 4\, TOP 5: Stromsteuergesetz\, Straßenverkehrsgesetz
+DESCRIPTION:Status: beendet\n71. Sitzung\nAusschuss Verkehr: federführend 
+ (DIP\, amtlich)\nAufgeführt sind nur die Vorlagen\, bei denen Verkehr fed
+ erführend ist. Weitere 1 Drucksachen dieses Punktes stehen im Textarchiv.
+ \n\nZP 5) Erste Beratung des von der Fraktion BÜNDNIS 90/DIE GRÜNEN\nein
+ gebrachten Entwurfs eines Gesetzes zur Änderung des Straßenverkehrsgeset
+ zes (Tempolimit)\nDrucksache 21/5319 (https://dserver.bundestag.de/btd/21/
+ 053/2105319.pdf)\n\nLinks und Dokumente:\nDrucksache 21/5319 (Gesetzentwur
+ f) Gesetz zur Änderung des Straßenverkehrsgesetzes (Tempolimit): https:/
+ /dserver.bundestag.de/btd/21/053/2105319.pdf\n  DIP: https://dip.bundestag
+ .de/drucksache/-/286662\nPlenarprotokoll 71. Sitzung: https://dserver.bund
+ estag.de/btp/21/21071.pdf\nTextarchiv: https://www.bundestag.de/dokumente/
+ textarchiv/2026/kw16-de-stromsteuer-1165322\nMediathek: https://www.bundes
+ tag.de/mediathek/plenarsitzungen\nTagesordnung: https://www.bundestag.de/t
+ agesordnung
+LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
+ lin
+URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw16-de-stromsteuer-
+ 1165322
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/053/2105
+ 319.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21071.pd
+ f
+END:VEVENT
+BEGIN:VEVENT
+UID:bt-75-top-19-zp-13-neun-euro-ticket-gemeindeverkehrsfinanzi@bundestag-k
+ alender
+DTSTAMP:20261020T103724Z
+DTSTART;TZID=Europe/Berlin:20260424T102500
+DTEND;TZID=Europe/Berlin:20260424T115000
+SUMMARY:TOP 19\, ZP 13: Neun-Euro-Ticket\, Gemeindeverkehrsfinanzierung
+DESCRIPTION:Status: beendet\n75. Sitzung\nAusschuss Verkehr: Beschlussempfe
+ hlung und Bericht (Beschlussempfehlung der Tagesordnung\, amtlich)\nAussch
+ uss Wohnen\, Stadtentwicklung\, Bauwesen und Kommunen: mitberatend (DIP\, 
+ amtlich)\nAusschuss Umwelt\, Klimaschutz\, Naturschutz und nukleare Sicher
+ heit: mitberatend (DIP\, amtlich)\nAusschuss Wirtschaft und Energie: mitbe
+ ratend (DIP\, amtlich)\nVerkehr federführend bei: Mit dem Neun-Euro-Ticke
+ t private Haushalte entlasten\; Gemeindeverkehrsfinanzierungsgesetz novell
+ ieren - Kommunen stärken und Ausbau des...\; Förderung emissionsfreier B
+ usantriebe verstetigen\nWohnen/Bau mitberatend bei: Gemeindeverkehrsfinanz
+ ierungsgesetz novellieren - Kommunen stärken und Ausbau des...\nUmwelt mi
+ tberatend bei: Förderung emissionsfreier Busantriebe verstetigen\nWE mitb
+ eratend bei: Förderung emissionsfreier Busantriebe verstetigen\nZuordnung
+  je Drucksache (DIP):\n  21/3658 (Antrag) Mit dem Neun-Euro-Ticket private
+  Haushalte entlasten: Verkehr federführend\n  21/3842 (Antrag) Gemeindeve
+ rkehrsfinanzierungsgesetz novellieren - Kommunen stärken und Ausbau des..
+ .: Wohnen/Bau mitberatend\, Verkehr federführend\n  21/5549 (Beschlussemp
+ fehlung und Bericht) Gemeindeverkehrsfinanzierungsgesetz novellieren - Kom
+ munen stärken und Ausbau des...: Wohnen/Bau mitberatend\, Verkehr federf
+ ührend\n  21/5492 (Antrag) Förderung emissionsfreier Busantriebe verstet
+ igen: Umwelt mitberatend\, WE mitberatend\, Verkehr federführend\n\na) Be
+ ratung des Antrags der Fraktion Die Linke\nMit dem Neun-Euro-Ticket privat
+ e Haushalte entlasten\nDrucksache 21/3658 (https://dserver.bundestag.de/bt
+ d/21/036/2103658.pdf)\n\nb) Beratung der Beschlussempfehlung und des Beric
+ hts des Verkehrsausschusses (15. Ausschuss)\nzu dem Antrag der Fraktion B
+ ÜNDNIS 90/DIE GRÜNEN\nGemeindeverkehrsfinanzierungsgesetz novellieren 
+ – Kommunen stärken und Ausbau des öffentlichen Personennahverkehrs lan
+ gfristig absichern\nDrucksachen 21/3842 (https://dserver.bundestag.de/btd/
+ 21/038/2103842.pdf)\, 21/5549 (https://dserver.bundestag.de/btd/21/055/210
+ 5549.pdf)\n\nZP 13) Beratung des Antrags der Fraktion BÜNDNIS 90/DIE GRÜ
+ NEN\nFörderung emissionsfreier Busantriebe verstetigen\nDrucksache 21/549
+ 2 (https://dserver.bundestag.de/btd/21/054/2105492.pdf)\n\nLinks und Dokum
+ ente:\nDrucksache 21/3658 (Antrag) Mit dem Neun-Euro-Ticket private Hausha
+ lte entlasten: https://dserver.bundestag.de/btd/21/036/2103658.pdf\n  DIP:
+  https://dip.bundestag.de/drucksache/-/284441\nDrucksache 21/3842 (Antrag)
+  Gemeindeverkehrsfinanzierungsgesetz novellieren - Kommunen stärken und A
+ usbau des...: https://dserver.bundestag.de/btd/21/038/2103842.pdf\n  DIP: 
+ https://dip.bundestag.de/drucksache/-/284700\nDrucksache 21/5549 (Beschlus
+ sempfehlung und Bericht) Gemeindeverkehrsfinanzierungsgesetz novellieren -
+  Kommunen stärken und Ausbau des...: https://dserver.bundestag.de/btd/21/
+ 055/2105549.pdf\n  DIP: https://dip.bundestag.de/drucksache/-/287085\nDruc
+ ksache 21/5492 (Antrag) Förderung emissionsfreier Busantriebe verstetigen
+ : https://dserver.bundestag.de/btd/21/054/2105492.pdf\n  DIP: https://dip.
+ bundestag.de/drucksache/-/286925\nPlenarprotokoll 75. Sitzung: https://dse
+ rver.bundestag.de/btp/21/21075.pdf\nTextarchiv: https://www.bundestag.de/d
+ okumente/textarchiv/2026/kw17-de-personennahverkehr-1165970\nMediathek: ht
+ tps://www.bundestag.de/mediathek/plenarsitzungen\nTagesordnung: https://ww
+ w.bundestag.de/tagesordnung
+LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
+ lin
+URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw17-de-personennahv
+ erkehr-1165970
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/036/2103
+ 658.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/038/2103
+ 842.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/055/2105
+ 549.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/054/2105
+ 492.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21075.pd
+ f
+END:VEVENT
+BEGIN:VEVENT
+UID:bt-77-top-27-top-26-zp-4-ueberweisungen-im-vereinfachten-verfahre@bunde
+ stag-kalender
+DTSTAMP:20261020T103724Z
+DTSTART;TZID=Europe/Berlin:20260507T134500
+DTEND;TZID=Europe/Berlin:20260507T135000
+SUMMARY:TOP 27\, TOP 26\, ZP 4: Überweisungen im vereinfachten Verfahren: 
+ Fertigstellung der Autobahn 20 vor der...
+DESCRIPTION:Status: beendet\n77. Sitzung\nAusschuss Verkehr: federführend 
+ (DIP\, amtlich)\nAufgeführt sind nur die Vorlagen\, bei denen Verkehr fed
+ erführend ist. Weitere 11 Drucksachen dieses Punktes stehen im Textarchiv
+ .\n\na) Beratung des Antrags der Fraktion der AfD\nFertigstellung der Auto
+ bahn A20 hat Priorität vor Bahn-Neubaustrecke Hamburg-Hannover priorisier
+ en\nDrucksache 21/5764 (https://dserver.bundestag.de/btd/21/057/2105764.pd
+ f)\nÜberweisungsvorschlag:\nVerkehrsausschuss\n\nLinks und Dokumente:\nDr
+ ucksache 21/5764 (Antrag) Fertigstellung der Autobahn 20 vor der Bahn-Neub
+ austrecke Hamburg-Hannover priorisieren: https://dserver.bundestag.de/btd/
+ 21/057/2105764.pdf\n  DIP: https://dip.bundestag.de/drucksache/-/287521\nP
+ lenarprotokoll 77. Sitzung: https://dserver.bundestag.de/btp/21/21077.pdf\
+ nTextarchiv: https://www.bundestag.de/dokumente/textarchiv/2026/kw19-de-ue
+ berweisungen-1145312\nMediathek: https://www.bundestag.de/mediathek/plenar
+ sitzungen\nTagesordnung: https://www.bundestag.de/tagesordnung
+LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
+ lin
+URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw19-de-ueberweisung
+ en-1145312
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/057/2105
+ 764.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21077.pd
+ f
+END:VEVENT
+BEGIN:VEVENT
+UID:bt-77-top-28-zp-5-abschliessende-beratungen-ohne-aussprach@bundestag-ka
+ lender
+DTSTAMP:20261020T103724Z
+DTSTART;TZID=Europe/Berlin:20260507T134500
+DTEND;TZID=Europe/Berlin:20260507T135000
+SUMMARY:TOP 28\, ZP 5: Abschließende Beratungen ohne Aussprache: Gesetz zu
+ r Änderung flaggen-\,...
+DESCRIPTION:Status: beendet\n77. Sitzung\nAusschuss Verkehr: Beschlussempfe
+ hlung und Bericht (Beschlussempfehlung der Tagesordnung\, amtlich)\nAufgef
+ ührt sind nur die Vorlagen\, bei denen Verkehr federführend ist. Weitere
+  14 Drucksachen dieses Punktes stehen im Textarchiv.\n\nZP 5) Weitere absc
+ hließende Beratung ohne Aussprache\nZweite und dritte Beratung des von de
+ r Bundesregierung\neingebrachten Entwurfs eines Gesetzes zur Änderung fla
+ ggen-\, schiffsregister- und seefischereirechtlicher Vorschriften\nDrucksa
+ che 21/3948 (https://dserver.bundestag.de/btd/21/039/2103948.pdf)\nBeschlu
+ ssempfehlung und Bericht des Verkehrsausschusses (15. Ausschuss)\nDrucksac
+ he 21/5812 (https://dserver.bundestag.de/btd/21/058/2105812.pdf)\n\nLinks 
+ und Dokumente:\nDrucksache 21/3948 (Gesetzentwurf) Gesetz zur Änderung fl
+ aggen-\, schiffsregister- und seefischereirechtlicher Vorschriften: https:
+ //dserver.bundestag.de/btd/21/039/2103948.pdf\n  DIP: https://dip.bundesta
+ g.de/drucksache/-/284904\nDrucksache 21/5812 (Beschlussempfehlung und Beri
+ cht) Gesetz zur Änderung flaggen-\, schiffsregister- und seefischereirech
+ tlicher Vorschriften: https://dserver.bundestag.de/btd/21/058/2105812.pdf\
+ n  DIP: https://dip.bundestag.de/drucksache/-/287566\nPlenarprotokoll 77. 
+ Sitzung: https://dserver.bundestag.de/btp/21/21077.pdf\nTextarchiv: https:
+ //www.bundestag.de/dokumente/textarchiv/2026/kw19-de-abschliessende-beratu
+ ngen-1145316\nMediathek: https://www.bundestag.de/mediathek/plenarsitzunge
+ n\nTagesordnung: https://www.bundestag.de/tagesordnung
+LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
+ lin
+URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw19-de-abschliessen
+ de-beratungen-1145316
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/039/2103
+ 948.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/058/2105
+ 812.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21077.pd
+ f
+END:VEVENT
+BEGIN:VEVENT
+UID:bt-80-top-16-ergebnisse-der-vorplanung-von-neu-und-au@bundestag-kalende
+ r
+DTSTAMP:20261020T103724Z
+DTSTART;TZID=Europe/Berlin:20260521T190500
+DTEND;TZID=Europe/Berlin:20260521T194500
+SUMMARY:TOP 16: Ergebnisse der Vorplanung von Neu- und Ausbaustrecken der D
+ B
+DESCRIPTION:Status: beendet\n80. Sitzung\nAusschuss Verkehr: Beschlussempfe
+ hlung und Bericht (Beschlussempfehlung der Tagesordnung\, amtlich)\nAufgef
+ ührt sind nur die Vorlagen\, bei denen Verkehr federführend ist. Weitere
+  1 Drucksachen dieses Punktes stehen im Textarchiv.\n\na) Beratung der Bes
+ chlussempfehlung und des Berichts des Verkehrsausschusses (15. Ausschuss)\
+ nzu der Unterrichtung durch die Bundesregierung\nBericht über das Ergebni
+ s der Vorplanung und der frühen Öffentlichkeitsbeteiligung im Vorhaben N
+ eubaustrecke Dresden – Grenze Deutschland/Tschechien (– Prag)\nDrucksa
+ chen 21/4400 (https://dserver.bundestag.de/btd/21/044/2104400.pdf)\, 21/48
+ 65 (https://dserver.bundestag.de/btd/21/048/2104865.pdf) Nr. 1\, 21/5997 (
+ https://dserver.bundestag.de/btd/21/059/2105997.pdf)\n\nb) Beratung der Be
+ schlussempfehlung und des Berichts des Verkehrsausschusses (15. Ausschuss)
+ \nzu der Unterrichtung durch die Bundesregierung\nBericht über das Ergebn
+ is der Vorplanung und der frühen Öffentlichkeitsbeteiligung der Ausbaust
+ recke Niebüll – Klanxbüll – Westerland\nDrucksachen 21/4948 (https:/
+ /dserver.bundestag.de/btd/21/049/2104948.pdf)\, 21/5428 (https://dserver.b
+ undestag.de/btd/21/054/2105428.pdf) Nr. 1\, 21/6073 (https://dserver.bunde
+ stag.de/btd/21/060/2106073.pdf)\n\nc) Beratung der Beschlussempfehlung und
+  des Berichts des Verkehrsausschusses (15. Ausschuss)\nzu der Unterrichtun
+ g durch die Bundesregierung\nBericht über das Ergebnis der Vorplanung und
+  der frühen Öffentlichkeitsbeteiligung Ausbaustrecke/Neubaustrecke Augsb
+ urg – Ulm\nDrucksachen 21/3950 (https://dserver.bundestag.de/btd/21/039/
+ 2103950.pdf)\, 21/4383 (https://dserver.bundestag.de/btd/21/043/2104383.pd
+ f) Nr. 1.13\, 21/6074 (https://dserver.bundestag.de/btd/21/060/2106074.pdf
+ )\n\nLinks und Dokumente:\nDrucksache 21/4400 (Unterrichtung) Bericht übe
+ r das Ergebnis der Vorplanung und der frühen Öffentlichkeitsbeteiligung.
+ ..: https://dserver.bundestag.de/btd/21/044/2104400.pdf\n  DIP: https://di
+ p.bundestag.de/drucksache/-/285740\nDrucksache 21/4865 (Unterrichtung) Ber
+ icht über die Evaluierung des Gesetzes zur Änderung des Tierarzneimittel
+ gesetzes zur...: https://dserver.bundestag.de/btd/21/048/2104865.pdf\n  DI
+ P: https://dip.bundestag.de/drucksache/-/286072\nDrucksache 21/5997 (Besch
+ lussempfehlung und Bericht) Bericht über das Ergebnis der Vorplanung und 
+ der frühen Öffentlichkeitsbeteiligung...: https://dserver.bundestag.de/b
+ td/21/059/2105997.pdf\n  DIP: https://dip.bundestag.de/drucksache/-/287946
+ \nDrucksache 21/4948 (Unterrichtung) Bericht über das Ergebnis der Vorpla
+ nung und der frühen Öffentlichkeitsbeteiligung der...: https://dserver.b
+ undestag.de/btd/21/049/2104948.pdf\n  DIP: https://dip.bundestag.de/drucks
+ ache/-/286592\nDrucksache 21/5428 (Unterrichtung) Bericht über das Ergebn
+ is der Vorplanung und der frühen Öffentlichkeitsbeteiligung der...: http
+ s://dserver.bundestag.de/btd/21/054/2105428.pdf\n  DIP: https://dip.bundes
+ tag.de/drucksache/-/286809\nDrucksache 21/6073 (Beschlussempfehlung und Be
+ richt) Bericht über das Ergebnis der Vorplanung und der frühen Öffentli
+ chkeitsbeteiligung der...: https://dserver.bundestag.de/btd/21/060/2106073
+ .pdf\n  DIP: https://dip.bundestag.de/drucksache/-/287997\nDrucksache 21/3
+ 950 (Unterrichtung) Bericht über das Ergebnis der Vorplanung und der frü
+ hen Öffentlichkeitsbeteiligung...: https://dserver.bundestag.de/btd/21/03
+ 9/2103950.pdf\n  DIP: https://dip.bundestag.de/drucksache/-/284959\nDrucks
+ ache 21/6074 (Beschlussempfehlung und Bericht) Bericht über das Ergebnis 
+ der Vorplanung und der frühen Öffentlichkeitsbeteiligung...: https://dse
+ rver.bundestag.de/btd/21/060/2106074.pdf\n  DIP: https://dip.bundestag.de/
+ drucksache/-/287998\nPlenarprotokoll 80. Sitzung: https://dserver.bundesta
+ g.de/btp/21/21080.pdf\nTextarchiv: https://www.bundestag.de/dokumente/text
+ archiv/2026/kw21-de-neubaustrecken-1174752\nMediathek: https://www.bundest
+ ag.de/mediathek/plenarsitzungen\nTagesordnung: https://www.bundestag.de/ta
+ gesordnung
+LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
+ lin
+URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw21-de-neubaustreck
+ en-1174752
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/044/2104
+ 400.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/048/2104
+ 865.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/059/2105
+ 997.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/049/2104
+ 948.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/054/2105
+ 428.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/060/2106
+ 073.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/039/2103
+ 950.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/060/2106
+ 074.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21080.pd
+ f
+END:VEVENT
+BEGIN:VEVENT
+UID:bt-82-top-6-regenbogenbeflaggung-bei-der-deutschen-b@bundestag-kalender
+DTSTAMP:20261020T103724Z
+DTSTART;TZID=Europe/Berlin:20260610T202000
+DTEND;TZID=Europe/Berlin:20260610T205500
+SUMMARY:TOP 6: Regenbogenbeflaggung bei der Deutschen Bahn
+DESCRIPTION:Status: beendet\n82. Sitzung\nAusschuss Verkehr: federführend 
+ (DIP\, amtlich)\n\nBeratung des Antrags der Fraktion der AfD\nLeistung sta
+ tt Regenbogenbeflaggung – Aufgabenfremde Maßnahmen bei der Deutschen Ba
+ hn AG unterlassen\nDrucksache 21/6331 (https://dserver.bundestag.de/btd/21
+ /063/2106331.pdf)\n\nLinks und Dokumente:\nDrucksache 21/6331 (Antrag) Lei
+ stung erbringen\, Neutralität wahren - Aufgabenfremde Maßnahmen wie die.
+ ..: https://dserver.bundestag.de/btd/21/063/2106331.pdf\n  DIP: https://di
+ p.bundestag.de/drucksache/-/288382\nPlenarprotokoll 82. Sitzung: https://d
+ server.bundestag.de/btp/21/21082.pdf\nTextarchiv: https://www.bundestag.de
+ /dokumente/textarchiv/2026/kw24-de-deutsche-bahn-1181874\nMediathek: https
+ ://www.bundestag.de/mediathek/plenarsitzungen\nTagesordnung: https://www.b
+ undestag.de/tagesordnung
+LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
+ lin
+URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw24-de-deutsche-bah
+ n-1181874
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/063/2106
+ 331.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21082.pd
+ f
+END:VEVENT
+BEGIN:VEVENT
+UID:bt-83-top-37-ueberweisungen-im-vereinfachten-verfahre@bundestag-kalende
+ r
+DTSTAMP:20261020T103724Z
+DTSTART;TZID=Europe/Berlin:20260611T145500
+DTEND;TZID=Europe/Berlin:20260611T150000
+SUMMARY:TOP 37: Überweisungen im vereinfachten Verfahren: Gesetz zur Ermö
+ glichung der digitalen...
+DESCRIPTION:Status: beendet\n83. Sitzung\nAusschuss Verkehr: federführend 
+ (DIP\, amtlich)\nAufgeführt sind nur die Vorlagen\, bei denen Verkehr fed
+ erführend ist. Weitere 8 Drucksachen dieses Punktes stehen im Textarchiv.
+ \n\na) Erste Beratung des von der Bundesregierung\neingebrachten Entwurfs 
+ eines Gesetzes zur Ermöglichung der digitalen Fluggastabfertigung\nDrucks
+ ache 21/6129 (https://dserver.bundestag.de/btd/21/061/2106129.pdf)\nÜberw
+ eisungsvorschlag:\nVerkehrsausschuss (f)\nInnenausschuss\nA. f. Recht und 
+ Verbraucherschutz\nA. f. Tourismus\nA. f. Digitales und Staatsmodernisieru
+ ng\n\nLinks und Dokumente:\nDrucksache 21/6129 (Gesetzentwurf) Gesetz zur 
+ Ermöglichung der digitalen Fluggastabfertigung: https://dserver.bundestag
+ .de/btd/21/061/2106129.pdf\n  DIP: https://dip.bundestag.de/drucksache/-/2
+ 88091\nPlenarprotokoll 83. Sitzung: https://dserver.bundestag.de/btp/21/21
+ 083.pdf\nTextarchiv: https://www.bundestag.de/dokumente/textarchiv/2026/kw
+ 24-de-ueberweisungen-1154568\nMediathek: https://www.bundestag.de/mediathe
+ k/plenarsitzungen\nTagesordnung: https://www.bundestag.de/tagesordnung
+LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
+ lin
+URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw24-de-ueberweisung
+ en-1154568
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/061/2106
+ 129.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21083.pd
+ f
+END:VEVENT
+BEGIN:VEVENT
+UID:bt-83-top-16-verbrennerfahrzeuge-zulassung-von-export@bundestag-kalende
+ r
+DTSTAMP:20261020T103724Z
+DTSTART;TZID=Europe/Berlin:20260611T190000
+DTEND;TZID=Europe/Berlin:20260611T194000
+SUMMARY:TOP 16: Verbrennerfahrzeuge\, Zulassung von Export-Simson-Kleinkraf
+ trädern
+DESCRIPTION:Status: beendet\n83. Sitzung\nAusschuss Umwelt\, Klimaschutz\, 
+ Naturschutz und nukleare Sicherheit: mitberatend (DIP\, amtlich)\nAusschus
+ s Wirtschaft und Energie: mitberatend (DIP\, amtlich)\nAusschuss Verkehr: 
+ federführend (DIP\, amtlich)\nUmwelt mitberatend bei: Bestehende Verbrenn
+ erfahrzeuge wertschätzen - Günstige individuelle motorisierte...\nWE mit
+ beratend bei: Bestehende Verbrennerfahrzeuge wertschätzen - Günstige ind
+ ividuelle motorisierte...\nVerkehr federführend bei: Bestehende Verbrenne
+ rfahrzeuge wertschätzen - Günstige individuelle motorisierte...\; Das te
+ chnische und kulturelle Erbe des wiedervereinigten Deutschlands schützen 
+ -...\nZuordnung je Drucksache (DIP):\n  21/6349 (Antrag) Bestehende Verbre
+ nnerfahrzeuge wertschätzen - Günstige individuelle motorisierte...: Umwe
+ lt mitberatend\, WE mitberatend\, Verkehr federführend\n  21/6351 (Antrag
+ ) Das technische und kulturelle Erbe des wiedervereinigten Deutschlands sc
+ hützen -...: Verkehr federführend\n\na) Beratung des Antrags der Fraktio
+ n der AfD\nBestehende Verbrennerfahrzeuge wertschätzen – Günstige indi
+ viduelle motorisierte Mobilität für alle Bürger erhalten\nDrucksache 21
+ /6349 (https://dserver.bundestag.de/btd/21/063/2106349.pdf)\n\nb) Beratung
+  des Antrags der Fraktion der AfD\nDas technische und kulturelle Erbe des 
+ wiedervereinigten Deutschlands schützen – Zulassung von Export-Simson-K
+ leinkrafträdern erleichtern\nDrucksache 21/6351 (https://dserver.bundesta
+ g.de/btd/21/063/2106351.pdf)\n\nLinks und Dokumente:\nDrucksache 21/6349 (
+ Antrag) Bestehende Verbrennerfahrzeuge wertschätzen - Günstige individue
+ lle motorisierte...: https://dserver.bundestag.de/btd/21/063/2106349.pdf\n
+   DIP: https://dip.bundestag.de/drucksache/-/288406\nDrucksache 21/6351 (A
+ ntrag) Das technische und kulturelle Erbe des wiedervereinigten Deutschlan
+ ds schützen -...: https://dserver.bundestag.de/btd/21/063/2106351.pdf\n  
+ DIP: https://dip.bundestag.de/drucksache/-/288407\nPlenarprotokoll 83. Sit
+ zung: https://dserver.bundestag.de/btp/21/21083.pdf\nTextarchiv: https://w
+ ww.bundestag.de/dokumente/textarchiv/2026/kw24-de-verbrenner-1181910\nMedi
+ athek: https://www.bundestag.de/mediathek/plenarsitzungen\nTagesordnung: h
+ ttps://www.bundestag.de/tagesordnung
+LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
+ lin
+URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw24-de-verbrenner-1
+ 181910
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/063/2106
+ 349.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/063/2106
+ 351.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21083.pd
+ f
+END:VEVENT
+BEGIN:VEVENT
+UID:bt-83-top-23-jahresemissionsgesamtmengen-verordnung-2@bundestag-kalende
+ r
+DTSTAMP:20261020T103724Z
+DTSTART;TZID=Europe/Berlin:20260611T225500
+DTEND;TZID=Europe/Berlin:20260611T231500
+SUMMARY:TOP 23: Jahresemissionsgesamtmengen-Verordnung 2031-2040
+DESCRIPTION:Status: beendet\n83. Sitzung\nAusschuss Verkehr: federführend 
+ (DIP\, amtlich)\nAufgeführt sind nur die Vorlagen\, bei denen Verkehr fed
+ erführend ist. Weitere 2 Drucksachen dieses Punktes stehen im Textarchiv.
+ \n\nBeratung der Beschlussempfehlung und des Berichts des Ausschusses für
+  Umwelt\, Klimaschutz\, Naturschutz und nukleare Sicherheit (16. Ausschuss
+ )\nzu der Verordnung der Bundesregierung\nVerordnung zur Überführung der
+  jährlichen Minderungsziele in Jahresemissionsgesamtmengen für die Jahre
+  2031 bis 2040 (Jahresemissionsgesamt-mengen-Verordnung 2031-2040 – JEGM
+ V 2031-2040)\nDrucksachen 21/5069 (https://dserver.bundestag.de/btd/21/050
+ /2105069.pdf)\, 21/5428 (https://dserver.bundestag.de/btd/21/054/2105428.p
+ df) Nr. 2\, 21/6124 (https://dserver.bundestag.de/btd/21/061/2106124.pdf)\
+ n\nLinks und Dokumente:\nDrucksache 21/5428 (Unterrichtung) Bericht über 
+ das Ergebnis der Vorplanung und der frühen Öffentlichkeitsbeteiligung de
+ r...: https://dserver.bundestag.de/btd/21/054/2105428.pdf\n  DIP: https://
+ dip.bundestag.de/drucksache/-/286809\nPlenarprotokoll 83. Sitzung: https:/
+ /dserver.bundestag.de/btp/21/21083.pdf\nTextarchiv: https://www.bundestag.
+ de/dokumente/textarchiv/2026/kw24-de-jahresemissionen-1181928\nMediathek: 
+ https://www.bundestag.de/mediathek/plenarsitzungen\nTagesordnung: https://
+ www.bundestag.de/tagesordnung
+LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
+ lin
+URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw24-de-jahresemissi
+ onen-1181928
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/054/2105
+ 428.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21083.pd
+ f
+END:VEVENT
+BEGIN:VEVENT
+UID:bt-86-top-30-zp-6-ueberweisungen-im-vereinfachten-verfahre@bundestag-ka
+ lender
+DTSTAMP:20261020T103724Z
+DTSTART;TZID=Europe/Berlin:20260625T140000
+DTEND;TZID=Europe/Berlin:20260625T141000
+SUMMARY:TOP 30\, ZP 6: Überweisungen im vereinfachten Verfahren: Zweites G
+ esetz zur Änderung des...\; Drittes Gesetz zur Änderung des...
+DESCRIPTION:Status: beendet\n86. Sitzung\nAusschuss Verkehr: federführend 
+ (DIP\, amtlich)\nAufgeführt sind nur die Vorlagen\, bei denen Verkehr fed
+ erführend ist. Weitere 9 Drucksachen dieses Punktes stehen im Textarchiv.
+ \n\na) Erste Beratung des von der Bundesregierung\neingebrachten Entwurfs 
+ eines Zweiten Gesetzes zur Änderung des Straßenverkehrsunfallstatistikge
+ setzes\nDrucksache 21/6558 (https://dserver.bundestag.de/btd/21/065/210655
+ 8.pdf)\nÜberweisungsvorschlag:\nVerkehrsausschuss\n\nc) Erste Beratung de
+ s von der Bundesregierung\neingebrachten Entwurfs eines Dritten Gesetzes z
+ ur Änderung des Seelotsgesetzes\nDrucksache 21/6498 (https://dserver.bund
+ estag.de/btd/21/064/2106498.pdf)\nÜberweisungsvorschlag:\nVerkehrsausschu
+ ss (f)\nA. f. Arbeit und Soziales\n\nLinks und Dokumente:\nDrucksache 21/6
+ 558 (Gesetzentwurf) Zweites Gesetz zur Änderung des Straßenverkehrsunfal
+ lstatistikgesetzes: https://dserver.bundestag.de/btd/21/065/2106558.pdf\n 
+  DIP: https://dip.bundestag.de/drucksache/-/288821\nDrucksache 21/6498 (Ge
+ setzentwurf) Drittes Gesetz zur Änderung des Seelotsgesetzes: https://dse
+ rver.bundestag.de/btd/21/064/2106498.pdf\n  DIP: https://dip.bundestag.de/
+ drucksache/-/288750\nPlenarprotokoll 86. Sitzung: https://dserver.bundesta
+ g.de/btp/21/21086.pdf\nTextarchiv: https://www.bundestag.de/dokumente/text
+ archiv/2026/kw26-de-ueberweisungen-1154588\nMediathek: https://www.bundest
+ ag.de/mediathek/plenarsitzungen\nTagesordnung: https://www.bundestag.de/ta
+ gesordnung
+LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
+ lin
+URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw26-de-ueberweisung
+ en-1154588
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/065/2106
+ 558.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/064/2106
+ 498.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21086.pd
+ f
+END:VEVENT
+BEGIN:VEVENT
+UID:bt-87-top-6-zp-16-infrastruktur-zukunftsgesetz@bundestag-kalender
+DTSTAMP:20261020T103724Z
+DTSTART;TZID=Europe/Berlin:20260626T090000
+DTEND;TZID=Europe/Berlin:20260626T102500
+SUMMARY:TOP 6\, ZP 16: Infrastruktur-Zukunftsgesetz
+DESCRIPTION:Status: beendet\n87. Sitzung\nAusschuss Umwelt\, Klimaschutz\, 
+ Naturschutz und nukleare Sicherheit: mitberatend (DIP\, amtlich)\nAusschus
+ s Wohnen\, Stadtentwicklung\, Bauwesen und Kommunen: mitberatend (DIP\, am
+ tlich)\nAusschuss Verkehr: Beschlussempfehlung und Bericht (Beschlussempfe
+ hlung der Tagesordnung\, amtlich)\nUmwelt mitberatend bei: Infrastruktur-Z
+ ukunftsgesetz\; Infrastrukturvorhaben im Schienennetz effektiv beschleunig
+ en\nWohnen/Bau mitberatend bei: Infrastruktur-Zukunftsgesetz\; Infrastrukt
+ urvorhaben im Schienennetz effektiv beschleunigen\nVerkehr federführend b
+ ei: Infrastruktur-Zukunftsgesetz\; Infrastrukturvorhaben im Schienennetz e
+ ffektiv beschleunigen\nZuordnung je Drucksache (DIP):\n  21/4099 (Gesetzen
+ twurf) Infrastruktur-Zukunftsgesetz: Umwelt mitberatend\, Wohnen/Bau mitbe
+ ratend\, Verkehr federführend\n  21/4301 (Unterrichtung) Infrastruktur-Zu
+ kunftsgesetz: Umwelt mitberatend\, Wohnen/Bau mitberatend\, Verkehr federf
+ ührend\n  21/6701 (Beschlussempfehlung und Bericht) Infrastrukturvorhaben
+  im Schienennetz effektiv beschleunigen: Umwelt mitberatend\, Wohnen/Bau m
+ itberatend\, Verkehr federführend\n  21/6702 (Bericht) Infrastruktur-Zuku
+ nftsgesetz: Umwelt mitberatend\, Wohnen/Bau mitberatend\, Verkehr federfü
+ hrend\n  21/4458 (Antrag) Infrastrukturvorhaben im Schienennetz effektiv b
+ eschleunigen: Umwelt mitberatend\, Wohnen/Bau mitberatend\, Verkehr federf
+ ührend\n\n– Zweite und dritte Beratung des von der Bundesregierung\nein
+ gebrachten Entwurfs eines Infrastruktur-Zukunftsgesetzes\nDrucksachen 21/4
+ 099 (https://dserver.bundestag.de/btd/21/040/2104099.pdf)\, 21/4301 (https
+ ://dserver.bundestag.de/btd/21/043/2104301.pdf)\nBeschlussempfehlung und B
+ ericht des Verkehrsausschusses (15. Ausschuss)\nDrucksache 21/6701 (https:
+ //dserver.bundestag.de/btd/21/067/2106701.pdf)\n– Bericht des Haushaltsa
+ usschusses (8. Ausschuss) gemäß § 96 der Geschäftsordnung\nDrucksache 
+ 21/6702 (https://dserver.bundestag.de/btd/21/067/2106702.pdf)\n\nZP 16) Be
+ ratung der Beschlussempfehlung und des Berichts\ndes Verkehrsausschusses (
+ 15. Ausschuss)\nzu dem Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN\nInfras
+ trukturvorhaben im Schienennetz effektiv beschleunigen\nDrucksachen 21/445
+ 8 (https://dserver.bundestag.de/btd/21/044/2104458.pdf)\, 21/6701 (https:/
+ /dserver.bundestag.de/btd/21/067/2106701.pdf)\n\nLinks und Dokumente:\nDru
+ cksache 21/4099 (Gesetzentwurf) Infrastruktur-Zukunftsgesetz: https://dser
+ ver.bundestag.de/btd/21/040/2104099.pdf\n  DIP: https://dip.bundestag.de/d
+ rucksache/-/285079\nDrucksache 21/4301 (Unterrichtung) Infrastruktur-Zukun
+ ftsgesetz: https://dserver.bundestag.de/btd/21/043/2104301.pdf\n  DIP: htt
+ ps://dip.bundestag.de/drucksache/-/285340\nDrucksache 21/6701 (Beschlussem
+ pfehlung und Bericht) Infrastrukturvorhaben im Schienennetz effektiv besch
+ leunigen: https://dserver.bundestag.de/btd/21/067/2106701.pdf\n  DIP: http
+ s://dip.bundestag.de/drucksache/-/288960\nDrucksache 21/6702 (Bericht) Inf
+ rastruktur-Zukunftsgesetz: https://dserver.bundestag.de/btd/21/067/2106702
+ .pdf\n  DIP: https://dip.bundestag.de/drucksache/-/288961\nDrucksache 21/4
+ 458 (Antrag) Infrastrukturvorhaben im Schienennetz effektiv beschleunigen:
+  https://dserver.bundestag.de/btd/21/044/2104458.pdf\n  DIP: https://dip.b
+ undestag.de/drucksache/-/285520\nPlenarprotokoll 87. Sitzung: https://dser
+ ver.bundestag.de/btp/21/21087.pdf\nTextarchiv: https://www.bundestag.de/do
+ kumente/textarchiv/2026/kw26-de-infrastruktur-zukunftsgesetz-1184312\nMedi
+ athek: https://www.bundestag.de/mediathek/plenarsitzungen\nTagesordnung: h
+ ttps://www.bundestag.de/tagesordnung
+LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
+ lin
+URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw26-de-infrastruktu
+ r-zukunftsgesetz-1184312
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/040/2104
+ 099.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/043/2104
+ 301.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/067/2106
+ 701.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/067/2106
+ 702.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/044/2104
+ 458.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21087.pd
+ f
+END:VEVENT
+BEGIN:VEVENT
+UID:bt-87-top-19-ermoeglichung-der-digitalen-fluggastabfe@bundestag-kalende
+ r
+DTSTAMP:20261020T103724Z
+DTSTART;TZID=Europe/Berlin:20260626T113500
+DTEND;TZID=Europe/Berlin:20260626T120500
+SUMMARY:TOP 19: Ermöglichung der digitalen Fluggastabfertigung
+DESCRIPTION:Status: beendet\n87. Sitzung\nAusschuss Verkehr: Beschlussempfe
+ hlung und Bericht (Beschlussempfehlung der Tagesordnung\, amtlich)\nVerkeh
+ r federführend bei: Gesetz zur Ermöglichung der digitalen Fluggastabfert
+ igung\nZuordnung je Drucksache (DIP):\n  21/6129 (Gesetzentwurf) Gesetz zu
+ r Ermöglichung der digitalen Fluggastabfertigung: Verkehr federführend\n
+   21/6562 (Unterrichtung) Gesetz zur Ermöglichung der digitalen Fluggasta
+ bfertigung: Verkehr federführend\n  21/6697 (Beschlussempfehlung und Beri
+ cht) Gesetz zur Ermöglichung der digitalen Fluggastabfertigung: Verkehr f
+ ederführend\n\nZweite und dritte Beratung des von der Bundesregierung\nei
+ ngebrachten Entwurfs eines Gesetzes zur Ermöglichung der digitalen Flugga
+ stabfertigung\nDrucksache 21/6129 (https://dserver.bundestag.de/btd/21/061
+ /2106129.pdf)\, 21/6562 (https://dserver.bundestag.de/btd/21/065/2106562.p
+ df)\nBeschlussempfehlung und Bericht des Verkehrsausschusses (15. Ausschus
+ s)\nDrucksache 21/6697 (https://dserver.bundestag.de/btd/21/066/2106697.pd
+ f)\n\nLinks und Dokumente:\nDrucksache 21/6129 (Gesetzentwurf) Gesetz zur 
+ Ermöglichung der digitalen Fluggastabfertigung: https://dserver.bundestag
+ .de/btd/21/061/2106129.pdf\n  DIP: https://dip.bundestag.de/drucksache/-/2
+ 88091\nDrucksache 21/6562 (Unterrichtung) Gesetz zur Ermöglichung der dig
+ italen Fluggastabfertigung: https://dserver.bundestag.de/btd/21/065/210656
+ 2.pdf\n  DIP: https://dip.bundestag.de/drucksache/-/288827\nDrucksache 21/
+ 6697 (Beschlussempfehlung und Bericht) Gesetz zur Ermöglichung der digita
+ len Fluggastabfertigung: https://dserver.bundestag.de/btd/21/066/2106697.p
+ df\n  DIP: https://dip.bundestag.de/drucksache/-/288956\nPlenarprotokoll 8
+ 7. Sitzung: https://dserver.bundestag.de/btp/21/21087.pdf\nTextarchiv: htt
+ ps://www.bundestag.de/dokumente/textarchiv/2026/kw26-de-fluggastabfertigun
+ g-1184338\nMediathek: https://www.bundestag.de/mediathek/plenarsitzungen\n
+ Tagesordnung: https://www.bundestag.de/tagesordnung
+LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
+ lin
+URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw26-de-fluggastabfe
+ rtigung-1184338
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/061/2106
+ 129.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/065/2106
+ 562.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/066/2106
+ 697.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21087.pd
+ f
+END:VEVENT
+BEGIN:VEVENT
+UID:bt-89-top-8-zp-4-bahnpolitik-tempolimit-verkehrspolitik@bundestag-kalen
+ der
+DTSTAMP:20261020T103724Z
+DTSTART;TZID=Europe/Berlin:20260709T111500
+DTEND;TZID=Europe/Berlin:20260709T124000
+SUMMARY:TOP 8\, ZP 4: Bahnpolitik\, Tempolimit\, Verkehrspolitik
+DESCRIPTION:Status: beendet\n89. Sitzung\nAusschuss Umwelt\, Klimaschutz\, 
+ Naturschutz und nukleare Sicherheit: mitberatend (DIP\, amtlich)\nAusschus
+ s Wirtschaft und Energie: mitberatend (DIP\, amtlich)\nAusschuss Verkehr: 
+ Beschlussempfehlung und Bericht (Beschlussempfehlung der Tagesordnung\, am
+ tlich)\nUmwelt mitberatend bei: Stillstand in der Bahnpolitik überwinden 
+ - Strukturreformen umsetzen\, Kapazitäten des...\; Gesetz zur Änderung d
+ es Straßenverkehrsgesetzes (Tempolimit)\; Hitzebedingte Schäden an der V
+ erkehrsinfrastruktur - Klimaschutz jetzt forcieren\nWE mitberatend bei: St
+ illstand in der Bahnpolitik überwinden - Strukturreformen umsetzen\, Kapa
+ zitäten des...\nVerkehr federführend bei: Stillstand in der Bahnpolitik 
+ überwinden - Strukturreformen umsetzen\, Kapazitäten des...\; Gesetz zur
+  Änderung des Straßenverkehrsgesetzes (Tempolimit)\; Hitzebedingte Schä
+ den an der Verkehrsinfrastruktur - Klimaschutz jetzt forcieren\nZuordnung 
+ je Drucksache (DIP):\n  21/6922 (Antrag) Stillstand in der Bahnpolitik üb
+ erwinden - Strukturreformen umsetzen\, Kapazitäten des...: Umwelt mitbera
+ tend\, WE mitberatend\, Verkehr federführend\n  21/5319 (Gesetzentwurf) G
+ esetz zur Änderung des Straßenverkehrsgesetzes (Tempolimit): Umwelt mitb
+ eratend\, Verkehr federführend\n  21/6734 (Beschlussempfehlung und Berich
+ t) Gesetz zur Änderung des Straßenverkehrsgesetzes (Tempolimit): Umwelt 
+ mitberatend\, Verkehr federführend\n  21/6923 (Antrag) Hitzebedingte Sch
+ äden an der Verkehrsinfrastruktur - Klimaschutz jetzt forcieren: Umwelt m
+ itberatend\, Verkehr federführend\n\na) abgesetzt\n\nb) Beratung des Antr
+ ags der Fraktion BÜNDNIS 90/DIE GRÜNEN\nStillstand in der Bahnpolitik ü
+ berwinden – Strukturreformen umsetzen\, Kapazitäten des Schienennetzes 
+ verstärken und ein gutes Fernverkehrsangebot sicherstellen\nDrucksache 21
+ /6922 (https://dserver.bundestag.de/btd/21/069/2106922.pdf)\n\nc) Zweite u
+ nd dritte Beratung des von der Fraktion BÜNDNIS 90/DIE GRÜNEN\neingebrac
+ hten Entwurfs eines Gesetzes zur Änderung des Straßenverkehrsgesetzes (T
+ empolimit)\nDrucksache 21/5319 (https://dserver.bundestag.de/btd/21/053/21
+ 05319.pdf)\nBeschlussempfehlung und Bericht des Verkehrsausschusses (15. A
+ usschuss)\nDrucksache 21/6734 (https://dserver.bundestag.de/btd/21/067/210
+ 6734.pdf)\n\nZP 4) Beratung des Antrags der Fraktion BÜNDNIS 90/DIE GRÜN
+ EN\nHitzebedingte Schäden an der Verkehrsinfrastruktur – Klimaschutz je
+ tzt forcieren\nDrucksache 21/6923 (https://dserver.bundestag.de/btd/21/069
+ /2106923.pdf)\n\nnamentliche Abstimmung zu TOP 8c\n\nLinks und Dokumente:\
+ nDrucksache 21/6922 (Antrag) Stillstand in der Bahnpolitik überwinden - S
+ trukturreformen umsetzen\, Kapazitäten des...: https://dserver.bundestag.
+ de/btd/21/069/2106922.pdf\n  DIP: https://dip.bundestag.de/drucksache/-/28
+ 9257\nDrucksache 21/5319 (Gesetzentwurf) Gesetz zur Änderung des Straßen
+ verkehrsgesetzes (Tempolimit): https://dserver.bundestag.de/btd/21/053/210
+ 5319.pdf\n  DIP: https://dip.bundestag.de/drucksache/-/286662\nDrucksache 
+ 21/6734 (Beschlussempfehlung und Bericht) Gesetz zur Änderung des Straße
+ nverkehrsgesetzes (Tempolimit): https://dserver.bundestag.de/btd/21/067/21
+ 06734.pdf\n  DIP: https://dip.bundestag.de/drucksache/-/289012\nDrucksache
+  21/6923 (Antrag) Hitzebedingte Schäden an der Verkehrsinfrastruktur - Kl
+ imaschutz jetzt forcieren: https://dserver.bundestag.de/btd/21/069/2106923
+ .pdf\n  DIP: https://dip.bundestag.de/drucksache/-/289366\nPlenarprotokoll
+  89. Sitzung: https://dserver.bundestag.de/btp/21/21089.pdf\nTextarchiv: h
+ ttps://www.bundestag.de/dokumente/textarchiv/2026/kw28-de-strassenverkehrs
+ gesetz-1192582\nMediathek: https://www.bundestag.de/mediathek/plenarsitzun
+ gen\nTagesordnung: https://www.bundestag.de/tagesordnung
+LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
+ lin
+URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw28-de-strassenverk
+ ehrsgesetz-1192582
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/069/2106
+ 922.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/053/2105
+ 319.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/067/2106
+ 734.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/069/2106
+ 923.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21089.pd
+ f
+END:VEVENT
+BEGIN:VEVENT
+UID:bt-89-top-29-zp-6-top-23-abschliessende-beratungen-ohne-aussprach@bunde
+ stag-kalender
+DTSTAMP:20261020T103724Z
+DTSTART;TZID=Europe/Berlin:20260709T150500
+DTEND;TZID=Europe/Berlin:20260709T152000
+SUMMARY:TOP 29\, ZP 6\, TOP 23: Abschließende Beratungen ohne Aussprache: 
+ Zweites Gesetz zur Änderung des...
+DESCRIPTION:Status: beendet\n89. Sitzung\nAusschuss Verkehr: Beschlussempfe
+ hlung und Bericht (Beschlussempfehlung der Tagesordnung\, amtlich)\nAufgef
+ ührt sind nur die Vorlagen\, bei denen Verkehr federführend ist. Weitere
+  40 Drucksachen dieses Punktes stehen im Textarchiv.\n\nc) Zweite und drit
+ te Beratung des von der Bundesregierung\neingebrachten Entwurfs eines Zwei
+ ten Gesetzes zur Änderung des Straßenverkehrsunfallstatistikgesetzes\nDr
+ ucksache 21/6558 (https://dserver.bundestag.de/btd/21/065/2106558.pdf)\nBe
+ schlussempfehlung und Bericht des Verkehrsausschusses (15. Ausschuss)\nDru
+ cksache 21/6991 (https://dserver.bundestag.de/btd/21/069/2106991.pdf)\n\nh
+ ) Beratung der Beschlussempfehlung und des Berichts des Verkehrsausschusse
+ s (15. Ausschuss)\nzu dem Antrag der Fraktion der AfD\nLeistung erbringen\
+ , Neutralität wahren – Aufgabenfremde Maßnahmen wie die Regenbogenbefl
+ aggung bei der Deutsche Bahn AG unterlassen\nDrucksachen 21/6331 (https://
+ dserver.bundestag.de/btd/21/063/2106331.pdf)\, 21/6880 (https://dserver.bu
+ ndestag.de/btd/21/068/2106880.pdf)\n\ni) Beratung der Beschlussempfehlung 
+ und des Berichts des Verkehrsausschusses (15. Ausschuss)\nzu dem Antrag de
+ r Fraktion der AfD\nDas technische und kulturelle Erbe des wiedervereinigt
+ en Deutschlands schützen – Zulassung von Export-Simson-Kleinkrafträder
+ n erleichtern\nDrucksachen 21/6351 (https://dserver.bundestag.de/btd/21/06
+ 3/2106351.pdf)\, 21/6986 (https://dserver.bundestag.de/btd/21/069/2106986.
+ pdf)\n\nj) Beratung der Beschlussempfehlung und des Berichts des Verkehrsa
+ usschusses (15. Ausschuss)\nzu dem Antrag der Fraktion der AfD\nBestehende
+  Verbrennerfahrzeuge wertschätzen – Günstige individuelle motorisierte
+  Mobilität für alle Bürger erhalten\nDrucksachen 21/6349 (https://dserv
+ er.bundestag.de/btd/21/063/2106349.pdf)\, 21/7002 (https://dserver.bundest
+ ag.de/btd/21/070/2107002.pdf)\n\nLinks und Dokumente:\nDrucksache 21/6558 
+ (Gesetzentwurf) Zweites Gesetz zur Änderung des Straßenverkehrsunfallsta
+ tistikgesetzes: https://dserver.bundestag.de/btd/21/065/2106558.pdf\n  DIP
+ : https://dip.bundestag.de/drucksache/-/288821\nDrucksache 21/6991 (Beschl
+ ussempfehlung und Bericht) Zweites Gesetz zur Änderung des Straßenverkeh
+ rsunfallstatistikgesetzes: https://dserver.bundestag.de/btd/21/069/2106991
+ .pdf\n  DIP: https://dip.bundestag.de/drucksache/-/289323\nDrucksache 21/6
+ 331 (Antrag) Leistung erbringen\, Neutralität wahren - Aufgabenfremde Ma
+ ßnahmen wie die...: https://dserver.bundestag.de/btd/21/063/2106331.pdf\n
+   DIP: https://dip.bundestag.de/drucksache/-/288382\nDrucksache 21/6880 (B
+ eschlussempfehlung und Bericht) Leistung erbringen\, Neutralität wahren -
+  Aufgabenfremde Maßnahmen wie die...: https://dserver.bundestag.de/btd/21
+ /068/2106880.pdf\n  DIP: https://dip.bundestag.de/drucksache/-/289216\nDru
+ cksache 21/6351 (Antrag) Das technische und kulturelle Erbe des wiedervere
+ inigten Deutschlands schützen -...: https://dserver.bundestag.de/btd/21/0
+ 63/2106351.pdf\n  DIP: https://dip.bundestag.de/drucksache/-/288407\nDruck
+ sache 21/6986 (Beschlussempfehlung und Bericht) Das technische und kulture
+ lle Erbe des wiedervereinigten Deutschlands schützen -...: https://dserve
+ r.bundestag.de/btd/21/069/2106986.pdf\n  DIP: https://dip.bundestag.de/dru
+ cksache/-/289318\nDrucksache 21/6349 (Antrag) Bestehende Verbrennerfahrzeu
+ ge wertschätzen - Günstige individuelle motorisierte...: https://dserver
+ .bundestag.de/btd/21/063/2106349.pdf\n  DIP: https://dip.bundestag.de/druc
+ ksache/-/288406\nDrucksache 21/7002 (Beschlussempfehlung und Bericht) Best
+ ehende Verbrennerfahrzeuge wertschätzen - Günstige individuelle motorisi
+ erte...: https://dserver.bundestag.de/btd/21/070/2107002.pdf\n  DIP: https
+ ://dip.bundestag.de/drucksache/-/289333\nPlenarprotokoll 89. Sitzung: http
+ s://dserver.bundestag.de/btp/21/21089.pdf\nMediathek: https://www.bundesta
+ g.de/mediathek/plenarsitzungen\nTagesordnung: https://www.bundestag.de/tag
+ esordnung
+LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
+ lin
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/065/2106
+ 558.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/069/2106
+ 991.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/063/2106
+ 331.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/068/2106
+ 880.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/063/2106
+ 351.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/069/2106
+ 986.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/063/2106
+ 349.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/070/2107
+ 002.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21089.pd
+ f
+END:VEVENT
+BEGIN:VEVENT
+UID:bt-89-zp-16-top-17-zukunft-der-automobilindustrie-e-fahrzeu@bundestag-k
+ alender
+DTSTAMP:20261020T103724Z
+DTSTART;TZID=Europe/Berlin:20260709T221500
+DTEND;TZID=Europe/Berlin:20260709T222500
+SUMMARY:ZP 16\, TOP 17: Zukunft der Automobilindustrie\, E-Fahrzeugförderu
+ ng
+DESCRIPTION:Status: beendet\n89. Sitzung\nAusschuss Verkehr: federführend 
+ (DIP\, amtlich)\nAufgeführt sind nur die Vorlagen\, bei denen Verkehr fed
+ erführend ist. Weitere 2 Drucksachen dieses Punktes stehen im Textarchiv.
+ \n\nZP 17) Beratung des Antrags der Fraktion Die Linke\nElektro-Autos beza
+ hlbar machen – Förderung von E-Fahrzeugen sozial und ökologisch neu au
+ srichten\nDrucksache 21/6524 (https://dserver.bundestag.de/btd/21/065/2106
+ 524.pdf)\n\nLinks und Dokumente:\nDrucksache 21/6524 (Antrag) Elektro-Auto
+ s bezahlbar machen - Förderung von E-Fahrzeugen sozial und ökologisch ne
+ u...: https://dserver.bundestag.de/btd/21/065/2106524.pdf\n  DIP: https://
+ dip.bundestag.de/drucksache/-/288792\nPlenarprotokoll 89. Sitzung: https:/
+ /dserver.bundestag.de/btp/21/21089.pdf\nTextarchiv: https://www.bundestag.
+ de/dokumente/textarchiv/2026/kw28-de-automobilindustrie-1194056\nMediathek
+ : https://www.bundestag.de/mediathek/plenarsitzungen\nTagesordnung: https:
+ //www.bundestag.de/tagesordnung
+LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
+ lin
+URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw28-de-automobilind
+ ustrie-1194056
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/065/2106
+ 524.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21089.pd
+ f
+END:VEVENT
+BEGIN:VEVENT
+UID:bt-93-top-6-abschliessende-beratung-ohne-aussprache@bundestag-kalender
+DTSTAMP:20261020T103724Z
+DTSTART;TZID=Europe/Berlin:20260910T123000
+DTEND;TZID=Europe/Berlin:20260910T123500
+SUMMARY:TOP 6: Abschließende Beratung ohne Aussprache
+DESCRIPTION:Status: beendet\n93. Sitzung\nAusschuss Verkehr: Beschlussempfe
+ hlung und Bericht (Beschlussempfehlung der Tagesordnung\, amtlich)\nVerkeh
+ r federführend bei: Fertigstellung der Autobahn 20 vor der Bahn-Neubaustr
+ ecke Hamburg-Hannover priorisieren\nZuordnung je Drucksache (DIP):\n  21/5
+ 764 (Antrag) Fertigstellung der Autobahn 20 vor der Bahn-Neubaustrecke Ham
+ burg-Hannover priorisieren: Verkehr federführend\n  21/6595 (Beschlussemp
+ fehlung und Bericht) Fertigstellung der Autobahn 20 vor der Bahn-Neubaustr
+ ecke Hamburg-Hannover priorisieren: Verkehr federführend\n\nBeratung der 
+ Beschlussempfehlung und des Berichts des Verkehrsausschusses (15. Ausschus
+ s)\nzu dem Antrag der Fraktion der AfD\nFertigstellung der Autobahn 20 vor
+  der Bahn-Neubaustrecke Hamburg–Hannover priorisieren\nDrucksachen 21/57
+ 64 (https://dserver.bundestag.de/btd/21/057/2105764.pdf)\, 21/6595 (https:
+ //dserver.bundestag.de/btd/21/065/2106595.pdf)\n\nLinks und Dokumente:\nDr
+ ucksache 21/5764 (Antrag) Fertigstellung der Autobahn 20 vor der Bahn-Neub
+ austrecke Hamburg-Hannover priorisieren: https://dserver.bundestag.de/btd/
+ 21/057/2105764.pdf\n  DIP: https://dip.bundestag.de/drucksache/-/287521\nD
+ rucksache 21/6595 (Beschlussempfehlung und Bericht) Fertigstellung der Aut
+ obahn 20 vor der Bahn-Neubaustrecke Hamburg-Hannover priorisieren: https:/
+ /dserver.bundestag.de/btd/21/065/2106595.pdf\n  DIP: https://dip.bundestag
+ .de/drucksache/-/288898\nPlenarprotokoll 93. Sitzung: https://dserver.bund
+ estag.de/btp/21/21093.pdf\nTextarchiv: https://www.bundestag.de/dokumente/
+ textarchiv/2026/kw37-de-abschliessende-beratungen-1154640\nMediathek: http
+ s://www.bundestag.de/mediathek/plenarsitzungen\nTagesordnung: https://www.
+ bundestag.de/tagesordnung
+LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
+ lin
+URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw37-de-abschliessen
+ de-beratungen-1154640
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/057/2105
+ 764.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/065/2106
+ 595.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21093.pd
+ f
+END:VEVENT
+BEGIN:VEVENT
+UID:bt-96-top-40-zp-2-ueberweisungen-im-vereinfachten-verfahre@bundestag-ka
+ lender
+DTSTAMP:20261020T103724Z
+DTSTART;TZID=Europe/Berlin:20260924T135500
+DTEND;TZID=Europe/Berlin:20260924T140000
+SUMMARY:TOP 40\, ZP 2: Überweisungen im vereinfachten Verfahren: Gesetz zu
+ m Markthochlauf nachhaltiger...\; Siebzehntes Gesetz zur Änderung des...
+DESCRIPTION:Status: beendet\n96. Sitzung\nAusschuss Verkehr: federführend 
+ (DIP\, amtlich)\nAufgeführt sind nur die Vorlagen\, bei denen Verkehr fed
+ erführend ist. Weitere 25 Drucksachen dieses Punktes stehen im Textarchiv
+ .\n\na) Erste Beratung des von der Bundesregierung\neingebrachten Entwurfs
+  eines Gesetzes zum Markthochlauf nachhaltiger Flugkraftstoffe\nDrucksache
+  21/7871 (https://dserver.bundestag.de/btd/21/078/2107871.pdf)\nÜberweisu
+ ngsvorschlag:\nVerkehrsausschuss (f)\nA. f. Tourismus\n\nb) Erste Beratung
+  des von der Bundesregierung\neingebrachten Entwurfs eines Siebzehnten Ges
+ etzes zur Änderung des Luftverkehrsgesetzes\nDrucksache 21/7403 (https://
+ dserver.bundestag.de/btd/21/074/2107403.pdf)\nÜberweisungsvorschlag:\nVer
+ kehrsausschuss (f)\nA. f. Wirtschaft und Energie\nA. f. Tourismus\n\nf) Er
+ ste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gese
+ tzes zur Änderung der Bevorrechtigung der Verwendung elektrisch betrieben
+ er Fahrzeuge sowie damit zusammenhängender straßenverkehrsrechtlicher Vo
+ rschriften\nDrucksache 21/7872 (https://dserver.bundestag.de/btd/21/078/21
+ 07872.pdf)\nÜberweisungsvorschlag:\nVerkehrsausschuss\n\nl) Erste Beratun
+ g des von der Fraktion BÜNDNIS 90/DIE GRÜNEN eingebrachten Entwurfs eine
+ s Gesetzes zur Regelung des Schienenpersonenfernverkehrsangebotes und zur 
+ Änderung weiterer Gesetze\nDrucksache 21/7626 (https://dserver.bundestag.
+ de/btd/21/076/2107626.pdf)\nÜberweisungsvorschlag:\nVerkehrsausschuss (f)
+ \nA. f. Recht und Verbraucherschutz\nA. f. Wirtschaft und Energie\nHaushal
+ tsausschuss\n\nLinks und Dokumente:\nDrucksache 21/7871 (Gesetzentwurf) Ge
+ setz zum Markthochlauf nachhaltiger Flugkraftstoffe: https://dserver.bunde
+ stag.de/btd/21/078/2107871.pdf\n  DIP: https://dip.bundestag.de/drucksache
+ /-/290550\nDrucksache 21/7403 (Gesetzentwurf) Siebzehntes Gesetz zur Ände
+ rung des Luftverkehrsgesetzes: https://dserver.bundestag.de/btd/21/074/210
+ 7403.pdf\n  DIP: https://dip.bundestag.de/drucksache/-/289975\nDrucksache 
+ 21/7872 (Gesetzentwurf) Gesetz zur Änderung der Bevorrechtigung der Verwe
+ ndung elektrisch betriebener Fahrzeuge...: https://dserver.bundestag.de/bt
+ d/21/078/2107872.pdf\n  DIP: https://dip.bundestag.de/drucksache/-/290617\
+ nDrucksache 21/7626 (Gesetzentwurf) Gesetz zur Regelung des Schienenperson
+ enfernverkehrsangebotes und zur Änderung weiterer...: https://dserver.bun
+ destag.de/btd/21/076/2107626.pdf\n  DIP: https://dip.bundestag.de/drucksac
+ he/-/290270\nPlenarprotokoll 96. Sitzung: https://dserver.bundestag.de/btp
+ /21/21096.pdf\nTextarchiv: https://www.bundestag.de/dokumente/textarchiv/2
+ 026/kw39-de-ueberweisungen-1154686\nMediathek: https://www.bundestag.de/me
+ diathek/plenarsitzungen\nTagesordnung: https://www.bundestag.de/tagesordnu
+ ng
+LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
+ lin
+URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw39-de-ueberweisung
+ en-1154686
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/078/2107
+ 871.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/074/2107
+ 403.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/078/2107
+ 872.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/076/2107
+ 626.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21096.pd
+ f
+END:VEVENT
+BEGIN:VEVENT
+UID:bt-96-top-41-abschliessende-beratungen-ohne-aussprach@bundestag-kalende
+ r
+DTSTAMP:20261020T103724Z
+DTSTART;TZID=Europe/Berlin:20260924T140000
+DTEND;TZID=Europe/Berlin:20260924T141000
+SUMMARY:TOP 41: Abschließende Beratungen ohne Aussprache: Drittes Gesetz z
+ ur Änderung des...
+DESCRIPTION:Status: beendet\n96. Sitzung\nAusschuss Verkehr: Beschlussempfe
+ hlung und Bericht (Beschlussempfehlung der Tagesordnung\, amtlich)\nAufgef
+ ührt sind nur die Vorlagen\, bei denen Verkehr federführend ist. Weitere
+  19 Drucksachen dieses Punktes stehen im Textarchiv.\n\nb) Zweite und drit
+ te Beratung des von der Bundesregierung\neingebrachten Entwurfs eines Drit
+ ten Gesetzes zur Änderung des Seelotsgesetzes\nDrucksache 21/6498 (https:
+ //dserver.bundestag.de/btd/21/064/2106498.pdf)\nBeschlussempfehlung und Be
+ richt des Verkehrsausschusses (15. Ausschuss)\nDrucksache 21/8163 (https:/
+ /dserver.bundestag.de/btd/21/081/2108163.pdf)\n\nLinks und Dokumente:\nDru
+ cksache 21/6498 (Gesetzentwurf) Drittes Gesetz zur Änderung des Seelotsge
+ setzes: https://dserver.bundestag.de/btd/21/064/2106498.pdf\n  DIP: https:
+ //dip.bundestag.de/drucksache/-/288750\nDrucksache 21/8163 (Beschlussempfe
+ hlung und Bericht) Drittes Gesetz zur Änderung des Seelotsgesetzes: https
+ ://dserver.bundestag.de/btd/21/081/2108163.pdf\n  DIP: https://dip.bundest
+ ag.de/drucksache/-/291018\nPlenarprotokoll 96. Sitzung: https://dserver.bu
+ ndestag.de/btp/21/21096.pdf\nTextarchiv: https://www.bundestag.de/dokument
+ e/textarchiv/2026/kw39-de-abschliessende-beratungen-1154664\nMediathek: ht
+ tps://www.bundestag.de/mediathek/plenarsitzungen\nTagesordnung: https://ww
+ w.bundestag.de/tagesordnung
+LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
+ lin
+URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw39-de-abschliessen
+ de-beratungen-1154664
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/064/2106
+ 498.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/081/2108
+ 163.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21096.pd
+ f
+END:VEVENT
+BEGIN:VEVENT
+UID:bt-96-top-25-fahrlehrergesetz-fuehrerscheinkosten@bundestag-kalender
+DTSTAMP:20261020T103724Z
+DTSTART;TZID=Europe/Berlin:20260924T215500
+DTEND;TZID=Europe/Berlin:20260924T221500
+SUMMARY:TOP 25: Fahrlehrergesetz\, Führerscheinkosten
+DESCRIPTION:Status: beendet\n96. Sitzung\nAusschuss Verkehr: federführend 
+ (DIP\, amtlich)\nVerkehr federführend bei: Gesetz zur Änderung des Fahrl
+ ehrergesetzes und anderer straßenverkehrsrechtlicher Gesetze\; Führersch
+ ein für 1 Euro - Bezahlbarer Führerschein für Ausbildung und Arbeit\nZu
+ ordnung je Drucksache (DIP):\n  21/7404 (Gesetzentwurf) Gesetz zur Änderu
+ ng des Fahrlehrergesetzes und anderer straßenverkehrsrechtlicher Gesetze:
+  Verkehr federführend\n  21/3558 (Antrag) Führerschein für 1 Euro - Bez
+ ahlbarer Führerschein für Ausbildung und Arbeit: Verkehr federführend\n
+ \na) Erste Beratung des von der Bundesregierung\neingebrachten Entwurfs ei
+ nes Gesetzes zur Änderung des Fahrlehrergesetzes und anderer straßenverk
+ ehrsrechtlicher Gesetze\nDrucksache 21/7404 (https://dserver.bundestag.de/
+ btd/21/074/2107404.pdf)\n\nb) Beratung des Antrags der Fraktion der AfD\nF
+ ührerschein für 1 Euro – Bezahlbarer Führerschein für Ausbildung und
+  Arbeit\nDrucksache 21/3558 (https://dserver.bundestag.de/btd/21/035/21035
+ 58.pdf)\n\nLinks und Dokumente:\nDrucksache 21/7404 (Gesetzentwurf) Gesetz
+  zur Änderung des Fahrlehrergesetzes und anderer straßenverkehrsrechtlic
+ her Gesetze: https://dserver.bundestag.de/btd/21/074/2107404.pdf\n  DIP: h
+ ttps://dip.bundestag.de/drucksache/-/289976\nDrucksache 21/3558 (Antrag) F
+ ührerschein für 1 Euro - Bezahlbarer Führerschein für Ausbildung und A
+ rbeit: https://dserver.bundestag.de/btd/21/035/2103558.pdf\n  DIP: https:/
+ /dip.bundestag.de/drucksache/-/284328\nPlenarprotokoll 96. Sitzung: https:
+ //dserver.bundestag.de/btp/21/21096.pdf\nTextarchiv: https://www.bundestag
+ .de/dokumente/textarchiv/2026/kw39-de-fahrlehrergesetz-1211282\nMediathek:
+  https://www.bundestag.de/mediathek/plenarsitzungen\nTagesordnung: https:/
+ /www.bundestag.de/tagesordnung
+LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
+ lin
+URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw39-de-fahrlehrerge
+ setz-1211282
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/074/2107
+ 404.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/035/2103
+ 558.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21096.pd
+ f
+END:VEVENT
+BEGIN:VEVENT
+UID:bt-99-top-42-zp-4-ueberweisungen-im-vereinfachten-verfahre@bundestag-ka
+ lender
+DTSTAMP:20261020T103724Z
+DTSTART;TZID=Europe/Berlin:20261008T150000
+DTEND;TZID=Europe/Berlin:20261008T150500
+SUMMARY:TOP 42\, ZP 4: Überweisungen im vereinfachten Verfahren: Gesetz ü
+ ber die Neuregelung des Rechts...\; Viertes Gesetz zur Änderung des...
+DESCRIPTION:Status: beendet\n99. Sitzung\nAusschuss Verkehr: federführend 
+ (DIP\, amtlich)\nAufgeführt sind nur die Vorlagen\, bei denen Verkehr fed
+ erführend ist. Weitere 12 Drucksachen dieses Punktes stehen im Textarchiv
+ .\n\ne) Erste Beratung des von der Bundesregierung eingebrachten Entwurfs 
+ eines Gesetzes über die Neuregelung des Rechts des Bundesaufsichtsamtes f
+ ür Flugsicherung\nDrucksache 21/8234 (https://dserver.bundestag.de/btd/21
+ /082/2108234.pdf)\nÜberweisungsvorschlag:\nVerkehrsausschuss (f)\nInnenau
+ sschuss\n\nl) Erste Beratung des von der Fraktion der AfD\neingebrachten E
+ ntwurfs eines Vierten Gesetzes zur Änderung des Gemeindeverkehrsfinanzier
+ ungsgesetzes\nDrucksache 21/8373 (https://dserver.bundestag.de/btd/21/083/
+ 2108373.pdf)\nÜberweisungsvorschlag:\nVerkehrsausschuss (f)\n\nLinks und 
+ Dokumente:\nDrucksache 21/8234 (Gesetzentwurf) Gesetz über die Neuregelun
+ g des Rechts des Bundesaufsichtsamtes für Flugsicherung: https://dserver.
+ bundestag.de/btd/21/082/2108234.pdf\n  DIP: https://dip.bundestag.de/druck
+ sache/-/291202\nDrucksache 21/8373 (Gesetzentwurf) Viertes Gesetz zur Änd
+ erung des Gemeindeverkehrsfinanzierungsgesetzes: https://dserver.bundestag
+ .de/btd/21/083/2108373.pdf\n  DIP: https://dip.bundestag.de/drucksache/-/2
+ 91387\nPlenarprotokoll 99. Sitzung: https://dserver.bundestag.de/btp/21/21
+ 099.pdf\nTextarchiv: https://www.bundestag.de/dokumente/textarchiv/2026/kw
+ 41-de-ueberweisungen-1154722\nMediathek: https://www.bundestag.de/mediathe
+ k/plenarsitzungen\nTagesordnung: https://www.bundestag.de/tagesordnung
+LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
+ lin
+URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw41-de-ueberweisung
+ en-1154722
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/082/2108
+ 234.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/083/2108
+ 373.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21099.pd
+ f
+END:VEVENT
+BEGIN:VEVENT
+UID:bt-99-top-24-ausbaustrecke-neubaustrecke-hannover-ham@bundestag-kalende
+ r
+DTSTAMP:20261020T103724Z
+DTSTART;TZID=Europe/Berlin:20261008T223500
+DTEND;TZID=Europe/Berlin:20261008T230000
+SUMMARY:TOP 24: Ausbaustrecke/Neubaustrecke Hannover - Hamburg
+DESCRIPTION:Status: beendet\n99. Sitzung\nAusschuss Verkehr: Beschlussempfe
+ hlung und Bericht (Beschlussempfehlung der Tagesordnung\, amtlich)\nAussch
+ uss Umwelt\, Klimaschutz\, Naturschutz und nukleare Sicherheit: federführ
+ end (DIP\, amtlich)\nAusschuss Wirtschaft und Energie: mitberatend (DIP\, 
+ amtlich)\nVerkehr federführend bei: Bericht über das Ergebnis der Vorpla
+ nung und der frühen Öffentlichkeitsbeteiligung...\; Programm für eine v
+ erantwortungsvolle und sichere Entsorgung bestrahlter Brennelemente...\nUm
+ welt federführend bei: Programm für eine verantwortungsvolle und sichere
+  Entsorgung bestrahlter Brennelemente...\nWE mitberatend bei: Programm fü
+ r eine verantwortungsvolle und sichere Entsorgung bestrahlter Brennelement
+ e...\nZuordnung je Drucksache (DIP):\n  21/3150 (Unterrichtung) Bericht ü
+ ber das Ergebnis der Vorplanung und der frühen Öffentlichkeitsbeteiligun
+ g...: Verkehr federführend\n  21/3687 (Unterrichtung) Programm für eine 
+ verantwortungsvolle und sichere Entsorgung bestrahlter Brennelemente...: U
+ mwelt federführend\, WE mitberatend\, Verkehr federführend\n  21/8445 (B
+ eschlussempfehlung und Bericht) Bericht über das Ergebnis der Vorplanung 
+ und der frühen Öffentlichkeitsbeteiligung...: Verkehr federführend\n\nB
+ eratung der Beschlussempfehlung und des Berichts des Verkehrsausschusses (
+ 15. Ausschuss)\nzu der Unterrichtung durch die Bundesregierung\nBericht ü
+ ber das Ergebnis der Vorplanung und der frühen Öffentlichkeitsbeteiligun
+ g Ausbaustrecke/Neubaustrecke Hannover – Hamburg\nDrucksachen 21/3150 (h
+ ttps://dserver.bundestag.de/btd/21/031/2103150.pdf)\, 21/3687 (https://dse
+ rver.bundestag.de/btd/21/036/2103687.pdf) Nr. 2\, 21/8445 (https://dserver
+ .bundestag.de/btd/21/084/2108445.pdf)\n\nnamentliche Abstimmung\n\nLinks u
+ nd Dokumente:\nDrucksache 21/3150 (Unterrichtung) Bericht über das Ergebn
+ is der Vorplanung und der frühen Öffentlichkeitsbeteiligung...: https://
+ dserver.bundestag.de/btd/21/031/2103150.pdf\n  DIP: https://dip.bundestag.
+ de/drucksache/-/284027\nDrucksache 21/3687 (Unterrichtung) Programm für e
+ ine verantwortungsvolle und sichere Entsorgung bestrahlter Brennelemente..
+ .: https://dserver.bundestag.de/btd/21/036/2103687.pdf\n  DIP: https://dip
+ .bundestag.de/drucksache/-/284452\nDrucksache 21/8445 (Beschlussempfehlung
+  und Bericht) Bericht über das Ergebnis der Vorplanung und der frühen Ö
+ ffentlichkeitsbeteiligung...: https://dserver.bundestag.de/btd/21/084/2108
+ 445.pdf\n  DIP: https://dip.bundestag.de/drucksache/-/291444\nPlenarprotok
+ oll 99. Sitzung: https://dserver.bundestag.de/btp/21/21099.pdf\nTextarchiv
+ : https://www.bundestag.de/dokumente/textarchiv/2026/kw41-de-ausbaustrecke
+ -1222180\nMediathek: https://www.bundestag.de/mediathek/plenarsitzungen\nT
+ agesordnung: https://www.bundestag.de/tagesordnung
+LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
+ lin
+URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw41-de-ausbaustreck
+ e-1222180
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/031/2103
+ 150.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/036/2103
+ 687.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/084/2108
+ 445.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21099.pd
+ f
+END:VEVENT
+BEGIN:VEVENT
+UID:bt-102-top-39-zp-7-top-19b-abschliessende-beratungen-ohne-aussprach@bun
+ destag-kalender
+DTSTAMP:20261020T103724Z
+DTSTART;TZID=Europe/Berlin:20261015T134500
+DTEND;TZID=Europe/Berlin:20261015T140000
+SUMMARY:TOP 39\, ZP 7\, TOP 19b: Abschließende Beratungen ohne Aussprache:
+  Deutscher Fortschrittsbericht 2026
+DESCRIPTION:Status: beendet\n102. Sitzung\nAusschuss Verkehr: federführend
+  (DIP\, amtlich)\nAufgeführt sind nur die Vorlagen\, bei denen Verkehr fe
+ derführend ist. Weitere 29 Drucksachen dieses Punktes stehen im Textarchi
+ v.\n\nZP 7) Weitere abschließende Beratungen ohne Aussprache\na) Beratung
+  der Beschlussempfehlung und des Berichts des Haushaltsausschusses (8. Aus
+ schuss)\n– zu dem Antrag des Bundesministeriums der Finanzen\nEntlastung
+  der Bundesregierung für das Haushaltsjahr 2024\n– Haushalts- und Verm
+ ögensrechnung des Bundes für das Haushaltsjahr 2024 –\n– zu der Unte
+ rrichtung durch den Bundesrechnungshof\nBemerkungen 2025 zur Haushalts- un
+ d Wirtschaftsführung des Bundes\n(einschließlich der Feststellungen zur 
+ Haushaltsrechnung und zur Vermögensrechnung 2024)\n– zu der Unterrichtu
+ ng durch den Bundesrechnungshof\nBemerkungen 2025 zur Haushalts- und Wirts
+ chaftsführung des Bundes\n– Ergänzungsband –\nDrucksachen 21/2353 (h
+ ttps://dserver.bundestag.de/btd/21/023/2102353.pdf)\, 21/3200 (https://dse
+ rver.bundestag.de/btd/21/032/2103200.pdf)\, 21/3375 (https://dserver.bunde
+ stag.de/btd/21/033/2103375.pdf) Nr. 7\, 21/5600 (https://dserver.bundestag
+ .de/btd/21/056/2105600.pdf)\, 21/6122 (https://dserver.bundestag.de/btd/21
+ /061/2106122.pdf) Nr. 1.1\, 21/7108 (https://dserver.bundestag.de/btd/21/0
+ 71/2107108.pdf)\n\nLinks und Dokumente:\nDrucksache 21/6122 (Unterrichtung
+ ) Deutscher Fortschrittsbericht 2026: https://dserver.bundestag.de/btd/21/
+ 061/2106122.pdf\n  DIP: https://dip.bundestag.de/drucksache/-/288058\nPlen
+ arprotokoll 102. Sitzung: https://dserver.bundestag.de/btp/21/21102.pdf\nT
+ extarchiv: https://www.bundestag.de/dokumente/textarchiv/2026/kw42-de-absc
+ hliessende-beratungen-1154762\nMediathek: https://www.bundestag.de/mediath
+ ek/plenarsitzungen\nTagesordnung: https://www.bundestag.de/tagesordnung
+LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
+ lin
+URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw42-de-abschliessen
+ de-beratungen-1154762
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/061/2106
+ 122.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21102.pd
+ f
+END:VEVENT
+BEGIN:VEVENT
+UID:bt-102-top-22-nachhaltige-flugkraftstoffe-flugsicherun@bundestag-kalend
+ er
+DTSTAMP:20261020T103724Z
+DTSTART;TZID=Europe/Berlin:20261015T220000
+DTEND;TZID=Europe/Berlin:20261015T221500
+SUMMARY:TOP 22: Nachhaltige Flugkraftstoffe\, Flugsicherung
+DESCRIPTION:Status: beendet\n102. Sitzung\nAusschuss Verkehr: Beschlussempf
+ ehlung und Bericht (Beschlussempfehlung der Tagesordnung\, amtlich)\nVerke
+ hr federführend bei: Gesetz zum Markthochlauf nachhaltiger Flugkraftstoff
+ e\; Gesetz über die Neuregelung des Rechts des Bundesaufsichtsamtes für 
+ Flugsicherung\nZuordnung je Drucksache (DIP):\n  21/7871 (Gesetzentwurf) G
+ esetz zum Markthochlauf nachhaltiger Flugkraftstoffe: Verkehr federführen
+ d\n  21/8297 (Unterrichtung) Gesetz zum Markthochlauf nachhaltiger Flugkra
+ ftstoffe: Verkehr federführend\n  21/8627 (Beschlussempfehlung und Berich
+ t) Gesetz zum Markthochlauf nachhaltiger Flugkraftstoffe: Verkehr federfü
+ hrend\n  21/8234 (Gesetzentwurf) Gesetz über die Neuregelung des Rechts d
+ es Bundesaufsichtsamtes für Flugsicherung: Verkehr federführend\n  21/86
+ 04 (Beschlussempfehlung und Bericht) Gesetz über die Neuregelung des Rech
+ ts des Bundesaufsichtsamtes für Flugsicherung: Verkehr federführend\n\na
+ ) Zweite und dritte Beratung des von der Bundesregierung eingebrachten Ent
+ wurfs eines Gesetzes zum Markthochlauf nachhaltiger Flugkraftstoffe\nDruck
+ sachen 21/7871 (https://dserver.bundestag.de/btd/21/078/2107871.pdf)\, 21/
+ 8297 (https://dserver.bundestag.de/btd/21/082/2108297.pdf)\nBeschlussempfe
+ hlung und Bericht des Verkehrsausschusses (15. Ausschuss)\nDrucksache 21/8
+ 627 (https://dserver.bundestag.de/btd/21/086/2108627.pdf)\n\nb) Zweite und
+  dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines 
+ Gesetzes über die Neuregelung des Rechts des Bundesaufsichtsamtes für Fl
+ ugsicherung\nDrucksache 21/8234 (https://dserver.bundestag.de/btd/21/082/2
+ 108234.pdf)\nBeschlussempfehlung und Bericht des Verkehrsausschusses (15. 
+ Ausschuss)\nDrucksache 21/8604 (https://dserver.bundestag.de/btd/21/086/21
+ 08604.pdf)\n\nLinks und Dokumente:\nDrucksache 21/7871 (Gesetzentwurf) Ges
+ etz zum Markthochlauf nachhaltiger Flugkraftstoffe: https://dserver.bundes
+ tag.de/btd/21/078/2107871.pdf\n  DIP: https://dip.bundestag.de/drucksache/
+ -/290550\nDrucksache 21/8297 (Unterrichtung) Gesetz zum Markthochlauf nach
+ haltiger Flugkraftstoffe: https://dserver.bundestag.de/btd/21/082/2108297.
+ pdf\n  DIP: https://dip.bundestag.de/drucksache/-/291278\nDrucksache 21/86
+ 27 (Beschlussempfehlung und Bericht) Gesetz zum Markthochlauf nachhaltiger
+  Flugkraftstoffe: https://dserver.bundestag.de/btd/21/086/2108627.pdf\n  D
+ IP: https://dip.bundestag.de/drucksache/-/291652\nDrucksache 21/8234 (Gese
+ tzentwurf) Gesetz über die Neuregelung des Rechts des Bundesaufsichtsamte
+ s für Flugsicherung: https://dserver.bundestag.de/btd/21/082/2108234.pdf\
+ n  DIP: https://dip.bundestag.de/drucksache/-/291202\nDrucksache 21/8604 (
+ Beschlussempfehlung und Bericht) Gesetz über die Neuregelung des Rechts d
+ es Bundesaufsichtsamtes für Flugsicherung: https://dserver.bundestag.de/b
+ td/21/086/2108604.pdf\n  DIP: https://dip.bundestag.de/drucksache/-/291660
+ \nPlenarprotokoll 102. Sitzung: https://dserver.bundestag.de/btp/21/21102.
+ pdf\nTextarchiv: https://www.bundestag.de/dokumente/textarchiv/2026/kw42-d
+ e-flugkraftstoffe-1223604\nMediathek: https://www.bundestag.de/mediathek/p
+ lenarsitzungen\nTagesordnung: https://www.bundestag.de/tagesordnung
+LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
+ lin
+URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw42-de-flugkraftsto
+ ffe-1223604
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/078/2107
+ 871.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/082/2108
+ 297.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/086/2108
+ 627.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/082/2108
+ 234.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/086/2108
+ 604.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21102.pd
+ f
+END:VEVENT
+BEGIN:VEVENT
+UID:bt-103-top-34-buerokratierueckbau-im-verkehrsbereich@bundestag-kalender
+DTSTAMP:20261020T103724Z
+DTSTART;TZID=Europe/Berlin:20261016T112500
+DTEND;TZID=Europe/Berlin:20261016T120000
+SUMMARY:TOP 34: Bürokratierückbau im Verkehrsbereich
+DESCRIPTION:Status: beendet\n103. Sitzung\nAusschuss Verkehr: federführend
+  (DIP\, amtlich)\n\nErste Beratung des von der Bundesregierung eingebracht
+ en Entwurfs eines Gesetzes zum Bürokratierückbau im Verkehrsbereich\nDru
+ cksache 21/8404 (https://dserver.bundestag.de/btd/21/084/2108404.pdf)\n\nL
+ inks und Dokumente:\nDrucksache 21/8404 (Gesetzentwurf) Gesetz zum Bürokr
+ atierückbau im Verkehrsbereich: https://dserver.bundestag.de/btd/21/084/2
+ 108404.pdf\n  DIP: https://dip.bundestag.de/drucksache/-/291432\nPlenarpro
+ tokoll 103. Sitzung: https://dserver.bundestag.de/btp/21/21103.pdf\nTextar
+ chiv: https://www.bundestag.de/dokumente/textarchiv/2026/kw42-de-buerokrat
+ ierueckbau-verkehr-1223628\nMediathek: https://www.bundestag.de/mediathek/
+ plenarsitzungen\nTagesordnung: https://www.bundestag.de/tagesordnung
+LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
+ lin
+URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw42-de-buerokratier
+ ueckbau-verkehr-1223628
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/084/2108
+ 404.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21103.pd
+ f
+END:VEVENT
+BEGIN:VEVENT
+UID:bt-105-top-9-bevorrechtigung-elektrisch-betriebener-f@bundestag-kalende
+ r
+DTSTAMP:20261020T103724Z
+DTSTART;TZID=Europe/Berlin:20261105T125000
+DTEND;TZID=Europe/Berlin:20261105T132500
+SUMMARY:TOP 9: Bevorrechtigung elektrisch betriebener Fahrzeuge
+DESCRIPTION:Status: folgt\n105. Sitzung\nAusschuss Verkehr: Beschlussempfeh
+ lung und Bericht (Beschlussempfehlung der Tagesordnung\, amtlich)\nVerkehr
+  federführend bei: Gesetz zur Änderung der Bevorrechtigung der Verwendun
+ g elektrisch betriebener Fahrzeuge...\nZuordnung je Drucksache (DIP):\n  2
+ 1/7872 (Gesetzentwurf) Gesetz zur Änderung der Bevorrechtigung der Verwen
+ dung elektrisch betriebener Fahrzeuge...: Verkehr federführend\n  21/8406
+  (Unterrichtung) Gesetz zur Änderung der Bevorrechtigung der Verwendung e
+ lektrisch betriebener Fahrzeuge...: Verkehr federführend\n\nZweite und dr
+ itte Beratung des von der Bundesregierung\neingebrachten Entwurfs eines Ge
+ setzes zur Änderung der Bevorrechtigung der Verwendung elektrisch betrieb
+ ener Fahrzeuge sowie damit zusammenhängender straßenverkehrsrechtlicher 
+ Vorschriften\nDrucksachen 21/7872 (https://dserver.bundestag.de/btd/21/078
+ /2107872.pdf)\, 21/8406 (https://dserver.bundestag.de/btd/21/084/2108406.p
+ df)\n\nBeschlussempfehlung und Bericht des Verkehrsausschusses (15. Aussch
+ uss)\nDrucksache 21/…\n\nLinks und Dokumente:\nDrucksache 21/7872 (Geset
+ zentwurf) Gesetz zur Änderung der Bevorrechtigung der Verwendung elektris
+ ch betriebener Fahrzeuge...: https://dserver.bundestag.de/btd/21/078/21078
+ 72.pdf\n  DIP: https://dip.bundestag.de/drucksache/-/290617\nDrucksache 21
+ /8406 (Unterrichtung) Gesetz zur Änderung der Bevorrechtigung der Verwend
+ ung elektrisch betriebener Fahrzeuge...: https://dserver.bundestag.de/btd/
+ 21/084/2108406.pdf\n  DIP: https://dip.bundestag.de/drucksache/-/291428\nT
+ extarchiv: https://www.bundestag.de/dokumente/textarchiv/2026/kw45-de-elek
+ tro-fahrzeuge-1225082\nMediathek: https://www.bundestag.de/mediathek/plena
+ rsitzungen\nTagesordnung: https://www.bundestag.de/tagesordnung
+LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
+ lin
+URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw45-de-elektro-fahr
+ zeuge-1225082
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/078/2107
+ 872.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/084/2108
+ 406.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:bt-106-top-26-finanzierung-der-infrastrukturgesellscha@bundestag-kalend
+ er
+DTSTAMP:20261020T103724Z
+DTSTART;TZID=Europe/Berlin:20261106T123000
+DTEND;TZID=Europe/Berlin:20261106T130500
+SUMMARY:TOP 26: Finanzierung der Infrastrukturgesellschaft für Autobahnen 
+ (Ausschuss-Vorschlag)
+DESCRIPTION:Status: folgt\n106. Sitzung\nAusschuss Verkehr: federführend (
+ Vorschlag laut Textarchiv)\n\nErste Beratung des von der Bundesregierung e
+ ingebrachten Entwurfs eines Gesetzes zur Änderung der Finanzierung der In
+ frastrukturgesellschaft für Autobahnen und andere Bundesfernstraßen\nDru
+ cksache 21/…\n\nLinks und Dokumente:\nTextarchiv: https://www.bundestag.
+ de/dokumente/textarchiv/2026/kw45-de-autobahn-gesellschaft-1225118\nMediat
+ hek: https://www.bundestag.de/mediathek/plenarsitzungen\nTagesordnung: htt
+ ps://www.bundestag.de/tagesordnung
+LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
+ lin
+URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw45-de-autobahn-ges
+ ellschaft-1225118
+END:VEVENT
+END:VCALENDAR

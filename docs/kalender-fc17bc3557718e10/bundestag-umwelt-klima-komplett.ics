@@ -1,0 +1,2912 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//bundestag-kalender//DE
+CALSCALE:GREGORIAN
+X-WR-TIMEZONE:Europe/Berlin
+X-WR-CALNAME:Bundestag: Ausschuss Umwelt komplett
+DESCRIPTION:Plenarpunkte (federführend)\, Sitzungen mit Nummer und Anhöru
+ ngen des Ausschusses Umwelt\, Klimaschutz\, Naturschutz und nukleare Siche
+ rheit (inoffiziell\, Quellen: bundestag.de und DIP)
+REFRESH-INTERVAL;VALUE=DURATION:PT15M
+X-PUBLISHED-TTL:PT15M
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+BEGIN:STANDARD
+TZNAME:CET
+DTSTART:19701025T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+BEGIN:DAYLIGHT
+TZNAME:CEST
+DTSTART:19700329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sw-20260112@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;VALUE=DATE:20260112
+DTEND;VALUE=DATE:20260117
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20260126@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;VALUE=DATE:20260126
+DTEND;VALUE=DATE:20260131
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20260223@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;VALUE=DATE:20260223
+DTEND;VALUE=DATE:20260228
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20260302@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;VALUE=DATE:20260302
+DTEND;VALUE=DATE:20260307
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20260316@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;VALUE=DATE:20260316
+DTEND;VALUE=DATE:20260321
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20260323@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;VALUE=DATE:20260323
+DTEND;VALUE=DATE:20260328
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20260413@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;VALUE=DATE:20260413
+DTEND;VALUE=DATE:20260418
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20260420@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;VALUE=DATE:20260420
+DTEND;VALUE=DATE:20260425
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20260504@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;VALUE=DATE:20260504
+DTEND;VALUE=DATE:20260509
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20260518@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;VALUE=DATE:20260518
+DTEND;VALUE=DATE:20260523
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20260608@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;VALUE=DATE:20260608
+DTEND;VALUE=DATE:20260613
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20260622@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;VALUE=DATE:20260622
+DTEND;VALUE=DATE:20260627
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20260706@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;VALUE=DATE:20260706
+DTEND;VALUE=DATE:20260711
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20260907@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260912
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20260921@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260926
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20261005@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261010
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20261012@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261017
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20261102@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261107
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20261109@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261114
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20261123@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261128
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20261207@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261212
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20261214@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261219
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20270111@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;VALUE=DATE:20270111
+DTEND;VALUE=DATE:20270116
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20270125@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;VALUE=DATE:20270125
+DTEND;VALUE=DATE:20270130
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20270215@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;VALUE=DATE:20270215
+DTEND;VALUE=DATE:20270220
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20270301@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;VALUE=DATE:20270301
+DTEND;VALUE=DATE:20270306
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20270315@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;VALUE=DATE:20270315
+DTEND;VALUE=DATE:20270320
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20270405@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270410
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20270412@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;VALUE=DATE:20270412
+DTEND;VALUE=DATE:20270417
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20270426@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;VALUE=DATE:20270426
+DTEND;VALUE=DATE:20270501
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20270510@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;VALUE=DATE:20270510
+DTEND;VALUE=DATE:20270515
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20270531@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;VALUE=DATE:20270531
+DTEND;VALUE=DATE:20270605
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20270614@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;VALUE=DATE:20270614
+DTEND;VALUE=DATE:20270619
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20270628@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;VALUE=DATE:20270628
+DTEND;VALUE=DATE:20270703
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20270705@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;VALUE=DATE:20270705
+DTEND;VALUE=DATE:20270710
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20270906@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;VALUE=DATE:20270906
+DTEND;VALUE=DATE:20270911
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20270920@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;VALUE=DATE:20270920
+DTEND;VALUE=DATE:20270925
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20271004@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;VALUE=DATE:20271004
+DTEND;VALUE=DATE:20271009
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20271025@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;VALUE=DATE:20271025
+DTEND;VALUE=DATE:20271030
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20271108@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;VALUE=DATE:20271108
+DTEND;VALUE=DATE:20271113
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20271122@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;VALUE=DATE:20271122
+DTEND;VALUE=DATE:20271127
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20271129@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;VALUE=DATE:20271129
+DTEND;VALUE=DATE:20271204
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20271213@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;VALUE=DATE:20271213
+DTEND;VALUE=DATE:20271218
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ausschuss-ausschuesse-umwelt-sitzung-22@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;TZID=Europe/Berlin:20260114T113000
+DTEND;TZID=Europe/Berlin:20260114T133000
+SUMMARY:Ausschuss Umwelt: 22. Sitzung (nicht öffentlich)
+DESCRIPTION:22. Sitzung des Ausschusses (nicht öffentlich)\nEnde geschätz
+ t.\n\nTagesordnung und Ergänzungen:\nTagesordnung: https://www.bundestag.
+ de/resource/blob/1136148/to-022.pdf\n\nSeite des Ausschusses: https://www.
+ bundestag.de/ausschuesse/umwelt
+URL:https://www.bundestag.de/ausschuesse/umwelt
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11361
+ 48/to-022.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:bt-53-top-23-zp-7-nachhaltige-nutzung-der-meere-hochseesch@bundestag-ka
+ lender
+DTSTAMP:20261020T103707Z
+DTSTART;TZID=Europe/Berlin:20260115T212500
+DTEND;TZID=Europe/Berlin:20260115T215000
+SUMMARY:TOP 23\, ZP 7: Nachhaltige Nutzung der Meere\, Hochseeschutzgesetz
+DESCRIPTION:Status: beendet\n53. Sitzung\nAusschuss Umwelt\, Klimaschutz\, 
+ Naturschutz und nukleare Sicherheit: federführend (DIP\, amtlich)\nAufgef
+ ührt sind nur die Vorlagen\, bei denen Umwelt federführend ist. Weitere 
+ 1 Drucksachen dieses Punktes stehen im Textarchiv.\n\na) Erste Beratung de
+ s von der Bundesregierung\neingebrachten Entwurfs eines Gesetzes zu dem Ü
+ bereinkommen vom 19. Juni 2023 im Rahmen des Seerechtsübereinkommens der 
+ Vereinten Nationen über die Erhaltung und nachhaltige Nutzung der biologi
+ schen Vielfalt der Meere von Gebieten außerhalb nationaler Hoheitsbefugni
+ sse\nDrucksache 21/3542 (https://dserver.bundestag.de/btd/21/035/2103542.p
+ df)\n\nb) Erste Beratung des von der Bundesregierung\neingebrachten Entwur
+ fs eines Gesetzes zur Ausführung des Übereinkommens im Rahmen des Seerec
+ htsübereinkommens der Vereinten Nationen über die Erhaltung und nachhalt
+ ige Nutzung der biologischen Vielfalt der Meere von Gebieten außerhalb na
+ tionaler Hoheitsbefugnisse (Hochseeschutzgesetz – HochseeSchG)\nDrucksac
+ he 21/3543 (https://dserver.bundestag.de/btd/21/035/2103543.pdf)\n\nLinks 
+ und Dokumente:\nDrucksache 21/3542 (Gesetzentwurf) Gesetz zu dem Übereink
+ ommen vom 19. Juni 2023 im Rahmen des Seerechtsübereinkommens der...: htt
+ ps://dserver.bundestag.de/btd/21/035/2103542.pdf\n  DIP: https://dip.bunde
+ stag.de/drucksache/-/284320\nDrucksache 21/3543 (Gesetzentwurf) Gesetz zur
+  Ausführung des Übereinkommens im Rahmen des Seerechtsübereinkommens de
+ r...: https://dserver.bundestag.de/btd/21/035/2103543.pdf\n  DIP: https://
+ dip.bundestag.de/drucksache/-/284325\nPlenarprotokoll 53. Sitzung: https:/
+ /dserver.bundestag.de/btp/21/21053.pdf\nTextarchiv: https://www.bundestag.
+ de/dokumente/textarchiv/2026/kw03-de-seerecht-1134358\nMediathek: https://
+ www.bundestag.de/mediathek/plenarsitzungen\nTagesordnung: https://www.bund
+ estag.de/tagesordnung
+LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
+ lin
+URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw03-de-seerecht-113
+ 4358
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/035/2103
+ 542.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/035/2103
+ 543.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21053.pd
+ f
+END:VEVENT
+BEGIN:VEVENT
+UID:bt-53-top-24-aenderung-des-chemikaliengesetzes@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;TZID=Europe/Berlin:20260115T215000
+DTEND;TZID=Europe/Berlin:20260115T221000
+SUMMARY:TOP 24: Änderung des Chemikaliengesetzes
+DESCRIPTION:Status: beendet\n53. Sitzung\nAusschuss Umwelt\, Klimaschutz\, 
+ Naturschutz und nukleare Sicherheit: federführend (DIP\, amtlich)\n\nErst
+ e Beratung des von der Bundesregierung\neingebrachten Entwurfs eines Fünf
+ ten Gesetzes zur Änderung des Chemikaliengesetzes\nDrucksache 21/3511 (ht
+ tps://dserver.bundestag.de/btd/21/035/2103511.pdf)\n\nLinks und Dokumente:
+ \nDrucksache 21/3511 (Gesetzentwurf) Fünftes Gesetz zur Änderung des Che
+ mikaliengesetzes: https://dserver.bundestag.de/btd/21/035/2103511.pdf\n  D
+ IP: https://dip.bundestag.de/drucksache/-/284263\nPlenarprotokoll 53. Sitz
+ ung: https://dserver.bundestag.de/btp/21/21053.pdf\nTextarchiv: https://ww
+ w.bundestag.de/dokumente/textarchiv/2026/kw03-de-chemikaliengesetz-1134362
+ \nMediathek: https://www.bundestag.de/mediathek/plenarsitzungen\nTagesordn
+ ung: https://www.bundestag.de/tagesordnung
+LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
+ lin
+URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw03-de-chemikalieng
+ esetz-1134362
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/035/2103
+ 511.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21053.pd
+ f
+END:VEVENT
+BEGIN:VEVENT
+UID:bt-54-top-26-natur-u-umweltschutz-b-windkraft-u-solar@bundestag-kalende
+ r
+DTSTAMP:20261020T103707Z
+DTSTART;TZID=Europe/Berlin:20260116T100500
+DTEND;TZID=Europe/Berlin:20260116T112500
+SUMMARY:TOP 26: Natur- u. Umweltschutz b. Windkraft- u. Solaranlagen
+DESCRIPTION:Status: beendet\n54. Sitzung\nAusschuss Umwelt\, Klimaschutz\, 
+ Naturschutz und nukleare Sicherheit: federführend (DIP\, amtlich)\nAufgef
+ ührt sind nur die Vorlagen\, bei denen Umwelt federführend ist. Weitere 
+ 2 Drucksachen dieses Punktes stehen im Textarchiv.\n\nb) Beratung des Antr
+ ags der Fraktion der AfD\nInsektenbiomasse und -vielfalt vor weiterem Ausb
+ au der Windindustrie schützen\nDrucksache 21/3597 (https://dserver.bundes
+ tag.de/btd/21/035/2103597.pdf)\n\nc) Beratung des Antrags der Fraktion der
+  AfD\nVogel- und Fledermaussterben beenden – Ausbau von Windindustrieanl
+ agen\nDrucksache 21/3598 (https://dserver.bundestag.de/btd/21/035/2103598.
+ pdf)\n\nd) Beratung des Antrags der Fraktion der AfD\nTransparenz\, Sicher
+ heit und Umweltschutz in den deutschen Offshore-Windparks verbessern\nDruc
+ ksache 21/3599 (https://dserver.bundestag.de/btd/21/035/2103599.pdf)\n\nLi
+ nks und Dokumente:\nDrucksache 21/3597 (Antrag) Insektenbiomasse und -viel
+ falt vor weiterem Ausbau der Windindustrie schützen: https://dserver.bund
+ estag.de/btd/21/035/2103597.pdf\n  DIP: https://dip.bundestag.de/drucksach
+ e/-/284373\nDrucksache 21/3598 (Antrag) Vogel- und Fledermaussterben beend
+ en - Ausbau von Windindustrieanlagen stoppen: https://dserver.bundestag.de
+ /btd/21/035/2103598.pdf\n  DIP: https://dip.bundestag.de/drucksache/-/2843
+ 82\nDrucksache 21/3599 (Antrag) Transparenz\, Sicherheit und Umweltschutz 
+ in den deutschen Offshore-Windparks verbessern: https://dserver.bundestag.
+ de/btd/21/035/2103599.pdf\n  DIP: https://dip.bundestag.de/drucksache/-/28
+ 4361\nPlenarprotokoll 54. Sitzung: https://dserver.bundestag.de/btp/21/210
+ 54.pdf\nTextarchiv: https://www.bundestag.de/dokumente/textarchiv/2026/kw0
+ 3-de-windkraft-1134370\nMediathek: https://www.bundestag.de/mediathek/plen
+ arsitzungen\nTagesordnung: https://www.bundestag.de/tagesordnung
+LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
+ lin
+URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw03-de-windkraft-11
+ 34370
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/035/2103
+ 597.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/035/2103
+ 598.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/035/2103
+ 599.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21054.pd
+ f
+END:VEVENT
+BEGIN:VEVENT
+UID:ausschuss-ausschuesse-umwelt-sitzung-23@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;TZID=Europe/Berlin:20260128T103000
+DTEND;TZID=Europe/Berlin:20260128T123000
+SUMMARY:Ausschuss Umwelt: 23. Sitzung (nicht öffentlich)
+DESCRIPTION:23. Sitzung des Ausschusses (nicht öffentlich)\nEnde geschätz
+ t.\n\nTagesordnung und Ergänzungen:\nTagesordnung: https://www.bundestag.
+ de/resource/blob/1139262/to-023.pdf\n\nSeite des Ausschusses: https://www.
+ bundestag.de/ausschuesse/umwelt
+URL:https://www.bundestag.de/ausschuesse/umwelt
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11392
+ 62/to-023.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:bt-56-top-28-abschliessende-beratungen-ohne-aussprach@bundestag-kalende
+ r
+DTSTAMP:20261020T103707Z
+DTSTART;TZID=Europe/Berlin:20260129T144500
+DTEND;TZID=Europe/Berlin:20260129T145500
+SUMMARY:TOP 28: Abschließende Beratungen ohne Aussprache: zu dem Vorschlag
+  für einen Beschluss...
+DESCRIPTION:Status: beendet\n56. Sitzung\nAusschuss Umwelt\, Klimaschutz\, 
+ Naturschutz und nukleare Sicherheit: federführend (DIP\, amtlich)\nAufgef
+ ührt sind nur die Vorlagen\, bei denen Umwelt federführend ist. Weitere 
+ 19 Drucksachen dieses Punktes stehen im Textarchiv.\n\na) Beratung des Ant
+ rags der Fraktion der AfD\nzu dem Vorschlag für einen Beschluss des Europ
+ äischen Parlaments und des Rates zur Änderung des Beschlusses (EU) 2015/
+ 1814 in Bezug auf die Marktstabilitätsreserve für den Gebäude- und den 
+ Straßenverkehrssektor sowie für andere Sektoren\nKOM(2025) 738 endg.\; R
+ atsdok. 16105/25\nhier: Stellungnahme gemäß Artikel 6 des Protokolls Num
+ mer 2 zum Vertrag von Lissabon (Grundsätze der Subsidiarität und der Ver
+ hältnismäßigkeit)\nDrucksache 21/3835 (https://dserver.bundestag.de/btd
+ /21/038/2103835.pdf)\n\nLinks und Dokumente:\nDrucksache 21/3835 (Antrag) 
+ zu dem Vorschlag für einen Beschluss des Europäischen Parlaments und des
+  Rates zur...: https://dserver.bundestag.de/btd/21/038/2103835.pdf\n  DIP:
+  https://dip.bundestag.de/drucksache/-/284685\nPlenarprotokoll 56. Sitzung
+ : https://dserver.bundestag.de/btp/21/21056.pdf\nTextarchiv: https://www.b
+ undestag.de/dokumente/textarchiv/2026/kw05-de-abschliessende-beratungen-11
+ 36010\nMediathek: https://www.bundestag.de/mediathek/plenarsitzungen\nTage
+ sordnung: https://www.bundestag.de/tagesordnung
+LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
+ lin
+URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw05-de-abschliessen
+ de-beratungen-1136010
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/038/2103
+ 835.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21056.pd
+ f
+END:VEVENT
+BEGIN:VEVENT
+UID:bt-56-top-19-verhuetung-der-meeresverschmutzung@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;TZID=Europe/Berlin:20260129T211000
+DTEND;TZID=Europe/Berlin:20260129T213500
+SUMMARY:TOP 19: Verhütung der Meeresverschmutzung
+DESCRIPTION:Status: beendet\n56. Sitzung\nAusschuss Umwelt\, Klimaschutz\, 
+ Naturschutz und nukleare Sicherheit: Beschlussempfehlung und Bericht (Besc
+ hlussempfehlung der Tagesordnung\, amtlich)\nUmwelt federführend bei: Ges
+ etz zu den Entschließungen LP.3(4) vom 30. Oktober 2009 und LP.5(14) vom 
+ 11. Oktober...\; Erstes Gesetz zur Änderung des Hohe-See-Einbringungsgese
+ tzes\; Zukunft sichern\, Klima schützen - Naturverträgliche Lösungen vo
+ r Verfahren zur...\nZuordnung je Drucksache (DIP):\n  21/3194 (Gesetzentwu
+ rf) Gesetz zu den Entschließungen LP.3(4) vom 30. Oktober 2009 und LP.5(1
+ 4) vom 11. Oktober...: Umwelt federführend\n  21/3907 (Beschlussempfehlun
+ g und Bericht) Erstes Gesetz zur Änderung des Hohe-See-Einbringungsgesetz
+ es: Umwelt federführend\n  21/3195 (Gesetzentwurf) Erstes Gesetz zur Änd
+ erung des Hohe-See-Einbringungsgesetzes: Umwelt federführend\n  21/1546 (
+ Antrag) Zukunft sichern\, Klima schützen - Naturverträgliche Lösungen v
+ or Verfahren zur...: Umwelt federführend\n\na) Zweite Beratung und Schlus
+ sabstimmung des von der Bundesregierung\neingebrachten Entwurfs eines Gese
+ tzes zu den Entschließungen LP.3(4) vom 30. Oktober 2009 und LP.5(14) vom
+  11. Oktober 2019 über die Änderung des Artikels 6 des Protokolls vom 7.
+  November 1996 zum Übereinkommen über die Verhütung der Meeresverschmut
+ zung durch das Einbringen von Abfällen und anderen Stoffen von 1972 (Lond
+ oner Protokoll)\nDrucksache 21/3194 (https://dserver.bundestag.de/btd/21/0
+ 31/2103194.pdf)\nBeschlussempfehlung und Bericht des Ausschusses für Umwe
+ lt\, Klimaschutz\, Naturschutz und nukleare Sicherheit (16. Ausschuss)\nDr
+ ucksache 21/3907 (https://dserver.bundestag.de/btd/21/039/2103907.pdf)\n\n
+ b) Zweite und dritte Beratung des von der Bundesregierung\neingebrachten E
+ ntwurfs eines Ersten Gesetzes zur Änderung des Hohe-See-Einbringungsgeset
+ zes\nDrucksache 21/3195 (https://dserver.bundestag.de/btd/21/031/2103195.p
+ df)\nBeschlussempfehlung und Bericht des Ausschusses für Umwelt\, Klimasc
+ hutz\, Naturschutz und nukleare Sicherheit (16. Ausschuss)\nDrucksache 21/
+ 3907 (https://dserver.bundestag.de/btd/21/039/2103907.pdf)\n\nc) Beratung 
+ der Beschlussempfehlung und des Berichts des Ausschusses für Umwelt\, Kli
+ maschutz\, Naturschutz und nukleare Sicherheit (16. Ausschuss)\nzu dem Ant
+ rag der Fraktion Die Linke\nZukunft sichern\, Klima schützen – Naturver
+ trägliche Lösungen vor Verfahren zur CO2-Abscheidung und\n-Speicherung\n
+ Drucksachen 21/1546 (https://dserver.bundestag.de/btd/21/015/2101546.pdf)\
+ , 21/3907 (https://dserver.bundestag.de/btd/21/039/2103907.pdf)\n\nLinks u
+ nd Dokumente:\nDrucksache 21/3194 (Gesetzentwurf) Gesetz zu den Entschlie
+ ßungen LP.3(4) vom 30. Oktober 2009 und LP.5(14) vom 11. Oktober...: http
+ s://dserver.bundestag.de/btd/21/031/2103194.pdf\n  DIP: https://dip.bundes
+ tag.de/drucksache/-/283791\nDrucksache 21/3907 (Beschlussempfehlung und Be
+ richt) Erstes Gesetz zur Änderung des Hohe-See-Einbringungsgesetzes: http
+ s://dserver.bundestag.de/btd/21/039/2103907.pdf\n  DIP: https://dip.bundes
+ tag.de/drucksache/-/284739\nDrucksache 21/3195 (Gesetzentwurf) Erstes Gese
+ tz zur Änderung des Hohe-See-Einbringungsgesetzes: https://dserver.bundes
+ tag.de/btd/21/031/2103195.pdf\n  DIP: https://dip.bundestag.de/drucksache/
+ -/283792\nDrucksache 21/1546 (Antrag) Zukunft sichern\, Klima schützen - 
+ Naturverträgliche Lösungen vor Verfahren zur...: https://dserver.bundest
+ ag.de/btd/21/015/2101546.pdf\n  DIP: https://dip.bundestag.de/drucksache/-
+ /281282\nPlenarprotokoll 56. Sitzung: https://dserver.bundestag.de/btp/21/
+ 21056.pdf\nTextarchiv: https://www.bundestag.de/dokumente/textarchiv/2026/
+ kw05-de-meeresverschmutzung-1136986\nMediathek: https://www.bundestag.de/m
+ ediathek/plenarsitzungen\nTagesordnung: https://www.bundestag.de/tagesordn
+ ung
+LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
+ lin
+URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw05-de-meeresversch
+ mutzung-1136986
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/031/2103
+ 194.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/039/2103
+ 907.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/031/2103
+ 195.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/015/2101
+ 546.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21056.pd
+ f
+END:VEVENT
+BEGIN:VEVENT
+UID:ausschuss-ausschuesse-umwelt-anhoerung-1145816@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;TZID=Europe/Berlin:20260225T093000
+DTEND;TZID=Europe/Berlin:20260225T104500
+SUMMARY:Ausschuss Umwelt: 24. Sitzung (öffentlich): Aspekte des Umwelt- un
+ d Naturschutzes im Infrastruktur-Zukunftsgesetz
+DESCRIPTION:Öffentliche Sitzung\, 24. Sitzung des Ausschusses. Anhörungen
+  zählen als zusätzliche Sitzungen neben der regulären Sitzung der Sitzu
+ ngswoche.\n\nGegenstand: Mit ihrem Entwurf für ein Infrastruktur-Zukunfts
+ gesetz (21/4099) will die Bundesregierung Planungsverfahren beschleunigen.
+  Vertreter von Umweltverbänden und Umweltrechts-Experten jedoch warnen vo
+ r massiven Auswirkungen für Umwelt und Natur\, wie ein öffentliches Fach
+ gespräch am Mittwoch\, 25.Februar 2026\, im Umweltausschuss gezeigt hat. 
+ Mit der geplanten Verfahrensbeschleunigung drohten Schutzstandards zu sink
+ en und Beteiligungsrechte zu schrumpfen\, so die von SPD\, Bündnis 90/Die
+  Grünen und Die Linke benannten Sachverständigen. Praxistaugliche Gesetz
+ gebung Vertreter von Kommunen und Deutscher Bahn\, die von der CDU/CSU-Fra
+ ktion als Experten eingeladen waren\, begrüßten dagegen den ... (weiter 
+ auf der Seite der Sitzung)\n\nDokumente:\nTagesordnung: https://www.bundes
+ tag.de/resource/blob/1149494/to-024.pdf\n21/4099: https://dserver.bundesta
+ g.de/btd/21/040/2104099.pdf\nListe der Sachverständigen: https://www.bund
+ estag.de/resource/blob/1145926/SV-Liste.pdf\nStellungnahme Prof. Dr. Sabin
+ e Schlacke\, Universität Greifswald\, A-Drs. 21(16)105-A: https://www.bun
+ destag.de/resource/blob/1149534/Stellungnahme-Prof-Dr-Schlacke.pdf\nStellu
+ ngnahme Prof. Dr. Jörg Biesemann\, Gesellschaft für FORTSCHRITT in FREIH
+ EIT e.V.\, A-Drs. 21(16)105-B: https://www.bundestag.de/resource/blob/1149
+ 536/Stellungnahme-Prof-Dr-Biesemann.pdf\nStellungnahme Deutsche Bahn AG\, 
+ A-Drs. 21(16)105-C: https://www.bundestag.de/resource/blob/1150370/Stellun
+ gnahme-DB-AG.pdf\n\nSeite des Ausschusses: https://www.bundestag.de/aussch
+ uesse/umwelt\nÜbertragung: https://www.bundestag.de/mediathek
+LOCATION:Berlin\, Paul-Löbe-Haus\, Sitzungssaal E.700
+URL:https://www.bundestag.de/ausschuesse/umwelt/sitzungen/1145816-1145816
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11494
+ 94/to-024.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/040/2104
+ 099.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11459
+ 26/SV-Liste.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11495
+ 34/Stellungnahme-Prof-Dr-Schlacke.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11495
+ 36/Stellungnahme-Prof-Dr-Biesemann.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11503
+ 70/Stellungnahme-DB-AG.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:ausschuss-ausschuesse-umwelt-sitzung-25@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;TZID=Europe/Berlin:20260225T113000
+DTEND;TZID=Europe/Berlin:20260225T133000
+SUMMARY:Ausschuss Umwelt: 25. Sitzung (nicht öffentlich)
+DESCRIPTION:25. Sitzung des Ausschusses (nicht öffentlich)\nEnde geschätz
+ t.\n\nTagesordnung und Ergänzungen:\nTagesordnung: https://www.bundestag.
+ de/resource/blob/1149500/to-025.pdf\n1. Änderungs-/Ergänzungsmitteilung:
+  https://www.bundestag.de/resource/blob/1149834/to-024-1.pdf\n\nSeite des 
+ Ausschusses: https://www.bundestag.de/ausschuesse/umwelt
+URL:https://www.bundestag.de/ausschuesse/umwelt
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11495
+ 00/to-025.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11498
+ 34/to-024-1.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:bt-59-zp-7-top-9-klimaschutz-bezahlbarer-strom@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;TZID=Europe/Berlin:20260226T101000
+DTEND;TZID=Europe/Berlin:20260226T113000
+SUMMARY:ZP 7\, TOP 9: Klimaschutz\, bezahlbarer Strom
+DESCRIPTION:Status: beendet\n59. Sitzung\nAusschuss Umwelt\, Klimaschutz\, 
+ Naturschutz und nukleare Sicherheit: federführend (DIP\, amtlich)\nAufgef
+ ührt sind nur die Vorlagen\, bei denen Umwelt federführend ist. Weitere 
+ 1 Drucksachen dieses Punktes stehen im Textarchiv.\n\nZP 7) Beratung des A
+ ntrags der Fraktion BÜNDNIS 90/DIE GRÜNEN\nNach Urteil des Bundesverwalt
+ ungsgerichts – Ein Klima-Turbo für Deutschland\nDrucksache 21/4271 (htt
+ ps://dserver.bundestag.de/btd/21/042/2104271.pdf)\n\nLinks und Dokumente:\
+ nDrucksache 21/4271 (Antrag) Nach Urteil des Bundesverwaltungsgerichts - E
+ in Klima-Turbo für Deutschland: https://dserver.bundestag.de/btd/21/042/2
+ 104271.pdf\n  DIP: https://dip.bundestag.de/drucksache/-/285302\nPlenarpro
+ tokoll 59. Sitzung: https://dserver.bundestag.de/btp/21/21059.pdf\nTextarc
+ hiv: https://www.bundestag.de/dokumente/textarchiv/2026/kw09-de-strompreis
+ e-1149752\nMediathek: https://www.bundestag.de/mediathek/plenarsitzungen\n
+ Tagesordnung: https://www.bundestag.de/tagesordnung
+LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
+ lin
+URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw09-de-strompreise-
+ 1149752
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/042/2104
+ 271.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21059.pd
+ f
+END:VEVENT
+BEGIN:VEVENT
+UID:bt-59-top-20-nachhaltige-nutzung-der-meere-hochseesch@bundestag-kalende
+ r
+DTSTAMP:20261020T103707Z
+DTSTART;TZID=Europe/Berlin:20260226T210000
+DTEND;TZID=Europe/Berlin:20260226T212000
+SUMMARY:TOP 20: Nachhaltige Nutzung der Meere\, Hochseeschutzgesetz
+DESCRIPTION:Status: beendet\n59. Sitzung\nAusschuss Umwelt\, Klimaschutz\, 
+ Naturschutz und nukleare Sicherheit: Beschlussempfehlung und Bericht (Besc
+ hlussempfehlung der Tagesordnung\, amtlich)\nAusschuss Verkehr: mitberaten
+ d (DIP\, amtlich)\nUmwelt federführend bei: Gesetz zu dem Übereinkommen 
+ vom 19. Juni 2023 im Rahmen des Seerechtsübereinkommens der...\; Gesetz z
+ ur Ausführung des Übereinkommens im Rahmen des Seerechtsübereinkommens 
+ der...\nVerkehr mitberatend bei: Gesetz zu dem Übereinkommen vom 19. Juni
+  2023 im Rahmen des Seerechtsübereinkommens der...\; Gesetz zur Ausführu
+ ng des Übereinkommens im Rahmen des Seerechtsübereinkommens der...\nZuor
+ dnung je Drucksache (DIP):\n  21/3542 (Gesetzentwurf) Gesetz zu dem Übere
+ inkommen vom 19. Juni 2023 im Rahmen des Seerechtsübereinkommens der...: 
+ Umwelt federführend\, Verkehr mitberatend\n  21/3943 (Unterrichtung) Gese
+ tz zu dem Übereinkommen vom 19. Juni 2023 im Rahmen des Seerechtsüberein
+ kommens der...: Umwelt federführend\, Verkehr mitberatend\n  21/4328 (Bes
+ chlussempfehlung und Bericht) Gesetz zu dem Übereinkommen vom 19. Juni 20
+ 23 im Rahmen des Seerechtsübereinkommens der...: Umwelt federführend\, V
+ erkehr mitberatend\n  21/3543 (Gesetzentwurf) Gesetz zur Ausführung des 
+ Übereinkommens im Rahmen des Seerechtsübereinkommens der...: Umwelt fede
+ rführend\, Verkehr mitberatend\n  21/4085 (Unterrichtung) Gesetz zur Ausf
+ ührung des Übereinkommens im Rahmen des Seerechtsübereinkommens der...:
+  Umwelt federführend\, Verkehr mitberatend\n\na) Zweite und dritte Beratu
+ ng des von der Bundesregierung\neingebrachten Entwurfs eines Gesetzes zu d
+ em Übereinkommen vom 19. Juni 2023 im Rahmen des Seerechtsübereinkommens
+  der Vereinten Nationen über die Erhaltung und nachhaltige Nutzung der bi
+ ologischen Vielfalt der Meere von Gebieten außerhalb nationaler Hoheitsbe
+ fugnisse\nDrucksachen 21/3542 (https://dserver.bundestag.de/btd/21/035/210
+ 3542.pdf)\, 21/3943 (https://dserver.bundestag.de/btd/21/039/2103943.pdf)\
+ nBeschlussempfehlung und Bericht des Ausschusses für Umwelt\, Klimaschutz
+ \, Naturschutz und nukleare Sicherheit (16. Ausschuss)\nDrucksache 21/4328
+  (https://dserver.bundestag.de/btd/21/043/2104328.pdf)\n\nb) Zweite und dr
+ itte Beratung des von der Bundesregierung\neingebrachten Entwurfs eines Ge
+ setzes zur Ausführung des Übereinkommens im Rahmen des Seerechtsüberein
+ kommens der Vereinten Nationen über die Erhaltung und nachhaltige Nutzung
+  der biologischen Vielfalt der Meere von Gebieten außerhalb nationaler Ho
+ heitsbefugnisse (Hochseeschutzgesetz – HochseeSchG)\nDrucksache 21/3543 
+ (https://dserver.bundestag.de/btd/21/035/2103543.pdf)\, 21/4085 (https://d
+ server.bundestag.de/btd/21/040/2104085.pdf)\nBeschlussempfehlung und Beric
+ ht des Ausschusses für Umwelt\, Klimaschutz\, Naturschutz und nukleare Si
+ cherheit (16. Ausschuss)\nDrucksachen 21/4328 (https://dserver.bundestag.d
+ e/btd/21/043/2104328.pdf)\n\nLinks und Dokumente:\nDrucksache 21/3542 (Ges
+ etzentwurf) Gesetz zu dem Übereinkommen vom 19. Juni 2023 im Rahmen des S
+ eerechtsübereinkommens der...: https://dserver.bundestag.de/btd/21/035/21
+ 03542.pdf\n  DIP: https://dip.bundestag.de/drucksache/-/284320\nDrucksache
+  21/3943 (Unterrichtung) Gesetz zu dem Übereinkommen vom 19. Juni 2023 im
+  Rahmen des Seerechtsübereinkommens der...: https://dserver.bundestag.de/
+ btd/21/039/2103943.pdf\n  DIP: https://dip.bundestag.de/drucksache/-/28490
+ 5\nDrucksache 21/4328 (Beschlussempfehlung und Bericht) Gesetz zu dem Übe
+ reinkommen vom 19. Juni 2023 im Rahmen des Seerechtsübereinkommens der...
+ : https://dserver.bundestag.de/btd/21/043/2104328.pdf\n  DIP: https://dip.
+ bundestag.de/drucksache/-/285354\nDrucksache 21/3543 (Gesetzentwurf) Geset
+ z zur Ausführung des Übereinkommens im Rahmen des Seerechtsübereinkomme
+ ns der...: https://dserver.bundestag.de/btd/21/035/2103543.pdf\n  DIP: htt
+ ps://dip.bundestag.de/drucksache/-/284325\nDrucksache 21/4085 (Unterrichtu
+ ng) Gesetz zur Ausführung des Übereinkommens im Rahmen des Seerechtsübe
+ reinkommens der...: https://dserver.bundestag.de/btd/21/040/2104085.pdf\n 
+  DIP: https://dip.bundestag.de/drucksache/-/285073\nPlenarprotokoll 59. Si
+ tzung: https://dserver.bundestag.de/btp/21/21059.pdf\nTextarchiv: https://
+ www.bundestag.de/dokumente/textarchiv/2026/kw09-de-seerecht-1140420\nMedia
+ thek: https://www.bundestag.de/mediathek/plenarsitzungen\nTagesordnung: ht
+ tps://www.bundestag.de/tagesordnung
+LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
+ lin
+URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw09-de-seerecht-114
+ 0420
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/035/2103
+ 542.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/039/2103
+ 943.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/043/2104
+ 328.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/035/2103
+ 543.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/040/2104
+ 085.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21059.pd
+ f
+END:VEVENT
+BEGIN:VEVENT
+UID:bt-59-top-22-aenderung-des-chemikaliengesetzes@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;TZID=Europe/Berlin:20260226T212000
+DTEND;TZID=Europe/Berlin:20260226T214000
+SUMMARY:TOP 22: Änderung des Chemikaliengesetzes
+DESCRIPTION:Status: beendet\n59. Sitzung\nAusschuss Umwelt\, Klimaschutz\, 
+ Naturschutz und nukleare Sicherheit: Beschlussempfehlung und Bericht (Besc
+ hlussempfehlung der Tagesordnung\, amtlich)\nUmwelt federführend bei: Fü
+ nftes Gesetz zur Änderung des Chemikaliengesetzes\nZuordnung je Drucksach
+ e (DIP):\n  21/3511 (Gesetzentwurf) Fünftes Gesetz zur Änderung des Chem
+ ikaliengesetzes: Umwelt federführend\n  21/4329 (Beschlussempfehlung und 
+ Bericht) Fünftes Gesetz zur Änderung des Chemikaliengesetzes: Umwelt fed
+ erführend\n\nZweite und dritte Beratung des von der Bundesregierung\neing
+ ebrachten Entwurfs eines Fünften Gesetzes zur Änderung des Chemikalienge
+ setzes\nDrucksache 21/3511 (https://dserver.bundestag.de/btd/21/035/210351
+ 1.pdf)\nBeschlussempfehlung und Bericht des Ausschusses für Umwelt\, Klim
+ aschutz\, Naturschutz und nukleare Sicherheit (16. Ausschuss)\nDrucksache 
+ 21/4329 (https://dserver.bundestag.de/btd/21/043/2104329.pdf)\n\nLinks und
+  Dokumente:\nDrucksache 21/3511 (Gesetzentwurf) Fünftes Gesetz zur Änder
+ ung des Chemikaliengesetzes: https://dserver.bundestag.de/btd/21/035/21035
+ 11.pdf\n  DIP: https://dip.bundestag.de/drucksache/-/284263\nDrucksache 21
+ /4329 (Beschlussempfehlung und Bericht) Fünftes Gesetz zur Änderung des 
+ Chemikaliengesetzes: https://dserver.bundestag.de/btd/21/043/2104329.pdf\n
+   DIP: https://dip.bundestag.de/drucksache/-/285355\nPlenarprotokoll 59. S
+ itzung: https://dserver.bundestag.de/btp/21/21059.pdf\nTextarchiv: https:/
+ /www.bundestag.de/dokumente/textarchiv/2026/kw09-de-chemikaliengesetz-1140
+ 432\nMediathek: https://www.bundestag.de/mediathek/plenarsitzungen\nTageso
+ rdnung: https://www.bundestag.de/tagesordnung
+LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
+ lin
+URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw09-de-chemikalieng
+ esetz-1140432
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/035/2103
+ 511.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/043/2104
+ 329.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21059.pd
+ f
+END:VEVENT
+BEGIN:VEVENT
+UID:bt-59-top-3-weiterentwicklung-der-treibhausgasminder@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;TZID=Europe/Berlin:20260226T220500
+DTEND;TZID=Europe/Berlin:20260226T222000
+SUMMARY:TOP 3: Weiterentwicklung der Treibhausgasminderungs-Quote
+DESCRIPTION:Status: beendet\n59. Sitzung\nAusschuss Umwelt\, Klimaschutz\, 
+ Naturschutz und nukleare Sicherheit: federführend (DIP\, amtlich)\nAussch
+ uss Wirtschaft und Energie: mitberatend (DIP\, amtlich)\nAusschuss Verkehr
+ : mitberatend (DIP\, amtlich)\n\nErste Beratung des von der Bundesregierun
+ g\neingebrachten Entwurfs eines Zweiten Gesetzes zur Weiterentwicklung der
+  Treibhausgasminderungs-Quote\nDrucksache 21/4083 (https://dserver.bundest
+ ag.de/btd/21/040/2104083.pdf)\n\nLinks und Dokumente:\nDrucksache 21/4083 
+ (Gesetzentwurf) Zweites Gesetz zur Weiterentwicklung der Treibhausgasminde
+ rungs-Quote: https://dserver.bundestag.de/btd/21/040/2104083.pdf\n  DIP: h
+ ttps://dip.bundestag.de/drucksache/-/285071\nPlenarprotokoll 59. Sitzung: 
+ https://dserver.bundestag.de/btp/21/21059.pdf\nTextarchiv: https://www.bun
+ destag.de/dokumente/textarchiv/2026/kw09-de-treibhausgas-1140356\nMediathe
+ k: https://www.bundestag.de/mediathek/plenarsitzungen\nTagesordnung: https
+ ://www.bundestag.de/tagesordnung
+LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
+ lin
+URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw09-de-treibhausgas
+ -1140356
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/040/2104
+ 083.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21059.pd
+ f
+END:VEVENT
+BEGIN:VEVENT
+UID:bt-59-top-24-zp-20-aenderung-des-umwelt-rechtsbehelfsgesetz@bundestag-k
+ alender
+DTSTAMP:20261020T103707Z
+DTSTART;TZID=Europe/Berlin:20260226T222000
+DTEND;TZID=Europe/Berlin:20260226T224500
+SUMMARY:TOP 24\, ZP 20: Änderung des Umwelt-Rechtsbehelfsgesetzes
+DESCRIPTION:Status: beendet\n59. Sitzung\nAusschuss Umwelt\, Klimaschutz\, 
+ Naturschutz und nukleare Sicherheit: federführend (DIP\, amtlich)\nAufgef
+ ührt sind nur die Vorlagen\, bei denen Umwelt federführend ist. Weitere 
+ 1 Drucksachen dieses Punktes stehen im Textarchiv.\n\nErste Beratung des v
+ on der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Änderung
+  des Umwelt-Rechtsbehelfsgesetzes und weiterer umweltrechtlicher Vorschrif
+ ten\nDrucksache 21/4146 (https://dserver.bundestag.de/btd/21/041/2104146.p
+ df)\n\nLinks und Dokumente:\nDrucksache 21/4146 (Gesetzentwurf) Gesetz zur
+  Änderung des Umwelt-Rechtsbehelfsgesetzes und weiterer umweltrechtlicher
+ ...: https://dserver.bundestag.de/btd/21/041/2104146.pdf\n  DIP: https://d
+ ip.bundestag.de/drucksache/-/285160\nPlenarprotokoll 59. Sitzung: https://
+ dserver.bundestag.de/btp/21/21059.pdf\nTextarchiv: https://www.bundestag.d
+ e/dokumente/textarchiv/2026/kw09-de-umweltrecht-1140436\nMediathek: https:
+ //www.bundestag.de/mediathek/plenarsitzungen\nTagesordnung: https://www.bu
+ ndestag.de/tagesordnung
+LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
+ lin
+URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw09-de-umweltrecht-
+ 1140436
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/041/2104
+ 146.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21059.pd
+ f
+END:VEVENT
+BEGIN:VEVENT
+UID:ausschuss-ausschuesse-umwelt-anhoerung-1145932@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;TZID=Europe/Berlin:20260304T093000
+DTEND;TZID=Europe/Berlin:20260304T113000
+SUMMARY:Ausschuss Umwelt: 26. Sitzung (öffentlich): Weiterentwicklung der 
+ Treibhausgasminderungs-Quote (THG-Quote)
+DESCRIPTION:Öffentliche Sitzung\, 26. Sitzung des Ausschusses. Anhörungen
+  zählen als zusätzliche Sitzungen neben der regulären Sitzung der Sitzu
+ ngswoche.\n\nGegenstand: Der von der Bundesregierung vorgelegte Entwurf ei
+ nes „Zweiten Gesetzes zur Weiterentwicklung der Treibhausgasminderungs-Q
+ uote“ (THG-Quote) (21/4083) ist bei einer Sachverständigenanhörung des
+  Umweltausschusses am Mittwoch\, 4. März 2026\, unterschiedlich beurteilt
+  worden. Zur Umsetzung der europäischen RED-III-Richtlinie und zur Erreic
+ hung der Klimaschutzziele im Verkehrssektor soll die THG-Quote „ambition
+ iert fortgeschrieben werden“\, heißt es in dem Entwurf. Geplant ist\, d
+ ie verpflichtende prozentuale Minderung der Treibhausgasemissionen bei Kra
+ ftstoffen bis zum Jahr 2040 schrittweise auf 59 Prozent ansteigen zu lasse
+ n. Die THG-Quote ist das zentrale gesetzliche Instrument\, um die ... (wei
+ ter auf der Seite der Sitzung)\n\nDokumente:\nTagesordnung: https://www.bu
+ ndestag.de/resource/blob/1150608/to-026.pdf\n21/4083: https://dserver.bund
+ estag.de/btd/21/040/2104083.pdf\nListe der Sachverständigen: https://www.
+ bundestag.de/resource/blob/1145980/SV-Liste.pdf\nStellungnahme Shell Deuts
+ chland GmbH\, A-Drs. 21(16)107-A: https://www.bundestag.de/resource/blob/1
+ 151024/Stellungnahme-Shell.pdf\nStellungnahme Bayernoil Raffineriegesellsc
+ haft mbH\, A-Drs. 21(16)107-B: https://www.bundestag.de/resource/blob/1151
+ 026/Stellungnahme-Bayernoil.pdf\nStellungnahme NABU\, A-Drs. 21(16)107-C: 
+ https://www.bundestag.de/resource/blob/1151028/Stellungnahme-NABU.pdf\nSte
+ llungnahme Deutsche Umwelthilfe e.V. (DUH)\, A-Drs. 21(16)107-D: https://w
+ ww.bundestag.de/resource/blob/1151076/Stellungnahme-DUH.pdf\nStellungnahme
+  Transport & Environment (T & E) Deutschland gGmbH\, A-Dr.s 21(16)107-E: h
+ ttps://www.bundestag.de/resource/blob/1151086/Stellungnahme-T-E.pdf\nStell
+ ungnahme Holger Becker\, Gesellschaft für Fortschritt in Freiheit e.V.\, 
+ A-Drs. 21(16)107-F: https://www.bundestag.de/resource/blob/1151116/Stellun
+ gnahme-Becker-GfFiF.pdf\nStellungnahme Dr. Matthias Hornsteiner\, Gesellsc
+ haft für Fortschritt in Freiheit e.V.\, A-Drs. 21(16)107-G: https://www.b
+ undestag.de/resource/blob/1151118/Stellungnahme-Dr-Hornsteiner-GfFiF.pdf\n
+ Stellungnahme eFuel Alliance\, A-Drs. 21(16)107-H: https://www.bundestag.d
+ e/resource/blob/1151626/Stellungnahme-eFuel.pdf\nStellungnahme VDB\, A-Drs
+ . 21(16)107-I: https://www.bundestag.de/resource/blob/1158378/Stellungnahm
+ e-VDB.pdf\n\nSeite des Ausschusses: https://www.bundestag.de/ausschuesse/u
+ mwelt\nÜbertragung: https://www.bundestag.de/mediathek
+LOCATION:Berlin\, Paul-Löbe-Haus\, Sitzungssaal E.700
+URL:https://www.bundestag.de/ausschuesse/umwelt/sitzungen/1145932-1145932
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11506
+ 08/to-026.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/040/2104
+ 083.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11459
+ 80/SV-Liste.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11510
+ 24/Stellungnahme-Shell.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11510
+ 26/Stellungnahme-Bayernoil.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11510
+ 28/Stellungnahme-NABU.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11510
+ 76/Stellungnahme-DUH.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11510
+ 86/Stellungnahme-T-E.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11511
+ 16/Stellungnahme-Becker-GfFiF.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11511
+ 18/Stellungnahme-Dr-Hornsteiner-GfFiF.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11516
+ 26/Stellungnahme-eFuel.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11583
+ 78/Stellungnahme-VDB.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:ausschuss-ausschuesse-umwelt-sitzung-27@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;TZID=Europe/Berlin:20260304T113000
+DTEND;TZID=Europe/Berlin:20260304T133000
+SUMMARY:Ausschuss Umwelt: 27. Sitzung (nicht öffentlich)
+DESCRIPTION:27. Sitzung des Ausschusses (nicht öffentlich)\nEnde geschätz
+ t.\n\nTagesordnung und Ergänzungen:\nTagesordnung: https://www.bundestag.
+ de/resource/blob/1150616/to-027.pdf\n\nSeite des Ausschusses: https://www.
+ bundestag.de/ausschuesse/umwelt
+URL:https://www.bundestag.de/ausschuesse/umwelt
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11506
+ 16/to-027.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:bt-62-top-24-beendigung-der-mitwirkung-am-weltklimara@bundestag-kalende
+ r
+DTSTAMP:20261020T103707Z
+DTSTART;TZID=Europe/Berlin:20260305T195000
+DTEND;TZID=Europe/Berlin:20260305T201500
+SUMMARY:TOP 24: Beendigung der Mitwirkung am Weltklimarat (IPCC)
+DESCRIPTION:Status: beendet\n62. Sitzung\nAusschuss Umwelt\, Klimaschutz\, 
+ Naturschutz und nukleare Sicherheit: federführend (DIP\, amtlich)\nAussch
+ uss Wirtschaft und Energie: mitberatend (DIP\, amtlich)\n\nBeratung des An
+ trags der Fraktion der AfD\nBeendigung der Mitwirkung der Bundesrepublik D
+ eutschland am Zwischenstaatlichen Ausschuss für Klimaänderungen und Neua
+ usrichtung der nationalen wissenschaftlichen Politikberatung zu Umwelt- un
+ d Klimathemen\nDrucksache 21/4464 (https://dserver.bundestag.de/btd/21/044
+ /2104464.pdf)\n\nLinks und Dokumente:\nDrucksache 21/4464 (Antrag) Beendig
+ ung der Mitwirkung der Bundesrepublik Deutschland am Zwischenstaatlichen..
+ .: https://dserver.bundestag.de/btd/21/044/2104464.pdf\n  DIP: https://dip
+ .bundestag.de/drucksache/-/285534\nPlenarprotokoll 62. Sitzung: https://ds
+ erver.bundestag.de/btp/21/21062.pdf\nTextarchiv: https://www.bundestag.de/
+ dokumente/textarchiv/2026/kw10-de-climate-change-1150540\nMediathek: https
+ ://www.bundestag.de/mediathek/plenarsitzungen\nTagesordnung: https://www.b
+ undestag.de/tagesordnung
+LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
+ lin
+URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw10-de-climate-chan
+ ge-1150540
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/044/2104
+ 464.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21062.pd
+ f
+END:VEVENT
+BEGIN:VEVENT
+UID:ausschuss-ausschuesse-umwelt-anhoerung-1151870@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;TZID=Europe/Berlin:20260318T093000
+DTEND;TZID=Europe/Berlin:20260318T104500
+SUMMARY:Ausschuss Umwelt: 28. Sitzung (öffentlich): CO2-Abscheidung und -S
+ peicherung (CCS – Carbon Capture and Storage)
+DESCRIPTION:Öffentliche Sitzung\, 28. Sitzung des Ausschusses. Anhörungen
+  zählen als zusätzliche Sitzungen neben der regulären Sitzung der Sitzu
+ ngswoche.\n\nGegenstand: Der Einsatz von Technologien zur Abscheidung und 
+ Speicherung von Kohlendioxid (Carbon Capture and Storage\, kurz CCS) ist u
+ nter Sachverständigen umstritten\, wie ein öffentliches Fachgespräch im
+  Umweltausschuss am Mittwoch\, 18. März 2026\, gezeigt hat. Während Vert
+ reter der Industrie\, welche die CDU/CSU-Fraktion als Experten benannt hat
+ te\, sich für eine möglichst breite Nutzung aussprachen\, drängten von 
+ SPD\, Bündnis 90/Die Grünen und Die Linke eingeladene Wissenschaftler au
+ f eine Begrenzung der Verwendung auf unvermeidbare CO2-Restemissionen\, Da
+ mit sind Emissionen gemeint\, die nicht durch den Ersatz fossiler Brennsto
+ ffe durch erneuerbare Energien oder durch Änderungen des Produktionsproze
+ sses ... (weiter auf der Seite der Sitzung)\n\nDokumente:\nTagesordnung: h
+ ttps://www.bundestag.de/resource/blob/1155786/to-028.pdf\nListe der Sachve
+ rständigen: https://www.bundestag.de/resource/blob/1152062/SV-Liste-18-3-
+ 26.pdf\nStellungnahme BNW\, A-Drs. 21(16)110-A: https://www.bundestag.de/r
+ esource/blob/1155966/Stellungnahme-BNW.pdf\nStellungnahme SWP\, A-Drs. 21(
+ 16)110-B: https://www.bundestag.de/resource/blob/1152066/Stellungnahme-SWP
+ .pdf\nStellungnahme VCI\, A-Drs. 21(16)110-C: https://www.bundestag.de/res
+ ource/blob/1156046/Stellungnahme-VCI.pdf\nStellungnahme BVEG\, A-Drs. 21(1
+ 6)110-D: https://www.bundestag.de/resource/blob/1156102/Stellungnahme-BVEG
+ .pdf\n\nSeite des Ausschusses: https://www.bundestag.de/ausschuesse/umwelt
+ \nÜbertragung: https://www.bundestag.de/mediathek
+LOCATION:Berlin\, Paul-Löbe-Haus\, Sitzungssaal E.700
+URL:https://www.bundestag.de/ausschuesse/umwelt/sitzungen/1151870-1151870
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11557
+ 86/to-028.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11520
+ 62/SV-Liste-18-3-26.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11559
+ 66/Stellungnahme-BNW.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11520
+ 66/Stellungnahme-SWP.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11560
+ 46/Stellungnahme-VCI.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11561
+ 02/Stellungnahme-BVEG.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:ausschuss-ausschuesse-umwelt-sitzung-29@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;TZID=Europe/Berlin:20260318T113000
+DTEND;TZID=Europe/Berlin:20260318T133000
+SUMMARY:Ausschuss Umwelt: 29. Sitzung (nicht öffentlich)
+DESCRIPTION:29. Sitzung des Ausschusses (nicht öffentlich)\nEnde geschätz
+ t.\n\nTagesordnung und Ergänzungen:\nTagesordnung: https://www.bundestag.
+ de/resource/blob/1155788/to-029.pdf\n\nSeite des Ausschusses: https://www.
+ bundestag.de/ausschuesse/umwelt
+URL:https://www.bundestag.de/ausschuesse/umwelt
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11557
+ 88/to-029.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:bt-66-top-25-klimageld@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;TZID=Europe/Berlin:20260320T122000
+DTEND;TZID=Europe/Berlin:20260320T125500
+SUMMARY:TOP 25: Klimageld
+DESCRIPTION:Status: beendet\n66. Sitzung\nAusschuss Umwelt\, Klimaschutz\, 
+ Naturschutz und nukleare Sicherheit: Beschlussempfehlung und Bericht (Besc
+ hlussempfehlung der Tagesordnung\, amtlich)\nAusschuss Wirtschaft und Ener
+ gie: mitberatend (DIP\, amtlich)\nUmwelt federführend bei: Klimageld - So
+ fort und sozial gerecht\nWE mitberatend bei: Klimageld - Sofort und sozial
+  gerecht\nZuordnung je Drucksache (DIP):\n  21/789 (Antrag) Klimageld - So
+ fort und sozial gerecht: Umwelt federführend\, WE mitberatend\n  21/4377 
+ (Beschlussempfehlung und Bericht) Klimageld - Sofort und sozial gerecht: U
+ mwelt federführend\, WE mitberatend\n\nBeratung der Beschlussempfehlung u
+ nd des Berichts des Ausschusses für Umwelt\, Klimaschutz\, Naturschutz un
+ d nukleare Sicherheit (16. Ausschuss)\nzu dem Antrag der Fraktion Die Link
+ e\nKlimageld – Sofort und sozial gerecht\nDrucksachen 21/789 (https://ds
+ erver.bundestag.de/btd/21/007/2100789.pdf)\, 21/4377 (https://dserver.bund
+ estag.de/btd/21/043/2104377.pdf)\n\nLinks und Dokumente:\nDrucksache 21/78
+ 9 (Antrag) Klimageld - Sofort und sozial gerecht: https://dserver.bundesta
+ g.de/btd/21/007/2100789.pdf\n  DIP: https://dip.bundestag.de/drucksache/-/
+ 280328\nDrucksache 21/4377 (Beschlussempfehlung und Bericht) Klimageld - S
+ ofort und sozial gerecht: https://dserver.bundestag.de/btd/21/043/2104377.
+ pdf\n  DIP: https://dip.bundestag.de/drucksache/-/285422\nPlenarprotokoll 
+ 66. Sitzung: https://dserver.bundestag.de/btp/21/21066.pdf\nTextarchiv: ht
+ tps://www.bundestag.de/dokumente/textarchiv/2026/kw12-de-klimageld-1151818
+ \nMediathek: https://www.bundestag.de/mediathek/plenarsitzungen\nTagesordn
+ ung: https://www.bundestag.de/tagesordnung
+LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
+ lin
+URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw12-de-klimageld-11
+ 51818
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/007/2100
+ 789.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/043/2104
+ 377.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21066.pd
+ f
+END:VEVENT
+BEGIN:VEVENT
+UID:bt-66-zp-10-schutz-von-natur-klima-und-zivilgesellsc@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;TZID=Europe/Berlin:20260320T125500
+DTEND;TZID=Europe/Berlin:20260320T133500
+SUMMARY:ZP 10: Schutz von Natur\, Klima und Zivilgesellschaft
+DESCRIPTION:Status: beendet\n66. Sitzung\nAusschuss Umwelt\, Klimaschutz\, 
+ Naturschutz und nukleare Sicherheit: federführend (DIP\, amtlich)\nAussch
+ uss Wirtschaft und Energie: mitberatend (DIP\, amtlich)\nAusschuss Wohnen\
+ , Stadtentwicklung\, Bauwesen und Kommunen: mitberatend (DIP\, amtlich)\nA
+ usschuss Verkehr: mitberatend (DIP\, amtlich)\n\nBeratung des Antrags der 
+ Fraktion BÜNDNIS 90/DIE GRÜNEN\nNatur\, Klima und Zivilgesellschaft sch
+ ützen - Einschränkungen verhindern\nDrucksache 21/4757 (https://dserver.
+ bundestag.de/btd/21/047/2104757.pdf)\n\nLinks und Dokumente:\nDrucksache 2
+ 1/4757 (Antrag) Natur\, Klima und Zivilgesellschaft schützen - Einschrän
+ kungen verhindern: https://dserver.bundestag.de/btd/21/047/2104757.pdf\n  
+ DIP: https://dip.bundestag.de/drucksache/-/285977\nPlenarprotokoll 66. Sit
+ zung: https://dserver.bundestag.de/btp/21/21066.pdf\nTextarchiv: https://w
+ ww.bundestag.de/dokumente/textarchiv/2026/kw12-de-klima-zivilgesellschaft-
+ 1156120\nMediathek: https://www.bundestag.de/mediathek/plenarsitzungen\nTa
+ gesordnung: https://www.bundestag.de/tagesordnung
+LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
+ lin
+URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw12-de-klima-zivilg
+ esellschaft-1156120
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/047/2104
+ 757.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21066.pd
+ f
+END:VEVENT
+BEGIN:VEVENT
+UID:ausschuss-ausschuesse-umwelt-anhoerung-1151884@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;TZID=Europe/Berlin:20260325T093000
+DTEND;TZID=Europe/Berlin:20260325T113000
+SUMMARY:Ausschuss Umwelt: 30. Sitzung (öffentlich): Geteiltes Echo auf Nov
+ elle des Umwelt-Rechtsbehelfsgesetzes
+DESCRIPTION:Öffentliche Sitzung\, 30. Sitzung des Ausschusses. Anhörungen
+  zählen als zusätzliche Sitzungen neben der regulären Sitzung der Sitzu
+ ngswoche.\n\nGegenstand: Die geplante Novelle des Umwelt-Rechtsbehelfsgese
+ tzes trifft bei Sachverständigen auf ein geteiltes Echo\, wie eine öffen
+ tliche Anhörung im Umweltausschuss am Mittwoch\, 25. März 2026\, gezeigt
+  hat. Während Vertreter der Industrie sowie von der Unionsfraktion benann
+ te Rechtsexperten den von der Bundesregierung vorgelegten Gesetzentwurf zu
+ r Änderung des Umwelt-Rechtsbehelfsgesetzes und weiterer umweltrechtliche
+ r Vorschriften (21/4146\, 21/4961) begrüßten\, kritisierten die von den 
+ Fraktionen der SPD\, von Bündnis 90/Die Grünen und Die Linke eingeladene
+ n Sachverständigen die damit geplante Reform des Umweltklagerechts. Diese
+  werde nicht das angestrebte Ziel erreichen\, die Planung und Genehmigung 
+ ... (weiter auf der Seite der Sitzung)\n\nDokumente:\nTagesordnung: https:
+ //www.bundestag.de/resource/blob/1156662/to-030.pdf\n21/4146: https://dser
+ ver.bundestag.de/btd/21/041/2104146.pdf\n21/4961: https://dserver.bundesta
+ g.de/btd/21/049/2104961.pdf\nListe der Sachverständigen: https://www.bund
+ estag.de/resource/blob/1152064/SV-Liste-25-3-26.pdf\nStellungnahme Dr. Fra
+ nziska Heß\, A-Drs. 21(16)112-A: https://www.bundestag.de/resource/blob/1
+ 156654/Stellungnahme-Dr-Hess.pdf\nStellungnahme BDI\, A-Drs. 21(16)112-B: 
+ https://www.bundestag.de/resource/blob/1156660/Stellungnahme-BDI.pdf\nStel
+ lungnahme GLI\, A-Drs. 21(16)112-C: https://www.bundestag.de/resource/blob
+ /1156940/Stellungnahme-GLI.pdf\nStellungnahme BVKS\, A-Drs. 21(16)112-D: h
+ ttps://www.bundestag.de/resource/blob/1156942/Stellungnahme-BVKS.pdf\nStel
+ lungnahme Prof. Dr. Alexander Schmidt\, A-Drs. 21(16)112-E: https://www.bu
+ ndestag.de/resource/blob/1157068/Stellungnahme-Prof-Dr-Schmidt.pdf\nStellu
+ ngnahme Prof. Dr. Rainer Wernsmann\, A-Drs. 21(16)112-F: https://www.bunde
+ stag.de/resource/blob/1157280/Stellungnahme-Prof-Dr-Wernsmann.pdf\nStellun
+ gnahme Dr. Stefan Bauer\, A-Drs. 21(16)112-G: https://www.bundestag.de/res
+ ource/blob/1158366/Stellungnahme-Dr-Bauer.pdf\n\nSeite des Ausschusses: ht
+ tps://www.bundestag.de/ausschuesse/umwelt\nÜbertragung: https://www.bunde
+ stag.de/mediathek
+LOCATION:Berlin\, Paul-Löbe-Haus\, Sitzungssaal E.700
+URL:https://www.bundestag.de/ausschuesse/umwelt/sitzungen/1151884-1151884
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11566
+ 62/to-030.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/041/2104
+ 146.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/049/2104
+ 961.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11520
+ 64/SV-Liste-25-3-26.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11566
+ 54/Stellungnahme-Dr-Hess.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11566
+ 60/Stellungnahme-BDI.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11569
+ 40/Stellungnahme-GLI.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11569
+ 42/Stellungnahme-BVKS.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11570
+ 68/Stellungnahme-Prof-Dr-Schmidt.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11572
+ 80/Stellungnahme-Prof-Dr-Wernsmann.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11583
+ 66/Stellungnahme-Dr-Bauer.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:ausschuss-ausschuesse-umwelt-sitzung-31@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;TZID=Europe/Berlin:20260325T113000
+DTEND;TZID=Europe/Berlin:20260325T133000
+SUMMARY:Ausschuss Umwelt: 31. Sitzung (nicht öffentlich)
+DESCRIPTION:31. Sitzung des Ausschusses (nicht öffentlich)\nEnde geschätz
+ t.\n\nTagesordnung und Ergänzungen:\nTagesordnung: https://www.bundestag.
+ de/resource/blob/1156664/to-031.pdf\n1. Änderungs-/Ergänzungsmitteilung:
+  https://www.bundestag.de/resource/blob/1157526/to-031-1.pdf\n\nSeite des 
+ Ausschusses: https://www.bundestag.de/ausschuesse/umwelt
+URL:https://www.bundestag.de/ausschuesse/umwelt
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11566
+ 64/to-031.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11575
+ 26/to-031-1.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:ausschuss-ausschuesse-umwelt-anhoerung-1157740@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;TZID=Europe/Berlin:20260325T130000
+DTEND;TZID=Europe/Berlin:20260325T133000
+SUMMARY:Ausschuss Umwelt: 31. Sitzung - Gespräch mit Bundesminister Carste
+ n Schneider
+DESCRIPTION:Öffentliche Sitzung. Anhörungen zählen als zusätzliche Sitz
+ ungen neben der regulären Sitzung der Sitzungswoche.\n\nGegenstand: Tages
+ ordnungspunkt 13 - öffentlich - Gespräch mit dem Bundesminister für Umw
+ elt\, Klimaschutz\, Naturschutz und nukleare Sicherheit Carsten Schneider\
+ , MdB zum Klimaschutzprogramm 2026 Selbstbefassung\n\nDokumente:\n31. Sitz
+ ung am Mittwoch\, dem 25. März 2026\, 11:30 Uhr - nichtöffentlich: https
+ ://www.bundestag.de/resource/blob/1156664/to-031.pdf\n31. Sitzung am Mittw
+ och\, dem 25. März 2026\, 11:30 Uhr - 1. Änderungs-/Ergänzungsmitteilun
+ g: https://www.bundestag.de/resource/blob/1157526/to-031-1.pdf\n\nSeite de
+ s Ausschusses: https://www.bundestag.de/ausschuesse/umwelt\nÜbertragung: 
+ https://www.bundestag.de/mediathek
+LOCATION:Berlin\, Paul-Löbe-Haus\, Sitzungssaal E.700
+URL:https://www.bundestag.de/ausschuesse/umwelt/sitzungen/1157740-1157740
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11566
+ 64/to-031.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11575
+ 26/to-031-1.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:bt-68-top-19-eu-verordnung-ueber-fluorierte-treibhaus@bundestag-kalende
+ r
+DTSTAMP:20261020T103707Z
+DTSTART;TZID=Europe/Berlin:20260326T214500
+DTEND;TZID=Europe/Berlin:20260326T220000
+SUMMARY:TOP 19: EU-Verordnung über fluorierte Treibhausgase
+DESCRIPTION:Status: beendet\n68. Sitzung\nAusschuss Umwelt\, Klimaschutz\, 
+ Naturschutz und nukleare Sicherheit: Beschlussempfehlung und Bericht (Besc
+ hlussempfehlung der Tagesordnung\, amtlich)\nUmwelt federführend bei: Ver
+ ordnung zur Durchführung der Verordnung (EU) 2024/573 über fluorierte Tr
+ eibhausgase\; 151. Versammlung der Interparlamentarischen Union vom 18. bi
+ s 23. Oktober 2025 in Genf\,...\nZuordnung je Drucksache (DIP):\n  21/4294
+  (Verordnung) Verordnung zur Durchführung der Verordnung (EU) 2024/573 ü
+ ber fluorierte Treibhausgase: Umwelt federführend\n  21/4383 (Unterrichtu
+ ng) 151. Versammlung der Interparlamentarischen Union vom 18. bis 23. Okto
+ ber 2025 in Genf\,...: Umwelt federführend\n  21/4993 (Beschlussempfehlun
+ g und Bericht) Verordnung zur Durchführung der Verordnung (EU) 2024/573 
+ über fluorierte Treibhausgase: Umwelt federführend\n\nBeratung der Besch
+ lussempfehlung und des Berichts des Ausschusses für Umwelt\, Klimaschutz\
+ , Naturschutz und nukleare Sicherheit (16. Ausschuss)\nzu der Verordnung d
+ er Bundesregierung\nVerordnung zur Durchführung der Verordnung (EU) 2024/
+ 573 über fluorierte Treibhausgase\nDrucksachen 21/4294 (https://dserver.b
+ undestag.de/btd/21/042/2104294.pdf)(neu)\, 21/4383 (https://dserver.bundes
+ tag.de/btd/21/043/2104383.pdf) Nr. 2\, 21/4993 (https://dserver.bundestag.
+ de/btd/21/049/2104993.pdf)\n\nLinks und Dokumente:\nDrucksache 21/4294 (Ve
+ rordnung) Verordnung zur Durchführung der Verordnung (EU) 2024/573 über 
+ fluorierte Treibhausgase: https://dserver.bundestag.de/btd/21/042/2104294.
+ pdf\n  DIP: https://dip.bundestag.de/drucksache/-/285316\nDrucksache 21/43
+ 83 (Unterrichtung) 151. Versammlung der Interparlamentarischen Union vom 1
+ 8. bis 23. Oktober 2025 in Genf\,...: https://dserver.bundestag.de/btd/21/
+ 043/2104383.pdf\n  DIP: https://dip.bundestag.de/drucksache/-/285403\nDruc
+ ksache 21/4993 (Beschlussempfehlung und Bericht) Verordnung zur Durchführ
+ ung der Verordnung (EU) 2024/573 über fluorierte Treibhausgase: https://d
+ server.bundestag.de/btd/21/049/2104993.pdf\n  DIP: https://dip.bundestag.d
+ e/drucksache/-/286243\nPlenarprotokoll 68. Sitzung: https://dserver.bundes
+ tag.de/btp/21/21068.pdf\nTextarchiv: https://www.bundestag.de/dokumente/te
+ xtarchiv/2026/kw13-de-treibhausgase-1156766\nMediathek: https://www.bundes
+ tag.de/mediathek/plenarsitzungen\nTagesordnung: https://www.bundestag.de/t
+ agesordnung
+LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
+ lin
+URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw13-de-treibhausgas
+ e-1156766
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/042/2104
+ 294.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/043/2104
+ 383.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/049/2104
+ 993.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21068.pd
+ f
+END:VEVENT
+BEGIN:VEVENT
+UID:bt-68-top-23-umsetzung-der-eu-richtlinie-zu-industrie@bundestag-kalende
+ r
+DTSTAMP:20261020T103707Z
+DTSTART;TZID=Europe/Berlin:20260326T220000
+DTEND;TZID=Europe/Berlin:20260326T222000
+SUMMARY:TOP 23: Umsetzung der EU-Richtlinie zu Industrieemissionen
+DESCRIPTION:Status: beendet\n68. Sitzung\nAusschuss Umwelt\, Klimaschutz\, 
+ Naturschutz und nukleare Sicherheit: federführend (DIP\, amtlich)\nAussch
+ uss Wirtschaft und Energie: mitberatend (DIP\, amtlich)\n\nErste Beratung 
+ des von der Bundesregierung eingebrachten Entwurfs eines zur Umsetzung der
+  Richtlinie (EU) 2024/1785 zur Änderung der Richtlinie 2010/75/EU über I
+ ndustrieemissionen\nDrucksache 21/4786 (https://dserver.bundestag.de/btd/2
+ 1/047/2104786.pdf)\n\nLinks und Dokumente:\nDrucksache 21/4786 (Gesetzentw
+ urf) Gesetz zur Umsetzung der Richtlinie (EU) 2024/1785 zur Änderung der 
+ Richtlinie...: https://dserver.bundestag.de/btd/21/047/2104786.pdf\n  DIP:
+  https://dip.bundestag.de/drucksache/-/285995\nPlenarprotokoll 68. Sitzung
+ : https://dserver.bundestag.de/btp/21/21068.pdf\nTextarchiv: https://www.b
+ undestag.de/dokumente/textarchiv/2026/kw13-de-industrieemissionen-1156792\
+ nMediathek: https://www.bundestag.de/mediathek/plenarsitzungen\nTagesordnu
+ ng: https://www.bundestag.de/tagesordnung
+LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
+ lin
+URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw13-de-industrieemi
+ ssionen-1156792
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/047/2104
+ 786.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21068.pd
+ f
+END:VEVENT
+BEGIN:VEVENT
+UID:bt-69-top-10-klimaschutzpolitik@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;TZID=Europe/Berlin:20260327T120500
+DTEND;TZID=Europe/Berlin:20260327T125000
+SUMMARY:TOP 10: Klimaschutzpolitik
+DESCRIPTION:Status: beendet\n69. Sitzung\nAusschuss Umwelt\, Klimaschutz\, 
+ Naturschutz und nukleare Sicherheit: Beschlussempfehlung und Bericht (Besc
+ hlussempfehlung der Tagesordnung\, amtlich)\nAusschuss Wirtschaft und Ener
+ gie: mitberatend (DIP\, amtlich)\nAusschuss Wohnen\, Stadtentwicklung\, Ba
+ uwesen und Kommunen: mitberatend (DIP\, amtlich)\nAusschuss Verkehr: mitbe
+ ratend (DIP\, amtlich)\nUmwelt federführend bei: Klimaschutzprogramm als 
+ Entlastungsprogramm\; Nach Urteil des Bundesverwaltungsgerichts - Ein Klim
+ a-Turbo für Deutschland\; Rückbau der EU-Klimapolitik stoppen - Deutschl
+ ands Klimaschutzlücke jetzt schließen\nWE mitberatend bei: Klimaschutzpr
+ ogramm als Entlastungsprogramm\; Nach Urteil des Bundesverwaltungsgerichts
+  - Ein Klima-Turbo für Deutschland\; Rückbau der EU-Klimapolitik stoppen
+  - Deutschlands Klimaschutzlücke jetzt schließen\nWohnen/Bau mitberatend
+  bei: Klimaschutzprogramm als Entlastungsprogramm\; Nach Urteil des Bundes
+ verwaltungsgerichts - Ein Klima-Turbo für Deutschland\; Rückbau der EU-K
+ limapolitik stoppen - Deutschlands Klimaschutzlücke jetzt schließen\nVer
+ kehr mitberatend bei: Klimaschutzprogramm als Entlastungsprogramm\; Nach U
+ rteil des Bundesverwaltungsgerichts - Ein Klima-Turbo für Deutschland\; R
+ ückbau der EU-Klimapolitik stoppen - Deutschlands Klimaschutzlücke jetzt
+  schließen\nZuordnung je Drucksache (DIP):\n  21/4951 (Antrag) Klimaschut
+ zprogramm als Entlastungsprogramm: Umwelt federführend\, WE mitberatend\,
+  Wohnen/Bau mitberatend\, Verkehr mitberatend\n  21/4271 (Antrag) Nach Urt
+ eil des Bundesverwaltungsgerichts - Ein Klima-Turbo für Deutschland: Umwe
+ lt federführend\, WE mitberatend\, Wohnen/Bau mitberatend\, Verkehr mitbe
+ ratend\n  21/4890 (Beschlussempfehlung und Bericht) Rückbau der EU-Klimap
+ olitik stoppen - Deutschlands Klimaschutzlücke jetzt schließen: Umwelt f
+ ederführend\, WE mitberatend\, Wohnen/Bau mitberatend\, Verkehr mitberate
+ nd\n\na) Beratung des Antrags der Fraktion BÜNDNIS 90/DIE GRÜNEN\nKlimas
+ chutzprogramm als Entlastungsprogramm\nDrucksache 21/4951 (https://dserver
+ .bundestag.de/btd/21/049/2104951.pdf)\n\nb) Beratung der Beschlussempfehlu
+ ng und des Berichts des Ausschusses für Umwelt\, Klimaschutz\, Naturschut
+ z und nukleare Sicherheit (16. Ausschuss)\nzu dem Antrag der Fraktion BÜN
+ DNIS 90/DIE GRÜNEN\nNach Urteil des Bundesverwaltungsgerichts – Ein Kli
+ ma-Turbo für Deutschland\nDrucksachen 21/4271 (https://dserver.bundestag.
+ de/btd/21/042/2104271.pdf)\, 21/4890 (https://dserver.bundestag.de/btd/21/
+ 048/2104890.pdf)\n\nLinks und Dokumente:\nDrucksache 21/4951 (Antrag) Klim
+ aschutzprogramm als Entlastungsprogramm: https://dserver.bundestag.de/btd/
+ 21/049/2104951.pdf\n  DIP: https://dip.bundestag.de/drucksache/-/286164\nD
+ rucksache 21/4271 (Antrag) Nach Urteil des Bundesverwaltungsgerichts - Ein
+  Klima-Turbo für Deutschland: https://dserver.bundestag.de/btd/21/042/210
+ 4271.pdf\n  DIP: https://dip.bundestag.de/drucksache/-/285302\nDrucksache 
+ 21/4890 (Beschlussempfehlung und Bericht) Rückbau der EU-Klimapolitik sto
+ ppen - Deutschlands Klimaschutzlücke jetzt schließen: https://dserver.bu
+ ndestag.de/btd/21/048/2104890.pdf\n  DIP: https://dip.bundestag.de/drucksa
+ che/-/286110\nPlenarprotokoll 69. Sitzung: https://dserver.bundestag.de/bt
+ p/21/21069.pdf\nTextarchiv: https://www.bundestag.de/dokumente/textarchiv/
+ 2026/kw13-de-klimaschutz-1156720\nMediathek: https://www.bundestag.de/medi
+ athek/plenarsitzungen\nTagesordnung: https://www.bundestag.de/tagesordnung
+LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
+ lin
+URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw13-de-klimaschutz-
+ 1156720
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/049/2104
+ 951.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/042/2104
+ 271.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/048/2104
+ 890.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21069.pd
+ f
+END:VEVENT
+BEGIN:VEVENT
+UID:ausschuss-ausschuesse-umwelt-anhoerung-1157986@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;TZID=Europe/Berlin:20260415T093000
+DTEND;TZID=Europe/Berlin:20260415T113000
+SUMMARY:Ausschuss Umwelt: 32. Sitzung (öffentlich): Anhörung zur Industri
+ eemissionsrichtlinie
+DESCRIPTION:Öffentliche Anhörung\, 32. Sitzung des Ausschusses. Anhörung
+ en zählen als zusätzliche Sitzungen neben der regulären Sitzung der Sit
+ zungswoche.\n\nGegenstand: Der von der Bundesregierung vorgelegte Gesetzen
+ twurf „zur Umsetzung der Richtlinie (EU) 2024/1785 zur Änderung der Ric
+ htlinie 2010/75/EU über Industrieemissionen“ (geänderte IED-Richtlinie
+ \, 21/4786) trifft bei Industrievertretern auf deutliche Ablehnung. Hauptk
+ ritikpunkt war bei einer öffentlichen Anhörung des Umweltausschusses am 
+ Mittwoch\, 15. April 2026\, der Verzicht auf in der EU-Vorgabe ermöglicht
+ e Ausnahmeregelungen\, was aus Sicht der Sachverständigen zu Wettbewerbsn
+ achteilen für deutsche Unternehmen führe. Umweltschutzorganisationen hin
+ gegen begrüßten den Entwurf und warnten vor einer Abschwächung der Rege
+ lung. Ziel des Entwurfes ist es laut Bundesregierung\, die Umweltleistung 
+ ... (weiter auf der Seite der Sitzung)\n\nDokumente:\nTagesordnung: https:
+ //www.bundestag.de/resource/blob/1165116/to-032.pdf\n21/4786: https://dser
+ ver.bundestag.de/btd/21/047/2104786.pdf\nListe der Sachverständigen: http
+ s://www.bundestag.de/resource/blob/1161954/Liste-SV.pdf\nStellungnahme BDI
+ \, A-Drs. 21(16)114-A: https://www.bundestag.de/resource/blob/1165090/Stel
+ lungnahme-BDI.pdf\nStellungnahme thyssenkrupp Steel Europe AG\, A-Drs. 21(
+ 16)114-B: https://www.bundestag.de/resource/blob/1165092/Stellungnahme-thy
+ ssenkrupp.pdf\nStellungnahme VCI\, A-Drs. 21(16)114-C: https://www.bundest
+ ag.de/resource/blob/1165106/Stellungnahme-VCI.pdf\nStellungnahme Prof. Dr.
+  Andrea Versteyl\, AVR Rechtsanwälte\, A-Drs. 21(16)114-D: https://www.bu
+ ndestag.de/resource/blob/1165108/Stellungnahme-Prof-Dr-Versteyl.pdf\nStell
+ ungnahme DUH\, A-Drs. 21(16)114-E: https://www.bundestag.de/resource/blob/
+ 1165110/Stellungnahme-DUH.pdf\nStellungnahme ClientEarth gGmbH\, A-Drs. 21
+ (16)114-F: https://www.bundestag.de/resource/blob/1165112/Stellungnahme-Cl
+ ientEarth.pdf\nStellungnahme BDEW\, A-Drs. 21(16)114-G: https://www.bundes
+ tag.de/resource/blob/1165114/Stellungnahme-BDEW.pdf\n\nSeite des Ausschuss
+ es: https://www.bundestag.de/ausschuesse/umwelt\nÜbertragung: https://www
+ .bundestag.de/mediathek
+LOCATION:Berlin\, Paul-Löbe-Haus\, Sitzungssaal E.700
+URL:https://www.bundestag.de/ausschuesse/umwelt/sitzungen/1157986-1157986
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11651
+ 16/to-032.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/047/2104
+ 786.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11619
+ 54/Liste-SV.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11650
+ 90/Stellungnahme-BDI.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11650
+ 92/Stellungnahme-thyssenkrupp.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11651
+ 06/Stellungnahme-VCI.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11651
+ 08/Stellungnahme-Prof-Dr-Versteyl.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11651
+ 10/Stellungnahme-DUH.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11651
+ 12/Stellungnahme-ClientEarth.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11651
+ 14/Stellungnahme-BDEW.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:ausschuss-ausschuesse-umwelt-sitzung-33@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;TZID=Europe/Berlin:20260415T113000
+DTEND;TZID=Europe/Berlin:20260415T133000
+SUMMARY:Ausschuss Umwelt: 33. Sitzung (nicht öffentlich)
+DESCRIPTION:33. Sitzung des Ausschusses (nicht öffentlich)\nEnde geschätz
+ t.\n\nTagesordnung und Ergänzungen:\nTagesordnung: https://www.bundestag.
+ de/resource/blob/1165118/to-033.pdf\n1. Änderungs-/Ergänzungsmitteilung:
+  https://www.bundestag.de/resource/blob/1165290/to-033-1.pdf\n\nSeite des 
+ Ausschusses: https://www.bundestag.de/ausschuesse/umwelt
+URL:https://www.bundestag.de/ausschuesse/umwelt
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11651
+ 18/to-033.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11652
+ 90/to-033-1.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:bt-71-top-7-deutsche-klimaschutzmassnahmen@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;TZID=Europe/Berlin:20260416T124000
+DTEND;TZID=Europe/Berlin:20260416T135500
+SUMMARY:TOP 7: Deutsche Klimaschutzmaßnahmen
+DESCRIPTION:Status: beendet\n71. Sitzung\nAusschuss Umwelt\, Klimaschutz\, 
+ Naturschutz und nukleare Sicherheit: federführend (DIP\, amtlich)\nAussch
+ uss Wirtschaft und Energie: mitberatend (DIP\, amtlich)\nAusschuss Verkehr
+ : mitberatend (DIP\, amtlich)\n\nBeratung des Antrags der Fraktion der AfD
+ \nSofortige Senkung der Energiekosten – Beendigung aller deutschen Klima
+ schutzmaßnahmen\nDrucksache 21/5322 (https://dserver.bundestag.de/btd/21/
+ 053/2105322.pdf)\n\nLinks und Dokumente:\nDrucksache 21/5322 (Antrag) Sofo
+ rtige Senkung der Energiekosten - Beendigung aller deutschen Klimaschutzma
+ ßnahmen: https://dserver.bundestag.de/btd/21/053/2105322.pdf\n  DIP: http
+ s://dip.bundestag.de/drucksache/-/286672\nPlenarprotokoll 71. Sitzung: htt
+ ps://dserver.bundestag.de/btp/21/21071.pdf\nTextarchiv: https://www.bundes
+ tag.de/dokumente/textarchiv/2026/kw16-de-klimaschutzmassnahmen-1158204\nMe
+ diathek: https://www.bundestag.de/mediathek/plenarsitzungen\nTagesordnung:
+  https://www.bundestag.de/tagesordnung
+LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
+ lin
+URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw16-de-klimaschutzm
+ assnahmen-1158204
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/053/2105
+ 322.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21071.pd
+ f
+END:VEVENT
+BEGIN:VEVENT
+UID:ausschuss-ausschuesse-umwelt-sitzung-34@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;TZID=Europe/Berlin:20260422T113000
+DTEND;TZID=Europe/Berlin:20260422T133000
+SUMMARY:Ausschuss Umwelt: 34. Sitzung (nicht öffentlich)
+DESCRIPTION:34. Sitzung des Ausschusses (nicht öffentlich)\nEnde geschätz
+ t.\n\nTagesordnung und Ergänzungen:\nTagesordnung: https://www.bundestag.
+ de/resource/blob/1166076/to-034.pdf\n1. Änderungs-/Ergänzungsmitteilung:
+  https://www.bundestag.de/resource/blob/1166570/to-034-1.pdf\n\nSeite des 
+ Ausschusses: https://www.bundestag.de/ausschuesse/umwelt
+URL:https://www.bundestag.de/ausschuesse/umwelt
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11660
+ 76/to-034.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11665
+ 70/to-034-1.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:bt-73-zp-2-wiederinbetriebnahme-abgeschalteter-kern@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;TZID=Europe/Berlin:20260422T181500
+DTEND;TZID=Europe/Berlin:20260422T185500
+SUMMARY:ZP 2: Wiederinbetriebnahme abgeschalteter Kernkraftwerke
+DESCRIPTION:Status: beendet\n73. Sitzung\nAusschuss Umwelt\, Klimaschutz\, 
+ Naturschutz und nukleare Sicherheit: federführend (DIP\, amtlich)\nAussch
+ uss Wirtschaft und Energie: mitberatend (DIP\, amtlich)\n\nBeratung des An
+ trags der Fraktion der AfD\nEinsetzung einer Expertenkommission zur Prüfu
+ ng der Wiederinbetriebnahme abgeschalteter Kernkraftwerke\nDrucksache 21/5
+ 479 (https://dserver.bundestag.de/btd/21/054/2105479.pdf)\n\nLinks und Dok
+ umente:\nDrucksache 21/5479 (Antrag) Einsetzung einer Expertenkommission z
+ ur Prüfung der Wiederinbetriebnahme abgeschalteter...: https://dserver.bu
+ ndestag.de/btd/21/054/2105479.pdf\n  DIP: https://dip.bundestag.de/drucksa
+ che/-/286896\nPlenarprotokoll 73. Sitzung: https://dserver.bundestag.de/bt
+ p/21/21073.pdf\nTextarchiv: https://www.bundestag.de/dokumente/textarchiv/
+ 2026/kw17-de-kernkraft-1166780\nMediathek: https://www.bundestag.de/mediat
+ hek/plenarsitzungen\nTagesordnung: https://www.bundestag.de/tagesordnung
+LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
+ lin
+URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw17-de-kernkraft-11
+ 66780
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/054/2105
+ 479.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21073.pd
+ f
+END:VEVENT
+BEGIN:VEVENT
+UID:bt-74-zp-9-weiterentwicklung-der-treibhausgasminder@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;TZID=Europe/Berlin:20260423T155500
+DTEND;TZID=Europe/Berlin:20260423T163000
+SUMMARY:ZP 9: Weiterentwicklung der Treibhausgasminderungs-Quote
+DESCRIPTION:Status: beendet\n74. Sitzung\nAusschuss Umwelt\, Klimaschutz\, 
+ Naturschutz und nukleare Sicherheit: Beschlussempfehlung und Bericht (Besc
+ hlussempfehlung der Tagesordnung\, amtlich)\nAusschuss Wirtschaft und Ener
+ gie: mitberatend (DIP\, amtlich)\nAusschuss Verkehr: mitberatend (DIP\, am
+ tlich)\nUmwelt federführend bei: Zweites Gesetz zur Weiterentwicklung der
+  Treibhausgasminderungs-Quote\nWE mitberatend bei: Zweites Gesetz zur Weit
+ erentwicklung der Treibhausgasminderungs-Quote\nVerkehr mitberatend bei: Z
+ weites Gesetz zur Weiterentwicklung der Treibhausgasminderungs-Quote\nZuor
+ dnung je Drucksache (DIP):\n  21/4083 (Gesetzentwurf) Zweites Gesetz zur W
+ eiterentwicklung der Treibhausgasminderungs-Quote: Umwelt federführend\, 
+ WE mitberatend\, Verkehr mitberatend\n  21/5530 (Beschlussempfehlung und B
+ ericht) Zweites Gesetz zur Weiterentwicklung der Treibhausgasminderungs-Qu
+ ote: Umwelt federführend\, WE mitberatend\, Verkehr mitberatend\n\nZweite
+  und dritte Beratung des von der Bundesregierung\neingebrachten Entwurfs e
+ ines Zweiten Gesetzes zur Weiterentwicklung der Treibhausgasminderungs-Quo
+ te\nDrucksache 21/4083 (https://dserver.bundestag.de/btd/21/040/2104083.pd
+ f)\nBeschlussempfehlung und Bericht des Ausschusses für Umwelt\, Klimasch
+ utz\, Naturschutz und nukleare Sicherheit (16. Ausschuss)\nDrucksache 21/5
+ 530 (https://dserver.bundestag.de/btd/21/055/2105530.pdf)\n\nLinks und Dok
+ umente:\nDrucksache 21/4083 (Gesetzentwurf) Zweites Gesetz zur Weiterentwi
+ cklung der Treibhausgasminderungs-Quote: https://dserver.bundestag.de/btd/
+ 21/040/2104083.pdf\n  DIP: https://dip.bundestag.de/drucksache/-/285071\nD
+ rucksache 21/5530 (Beschlussempfehlung und Bericht) Zweites Gesetz zur Wei
+ terentwicklung der Treibhausgasminderungs-Quote: https://dserver.bundestag
+ .de/btd/21/055/2105530.pdf\n  DIP: https://dip.bundestag.de/drucksache/-/2
+ 87105\nPlenarprotokoll 74. Sitzung: https://dserver.bundestag.de/btp/21/21
+ 074.pdf\nTextarchiv: https://www.bundestag.de/dokumente/textarchiv/2026/kw
+ 17-de-treibhausgasminderungsquote-1166788\nMediathek: https://www.bundesta
+ g.de/mediathek/plenarsitzungen\nTagesordnung: https://www.bundestag.de/tag
+ esordnung
+LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
+ lin
+URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw17-de-treibhausgas
+ minderungsquote-1166788
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/040/2104
+ 083.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/055/2105
+ 530.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21074.pd
+ f
+END:VEVENT
+BEGIN:VEVENT
+UID:bt-74-top-15-40-jahre-tschernobyl@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;TZID=Europe/Berlin:20260423T190000
+DTEND;TZID=Europe/Berlin:20260423T193000
+SUMMARY:TOP 15: 40 Jahre Tschernobyl
+DESCRIPTION:Status: beendet\n74. Sitzung\nAusschuss Umwelt\, Klimaschutz\, 
+ Naturschutz und nukleare Sicherheit: federführend (DIP\, amtlich)\nAussch
+ uss Wirtschaft und Energie: mitberatend (DIP\, amtlich)\n\nBeratung des An
+ trags der Fraktion BÜNDNIS 90/DIE GRÜNEN\n40 Jahre Tschernobyl – Atomk
+ raft und ihre Folgen\nDrucksache 21/5489 (https://dserver.bundestag.de/btd
+ /21/054/2105489.pdf)\n\nLinks und Dokumente:\nDrucksache 21/5489 (Antrag) 
+ 40 Jahre Tschernobyl - Atomkraft und ihre Folgen: https://dserver.bundesta
+ g.de/btd/21/054/2105489.pdf\n  DIP: https://dip.bundestag.de/drucksache/-/
+ 286919\nPlenarprotokoll 74. Sitzung: https://dserver.bundestag.de/btp/21/2
+ 1074.pdf\nTextarchiv: https://www.bundestag.de/dokumente/textarchiv/2026/k
+ w17-de-tschernobyl-1165948\nMediathek: https://www.bundestag.de/mediathek/
+ plenarsitzungen\nTagesordnung: https://www.bundestag.de/tagesordnung
+LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
+ lin
+URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw17-de-tschernobyl-
+ 1165948
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/054/2105
+ 489.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21074.pd
+ f
+END:VEVENT
+BEGIN:VEVENT
+UID:bt-75-top-6-zp-11-top-12-senkung-der-energiesteuern-steuerberatun@bunde
+ stag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;TZID=Europe/Berlin:20260424T090000
+DTEND;TZID=Europe/Berlin:20260424T102500
+SUMMARY:TOP 6\, ZP 11\, TOP 12: Senkung der Energiesteuern\, Steuerberatung
+ srecht
+DESCRIPTION:Status: beendet\n75. Sitzung\nAusschuss Umwelt\, Klimaschutz\, 
+ Naturschutz und nukleare Sicherheit: federführend (DIP\, amtlich)\nAufgef
+ ührt sind nur die Vorlagen\, bei denen Umwelt federführend ist. Weitere 
+ 13 Drucksachen dieses Punktes stehen im Textarchiv.\n\nZP 11) Beratung des
+  Antrags der Fraktion BÜNDNIS 90/DIE GRÜNEN\nPreisschock durch fossile B
+ rennstoffe als Weckruf verstehen – Unabhängigkeit von Kohle\, Öl und G
+ as vorantreiben\nDrucksache 21/5483 (https://dserver.bundestag.de/btd/21/0
+ 54/2105483.pdf)\n\nLinks und Dokumente:\nDrucksache 21/5483 (Antrag) Preis
+ schock durch fossile Brennstoffe als Weckruf verstehen - Unabhängigkeit v
+ on Kohle\,...: https://dserver.bundestag.de/btd/21/054/2105483.pdf\n  DIP:
+  https://dip.bundestag.de/drucksache/-/287037\nPlenarprotokoll 75. Sitzung
+ : https://dserver.bundestag.de/btp/21/21075.pdf\nTextarchiv: https://www.b
+ undestag.de/dokumente/textarchiv/2026/kw17-de-energiesteuersenkung-1165890
+ \nMediathek: https://www.bundestag.de/mediathek/plenarsitzungen\nTagesordn
+ ung: https://www.bundestag.de/tagesordnung
+LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
+ lin
+URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw17-de-energiesteue
+ rsenkung-1165890
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/054/2105
+ 483.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21075.pd
+ f
+END:VEVENT
+BEGIN:VEVENT
+UID:bt-75-top-20-anpassung-des-verpackungsrechts@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;TZID=Europe/Berlin:20260424T115000
+DTEND;TZID=Europe/Berlin:20260424T122500
+SUMMARY:TOP 20: Anpassung des Verpackungsrechts
+DESCRIPTION:Status: beendet\n75. Sitzung\nAusschuss Umwelt\, Klimaschutz\, 
+ Naturschutz und nukleare Sicherheit: federführend (DIP\, amtlich)\n\nErst
+ e Beratung des von der Bundesregierung\neingebrachten Entwurfs eines Geset
+ zes zur Anpassung des Verpackungsrechts und anderer Rechtsbereiche an die 
+ Verordnung (EU) 2025/40\nDrucksache 21/5346 (https://dserver.bundestag.de/
+ btd/21/053/2105346.pdf)\n\nLinks und Dokumente:\nDrucksache 21/5346 (Geset
+ zentwurf) Gesetz zur Anpassung des Verpackungsrechts und anderer Rechtsber
+ eiche an die Verordnung...: https://dserver.bundestag.de/btd/21/053/210534
+ 6.pdf\n  DIP: https://dip.bundestag.de/drucksache/-/286695\nPlenarprotokol
+ l 75. Sitzung: https://dserver.bundestag.de/btp/21/21075.pdf\nTextarchiv: 
+ https://www.bundestag.de/dokumente/textarchiv/2026/kw17-de-verpackungsrech
+ t-1165974\nMediathek: https://www.bundestag.de/mediathek/plenarsitzungen\n
+ Tagesordnung: https://www.bundestag.de/tagesordnung
+LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
+ lin
+URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw17-de-verpackungsr
+ echt-1165974
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/053/2105
+ 346.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21075.pd
+ f
+END:VEVENT
+BEGIN:VEVENT
+UID:ausschuss-ausschuesse-umwelt-anhoerung-1165576@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;TZID=Europe/Berlin:20260506T093000
+DTEND;TZID=Europe/Berlin:20260506T113000
+SUMMARY:Ausschuss Umwelt: 35. Sitzung (öffentlich): Anhörung zum Verpacku
+ ngsrecht
+DESCRIPTION:Öffentliche Anhörung\, 35. Sitzung des Ausschusses. Anhörung
+ en zählen als zusätzliche Sitzungen neben der regulären Sitzung der Sit
+ zungswoche.\n\nGegenstand: Mehr Recycling von Kunststoffabfällen\, wenige
+ r Müll\, auch durch eine verbesserte Recyclingfähigkeit unvermeidbarer V
+ erpackungen und eine stärkere Kreislaufwirtschaft – das sind die Ziele 
+ des Gesetzentwurfs der Bundesregierung zur Anpassung des Verpackungsrechts
+  und anderer Rechtsbereiche an die Verordnung (EU) 2025/40 (Verpackungsrec
+ ht-Durchführungsgesetz\, 21/5346)\, mit dem die Bundesregierung die ab Au
+ gust 2026 bereits geltenden EU-Vorgaben der Verpackungsverordnung (PPWR) i
+ n deutsches Recht umsetzen will. Doch während Sachverständige die Zielse
+ tzung begrüßen\, stößt die konkrete Ausgestaltung weniger auf Zuspruch
+ \, wie eine öffentliche Anhörung des Umweltausschusses am Mittwoch\, 6. 
+ Mai ... (weiter auf der Seite der Sitzung)\n\nDokumente:\nTagesordnung: ht
+ tps://www.bundestag.de/resource/blob/1173782/to-035.pdf\n21/5346: https://
+ dserver.bundestag.de/btd/21/053/2105346.pdf\nListe der Sachverständigen: 
+ https://www.bundestag.de/resource/blob/1166078/SV-Liste.pdf\nStellungnahme
+  PRO MEHRWEG – Verband zur Förderung von Mehrwegverpackungen e.V.\, A-D
+ rs. 21(16)121-A: https://www.bundestag.de/resource/blob/1173970/Stellungna
+ hme-PRO-MEHRWEG.pdf\nStellungnahme RA Dr. Frank Wenzel\, A-Drs. 21(16)121-
+ B: https://www.bundestag.de/resource/blob/1173972/Stellungnahme-RA-Dr-Wenz
+ el.pdf\nStellungnahme DUH\, A-Drs. 21(16)121-C: https://www.bundestag.de/r
+ esource/blob/1173974/Stellungnahme-DUH.pdf\nStellungnahme PlasticsEurope\,
+  A-Drs. 21(16)121-D: https://www.bundestag.de/resource/blob/1173976/Stellu
+ ngnahme-PlasticsEurope.pdf\nStellungnahme Kommunale Spitzenverbände\, A-D
+ rs. 21(16)121-E: https://www.bundestag.de/resource/blob/1174200/Stellungna
+ hme-Kommunale-Spitzenverbaende.pdf\nStellungnahme BDI\, A-Drs. 21(16)121-F
+ : https://www.bundestag.de/resource/blob/1174232/Stellungnahme-BDI.pdf\nSt
+ ellungnahme VMV\, A-Drs. 21(16)121-G: https://www.bundestag.de/resource/bl
+ ob/1177870/Stellungnahme-VMV.pdf\n\nSeite des Ausschusses: https://www.bun
+ destag.de/ausschuesse/umwelt\nÜbertragung: https://www.bundestag.de/media
+ thek
+LOCATION:Berlin\, Paul-Löbe-Haus\, Sitzungssaal E.700
+URL:https://www.bundestag.de/ausschuesse/umwelt/sitzungen/1165576-1165576
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11737
+ 82/to-035.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/053/2105
+ 346.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11660
+ 78/SV-Liste.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11739
+ 70/Stellungnahme-PRO-MEHRWEG.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11739
+ 72/Stellungnahme-RA-Dr-Wenzel.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11739
+ 74/Stellungnahme-DUH.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11739
+ 76/Stellungnahme-PlasticsEurope.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11742
+ 00/Stellungnahme-Kommunale-Spitzenverbaende.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11742
+ 32/Stellungnahme-BDI.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11778
+ 70/Stellungnahme-VMV.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:ausschuss-ausschuesse-umwelt-sitzung-36@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;TZID=Europe/Berlin:20260506T113000
+DTEND;TZID=Europe/Berlin:20260506T133000
+SUMMARY:Ausschuss Umwelt: 36. Sitzung (nicht öffentlich)
+DESCRIPTION:36. Sitzung des Ausschusses (nicht öffentlich)\nEnde geschätz
+ t.\n\nTagesordnung und Ergänzungen:\nTagesordnung: https://www.bundestag.
+ de/resource/blob/1173784/to-036.pdf\n\nSeite des Ausschusses: https://www.
+ bundestag.de/ausschuesse/umwelt
+URL:https://www.bundestag.de/ausschuesse/umwelt
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11737
+ 84/to-036.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:bt-77-top-27-top-26-zp-4-ueberweisungen-im-vereinfachten-verfahre@bunde
+ stag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;TZID=Europe/Berlin:20260507T134500
+DTEND;TZID=Europe/Berlin:20260507T135000
+SUMMARY:TOP 27\, TOP 26\, ZP 4: Überweisungen im vereinfachten Verfahren: 
+ Uranfabrik Lingen stilllegen - Keine...
+DESCRIPTION:Status: beendet\n77. Sitzung\nAusschuss Umwelt\, Klimaschutz\, 
+ Naturschutz und nukleare Sicherheit: federführend (DIP\, amtlich)\nAufgef
+ ührt sind nur die Vorlagen\, bei denen Umwelt federführend ist. Weitere 
+ 10 Drucksachen dieses Punktes stehen im Textarchiv.\n\ne) Beratung des Ant
+ rags der Fraktion Die Linke\nUranfabrik Lingen stilllegen – Keine Atomko
+ operationen mit Russland\nDrucksache 21/5397 (https://dserver.bundestag.de
+ /btd/21/053/2105397.pdf)\nÜberweisungsvorschlag:\nA. f. Umwelt\, Klimasch
+ utz\, Naturschutz und nukleare Sicherheit (f)\nAuswärtiger Ausschuss\nInn
+ enausschuss\nA. f. Wirtschaft und Energie\n\nc) Beratung des Antrags der F
+ raktion BÜNDNIS 90/DIE GRÜNEN\nDamit Kleidung im Kreislauf bleibt – Sa
+ mmelinfrastruktur für Alttextilien sichern\nDrucksache 21/5767 (https://d
+ server.bundestag.de/btd/21/057/2105767.pdf)\nÜberweisungsvorschlag:\nA. f
+ . Umwelt\, Klimaschutz\, Naturschutz und nukleare Sicherheit (f)\nA. f. Re
+ cht und Verbraucherschutz\nA. f. Wirtschaft und Energie\nA. f. Wohnen\, St
+ adtentwicklung\, Bauwesen und Kommunen\nHaushaltsausschuss\n\nLinks und Do
+ kumente:\nDrucksache 21/5397 (Antrag) Uranfabrik Lingen stilllegen - Keine
+  Atomkooperationen mit Russland: https://dserver.bundestag.de/btd/21/053/2
+ 105397.pdf\n  DIP: https://dip.bundestag.de/drucksache/-/286836\nDrucksach
+ e 21/5767 (Antrag) Damit Kleidung im Kreislauf bleibt - Sammelinfrastruktu
+ r für Alttextilien sichern: https://dserver.bundestag.de/btd/21/057/21057
+ 67.pdf\n  DIP: https://dip.bundestag.de/drucksache/-/287498\nPlenarprotoko
+ ll 77. Sitzung: https://dserver.bundestag.de/btp/21/21077.pdf\nTextarchiv:
+  https://www.bundestag.de/dokumente/textarchiv/2026/kw19-de-ueberweisungen
+ -1145312\nMediathek: https://www.bundestag.de/mediathek/plenarsitzungen\nT
+ agesordnung: https://www.bundestag.de/tagesordnung
+LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
+ lin
+URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw19-de-ueberweisung
+ en-1145312
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/053/2105
+ 397.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/057/2105
+ 767.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21077.pd
+ f
+END:VEVENT
+BEGIN:VEVENT
+UID:bt-78-top-7-top-13-haushalt-der-europaeischen-union-2028-bi@bundestag-k
+ alender
+DTSTAMP:20261020T103707Z
+DTSTART;TZID=Europe/Berlin:20260508T130000
+DTEND;TZID=Europe/Berlin:20260508T133500
+SUMMARY:TOP 7\, TOP 13: Haushalt der Europäischen Union 2028 bis 2034
+DESCRIPTION:Status: beendet\n78. Sitzung\nAusschuss Umwelt\, Klimaschutz\, 
+ Naturschutz und nukleare Sicherheit: federführend (DIP\, amtlich)\nAufgef
+ ührt sind nur die Vorlagen\, bei denen Umwelt federführend ist. Weitere 
+ 7 Drucksachen dieses Punktes stehen im Textarchiv.\n\nc) Beratung des Antr
+ ags der Fraktion BÜNDNIS 90/DIE GRÜNEN\nzu der Gemeinsamen Agrarpolitik 
+ der Europäischen Union für die Jahre 2028 bis 2034\nhier: Stellungnahme 
+ gegenüber der Bundesregierung gemäß Artikel 23 Absatz 3 des Grundgesetz
+ es\nMaßnahmen aus dem EU-Förderprogramm LIFE sichern– Für ein nachhal
+ tiges Europa und den Schutz von Umwelt\, Natur und Klima\nDrucksache 21/57
+ 56 (https://dserver.bundestag.de/btd/21/057/2105756.pdf)\n\nLinks und Doku
+ mente:\nDrucksache 21/5756 (Antrag) Vorschlag für eine Verordnung des Rat
+ es zur Festlegung des Mehrjährigen Finanzrahmens...: https://dserver.bund
+ estag.de/btd/21/057/2105756.pdf\n  DIP: https://dip.bundestag.de/drucksach
+ e/-/287537\nPlenarprotokoll 78. Sitzung: https://dserver.bundestag.de/btp/
+ 21/21078.pdf\nTextarchiv: https://www.bundestag.de/dokumente/textarchiv/20
+ 26/kw19-de-wettbewerbsfaehigkeitsfonds-1167308\nMediathek: https://www.bun
+ destag.de/mediathek/plenarsitzungen\nTagesordnung: https://www.bundestag.d
+ e/tagesordnung
+LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
+ lin
+URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw19-de-wettbewerbsf
+ aehigkeitsfonds-1167308
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/057/2105
+ 756.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21078.pd
+ f
+END:VEVENT
+BEGIN:VEVENT
+UID:ausschuss-ausschuesse-umwelt-sitzung-37@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;TZID=Europe/Berlin:20260520T113000
+DTEND;TZID=Europe/Berlin:20260520T133000
+SUMMARY:Ausschuss Umwelt: 37. Sitzung
+DESCRIPTION:37. Sitzung des Ausschusses\nEnde geschätzt.\n\nTagesordnung u
+ nd Ergänzungen:\n1. Änderungs-/Ergänzungsmitteilung: https://www.bundes
+ tag.de/resource/blob/1178684/to-037-1.pdf\n\nSeite des Ausschusses: https:
+ //www.bundestag.de/ausschuesse/umwelt
+URL:https://www.bundestag.de/ausschuesse/umwelt
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11786
+ 84/to-037-1.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:bt-80-top-30-zp-3-ueberweisungen-im-vereinfachten-verfahre@bundestag-ka
+ lender
+DTSTAMP:20261020T103707Z
+DTSTART;TZID=Europe/Berlin:20260521T140000
+DTEND;TZID=Europe/Berlin:20260521T140500
+SUMMARY:TOP 30\, ZP 3: Überweisungen im vereinfachten Verfahren: Igel vor 
+ Mährobotern wirksam schützen
+DESCRIPTION:Status: beendet\n80. Sitzung\nAusschuss Umwelt\, Klimaschutz\, 
+ Naturschutz und nukleare Sicherheit: federführend (DIP\, amtlich)\nAufgef
+ ührt sind nur die Vorlagen\, bei denen Umwelt federführend ist. Weitere 
+ 9 Drucksachen dieses Punktes stehen im Textarchiv.\n\nc) Beratung des Antr
+ ags der Fraktion BÜNDNIS 90/DIE GRÜNEN\nIgel vor Mährobotern wirksam sc
+ hützen\nDrucksache 21/6011 (https://dserver.bundestag.de/btd/21/060/21060
+ 11.pdf)\nÜberweisungsvorschlag:\nA. f. Umwelt\, Klimaschutz\, Naturschutz
+  und nukleare Sicherheit (f)\nA. f. Wirtschaft und Energie\nA. f. Landwirt
+ schaft\, Ernährung und Heimat\n\nLinks und Dokumente:\nDrucksache 21/6011
+  (Antrag) Igel vor Mährobotern wirksam schützen: https://dserver.bundest
+ ag.de/btd/21/060/2106011.pdf\n  DIP: https://dip.bundestag.de/drucksache/-
+ /287958\nPlenarprotokoll 80. Sitzung: https://dserver.bundestag.de/btp/21/
+ 21080.pdf\nTextarchiv: https://www.bundestag.de/dokumente/textarchiv/2026/
+ kw21-de-ueberweisungen-1145342\nMediathek: https://www.bundestag.de/mediat
+ hek/plenarsitzungen\nTagesordnung: https://www.bundestag.de/tagesordnung
+LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
+ lin
+URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw21-de-ueberweisung
+ en-1145342
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/060/2106
+ 011.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21080.pd
+ f
+END:VEVENT
+BEGIN:VEVENT
+UID:bt-80-top-11-abschaffung-des-co2-emissionshandelsyste@bundestag-kalende
+ r
+DTSTAMP:20261020T103707Z
+DTSTART;TZID=Europe/Berlin:20260521T162000
+DTEND;TZID=Europe/Berlin:20260521T170000
+SUMMARY:TOP 11: Abschaffung des CO2-Emissionshandelsystems
+DESCRIPTION:Status: beendet\n80. Sitzung\nAusschuss Umwelt\, Klimaschutz\, 
+ Naturschutz und nukleare Sicherheit: federführend (DIP\, amtlich)\nAussch
+ uss Wirtschaft und Energie: mitberatend (DIP\, amtlich)\n\nBeratung des An
+ trags der Fraktion der AfD\nWettbewerbsfähigkeit und Wohlstand stärken 
+ – Abschaffung des CO2-Emissionshandelsystems des CO2-Grenzausgleichsmech
+ anismus\nDrucksache 21/6026 (https://dserver.bundestag.de/btd/21/060/21060
+ 26.pdf)\n\nLinks und Dokumente:\nDrucksache 21/6026 (Antrag) Wettbewerbsf
+ ähigkeit und Wohlstand stärken - Abschaffung des CO2-Emissionshandelssys
+ tems...: https://dserver.bundestag.de/btd/21/060/2106026.pdf\n  DIP: https
+ ://dip.bundestag.de/drucksache/-/287976\nPlenarprotokoll 80. Sitzung: http
+ s://dserver.bundestag.de/btp/21/21080.pdf\nTextarchiv: https://www.bundest
+ ag.de/dokumente/textarchiv/2026/kw21-de-emissionshandel-1174736\nMediathek
+ : https://www.bundestag.de/mediathek/plenarsitzungen\nTagesordnung: https:
+ //www.bundestag.de/tagesordnung
+LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
+ lin
+URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw21-de-emissionshan
+ del-1174736
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/060/2106
+ 026.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21080.pd
+ f
+END:VEVENT
+BEGIN:VEVENT
+UID:bt-80-top-16-ergebnisse-der-vorplanung-von-neu-und-au@bundestag-kalende
+ r
+DTSTAMP:20261020T103707Z
+DTSTART;TZID=Europe/Berlin:20260521T190500
+DTEND;TZID=Europe/Berlin:20260521T194500
+SUMMARY:TOP 16: Ergebnisse der Vorplanung von Neu- und Ausbaustrecken der D
+ B
+DESCRIPTION:Status: beendet\n80. Sitzung\nAusschuss Umwelt\, Klimaschutz\, 
+ Naturschutz und nukleare Sicherheit: federführend (DIP\, amtlich)\nAufgef
+ ührt sind nur die Vorlagen\, bei denen Umwelt federführend ist. Weitere 
+ 7 Drucksachen dieses Punktes stehen im Textarchiv.\n\nb) Beratung der Besc
+ hlussempfehlung und des Berichts des Verkehrsausschusses (15. Ausschuss)\n
+ zu der Unterrichtung durch die Bundesregierung\nBericht über das Ergebnis
+  der Vorplanung und der frühen Öffentlichkeitsbeteiligung der Ausbaustre
+ cke Niebüll – Klanxbüll – Westerland\nDrucksachen 21/4948 (https://d
+ server.bundestag.de/btd/21/049/2104948.pdf)\, 21/5428 (https://dserver.bun
+ destag.de/btd/21/054/2105428.pdf) Nr. 1\, 21/6073 (https://dserver.bundest
+ ag.de/btd/21/060/2106073.pdf)\n\nc) Beratung der Beschlussempfehlung und d
+ es Berichts des Verkehrsausschusses (15. Ausschuss)\nzu der Unterrichtung 
+ durch die Bundesregierung\nBericht über das Ergebnis der Vorplanung und d
+ er frühen Öffentlichkeitsbeteiligung Ausbaustrecke/Neubaustrecke Augsbur
+ g – Ulm\nDrucksachen 21/3950 (https://dserver.bundestag.de/btd/21/039/21
+ 03950.pdf)\, 21/4383 (https://dserver.bundestag.de/btd/21/043/2104383.pdf)
+  Nr. 1.13\, 21/6074 (https://dserver.bundestag.de/btd/21/060/2106074.pdf)\
+ n\nLinks und Dokumente:\nDrucksache 21/5428 (Unterrichtung) Bericht über 
+ das Ergebnis der Vorplanung und der frühen Öffentlichkeitsbeteiligung de
+ r...: https://dserver.bundestag.de/btd/21/054/2105428.pdf\n  DIP: https://
+ dip.bundestag.de/drucksache/-/286809\nDrucksache 21/4383 (Unterrichtung) 1
+ 51. Versammlung der Interparlamentarischen Union vom 18. bis 23. Oktober 2
+ 025 in Genf\,...: https://dserver.bundestag.de/btd/21/043/2104383.pdf\n  D
+ IP: https://dip.bundestag.de/drucksache/-/285403\nPlenarprotokoll 80. Sitz
+ ung: https://dserver.bundestag.de/btp/21/21080.pdf\nTextarchiv: https://ww
+ w.bundestag.de/dokumente/textarchiv/2026/kw21-de-neubaustrecken-1174752\nM
+ ediathek: https://www.bundestag.de/mediathek/plenarsitzungen\nTagesordnung
+ : https://www.bundestag.de/tagesordnung
+LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
+ lin
+URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw21-de-neubaustreck
+ en-1174752
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/054/2105
+ 428.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/043/2104
+ 383.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21080.pd
+ f
+END:VEVENT
+BEGIN:VEVENT
+UID:ausschuss-ausschuesse-umwelt-sitzung-38@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;TZID=Europe/Berlin:20260610T113000
+DTEND;TZID=Europe/Berlin:20260610T133000
+SUMMARY:Ausschuss Umwelt: 38. Sitzung
+DESCRIPTION:38. Sitzung des Ausschusses\nEnde geschätzt.\n\nTagesordnung u
+ nd Ergänzungen:\n1. Änderungs-/Ergänzungsmitteilung: https://www.bundes
+ tag.de/resource/blob/1183644/to-038-1.pdf\n\nSeite des Ausschusses: https:
+ //www.bundestag.de/ausschuesse/umwelt
+URL:https://www.bundestag.de/ausschuesse/umwelt
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11836
+ 44/to-038-1.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:bt-83-top-10-energie-und-stromsteuer-entlastungsgeset@bundestag-kalende
+ r
+DTSTAMP:20261020T103707Z
+DTSTART;TZID=Europe/Berlin:20260611T135000
+DTEND;TZID=Europe/Berlin:20260611T145500
+SUMMARY:TOP 10: Energie- und Stromsteuer-Entlastungsgesetz
+DESCRIPTION:Status: beendet\n83. Sitzung\nAusschuss Umwelt\, Klimaschutz\, 
+ Naturschutz und nukleare Sicherheit: federführend (DIP\, amtlich)\nAufgef
+ ührt sind nur die Vorlagen\, bei denen Umwelt federführend ist. Weitere 
+ 2 Drucksachen dieses Punktes stehen im Textarchiv.\n\nc) Erste Beratung de
+ s von der Fraktion der AfD\neingebrachten Entwurfs eines Gesetzes zur Aufh
+ ebung des Treibhausgas-Emissionshandelsgesetzes und des Brennstoffemission
+ shandelsgesetzes (CO2-PreisAbschaffungsgesetz)\nDrucksache 21/6334 (https:
+ //dserver.bundestag.de/btd/21/063/2106334.pdf)\n\nLinks und Dokumente:\nDr
+ ucksache 21/6334 (Gesetzentwurf) Gesetz zur Aufhebung des Treibhausgas-Emi
+ ssionshandelsgesetzes und des...: https://dserver.bundestag.de/btd/21/063/
+ 2106334.pdf\n  DIP: https://dip.bundestag.de/drucksache/-/288385\nPlenarpr
+ otokoll 83. Sitzung: https://dserver.bundestag.de/btp/21/21083.pdf\nTextar
+ chiv: https://www.bundestag.de/dokumente/textarchiv/2026/kw24-de-energie-s
+ tromsteuer-1183576\nMediathek: https://www.bundestag.de/mediathek/plenarsi
+ tzungen\nTagesordnung: https://www.bundestag.de/tagesordnung
+LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
+ lin
+URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw24-de-energie-stro
+ msteuer-1183576
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/063/2106
+ 334.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21083.pd
+ f
+END:VEVENT
+BEGIN:VEVENT
+UID:bt-83-top-37-ueberweisungen-im-vereinfachten-verfahre@bundestag-kalende
+ r
+DTSTAMP:20261020T103707Z
+DTSTART;TZID=Europe/Berlin:20260611T145500
+DTEND;TZID=Europe/Berlin:20260611T150000
+SUMMARY:TOP 37: Überweisungen im vereinfachten Verfahren: Die Ostsee schü
+ tzen\; Klimapolitik an den Belastungsgrenzen...
+DESCRIPTION:Status: beendet\n83. Sitzung\nAusschuss Umwelt\, Klimaschutz\, 
+ Naturschutz und nukleare Sicherheit: federführend (DIP\, amtlich)\nAufgef
+ ührt sind nur die Vorlagen\, bei denen Umwelt federführend ist. Weitere 
+ 7 Drucksachen dieses Punktes stehen im Textarchiv.\n\nb) Beratung des Antr
+ ags der Fraktion BÜNDNIS 90/DIE GRÜNEN\nDie Ostsee schützen\nDrucksache
+  21/6014 (https://dserver.bundestag.de/btd/21/060/2106014.pdf)\nÜberweisu
+ ngsvorschlag:\nA. f. Umwelt\, Klimaschutz\, Naturschutz und nukleare Siche
+ rheit (f)\nA. f. Wirtschaft und Energie\nA. f. Landwirtschaft\, Ernährung
+  und Heimat\nA. f. Tourismus\n\nc) Beratung des Antrags der Fraktion Die L
+ inke\nKlimapolitik an den Belastungsgrenzen unseres Planeten ausrichten\nD
+ rucksache 21/5891 (https://dserver.bundestag.de/btd/21/058/2105891.pdf)\n
+ Überweisungsvorschlag:\nA. f. Umwelt\, Klimaschutz\, Naturschutz und nukl
+ eare Sicherheit (f)\nAuswärtiger Ausschuss\nInnenausschuss\nA. f. Recht u
+ nd Verbraucherschutz\nFinanzausschuss\nA. f. Wirtschaft und Energie\nA. f.
+  Landwirtschaft\, Ernährung und Heimat\nA. f. Gesundheit\nVerkehrsausschu
+ ss\nA. f. Menschenrechte und humanitäre Hilfe\nA. f. Wohnen\, Stadtentwic
+ klung\, Bauwesen und Kommunen\n\nLinks und Dokumente:\nDrucksache 21/6014 
+ (Antrag) Die Ostsee schützen: https://dserver.bundestag.de/btd/21/060/210
+ 6014.pdf\n  DIP: https://dip.bundestag.de/drucksache/-/288062\nDrucksache 
+ 21/5891 (Antrag) Klimapolitik an den Belastungsgrenzen unseres Planeten au
+ srichten: https://dserver.bundestag.de/btd/21/058/2105891.pdf\n  DIP: http
+ s://dip.bundestag.de/drucksache/-/287801\nPlenarprotokoll 83. Sitzung: htt
+ ps://dserver.bundestag.de/btp/21/21083.pdf\nTextarchiv: https://www.bundes
+ tag.de/dokumente/textarchiv/2026/kw24-de-ueberweisungen-1154568\nMediathek
+ : https://www.bundestag.de/mediathek/plenarsitzungen\nTagesordnung: https:
+ //www.bundestag.de/tagesordnung
+LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
+ lin
+URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw24-de-ueberweisung
+ en-1154568
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/060/2106
+ 014.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/058/2105
+ 891.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21083.pd
+ f
+END:VEVENT
+BEGIN:VEVENT
+UID:bt-83-zp-16-anpassung-des-verpackungsrechts@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;TZID=Europe/Berlin:20260611T222000
+DTEND;TZID=Europe/Berlin:20260611T224500
+SUMMARY:ZP 16: Anpassung des Verpackungsrechts
+DESCRIPTION:Status: beendet\n83. Sitzung\nAusschuss Umwelt\, Klimaschutz\, 
+ Naturschutz und nukleare Sicherheit: Beschlussempfehlung und Bericht (Besc
+ hlussempfehlung der Tagesordnung\, amtlich)\nUmwelt federführend bei: Ges
+ etz zur Anpassung des Verpackungsrechts und anderer Rechtsbereiche an die 
+ Verordnung...\nZuordnung je Drucksache (DIP):\n  21/5346 (Gesetzentwurf) G
+ esetz zur Anpassung des Verpackungsrechts und anderer Rechtsbereiche an di
+ e Verordnung...: Umwelt federführend\n  21/6398 (Beschlussempfehlung und 
+ Bericht) Gesetz zur Anpassung des Verpackungsrechts und anderer Rechtsbere
+ iche an die Verordnung...: Umwelt federführend\n\nZweite und dritte Berat
+ ung des von der Bundesregierung\neingebrachten Entwurfs eines Gesetzes zur
+  Anpassung des Verpackungsrechts und anderer Rechtsbereiche an die Verordn
+ ung (EU) 2025/40\nDrucksache 21/5346 (https://dserver.bundestag.de/btd/21/
+ 053/2105346.pdf)\nBeschlussempfehlung und Bericht des Ausschusses für Umw
+ elt\, Klimaschutz\, Naturschutz und nukleare Sicherheit (16. Ausschuss)\nD
+ rucksache 21/6398 (https://dserver.bundestag.de/btd/21/063/2106398.pdf)\n\
+ nLinks und Dokumente:\nDrucksache 21/5346 (Gesetzentwurf) Gesetz zur Anpas
+ sung des Verpackungsrechts und anderer Rechtsbereiche an die Verordnung...
+ : https://dserver.bundestag.de/btd/21/053/2105346.pdf\n  DIP: https://dip.
+ bundestag.de/drucksache/-/286695\nDrucksache 21/6398 (Beschlussempfehlung 
+ und Bericht) Gesetz zur Anpassung des Verpackungsrechts und anderer Rechts
+ bereiche an die Verordnung...: https://dserver.bundestag.de/btd/21/063/210
+ 6398.pdf\n  DIP: https://dip.bundestag.de/drucksache/-/288473\nPlenarproto
+ koll 83. Sitzung: https://dserver.bundestag.de/btp/21/21083.pdf\nTextarchi
+ v: https://www.bundestag.de/dokumente/textarchiv/2026/kw24-de-verpackungsr
+ echt-1183826\nMediathek: https://www.bundestag.de/mediathek/plenarsitzunge
+ n\nTagesordnung: https://www.bundestag.de/tagesordnung
+LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
+ lin
+URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw24-de-verpackungsr
+ echt-1183826
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/053/2105
+ 346.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/063/2106
+ 398.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21083.pd
+ f
+END:VEVENT
+BEGIN:VEVENT
+UID:bt-83-top-23-jahresemissionsgesamtmengen-verordnung-2@bundestag-kalende
+ r
+DTSTAMP:20261020T103707Z
+DTSTART;TZID=Europe/Berlin:20260611T225500
+DTEND;TZID=Europe/Berlin:20260611T231500
+SUMMARY:TOP 23: Jahresemissionsgesamtmengen-Verordnung 2031-2040
+DESCRIPTION:Status: beendet\n83. Sitzung\nAusschuss Umwelt\, Klimaschutz\, 
+ Naturschutz und nukleare Sicherheit: Beschlussempfehlung und Bericht (Besc
+ hlussempfehlung der Tagesordnung\, amtlich)\nAusschuss Wirtschaft und Ener
+ gie: mitberatend (DIP\, amtlich)\nAusschuss Verkehr: federführend (DIP\, 
+ amtlich)\nUmwelt federführend bei: Verordnung zur Überführung der jähr
+ lichen Minderungsziele in Jahresemissionsgesamtmengen...\; Bericht über d
+ as Ergebnis der Vorplanung und der frühen Öffentlichkeitsbeteiligung der
+ ...\nWE mitberatend bei: Verordnung zur Überführung der jährlichen Mind
+ erungsziele in Jahresemissionsgesamtmengen...\; Bericht über das Ergebnis
+  der Vorplanung und der frühen Öffentlichkeitsbeteiligung der...\nVerkeh
+ r federführend bei: Bericht über das Ergebnis der Vorplanung und der fr
+ ühen Öffentlichkeitsbeteiligung der...\nZuordnung je Drucksache (DIP):\n
+   21/5069 (Verordnung) Verordnung zur Überführung der jährlichen Minder
+ ungsziele in Jahresemissionsgesamtmengen...: Umwelt federführend\, WE mit
+ beratend\n  21/5428 (Unterrichtung) Bericht über das Ergebnis der Vorplan
+ ung und der frühen Öffentlichkeitsbeteiligung der...: Umwelt federführe
+ nd\, WE mitberatend\, Verkehr federführend\n  21/6124 (Beschlussempfehlun
+ g und Bericht) Verordnung zur Überführung der jährlichen Minderungsziel
+ e in Jahresemissionsgesamtmengen...: Umwelt federführend\, WE mitberatend
+ \n\nBeratung der Beschlussempfehlung und des Berichts des Ausschusses für
+  Umwelt\, Klimaschutz\, Naturschutz und nukleare Sicherheit (16. Ausschuss
+ )\nzu der Verordnung der Bundesregierung\nVerordnung zur Überführung der
+  jährlichen Minderungsziele in Jahresemissionsgesamtmengen für die Jahre
+  2031 bis 2040 (Jahresemissionsgesamt-mengen-Verordnung 2031-2040 – JEGM
+ V 2031-2040)\nDrucksachen 21/5069 (https://dserver.bundestag.de/btd/21/050
+ /2105069.pdf)\, 21/5428 (https://dserver.bundestag.de/btd/21/054/2105428.p
+ df) Nr. 2\, 21/6124 (https://dserver.bundestag.de/btd/21/061/2106124.pdf)\
+ n\nnamentliche Abstimmung\n\nLinks und Dokumente:\nDrucksache 21/5069 (Ver
+ ordnung) Verordnung zur Überführung der jährlichen Minderungsziele in J
+ ahresemissionsgesamtmengen...: https://dserver.bundestag.de/btd/21/050/210
+ 5069.pdf\n  DIP: https://dip.bundestag.de/drucksache/-/286423\nDrucksache 
+ 21/5428 (Unterrichtung) Bericht über das Ergebnis der Vorplanung und der 
+ frühen Öffentlichkeitsbeteiligung der...: https://dserver.bundestag.de/b
+ td/21/054/2105428.pdf\n  DIP: https://dip.bundestag.de/drucksache/-/286809
+ \nDrucksache 21/6124 (Beschlussempfehlung und Bericht) Verordnung zur Übe
+ rführung der jährlichen Minderungsziele in Jahresemissionsgesamtmengen..
+ .: https://dserver.bundestag.de/btd/21/061/2106124.pdf\n  DIP: https://dip
+ .bundestag.de/drucksache/-/288075\nPlenarprotokoll 83. Sitzung: https://ds
+ erver.bundestag.de/btp/21/21083.pdf\nTextarchiv: https://www.bundestag.de/
+ dokumente/textarchiv/2026/kw24-de-jahresemissionen-1181928\nMediathek: htt
+ ps://www.bundestag.de/mediathek/plenarsitzungen\nTagesordnung: https://www
+ .bundestag.de/tagesordnung
+LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
+ lin
+URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw24-de-jahresemissi
+ onen-1181928
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/050/2105
+ 069.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/054/2105
+ 428.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/061/2106
+ 124.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21083.pd
+ f
+END:VEVENT
+BEGIN:VEVENT
+UID:ausschuss-ausschuesse-umwelt-sitzung-39@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;TZID=Europe/Berlin:20260624T113000
+DTEND;TZID=Europe/Berlin:20260624T133000
+SUMMARY:Ausschuss Umwelt: 39. Sitzung
+DESCRIPTION:39. Sitzung des Ausschusses\nEnde geschätzt.\n\nTagesordnung u
+ nd Ergänzungen:\n1. Änderungs-/Ergänzungsmitteilung: https://www.bundes
+ tag.de/resource/blob/1191708/to-039-1.pdf\n\nSeite des Ausschusses: https:
+ //www.bundestag.de/ausschuesse/umwelt
+URL:https://www.bundestag.de/ausschuesse/umwelt
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11917
+ 08/to-039-1.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:bt-85-top-3-nachhaltigkeitspolitik@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;TZID=Europe/Berlin:20260624T182000
+DTEND;TZID=Europe/Berlin:20260624T185500
+SUMMARY:TOP 3: Nachhaltigkeitspolitik
+DESCRIPTION:Status: beendet\n85. Sitzung\nAusschuss Umwelt\, Klimaschutz\, 
+ Naturschutz und nukleare Sicherheit: federführend (DIP\, amtlich)\nAussch
+ uss Wirtschaft und Energie: mitberatend (DIP\, amtlich)\n\nBeratung der Un
+ terrichtung durch die Bundesregierung\nNachhaltigkeit für ein modernes un
+ d zukunftsfähiges Deutschland\nBeschluss der Bundesregierung\nDrucksache 
+ 21/2696 (https://dserver.bundestag.de/btd/21/026/2102696.pdf)\n\nLinks und
+  Dokumente:\nDrucksache 21/2696 (Unterrichtung) Nachhaltigkeit für ein mo
+ dernes und zukunftsfähiges Deutschland: https://dserver.bundestag.de/btd/
+ 21/026/2102696.pdf\n  DIP: https://dip.bundestag.de/drucksache/-/283062\nP
+ lenarprotokoll 85. Sitzung: https://dserver.bundestag.de/btp/21/21085.pdf\
+ nTextarchiv: https://www.bundestag.de/dokumente/textarchiv/2026/kw26-de-na
+ chhaltigkeit-1184356\nMediathek: https://www.bundestag.de/mediathek/plenar
+ sitzungen\nTagesordnung: https://www.bundestag.de/tagesordnung
+LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
+ lin
+URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw26-de-nachhaltigke
+ it-1184356
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/026/2102
+ 696.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21085.pd
+ f
+END:VEVENT
+BEGIN:VEVENT
+UID:bt-86-top-31-abschliessende-beratungen-ohne-aussprach@bundestag-kalende
+ r
+DTSTAMP:20261020T103707Z
+DTSTART;TZID=Europe/Berlin:20260625T140000
+DTEND;TZID=Europe/Berlin:20260625T141000
+SUMMARY:TOP 31: Abschließende Beratungen ohne Aussprache: Gesetz zur Aufhe
+ bung des...\; Wettbewerbsfähigkeit und Wohlstand...
+DESCRIPTION:Status: beendet\n86. Sitzung\nAusschuss Umwelt\, Klimaschutz\, 
+ Naturschutz und nukleare Sicherheit: Beschlussempfehlung und Bericht (Besc
+ hlussempfehlung der Tagesordnung\, amtlich)\nAufgeführt sind nur die Vorl
+ agen\, bei denen Umwelt federführend ist. Weitere 17 Drucksachen dieses P
+ unktes stehen im Textarchiv.\n\nd) Zweite und dritte Beratung des von der 
+ Fraktion der AfD eingebrachten Entwurfs eines Gesetzes zur Aufhebung des T
+ reibhausgas-Emissionshandelsgesetzes und des Brennstoffemissionshandelsges
+ etzes\n(CO2 Preis-Abschaffungsgesetz)\nDrucksache 21/6334 (https://dserver
+ .bundestag.de/btd/21/063/2106334.pdf)\nBeschlussempfehlung und Bericht des
+  Ausschusses für Umwelt\, Klimaschutz\, Naturschutz und nukleare Sicherhe
+ it (16. Ausschuss)\nDrucksache 21/6694 (https://dserver.bundestag.de/btd/2
+ 1/066/2106694.pdf)\n\nLinks und Dokumente:\nDrucksache 21/6334 (Gesetzentw
+ urf) Gesetz zur Aufhebung des Treibhausgas-Emissionshandelsgesetzes und de
+ s...: https://dserver.bundestag.de/btd/21/063/2106334.pdf\n  DIP: https://
+ dip.bundestag.de/drucksache/-/288385\nDrucksache 21/6694 (Beschlussempfehl
+ ung und Bericht) Wettbewerbsfähigkeit und Wohlstand stärken - Abschaffun
+ g des CO2-Emissionshandelssystems...: https://dserver.bundestag.de/btd/21/
+ 066/2106694.pdf\n  DIP: https://dip.bundestag.de/drucksache/-/288953\nPlen
+ arprotokoll 86. Sitzung: https://dserver.bundestag.de/btp/21/21086.pdf\nTe
+ xtarchiv: https://www.bundestag.de/dokumente/textarchiv/2026/kw26-de-absch
+ liessende-beratungen-1154590\nMediathek: https://www.bundestag.de/mediathe
+ k/plenarsitzungen\nTagesordnung: https://www.bundestag.de/tagesordnung
+LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
+ lin
+URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw26-de-abschliessen
+ de-beratungen-1154590
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/063/2106
+ 334.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/066/2106
+ 694.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21086.pd
+ f
+END:VEVENT
+BEGIN:VEVENT
+UID:bt-86-zp-9-12-hitzeschutz-krisenresilienz-in-der-pfleg@bundestag-kalend
+ er
+DTSTAMP:20261020T103707Z
+DTSTART;TZID=Europe/Berlin:20260625T211500
+DTEND;TZID=Europe/Berlin:20260625T213500
+SUMMARY:ZP 9 - 12: Hitzeschutz\, Krisenresilienz in der Pflege
+DESCRIPTION:Status: beendet\n86. Sitzung\nAusschuss Umwelt\, Klimaschutz\, 
+ Naturschutz und nukleare Sicherheit: federführend (DIP\, amtlich)\nAufgef
+ ührt sind nur die Vorlagen\, bei denen Umwelt federführend ist. Weitere 
+ 3 Drucksachen dieses Punktes stehen im Textarchiv.\n\nZP 10) Beratung des 
+ Antrags der Fraktion BÜNDNIS 90/DIE GRÜNEN\nStädte klimafit machen – 
+ Mit Begrünung und Entsiegelung die Menschen vor Ort vor Hitze und Übersc
+ hwemmung schützen\nDrucksache 21/6342 (https://dserver.bundestag.de/btd/2
+ 1/063/2106342.pdf)\n\nLinks und Dokumente:\nDrucksache 21/6342 (Antrag) St
+ ädte klimafit machen - Mit Begrünung und Entsiegelung die Menschen vor O
+ rt vor Hitze...: https://dserver.bundestag.de/btd/21/063/2106342.pdf\n  DI
+ P: https://dip.bundestag.de/drucksache/-/288651\nPlenarprotokoll 86. Sitzu
+ ng: https://dserver.bundestag.de/btp/21/21086.pdf\nTextarchiv: https://www
+ .bundestag.de/dokumente/textarchiv/2026/kw26-de-hitzeschutz-1191870\nMedia
+ thek: https://www.bundestag.de/mediathek/plenarsitzungen\nTagesordnung: ht
+ tps://www.bundestag.de/tagesordnung
+LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
+ lin
+URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw26-de-hitzeschutz-
+ 1191870
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/063/2106
+ 342.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21086.pd
+ f
+END:VEVENT
+BEGIN:VEVENT
+UID:bt-86-top-21-umwelt-rechtsbehelfsgesetz@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;TZID=Europe/Berlin:20260625T222000
+DTEND;TZID=Europe/Berlin:20260625T224500
+SUMMARY:TOP 21: Umwelt-Rechtsbehelfsgesetz
+DESCRIPTION:Status: beendet\n86. Sitzung\nAusschuss Umwelt\, Klimaschutz\, 
+ Naturschutz und nukleare Sicherheit: Beschlussempfehlung und Bericht (Besc
+ hlussempfehlung der Tagesordnung\, amtlich)\nAufgeführt sind nur die Vorl
+ agen\, bei denen Umwelt federführend ist. Weitere 2 Drucksachen dieses Pu
+ nktes stehen im Textarchiv.\n\na) Zweite und dritte Beratung des von der B
+ undesregierung\neingebrachten Entwurfs eines Gesetzes zur Änderung des Um
+ welt-Rechtsbehelfsgesetzes und weiterer umweltrechtlicher Vorschriften\nDr
+ ucksachen 21/4146 (https://dserver.bundestag.de/btd/21/041/2104146.pdf)\, 
+ 21/4961 (https://dserver.bundestag.de/btd/21/049/2104961.pdf)\nBeschlussem
+ pfehlung und Bericht des Ausschusses für Umwelt\, Klimaschutz\, Naturschu
+ tz und nukleare Sicherheit (16. Ausschuss)\nDrucksache 21/6692 (https://ds
+ erver.bundestag.de/btd/21/066/2106692.pdf)\n\nLinks und Dokumente:\nDrucks
+ ache 21/4146 (Gesetzentwurf) Gesetz zur Änderung des Umwelt-Rechtsbehelfs
+ gesetzes und weiterer umweltrechtlicher...: https://dserver.bundestag.de/b
+ td/21/041/2104146.pdf\n  DIP: https://dip.bundestag.de/drucksache/-/285160
+ \nDrucksache 21/4961 (Unterrichtung) Gesetz zur Änderung des Umwelt-Recht
+ sbehelfsgesetzes und weiterer umweltrechtlicher...: https://dserver.bundes
+ tag.de/btd/21/049/2104961.pdf\n  DIP: https://dip.bundestag.de/drucksache/
+ -/286202\nDrucksache 21/6692 (Beschlussempfehlung und Bericht) Gesetz zur 
+ Änderung des Umwelt-Rechtsbehelfsgesetzes und weiterer umweltrechtlicher.
+ ..: https://dserver.bundestag.de/btd/21/066/2106692.pdf\n  DIP: https://di
+ p.bundestag.de/drucksache/-/288951\nPlenarprotokoll 86. Sitzung: https://d
+ server.bundestag.de/btp/21/21086.pdf\nTextarchiv: https://www.bundestag.de
+ /dokumente/textarchiv/2026/kw26-de-umwelt-rechtsbehelfsgesetz-1184342\nMed
+ iathek: https://www.bundestag.de/mediathek/plenarsitzungen\nTagesordnung: 
+ https://www.bundestag.de/tagesordnung
+LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
+ lin
+URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw26-de-umwelt-recht
+ sbehelfsgesetz-1184342
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/041/2104
+ 146.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/049/2104
+ 961.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/066/2106
+ 692.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21086.pd
+ f
+END:VEVENT
+BEGIN:VEVENT
+UID:ausschuss-ausschuesse-umwelt-sitzung-40@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;TZID=Europe/Berlin:20260708T113000
+DTEND;TZID=Europe/Berlin:20260708T133000
+SUMMARY:Ausschuss Umwelt: 40. Sitzung
+DESCRIPTION:40. Sitzung des Ausschusses\nEnde geschätzt.\n\nTagesordnung u
+ nd Ergänzungen:\n2. Änderungs-/Ergänzungsmitteilung: https://www.bundes
+ tag.de/resource/blob/1193980/to-040-2.pdf\n1. Änderungs-/Ergänzungsmitte
+ ilung: https://www.bundestag.de/resource/blob/1193894/to-040-1.pdf\n\nSeit
+ e des Ausschusses: https://www.bundestag.de/ausschuesse/umwelt
+URL:https://www.bundestag.de/ausschuesse/umwelt
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11939
+ 80/to-040-2.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11938
+ 94/to-040-1.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:bt-89-top-29-zp-6-top-23-abschliessende-beratungen-ohne-aussprach@bunde
+ stag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;TZID=Europe/Berlin:20260709T150500
+DTEND;TZID=Europe/Berlin:20260709T152000
+SUMMARY:TOP 29\, ZP 6\, TOP 23: Abschließende Beratungen ohne Aussprache: 
+ Verordnung zur Umsetzung der...
+DESCRIPTION:Status: beendet\n89. Sitzung\nAusschuss Umwelt\, Klimaschutz\, 
+ Naturschutz und nukleare Sicherheit: federführend (DIP\, amtlich)\nAufgef
+ ührt sind nur die Vorlagen\, bei denen Umwelt federführend ist. Weitere 
+ 47 Drucksachen dieses Punktes stehen im Textarchiv.\n\nc) Verordnung der B
+ undesregierung\nVerordnung zur Umsetzung der Richtlinie (EU) 2024/1785 und
+  zur Umsetzung des Durchführungsbeschlusses (EU) 2022/2427\nDrucksache 21
+ /5875 (https://dserver.bundestag.de/btd/21/058/2105875.pdf)\n\nLinks und D
+ okumente:\nDrucksache 21/5875 (Verordnung) Verordnung zur Umsetzung der Ri
+ chtlinie (EU) 2024/1785 und zur Umsetzung des...: https://dserver.bundesta
+ g.de/btd/21/058/2105875.pdf\n  DIP: https://dip.bundestag.de/drucksache/-/
+ 287745\nPlenarprotokoll 89. Sitzung: https://dserver.bundestag.de/btp/21/2
+ 1089.pdf\nMediathek: https://www.bundestag.de/mediathek/plenarsitzungen\nT
+ agesordnung: https://www.bundestag.de/tagesordnung
+LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
+ lin
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/058/2105
+ 875.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21089.pd
+ f
+END:VEVENT
+BEGIN:VEVENT
+UID:bt-89-top-13-umsetzung-der-eu-richtlinie-zu-industrie@bundestag-kalende
+ r
+DTSTAMP:20261020T103707Z
+DTSTART;TZID=Europe/Berlin:20260709T192500
+DTEND;TZID=Europe/Berlin:20260709T200000
+SUMMARY:TOP 13: Umsetzung der EU-Richtlinie zu Industrieemissionen
+DESCRIPTION:Status: beendet\n89. Sitzung\nAusschuss Umwelt\, Klimaschutz\, 
+ Naturschutz und nukleare Sicherheit: Beschlussempfehlung und Bericht (Besc
+ hlussempfehlung der Tagesordnung\, amtlich)\nAusschuss Wirtschaft und Ener
+ gie: mitberatend (DIP\, amtlich)\nUmwelt federführend bei: Gesetz zur Ums
+ etzung der Richtlinie (EU) 2024/1785 zur Änderung der Richtlinie...\nWE m
+ itberatend bei: Gesetz zur Umsetzung der Richtlinie (EU) 2024/1785 zur Än
+ derung der Richtlinie...\nZuordnung je Drucksache (DIP):\n  21/4786 (Geset
+ zentwurf) Gesetz zur Umsetzung der Richtlinie (EU) 2024/1785 zur Änderung
+  der Richtlinie...: Umwelt federführend\, WE mitberatend\n  21/6988 (Besc
+ hlussempfehlung und Bericht) Gesetz zur Umsetzung der Richtlinie (EU) 2024
+ /1785 zur Änderung der Richtlinie...: Umwelt federführend\, WE mitberate
+ nd\n\nZweite und dritte Beratung des von der Bundesregierung\neingebrachte
+ n Entwurfs eines Gesetzes zur Umsetzung der Richtlinie (EU) 2024/1785 zur 
+ Änderung der Richtlinie 2010/75/EU über Industrieemissionen\nDrucksache 
+ 21/4786 (https://dserver.bundestag.de/btd/21/047/2104786.pdf)\nBeschlussem
+ pfehlung und Bericht des Ausschusses für Umwelt\, Klimaschutz\, Naturschu
+ tz und nukleare Sicherheit (16. Ausschuss)\nDrucksache 21/6988 (https://ds
+ erver.bundestag.de/btd/21/069/2106988.pdf)\n\nLinks und Dokumente:\nDrucks
+ ache 21/4786 (Gesetzentwurf) Gesetz zur Umsetzung der Richtlinie (EU) 2024
+ /1785 zur Änderung der Richtlinie...: https://dserver.bundestag.de/btd/21
+ /047/2104786.pdf\n  DIP: https://dip.bundestag.de/drucksache/-/285995\nDru
+ cksache 21/6988 (Beschlussempfehlung und Bericht) Gesetz zur Umsetzung der
+  Richtlinie (EU) 2024/1785 zur Änderung der Richtlinie...: https://dserve
+ r.bundestag.de/btd/21/069/2106988.pdf\n  DIP: https://dip.bundestag.de/dru
+ cksache/-/289320\nPlenarprotokoll 89. Sitzung: https://dserver.bundestag.d
+ e/btp/21/21089.pdf\nTextarchiv: https://www.bundestag.de/dokumente/textarc
+ hiv/2026/kw28-de-industrieemissionen-1193478\nMediathek: https://www.bunde
+ stag.de/mediathek/plenarsitzungen\nTagesordnung: https://www.bundestag.de/
+ tagesordnung
+LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
+ lin
+URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw28-de-industrieemi
+ ssionen-1193478
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/047/2104
+ 786.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/069/2106
+ 988.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21089.pd
+ f
+END:VEVENT
+BEGIN:VEVENT
+UID:ausschuss-ausschuesse-umwelt-sitzung-41@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;TZID=Europe/Berlin:20260909T083000
+DTEND;TZID=Europe/Berlin:20260909T103000
+SUMMARY:Ausschuss Umwelt: 41. Sitzung (nicht öffentlich)
+DESCRIPTION:41. Sitzung des Ausschusses (nicht öffentlich)\nEnde geschätz
+ t.\n\nTagesordnung und Ergänzungen:\nTagesordnung: https://www.bundestag.
+ de/resource/blob/1210694/to-041.pdf\n1. Änderungs-/Ergänzungsmitteilung:
+  https://www.bundestag.de/resource/blob/1210904/to-041-1.pdf\n\nSeite des 
+ Ausschusses: https://www.bundestag.de/ausschuesse/umwelt
+URL:https://www.bundestag.de/ausschuesse/umwelt
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12106
+ 94/to-041.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12109
+ 04/to-041-1.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:ausschuss-ausschuesse-umwelt-sitzung-42@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;TZID=Europe/Berlin:20260923T113000
+DTEND;TZID=Europe/Berlin:20260923T133000
+SUMMARY:Ausschuss Umwelt: 42. Sitzung (nicht öffentlich)
+DESCRIPTION:42. Sitzung des Ausschusses (nicht öffentlich)\nEnde geschätz
+ t.\n\nTagesordnung und Ergänzungen:\nTagesordnung: https://www.bundestag.
+ de/resource/blob/1216856/to-042.pdf\n\nSeite des Ausschusses: https://www.
+ bundestag.de/ausschuesse/umwelt
+URL:https://www.bundestag.de/ausschuesse/umwelt
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12168
+ 56/to-042.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:bt-96-top-8-energiekosten-energiepolitik@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;TZID=Europe/Berlin:20260924T101000
+DTEND;TZID=Europe/Berlin:20260924T112500
+SUMMARY:TOP 8: Energiekosten\, Energiepolitik
+DESCRIPTION:Status: beendet\n96. Sitzung\nAusschuss Umwelt\, Klimaschutz\, 
+ Naturschutz und nukleare Sicherheit: Beschlussempfehlung und Bericht (Besc
+ hlussempfehlung der Tagesordnung\, amtlich)\nAufgeführt sind nur die Vorl
+ agen\, bei denen Umwelt federführend ist. Weitere 1 Drucksachen dieses Pu
+ nktes stehen im Textarchiv.\n\na) Beratung der Beschlussempfehlung und des
+  Berichts des Ausschusses für Umwelt\, Klimaschutz\, Naturschutz und nukl
+ eare Sicherheit (16. Ausschuss)\nzu dem Antrag der Fraktion der AfD\nSofor
+ tige Senkung der Energiekosten – Beendigung aller deutschen Klimaschutzm
+ aßnahmen\nDrucksachen 21/5322 (https://dserver.bundestag.de/btd/21/053/21
+ 05322.pdf)\, 21/5650 (https://dserver.bundestag.de/btd/21/056/2105650.pdf)
+ \n\nLinks und Dokumente:\nDrucksache 21/5322 (Antrag) Sofortige Senkung de
+ r Energiekosten - Beendigung aller deutschen Klimaschutzmaßnahmen: https:
+ //dserver.bundestag.de/btd/21/053/2105322.pdf\n  DIP: https://dip.bundesta
+ g.de/drucksache/-/286672\nDrucksache 21/5650 (Beschlussempfehlung und Beri
+ cht) Sofortige Senkung der Energiekosten - Beendigung aller deutschen Klim
+ aschutzmaßnahmen: https://dserver.bundestag.de/btd/21/056/2105650.pdf\n  
+ DIP: https://dip.bundestag.de/drucksache/-/287359\nPlenarprotokoll 96. Sit
+ zung: https://dserver.bundestag.de/btp/21/21096.pdf\nTextarchiv: https://w
+ ww.bundestag.de/dokumente/textarchiv/2026/kw39-de-energiekosten-1216634\nM
+ ediathek: https://www.bundestag.de/mediathek/plenarsitzungen\nTagesordnung
+ : https://www.bundestag.de/tagesordnung
+LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
+ lin
+URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw39-de-energiekoste
+ n-1216634
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/053/2105
+ 322.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/056/2105
+ 650.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21096.pd
+ f
+END:VEVENT
+BEGIN:VEVENT
+UID:bt-96-top-10-klimaanpassung-und-naturschutz@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;TZID=Europe/Berlin:20260924T123000
+DTEND;TZID=Europe/Berlin:20260924T135500
+SUMMARY:TOP 10: Klimaanpassung und Naturschutz
+DESCRIPTION:Status: beendet\n96. Sitzung\nAusschuss Umwelt\, Klimaschutz\, 
+ Naturschutz und nukleare Sicherheit: federführend (DIP\, amtlich)\nAufgef
+ ührt sind nur die Vorlagen\, bei denen Umwelt federführend ist. Weitere 
+ 1 Drucksachen dieses Punktes stehen im Textarchiv.\n\nb) Beratung des Antr
+ ags der Fraktion Die Linke\nGemeinschaftsaufgabe „Kommunale Klimaanpassu
+ ng\, Hitzeschutz und kommunaler Klimaschutz" im Grundgesetz verankern“\n
+ Drucksache 21/8117 (https://dserver.bundestag.de/btd/21/081/2108117.pdf)\n
+ \nLinks und Dokumente:\nDrucksache 21/8117 (Antrag) Gemeinschaftsaufgabe "
+ Kommunale Klimaanpassung\, Hitzeschutz und kommunaler Klimaschutz"...: htt
+ ps://dserver.bundestag.de/btd/21/081/2108117.pdf\n  DIP: https://dip.bunde
+ stag.de/drucksache/-/290962\nPlenarprotokoll 96. Sitzung: https://dserver.
+ bundestag.de/btp/21/21096.pdf\nTextarchiv: https://www.bundestag.de/dokume
+ nte/textarchiv/2026/kw39-de-klimafolgen-1211266\nMediathek: https://www.bu
+ ndestag.de/mediathek/plenarsitzungen\nTagesordnung: https://www.bundestag.
+ de/tagesordnung
+LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
+ lin
+URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw39-de-klimafolgen-
+ 1211266
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/081/2108
+ 117.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21096.pd
+ f
+END:VEVENT
+BEGIN:VEVENT
+UID:bt-96-top-40-zp-2-ueberweisungen-im-vereinfachten-verfahre@bundestag-ka
+ lender
+DTSTAMP:20261020T103707Z
+DTSTART;TZID=Europe/Berlin:20260924T135500
+DTEND;TZID=Europe/Berlin:20260924T140000
+SUMMARY:TOP 40\, ZP 2: Überweisungen im vereinfachten Verfahren: Ein Jahr 
+ nach dem gescheiterten...
+DESCRIPTION:Status: beendet\n96. Sitzung\nAusschuss Umwelt\, Klimaschutz\, 
+ Naturschutz und nukleare Sicherheit: federführend (DIP\, amtlich)\nAufgef
+ ührt sind nur die Vorlagen\, bei denen Umwelt federführend ist. Weitere 
+ 28 Drucksachen dieses Punktes stehen im Textarchiv.\n\nb) Beratung des Ant
+ rags der Fraktion BÜNDNIS 90/DIE GRÜNEN\nEin Jahr nach dem gescheiterten
+  UN-Plastikabkommen – Bundesregierung muss wieder Vorreiter werden\nDruc
+ ksache 21/7902 (https://dserver.bundestag.de/btd/21/079/2107902.pdf)\nÜbe
+ rweisungsvorschlag:\nA. f. Umwelt\, Klimaschutz\, Naturschutz und nukleare
+  Sicherheit (f)\nAuswärtiger Ausschuss\nA. f. Wirtschaft und Energie\nA. 
+ f. wirtschaftliche Zusammenarbeit und Entwicklung\nA. f. die Angelegenheit
+ en der Europäischen Union\nHaushaltsausschuss\n\nLinks und Dokumente:\nDr
+ ucksache 21/7902 (Antrag) Ein Jahr nach dem gescheiterten UN-Plastikabkomm
+ en - Bundesregierung muss wieder...: https://dserver.bundestag.de/btd/21/0
+ 79/2107902.pdf\n  DIP: https://dip.bundestag.de/drucksache/-/290597\nPlena
+ rprotokoll 96. Sitzung: https://dserver.bundestag.de/btp/21/21096.pdf\nTex
+ tarchiv: https://www.bundestag.de/dokumente/textarchiv/2026/kw39-de-ueberw
+ eisungen-1154686\nMediathek: https://www.bundestag.de/mediathek/plenarsitz
+ ungen\nTagesordnung: https://www.bundestag.de/tagesordnung
+LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
+ lin
+URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw39-de-ueberweisung
+ en-1154686
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/079/2107
+ 902.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21096.pd
+ f
+END:VEVENT
+BEGIN:VEVENT
+UID:bt-96-top-32-aenderung-des-brennstoffemissionshandels@bundestag-kalende
+ r
+DTSTAMP:20261020T103707Z
+DTSTART;TZID=Europe/Berlin:20260925T000000
+DTEND;TZID=Europe/Berlin:20260925T001500
+SUMMARY:TOP 32: Änderung des Brennstoffemissionshandelsgesetzes
+DESCRIPTION:Status: beendet\n96. Sitzung\nAusschuss Umwelt\, Klimaschutz\, 
+ Naturschutz und nukleare Sicherheit: federführend (DIP\, amtlich)\nAussch
+ uss Wirtschaft und Energie: mitberatend (DIP\, amtlich)\nAusschuss Verkehr
+ : mitberatend (DIP\, amtlich)\n\nErste Beratung des von der Bundesregierun
+ g\neingebrachten Entwurfs eines Dritten Gesetzes zur Änderung des Brennst
+ offemissionshandelsgesetzes\nDrucksache 21/7869 (https://dserver.bundestag
+ .de/btd/21/078/2107869.pdf)\n\nLinks und Dokumente:\nDrucksache 21/7869 (G
+ esetzentwurf) Drittes Gesetz zur Änderung des Brennstoffemissionshandelsg
+ esetzes: https://dserver.bundestag.de/btd/21/078/2107869.pdf\n  DIP: https
+ ://dip.bundestag.de/drucksache/-/290577\nPlenarprotokoll 96. Sitzung: http
+ s://dserver.bundestag.de/btp/21/21096.pdf\nTextarchiv: https://www.bundest
+ ag.de/dokumente/textarchiv/2026/kw39-de-brennstoffemissionshandelsgesetz-1
+ 211312\nMediathek: https://www.bundestag.de/mediathek/plenarsitzungen\nTag
+ esordnung: https://www.bundestag.de/tagesordnung
+LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
+ lin
+URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw39-de-brennstoffem
+ issionshandelsgesetz-1211312
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/078/2107
+ 869.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21096.pd
+ f
+END:VEVENT
+BEGIN:VEVENT
+UID:ausschuss-ausschuesse-umwelt-anhoerung-1215394@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;TZID=Europe/Berlin:20261007T093000
+DTEND;TZID=Europe/Berlin:20261007T113000
+SUMMARY:Ausschuss Umwelt: 43. Sitzung (öffentlich): Anhörung zum Brennsto
+ ffemissionshandelsgesetz (BEHG)
+DESCRIPTION:Öffentliche Anhörung\, 43. Sitzung des Ausschusses. Anhörung
+ en zählen als zusätzliche Sitzungen neben der regulären Sitzung der Sit
+ zungswoche.\n\nGegenstand: An der von der Bundesregierung geplanten Änder
+ ung des Brennstoffemissionshandelsgesetzes (BEHG) besteht Nachbesserungsbe
+ darf. Das wurde während einer öffentlichen Anhörung des Ausschusses fü
+ r Umwelt\, Klimaschutz\, Naturschutz und nukleare Sicherheit zu dem Gesetz
+ entwurf der Bundesregierung für ein Drittes Gesetz zur Änderung des Bren
+ nstoffemissionshandelsgesetzes (21/7869) am Mittwoch\, 7. Oktober 2026\, d
+ eutlich. Gesetzentwurf der Bundesregierung Ziel der geplanten Gesetzesänd
+ erung ist es\, die nationalen CO2-Preise für das Jahr 2027 zu stabilisier
+ en. Ursprünglich war vorgesehen\, dass der feste CO2-Preis für Kraft- un
+ d Brennstoffe Ende 2026 ausläuft und ab 2027 die freie Marktpreisbildung 
+ ... (weiter auf der Seite der Sitzung)\n\nDokumente:\nTagesordnung: https:
+ //www.bundestag.de/resource/blob/1222044/to-043.pdf\n21/7869: https://dser
+ ver.bundestag.de/btd/21/078/2107869.pdf\nListe der Sachverständigen: http
+ s://www.bundestag.de/resource/blob/1221618/SV-Liste.pdf\nStellungnahme Bun
+ desverband Feuerverzinken e.V. (BVF)\, A-Drs. 21(16)149-A: https://www.bun
+ destag.de/resource/blob/1222134/Stellungnahme-BVF.pdf\nStellungnahme Deuts
+ cher Städtetag\, A-Drs. 21(16)149-B: https://www.bundestag.de/resource/bl
+ ob/1222372/Stellungnahme-DST.pdf\nStellungnahme Prof. Dr. Fritz Söllner\,
+  A-Drs. 21(16)149-C: https://www.bundestag.de/resource/blob/1222374/Stellu
+ ngnahme-Soellner.pdf\nStellungnahme BDEW Bundesverband der Energie- und Wa
+ sserwirtschaft e.V.\, A-Drs. 21(16)149-D: https://www.bundestag.de/resourc
+ e/blob/1222444/Stellungnahme-BDEW.pdf\nStellungnahme Dr. Bernd Fleischmann
+ \, A-Drs. 21(16)149-E(neu): https://www.bundestag.de/resource/blob/1222442
+ /Stellungnahme-Fleischmann.pdf\nStellungnahme Bundesverband Wärmepumpe e.
+ V. (BWP)\, A-Drs. 21(16)149-F: https://www.bundestag.de/resource/blob/1222
+ 672/Stellungnahme-BWP.pdf\nStellungnahme Verband der Chemischen Industrie 
+ VCI\, A-Drs. 21(16)149-G: https://www.bundestag.de/resource/blob/1222674/S
+ tellungnahme-VCI.pdf\nStellungnahme EWE Aktiengesellschaft (BWP)\, A-Drs. 
+ 21(16)149-H: https://www.bundestag.de/resource/blob/1222756/Stellungnahme-
+ EWE.pdf\nStellungnahme Forum Ökologisch-Soziale Marktwirtschaft e.V. (FÖ
+ S)\, A-Drs. 21(16)149-I: https://www.bundestag.de/resource/blob/1222878/St
+ ellungnahme-FOeS.pdf\n\nSeite des Ausschusses: https://www.bundestag.de/au
+ sschuesse/umwelt\nÜbertragung: https://www.bundestag.de/mediathek
+LOCATION:Berlin\, Paul-Löbe-Haus\, Sitzungssaal E.700
+URL:https://www.bundestag.de/ausschuesse/umwelt/sitzungen/1215394-1215394
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12220
+ 44/to-043.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/078/2107
+ 869.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12216
+ 18/SV-Liste.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12221
+ 34/Stellungnahme-BVF.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12223
+ 72/Stellungnahme-DST.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12223
+ 74/Stellungnahme-Soellner.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12224
+ 44/Stellungnahme-BDEW.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12224
+ 42/Stellungnahme-Fleischmann.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12226
+ 72/Stellungnahme-BWP.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12226
+ 74/Stellungnahme-VCI.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12227
+ 56/Stellungnahme-EWE.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12228
+ 78/Stellungnahme-FOeS.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:ausschuss-ausschuesse-umwelt-sitzung-44@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;TZID=Europe/Berlin:20261007T113000
+DTEND;TZID=Europe/Berlin:20261007T133000
+SUMMARY:Ausschuss Umwelt: 44. Sitzung (nicht öffentlich)
+DESCRIPTION:44. Sitzung des Ausschusses (nicht öffentlich)\nEnde geschätz
+ t.\n\nTagesordnung und Ergänzungen:\nTagesordnung: https://www.bundestag.
+ de/resource/blob/1222046/to-044.pdf\n\nSeite des Ausschusses: https://www.
+ bundestag.de/ausschuesse/umwelt
+URL:https://www.bundestag.de/ausschuesse/umwelt
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12220
+ 46/to-044.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:bt-99-top-24-ausbaustrecke-neubaustrecke-hannover-ham@bundestag-kalende
+ r
+DTSTAMP:20261020T103707Z
+DTSTART;TZID=Europe/Berlin:20261008T223500
+DTEND;TZID=Europe/Berlin:20261008T230000
+SUMMARY:TOP 24: Ausbaustrecke/Neubaustrecke Hannover - Hamburg
+DESCRIPTION:Status: beendet\n99. Sitzung\nAusschuss Umwelt\, Klimaschutz\, 
+ Naturschutz und nukleare Sicherheit: federführend (DIP\, amtlich)\nAufgef
+ ührt sind nur die Vorlagen\, bei denen Umwelt federführend ist. Weitere 
+ 2 Drucksachen dieses Punktes stehen im Textarchiv.\n\nBeratung der Beschlu
+ ssempfehlung und des Berichts des Verkehrsausschusses (15. Ausschuss)\nzu 
+ der Unterrichtung durch die Bundesregierung\nBericht über das Ergebnis de
+ r Vorplanung und der frühen Öffentlichkeitsbeteiligung Ausbaustrecke/Neu
+ baustrecke Hannover – Hamburg\nDrucksachen 21/3150 (https://dserver.bund
+ estag.de/btd/21/031/2103150.pdf)\, 21/3687 (https://dserver.bundestag.de/b
+ td/21/036/2103687.pdf) Nr. 2\, 21/8445 (https://dserver.bundestag.de/btd/2
+ 1/084/2108445.pdf)\n\nLinks und Dokumente:\nDrucksache 21/3687 (Unterricht
+ ung) Programm für eine verantwortungsvolle und sichere Entsorgung bestrah
+ lter Brennelemente...: https://dserver.bundestag.de/btd/21/036/2103687.pdf
+ \n  DIP: https://dip.bundestag.de/drucksache/-/284452\nPlenarprotokoll 99.
+  Sitzung: https://dserver.bundestag.de/btp/21/21099.pdf\nTextarchiv: https
+ ://www.bundestag.de/dokumente/textarchiv/2026/kw41-de-ausbaustrecke-122218
+ 0\nMediathek: https://www.bundestag.de/mediathek/plenarsitzungen\nTagesord
+ nung: https://www.bundestag.de/tagesordnung
+LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
+ lin
+URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw41-de-ausbaustreck
+ e-1222180
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/036/2103
+ 687.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21099.pd
+ f
+END:VEVENT
+BEGIN:VEVENT
+UID:ausschuss-ausschuesse-umwelt-sitzung-45@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;TZID=Europe/Berlin:20261014T113000
+DTEND;TZID=Europe/Berlin:20261014T133000
+SUMMARY:Ausschuss Umwelt: 45. Sitzung (nicht öffentlich)
+DESCRIPTION:45. Sitzung des Ausschusses (nicht öffentlich)\nEnde geschätz
+ t.\n\nTagesordnung und Ergänzungen:\nTagesordnung: https://www.bundestag.
+ de/resource/blob/1223854/to-045.pdf\n\nSeite des Ausschusses: https://www.
+ bundestag.de/ausschuesse/umwelt
+URL:https://www.bundestag.de/ausschuesse/umwelt
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12238
+ 54/to-045.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:bt-102-top-24-brennstoffemissionshandelsgesetz@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;TZID=Europe/Berlin:20261015T185000
+DTEND;TZID=Europe/Berlin:20261015T191500
+SUMMARY:TOP 24: Brennstoffemissionshandelsgesetz
+DESCRIPTION:Status: beendet\n102. Sitzung\nAusschuss Umwelt\, Klimaschutz\,
+  Naturschutz und nukleare Sicherheit: Beschlussempfehlung und Bericht (Bes
+ chlussempfehlung der Tagesordnung\, amtlich)\nAusschuss Wirtschaft und Ene
+ rgie: mitberatend (DIP\, amtlich)\nAusschuss Verkehr: mitberatend (DIP\, a
+ mtlich)\nUmwelt federführend bei: Drittes Gesetz zur Änderung des Brenns
+ toffemissionshandelsgesetzes\nWE mitberatend bei: Drittes Gesetz zur Ände
+ rung des Brennstoffemissionshandelsgesetzes\nVerkehr mitberatend bei: Drit
+ tes Gesetz zur Änderung des Brennstoffemissionshandelsgesetzes\nZuordnung
+  je Drucksache (DIP):\n  21/7869 (Gesetzentwurf) Drittes Gesetz zur Änder
+ ung des Brennstoffemissionshandelsgesetzes: Umwelt federführend\, WE mitb
+ eratend\, Verkehr mitberatend\n  21/8626 (Beschlussempfehlung und Bericht)
+  Drittes Gesetz zur Änderung des Brennstoffemissionshandelsgesetzes: Umwe
+ lt federführend\, WE mitberatend\, Verkehr mitberatend\n\nZweite und drit
+ te Beratung des von der Bundesregierung\neingebrachten Entwurfs eines Drit
+ ten Gesetzes\nzur Änderung des Brennstoffemissionshandelsgesetzes\nDrucks
+ ache 21/7869 (https://dserver.bundestag.de/btd/21/078/2107869.pdf)\nBeschl
+ ussempfehlung und Bericht des Ausschusses für Umwelt\, Klimaschutz\, Natu
+ rschutz und nukleare Sicherheit (16. Ausschuss)\nDrucksache 21/8626 (https
+ ://dserver.bundestag.de/btd/21/086/2108626.pdf)\n\nNamentliche Abstimmung\
+ n\nLinks und Dokumente:\nDrucksache 21/7869 (Gesetzentwurf) Drittes Gesetz
+  zur Änderung des Brennstoffemissionshandelsgesetzes: https://dserver.bun
+ destag.de/btd/21/078/2107869.pdf\n  DIP: https://dip.bundestag.de/drucksac
+ he/-/290577\nDrucksache 21/8626 (Beschlussempfehlung und Bericht) Drittes 
+ Gesetz zur Änderung des Brennstoffemissionshandelsgesetzes: https://dserv
+ er.bundestag.de/btd/21/086/2108626.pdf\n  DIP: https://dip.bundestag.de/dr
+ ucksache/-/291653\nPlenarprotokoll 102. Sitzung: https://dserver.bundestag
+ .de/btp/21/21102.pdf\nTextarchiv: https://www.bundestag.de/dokumente/texta
+ rchiv/2026/kw42-de-brennstoffemissionshandelsgesetz-1223608\nMediathek: ht
+ tps://www.bundestag.de/mediathek/plenarsitzungen\nTagesordnung: https://ww
+ w.bundestag.de/tagesordnung
+LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
+ lin
+URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw42-de-brennstoffem
+ issionshandelsgesetz-1223608
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/078/2107
+ 869.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/086/2108
+ 626.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21102.pd
+ f
+END:VEVENT
+BEGIN:VEVENT
+UID:bt-102-top-30-buerokratierueckbau-modernisierung-des-s@bundestag-kalend
+ er
+DTSTAMP:20261020T103707Z
+DTSTART;TZID=Europe/Berlin:20261015T235500
+DTEND;TZID=Europe/Berlin:20261016T001500
+SUMMARY:TOP 30: Bürokratierückbau\, Modernisierung des Strahlenschutzrech
+ ts (Ausschuss-Vorschlag)
+DESCRIPTION:Status: beendet\n102. Sitzung\nAusschuss Umwelt\, Klimaschutz\,
+  Naturschutz und nukleare Sicherheit: federführend (Vorschlag laut Textar
+ chiv)\n\nErste Beratung des von der Bundesregierung eingebrachten Entwurfs
+  eines Gesetzes zum Bürokratierückbau\, zur Digitalisierung und zur weit
+ eren Modernisierung des Strahlenschutzrechts\nDrucksache 21/8415 (https://
+ dserver.bundestag.de/btd/21/084/2108415.pdf)\n\nLinks und Dokumente:\nDruc
+ ksache 21/8415 (Gesetzentwurf) Gesetz zum Bürokratierückbau\, zur Digita
+ lisierung und zur weiteren Modernisierung des...: https://dserver.bundesta
+ g.de/btd/21/084/2108415.pdf\n  DIP: https://dip.bundestag.de/drucksache/-/
+ 291424\nPlenarprotokoll 102. Sitzung: https://dserver.bundestag.de/btp/21/
+ 21102.pdf\nTextarchiv: https://www.bundestag.de/dokumente/textarchiv/2026/
+ kw42-de-strahlenschutzrecht-1223620\nMediathek: https://www.bundestag.de/m
+ ediathek/plenarsitzungen\nTagesordnung: https://www.bundestag.de/tagesordn
+ ung
+LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
+ lin
+URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw42-de-strahlenschu
+ tzrecht-1223620
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/084/2108
+ 415.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21102.pd
+ f
+END:VEVENT
+BEGIN:VEVENT
+UID:ausschuss-ausschuesse-umwelt-anhoerung-1223144@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;TZID=Europe/Berlin:20261104T093000
+DTEND;TZID=Europe/Berlin:20261104T113000
+SUMMARY:Ausschuss Umwelt: Anhörung zum Strahlenschutzgesetz
+DESCRIPTION:Öffentliche Anhörung. Anhörungen zählen als zusätzliche Si
+ tzungen neben der regulären Sitzung der Sitzungswoche.\n\nGegenstand: Ges
+ etzentwurf der Bundesregierung Entwurf eines Gesetzes zum Bürokratierück
+ bau\, zur Digitalisierung und zur weiteren Modernisierung des Strahlenschu
+ tzrechts Die Anhörung soll im Internet auf bundestag.de per Livestream ü
+ bertragen werden und im Anschluss in der Mediathek des Deutschen Bundestag
+ es abrufbar sein\n\nSeite des Ausschusses: https://www.bundestag.de/aussch
+ uesse/umwelt\nÜbertragung: https://www.bundestag.de/mediathek
+LOCATION:Berlin\, Paul-Löbe-Haus\, Sitzungssaal E.700
+URL:https://www.bundestag.de/ausschuesse/umwelt/sitzungen/1223144-1223144
+END:VEVENT
+BEGIN:VEVENT
+UID:bt-105-top-21-gesetz-zur-abloesung-des-abfallverbringu@bundestag-kalend
+ er
+DTSTAMP:20261020T103707Z
+DTSTART;TZID=Europe/Berlin:20261105T191000
+DTEND;TZID=Europe/Berlin:20261105T193500
+SUMMARY:TOP 21: Gesetz zur Ablösung des Abfallverbringungsgesetzes (Aussch
+ uss-Vorschlag)
+DESCRIPTION:Status: folgt\n105. Sitzung\nAusschuss Umwelt\, Klimaschutz\, N
+ aturschutz und nukleare Sicherheit: federführend (Vorschlag laut Textarch
+ iv)\n\nErste Beratung des von der Bundesregierung\neingebrachten Entwurfs 
+ eines Gesetzes zur Ablösung des Abfallverbringungsgesetzes und zur Änder
+ ung weiterer Rechtsvorschriften\nDrucksache 21/…\n\nLinks und Dokumente:
+ \nTextarchiv: https://www.bundestag.de/dokumente/textarchiv/2026/kw45-de-a
+ bfallverbringungsgesetz-1225108\nMediathek: https://www.bundestag.de/media
+ thek/plenarsitzungen\nTagesordnung: https://www.bundestag.de/tagesordnung
+LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
+ lin
+URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw45-de-abfallverbri
+ ngungsgesetz-1225108
+END:VEVENT
+BEGIN:VEVENT
+UID:bt-106-top-24-weltklimakonferenz@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;TZID=Europe/Berlin:20261106T112000
+DTEND;TZID=Europe/Berlin:20261106T115500
+SUMMARY:TOP 24: Weltklimakonferenz
+DESCRIPTION:Status: folgt\n106. Sitzung\nAusschuss Umwelt\, Klimaschutz\, N
+ aturschutz und nukleare Sicherheit: Beschlussempfehlung und Bericht (Besch
+ lussempfehlung der Tagesordnung\, amtlich)\nAusschuss Wirtschaft und Energ
+ ie: mitberatend (DIP\, amtlich)\nUmwelt federführend bei: Beendigung der 
+ Mitwirkung der Bundesrepublik Deutschland am Zwischenstaatlichen...\nWE mi
+ tberatend bei: Beendigung der Mitwirkung der Bundesrepublik Deutschland am
+  Zwischenstaatlichen...\nZuordnung je Drucksache (DIP):\n  21/4464 (Antrag
+ ) Beendigung der Mitwirkung der Bundesrepublik Deutschland am Zwischenstaa
+ tlichen...: Umwelt federführend\, WE mitberatend\n  21/4891 (Beschlussemp
+ fehlung und Bericht) Beendigung der Mitwirkung der Bundesrepublik Deutschl
+ and am Zwischenstaatlichen...: Umwelt federführend\, WE mitberatend\n\na)
+  Beratung des Antrags der Fraktionen der CDU/CSU und SPD\nWeltklimakonfere
+ nz in Antalya – Klimaschutz als Zukunftsinvestition und Wettbewerbsfakto
+ r\nDrucksache 21/…\n\nb) Beratung des Antrags der Fraktion BÜNDNIS 90/D
+ IE GRÜNEN\nFossile Profite finanziell heranziehen – Klimakonferenz COP3
+ 1 als Unabhängigkeitsmotor nutzen\nDrucksache 21/…\n\nc) Beratung der B
+ eschlussempfehlung und des Berichts des Ausschusses für Umwelt\, Klimasch
+ utz\, Naturschutz und nukleare Sicherheit (16. Ausschuss) zu dem Antrag de
+ r Fraktion der AfD\nBeendigung der Mitwirkung der Bundesrepublik Deutschla
+ nd am Zwischenstaatlichen Ausschuss für Klimaänderungen und Neuausrichtu
+ ng der nationalen wissenschaftlichen Politikberatung zu Umwelt- und Klimat
+ hemen\nDrucksachen 21/4464 (https://dserver.bundestag.de/btd/21/044/210446
+ 4.pdf)\, 21/4891 (https://dserver.bundestag.de/btd/21/048/2104891.pdf)\n\n
+ Links und Dokumente:\nDrucksache 21/4464 (Antrag) Beendigung der Mitwirkun
+ g der Bundesrepublik Deutschland am Zwischenstaatlichen...: https://dserve
+ r.bundestag.de/btd/21/044/2104464.pdf\n  DIP: https://dip.bundestag.de/dru
+ cksache/-/285534\nDrucksache 21/4891 (Beschlussempfehlung und Bericht) Bee
+ ndigung der Mitwirkung der Bundesrepublik Deutschland am Zwischenstaatlich
+ en...: https://dserver.bundestag.de/btd/21/048/2104891.pdf\n  DIP: https:/
+ /dip.bundestag.de/drucksache/-/286121\nTextarchiv: https://www.bundestag.d
+ e/dokumente/textarchiv/2026/kw45-de-klimakonferenzen-1225114\nMediathek: h
+ ttps://www.bundestag.de/mediathek/plenarsitzungen\nTagesordnung: https://w
+ ww.bundestag.de/tagesordnung
+LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
+ lin
+URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw45-de-klimakonfere
+ nzen-1225114
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/044/2104
+ 464.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/048/2104
+ 891.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:bt-106-top-25-klimapolitik@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;TZID=Europe/Berlin:20261106T115500
+DTEND;TZID=Europe/Berlin:20261106T123000
+SUMMARY:TOP 25: Klimapolitik
+DESCRIPTION:Status: folgt\n106. Sitzung\nAusschuss Umwelt\, Klimaschutz\, N
+ aturschutz und nukleare Sicherheit: Beschlussempfehlung und Bericht (Besch
+ lussempfehlung der Tagesordnung\, amtlich)\nAusschuss Wirtschaft und Energ
+ ie: mitberatend (DIP\, amtlich)\nUmwelt federführend bei: Globale Solidar
+ ität von Berlin bis Belém - für das Menschenrecht auf Klimaschutz -...\
+ nWE mitberatend bei: Globale Solidarität von Berlin bis Belém - für das
+  Menschenrecht auf Klimaschutz -...\nZuordnung je Drucksache (DIP):\n  21/
+ 2535 (Antrag) Globale Solidarität von Berlin bis Belém - für das Mensch
+ enrecht auf Klimaschutz -...: Umwelt federführend\, WE mitberatend\n  21/
+ 3215 (Beschlussempfehlung und Bericht) Globale Solidarität von Berlin bis
+  Belém - für das Menschenrecht auf Klimaschutz -...: Umwelt federführen
+ d\, WE mitberatend\n\na) Beratung des Antrags der Fraktion Die Linke\nFür
+  globale Klimagerechtigkeit – Verpflichtungen einhalten\, globale Finanz
+ architektur reformieren und Reparationen zahlen\nDrucksache 21/…\n\nb) B
+ eratung des Antrags der Fraktion Die Linke\nKlimaziele einhalten – Milit
+ äremissionen vollständig erfassen und reduzieren\nDrucksache 21/…\n\nc
+ ) Beratung der Beschlussempfehlung und des Berichts des Ausschusses für U
+ mwelt\, Klimaschutz\, Naturschutz und nukleare Sicherheit (16. Ausschuss) 
+ zu dem Antrag der Fraktion Die Linke\nGlobale Solidarität von Berlin bis 
+ Belém – Für das\nMenschenrecht auf Klimaschutz – Greenwashing bei de
+ r UN-Klimakonferenz verhindern\nDrucksachen 21/2535 (https://dserver.bunde
+ stag.de/btd/21/025/2102535.pdf)\, 21/3215 (https://dserver.bundestag.de/bt
+ d/21/032/2103215.pdf)\n\nLinks und Dokumente:\nDrucksache 21/2535 (Antrag)
+  Globale Solidarität von Berlin bis Belém - für das Menschenrecht auf K
+ limaschutz -...: https://dserver.bundestag.de/btd/21/025/2102535.pdf\n  DI
+ P: https://dip.bundestag.de/drucksache/-/282768\nDrucksache 21/3215 (Besch
+ lussempfehlung und Bericht) Globale Solidarität von Berlin bis Belém - f
+ ür das Menschenrecht auf Klimaschutz -...: https://dserver.bundestag.de/b
+ td/21/032/2103215.pdf\n  DIP: https://dip.bundestag.de/drucksache/-/283799
+ \nTextarchiv: https://www.bundestag.de/dokumente/textarchiv/2026/kw45-de-k
+ limagerechtigkeit-1225116\nMediathek: https://www.bundestag.de/mediathek/p
+ lenarsitzungen\nTagesordnung: https://www.bundestag.de/tagesordnung
+LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
+ lin
+URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw45-de-klimagerecht
+ igkeit-1225116
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/025/2102
+ 535.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/032/2103
+ 215.pdf
+END:VEVENT
+END:VCALENDAR

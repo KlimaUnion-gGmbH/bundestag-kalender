@@ -1,0 +1,1055 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//bundestag-kalender//DE
+CALSCALE:GREGORIAN
+X-WR-TIMEZONE:Europe/Berlin
+X-WR-CALNAME:Bundestag: TEIL von Ausschuss Wohnen/Bau komplett: nur Plenum
+DESCRIPTION:Nur ein Teil des Kalenders Ausschuss Wohnen/Bau komplett: Plena
+ rpunkte\, bei denen der Ausschuss Wohnen\, Stadtentwicklung\, Bauwesen und
+  Kommunen federführend ist. Nicht zusätzlich zum kompletten Kalender abo
+ nnieren.
+REFRESH-INTERVAL;VALUE=DURATION:PT15M
+X-PUBLISHED-TTL:PT15M
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+BEGIN:STANDARD
+TZNAME:CET
+DTSTART:19701025T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+BEGIN:DAYLIGHT
+TZNAME:CEST
+DTSTART:19700329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sw-20260112@bundestag-kalender
+DTSTAMP:20261020T103732Z
+DTSTART;VALUE=DATE:20260112
+DTEND;VALUE=DATE:20260117
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20260126@bundestag-kalender
+DTSTAMP:20261020T103732Z
+DTSTART;VALUE=DATE:20260126
+DTEND;VALUE=DATE:20260131
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20260223@bundestag-kalender
+DTSTAMP:20261020T103732Z
+DTSTART;VALUE=DATE:20260223
+DTEND;VALUE=DATE:20260228
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20260302@bundestag-kalender
+DTSTAMP:20261020T103732Z
+DTSTART;VALUE=DATE:20260302
+DTEND;VALUE=DATE:20260307
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20260316@bundestag-kalender
+DTSTAMP:20261020T103732Z
+DTSTART;VALUE=DATE:20260316
+DTEND;VALUE=DATE:20260321
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20260323@bundestag-kalender
+DTSTAMP:20261020T103732Z
+DTSTART;VALUE=DATE:20260323
+DTEND;VALUE=DATE:20260328
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20260413@bundestag-kalender
+DTSTAMP:20261020T103732Z
+DTSTART;VALUE=DATE:20260413
+DTEND;VALUE=DATE:20260418
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20260420@bundestag-kalender
+DTSTAMP:20261020T103732Z
+DTSTART;VALUE=DATE:20260420
+DTEND;VALUE=DATE:20260425
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20260504@bundestag-kalender
+DTSTAMP:20261020T103732Z
+DTSTART;VALUE=DATE:20260504
+DTEND;VALUE=DATE:20260509
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20260518@bundestag-kalender
+DTSTAMP:20261020T103732Z
+DTSTART;VALUE=DATE:20260518
+DTEND;VALUE=DATE:20260523
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20260608@bundestag-kalender
+DTSTAMP:20261020T103732Z
+DTSTART;VALUE=DATE:20260608
+DTEND;VALUE=DATE:20260613
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20260622@bundestag-kalender
+DTSTAMP:20261020T103732Z
+DTSTART;VALUE=DATE:20260622
+DTEND;VALUE=DATE:20260627
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20260706@bundestag-kalender
+DTSTAMP:20261020T103732Z
+DTSTART;VALUE=DATE:20260706
+DTEND;VALUE=DATE:20260711
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20260907@bundestag-kalender
+DTSTAMP:20261020T103732Z
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260912
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20260921@bundestag-kalender
+DTSTAMP:20261020T103732Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260926
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20261005@bundestag-kalender
+DTSTAMP:20261020T103732Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261010
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20261012@bundestag-kalender
+DTSTAMP:20261020T103732Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261017
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20261102@bundestag-kalender
+DTSTAMP:20261020T103732Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261107
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20261109@bundestag-kalender
+DTSTAMP:20261020T103732Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261114
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20261123@bundestag-kalender
+DTSTAMP:20261020T103732Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261128
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20261207@bundestag-kalender
+DTSTAMP:20261020T103732Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261212
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20261214@bundestag-kalender
+DTSTAMP:20261020T103732Z
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261219
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20270111@bundestag-kalender
+DTSTAMP:20261020T103732Z
+DTSTART;VALUE=DATE:20270111
+DTEND;VALUE=DATE:20270116
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20270125@bundestag-kalender
+DTSTAMP:20261020T103732Z
+DTSTART;VALUE=DATE:20270125
+DTEND;VALUE=DATE:20270130
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20270215@bundestag-kalender
+DTSTAMP:20261020T103732Z
+DTSTART;VALUE=DATE:20270215
+DTEND;VALUE=DATE:20270220
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20270301@bundestag-kalender
+DTSTAMP:20261020T103732Z
+DTSTART;VALUE=DATE:20270301
+DTEND;VALUE=DATE:20270306
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20270315@bundestag-kalender
+DTSTAMP:20261020T103732Z
+DTSTART;VALUE=DATE:20270315
+DTEND;VALUE=DATE:20270320
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20270405@bundestag-kalender
+DTSTAMP:20261020T103732Z
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270410
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20270412@bundestag-kalender
+DTSTAMP:20261020T103732Z
+DTSTART;VALUE=DATE:20270412
+DTEND;VALUE=DATE:20270417
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20270426@bundestag-kalender
+DTSTAMP:20261020T103732Z
+DTSTART;VALUE=DATE:20270426
+DTEND;VALUE=DATE:20270501
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20270510@bundestag-kalender
+DTSTAMP:20261020T103732Z
+DTSTART;VALUE=DATE:20270510
+DTEND;VALUE=DATE:20270515
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20270531@bundestag-kalender
+DTSTAMP:20261020T103732Z
+DTSTART;VALUE=DATE:20270531
+DTEND;VALUE=DATE:20270605
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20270614@bundestag-kalender
+DTSTAMP:20261020T103732Z
+DTSTART;VALUE=DATE:20270614
+DTEND;VALUE=DATE:20270619
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20270628@bundestag-kalender
+DTSTAMP:20261020T103732Z
+DTSTART;VALUE=DATE:20270628
+DTEND;VALUE=DATE:20270703
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20270705@bundestag-kalender
+DTSTAMP:20261020T103732Z
+DTSTART;VALUE=DATE:20270705
+DTEND;VALUE=DATE:20270710
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20270906@bundestag-kalender
+DTSTAMP:20261020T103732Z
+DTSTART;VALUE=DATE:20270906
+DTEND;VALUE=DATE:20270911
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20270920@bundestag-kalender
+DTSTAMP:20261020T103732Z
+DTSTART;VALUE=DATE:20270920
+DTEND;VALUE=DATE:20270925
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20271004@bundestag-kalender
+DTSTAMP:20261020T103732Z
+DTSTART;VALUE=DATE:20271004
+DTEND;VALUE=DATE:20271009
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20271025@bundestag-kalender
+DTSTAMP:20261020T103732Z
+DTSTART;VALUE=DATE:20271025
+DTEND;VALUE=DATE:20271030
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20271108@bundestag-kalender
+DTSTAMP:20261020T103732Z
+DTSTART;VALUE=DATE:20271108
+DTEND;VALUE=DATE:20271113
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20271122@bundestag-kalender
+DTSTAMP:20261020T103732Z
+DTSTART;VALUE=DATE:20271122
+DTEND;VALUE=DATE:20271127
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20271129@bundestag-kalender
+DTSTAMP:20261020T103732Z
+DTSTART;VALUE=DATE:20271129
+DTEND;VALUE=DATE:20271204
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20271213@bundestag-kalender
+DTSTAMP:20261020T103732Z
+DTSTART;VALUE=DATE:20271213
+DTEND;VALUE=DATE:20271218
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bt-54-top-30-massnahmen-gegen-schrottimmobilien@bundestag-kalender
+DTSTAMP:20261020T103732Z
+DTSTART;TZID=Europe/Berlin:20260116T131000
+DTEND;TZID=Europe/Berlin:20260116T135000
+SUMMARY:TOP 30: Maßnahmen gegen Schrottimmobilien
+DESCRIPTION:Status: beendet\n54. Sitzung\nAusschuss Wohnen\, Stadtentwicklu
+ ng\, Bauwesen und Kommunen: federführend (DIP\, amtlich)\nAusschuss Umwel
+ t\, Klimaschutz\, Naturschutz und nukleare Sicherheit: mitberatend (DIP\, 
+ amtlich)\nWohnen/Bau federführend bei: Wirksame Instrumente gegen Schrott
+ immobilien\; Wohnraum sichern\, Immobilien nutzbar machen - Stopp von soge
+ nannten Schrottimmobilien\nUmwelt mitberatend bei: Wohnraum sichern\, Immo
+ bilien nutzbar machen - Stopp von sogenannten Schrottimmobilien\nZuordnung
+  je Drucksache (DIP):\n  21/3614 (Antrag) Wirksame Instrumente gegen Schro
+ ttimmobilien: Wohnen/Bau federführend\n  21/3615 (Antrag) Wohnraum sicher
+ n\, Immobilien nutzbar machen - Stopp von sogenannten Schrottimmobilien: U
+ mwelt mitberatend\, Wohnen/Bau federführend\n\na) Beratung des Antrags de
+ r Fraktion BÜNDNIS 90/DIE GRÜNEN\nWirksame Instrumente gegen Schrottimmo
+ bilien\nDrucksache 21/3614 (https://dserver.bundestag.de/btd/21/036/210361
+ 4.pdf)\n\nb) Beratung des Antrags der Fraktion Die Linke\nWohnraum sichern
+ \, Immobilien nutzbar machen – Stopp von sogenannten Schrottimmobilien\n
+ Drucksache 21/3615 (https://dserver.bundestag.de/btd/21/036/2103615.pdf)\n
+ \nLinks und Dokumente:\nDrucksache 21/3614 (Antrag) Wirksame Instrumente g
+ egen Schrottimmobilien: https://dserver.bundestag.de/btd/21/036/2103614.pd
+ f\n  DIP: https://dip.bundestag.de/drucksache/-/284364\nDrucksache 21/3615
+  (Antrag) Wohnraum sichern\, Immobilien nutzbar machen - Stopp von sogenan
+ nten Schrottimmobilien: https://dserver.bundestag.de/btd/21/036/2103615.pd
+ f\n  DIP: https://dip.bundestag.de/drucksache/-/284365\nPlenarprotokoll 54
+ . Sitzung: https://dserver.bundestag.de/btp/21/21054.pdf\nTextarchiv: http
+ s://www.bundestag.de/dokumente/textarchiv/2026/kw03-de-schrottimmobilien-1
+ 134380\nMediathek: https://www.bundestag.de/mediathek/plenarsitzungen\nTag
+ esordnung: https://www.bundestag.de/tagesordnung
+LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
+ lin
+URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw03-de-schrottimmob
+ ilien-1134380
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/036/2103
+ 614.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/036/2103
+ 615.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21054.pd
+ f
+END:VEVENT
+BEGIN:VEVENT
+UID:bt-59-top-30-mietrecht-wohngeld-und-mietenbericht-202@bundestag-kalende
+ r
+DTSTAMP:20261020T103732Z
+DTSTART;TZID=Europe/Berlin:20260226T185500
+DTEND;TZID=Europe/Berlin:20260226T194000
+SUMMARY:TOP 30: Mietrecht\, Wohngeld- und Mietenbericht 2024
+DESCRIPTION:Status: beendet\n59. Sitzung\nAusschuss Wohnen\, Stadtentwicklu
+ ng\, Bauwesen und Kommunen: federführend (DIP\, amtlich)\nAufgeführt sin
+ d nur die Vorlagen\, bei denen Wohnen/Bau federführend ist. Weitere 2 Dru
+ cksachen dieses Punktes stehen im Textarchiv.\n\nc) Beratung der Unterrich
+ tung durch die Bundesregierung\nFünfter Bericht der Bundesregierung über
+  die Wohnungs- und Immobilienwirtschaft in Deutschland\nund Wohngeld- und 
+ Mietenbericht 2024\nDrucksache 21/2170 (https://dserver.bundestag.de/btd/2
+ 1/021/2102170.pdf)\n\nLinks und Dokumente:\nDrucksache 21/2170 (Unterricht
+ ung) Fünfter Bericht der Bundesregierung über die Wohnungs- und Immobili
+ enwirtschaft in...: https://dserver.bundestag.de/btd/21/021/2102170.pdf\n 
+  DIP: https://dip.bundestag.de/drucksache/-/282282\nPlenarprotokoll 59. Si
+ tzung: https://dserver.bundestag.de/btp/21/21059.pdf\nTextarchiv: https://
+ www.bundestag.de/dokumente/textarchiv/2026/kw09-de-mietrecht-1140460\nMedi
+ athek: https://www.bundestag.de/mediathek/plenarsitzungen\nTagesordnung: h
+ ttps://www.bundestag.de/tagesordnung
+LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
+ lin
+URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw09-de-mietrecht-11
+ 40460
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/021/2102
+ 170.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21059.pd
+ f
+END:VEVENT
+BEGIN:VEVENT
+UID:bt-62-top-15-baukulturbericht-2024-25@bundestag-kalender
+DTSTAMP:20261020T103732Z
+DTSTART;TZID=Europe/Berlin:20260305T180500
+DTEND;TZID=Europe/Berlin:20260305T184000
+SUMMARY:TOP 15: Baukulturbericht 2024/25
+DESCRIPTION:Status: beendet\n62. Sitzung\nAusschuss Wohnen\, Stadtentwicklu
+ ng\, Bauwesen und Kommunen: Beschlussempfehlung und Bericht (Beschlussempf
+ ehlung der Tagesordnung\, amtlich)\nWohnen/Bau federführend bei: Baukultu
+ rbericht 2024/25 der Bundesstiftung Baukultur mit Stellungnahme der...\nZu
+ ordnung je Drucksache (DIP):\n  20/11650 (Unterrichtung) Baukulturbericht 
+ 2024/25 der Bundesstiftung Baukultur mit Stellungnahme der...: Wohnen/Bau 
+ federführend\n  21/4022 (Beschlussempfehlung und Bericht) Baukulturberich
+ t 2024/25 der Bundesstiftung Baukultur mit Stellungnahme der...: Wohnen/Ba
+ u federführend\n\nBeratung der Beschlussempfehlung und des Berichts des A
+ usschusses für Wohnen\, Stadtentwicklung\, Bauwesen und Kommunen (24. Aus
+ schuss)\nzu der Unterrichtung durch die Bundesregierung\nBaukulturbericht 
+ 2024/25 der Bundesstiftung Baukultur\nmit Stellungnahme der Bundesregierun
+ g\nDrucksachen 20/11650 (https://dserver.bundestag.de/btd/20/116/2011650.p
+ df)\, 21/4022 (https://dserver.bundestag.de/btd/21/040/2104022.pdf)\n\nLin
+ ks und Dokumente:\nDrucksache 20/11650 (Unterrichtung) Baukulturbericht 20
+ 24/25 der Bundesstiftung Baukultur mit Stellungnahme der...: https://dserv
+ er.bundestag.de/btd/20/116/2011650.pdf\n  DIP: https://dip.bundestag.de/dr
+ ucksache/-/274358\nDrucksache 21/4022 (Beschlussempfehlung und Bericht) Ba
+ ukulturbericht 2024/25 der Bundesstiftung Baukultur mit Stellungnahme der.
+ ..: https://dserver.bundestag.de/btd/21/040/2104022.pdf\n  DIP: https://di
+ p.bundestag.de/drucksache/-/284965\nPlenarprotokoll 62. Sitzung: https://d
+ server.bundestag.de/btp/21/21062.pdf\nTextarchiv: https://www.bundestag.de
+ /dokumente/textarchiv/2026/kw10-de-baukulturbericht-1150502\nMediathek: ht
+ tps://www.bundestag.de/mediathek/plenarsitzungen\nTagesordnung: https://ww
+ w.bundestag.de/tagesordnung
+LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
+ lin
+URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw10-de-baukulturber
+ icht-1150502
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/20/116/2011
+ 650.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/040/2104
+ 022.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21062.pd
+ f
+END:VEVENT
+BEGIN:VEVENT
+UID:bt-63-top-17-kommunalpolitik@bundestag-kalender
+DTSTAMP:20261020T103732Z
+DTSTART;TZID=Europe/Berlin:20260306T120000
+DTEND;TZID=Europe/Berlin:20260306T124000
+SUMMARY:TOP 17: Kommunalpolitik
+DESCRIPTION:Status: beendet\n63. Sitzung\nAusschuss Wirtschaft und Energie:
+  mitberatend (DIP\, amtlich)\nAusschuss Wohnen\, Stadtentwicklung\, Bauwes
+ en und Kommunen: federführend (DIP\, amtlich)\nAusschuss Umwelt\, Klimasc
+ hutz\, Naturschutz und nukleare Sicherheit: mitberatend (DIP\, amtlich)\nW
+ E mitberatend bei: Starke Kommunen\, starke Demokratie - Für mehr Zusamme
+ nhalt vor Ort\; Gutes Leben für alle - Handlungsfähigkeit der Kommunen w
+ iederherstellen\nWohnen/Bau federführend bei: Starke Kommunen\, starke De
+ mokratie - Für mehr Zusammenhalt vor Ort\; Gutes Leben für alle - Handlu
+ ngsfähigkeit der Kommunen wiederherstellen\nUmwelt mitberatend bei: Gutes
+  Leben für alle - Handlungsfähigkeit der Kommunen wiederherstellen\nZuor
+ dnung je Drucksache (DIP):\n  21/4393 (Antrag) Starke Kommunen\, starke De
+ mokratie - Für mehr Zusammenhalt vor Ort: WE mitberatend\, Wohnen/Bau fed
+ erführend\n  21/4471 (Antrag) Gutes Leben für alle - Handlungsfähigkeit
+  der Kommunen wiederherstellen: Umwelt mitberatend\, WE mitberatend\, Wohn
+ en/Bau federführend\n\na) Beratung des Antrags der Fraktion BÜNDNIS 90/D
+ IE GRÜNEN\nStarke Kommunen\, starke Demokratie – Für mehr Zusammenhalt
+  vor Ort\nDrucksache 21/4393 (https://dserver.bundestag.de/btd/21/043/2104
+ 393.pdf)\n\nb) Beratung des Antrags der Fraktion Die Linke\nGutes Leben f
+ ür Alle – Handlungsfähigkeit der Kommunen wiederherstellen\nDrucksache
+  21/4471 (https://dserver.bundestag.de/btd/21/044/2104471.pdf)\n\nLinks un
+ d Dokumente:\nDrucksache 21/4393 (Antrag) Starke Kommunen\, starke Demokra
+ tie - Für mehr Zusammenhalt vor Ort: https://dserver.bundestag.de/btd/21/
+ 043/2104393.pdf\n  DIP: https://dip.bundestag.de/drucksache/-/285483\nDruc
+ ksache 21/4471 (Antrag) Gutes Leben für alle - Handlungsfähigkeit der Ko
+ mmunen wiederherstellen: https://dserver.bundestag.de/btd/21/044/2104471.p
+ df\n  DIP: https://dip.bundestag.de/drucksache/-/285513\nPlenarprotokoll 6
+ 3. Sitzung: https://dserver.bundestag.de/btp/21/21063.pdf\nTextarchiv: htt
+ ps://www.bundestag.de/dokumente/textarchiv/2026/kw10-de-kommunen-1150510\n
+ Mediathek: https://www.bundestag.de/mediathek/plenarsitzungen\nTagesordnun
+ g: https://www.bundestag.de/tagesordnung
+LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
+ lin
+URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw10-de-kommunen-115
+ 0510
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/043/2104
+ 393.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/044/2104
+ 471.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21063.pd
+ f
+END:VEVENT
+BEGIN:VEVENT
+UID:bt-65-top-20-enquete-kommission-kommunalfinanzen@bundestag-kalender
+DTSTAMP:20261020T103732Z
+DTSTART;TZID=Europe/Berlin:20260319T205000
+DTEND;TZID=Europe/Berlin:20260319T211500
+SUMMARY:TOP 20: Enquete-Kommission - Kommunalfinanzen
+DESCRIPTION:Status: beendet\n65. Sitzung\nAusschuss Umwelt\, Klimaschutz\, 
+ Naturschutz und nukleare Sicherheit: mitberatend (DIP\, amtlich)\nAusschus
+ s Wohnen\, Stadtentwicklung\, Bauwesen und Kommunen: federführend (DIP\, 
+ amtlich)\nAusschuss Verkehr: mitberatend (DIP\, amtlich)\n\nBeratung des A
+ ntrags der Fraktion der AfD\nEinsetzung einer Enquete-Kommission „Evalua
+ tion der Finanzlage der Kommunen und Lehren für die Zukunft ziehen“\nDr
+ ucksache 21/4756 (https://dserver.bundestag.de/btd/21/047/2104756.pdf)\n\n
+ Links und Dokumente:\nDrucksache 21/4756 (Antrag) Einsetzung einer Enquete
+ -Kommission "Evaluation der Finanzlage der Kommunen und Lehren...: https:/
+ /dserver.bundestag.de/btd/21/047/2104756.pdf\n  DIP: https://dip.bundestag
+ .de/drucksache/-/285991\nPlenarprotokoll 65. Sitzung: https://dserver.bund
+ estag.de/btp/21/21065.pdf\nTextarchiv: https://www.bundestag.de/dokumente/
+ textarchiv/2026/kw12-de-enquete-kommunen-1151788\nMediathek: https://www.b
+ undestag.de/mediathek/plenarsitzungen\nTagesordnung: https://www.bundestag
+ .de/tagesordnung
+LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
+ lin
+URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw12-de-enquete-komm
+ unen-1151788
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/047/2104
+ 756.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21065.pd
+ f
+END:VEVENT
+BEGIN:VEVENT
+UID:bt-68-top-14-wohnungslosenhilfe-verwendung-bestehende@bundestag-kalende
+ r
+DTSTAMP:20261020T103732Z
+DTSTART;TZID=Europe/Berlin:20260326T172500
+DTEND;TZID=Europe/Berlin:20260326T180000
+SUMMARY:TOP 14: Wohnungslosenhilfe\, Verwendung bestehender Gebäude
+DESCRIPTION:Status: beendet\n68. Sitzung\nAusschuss Wohnen\, Stadtentwicklu
+ ng\, Bauwesen und Kommunen: federführend (DIP\, amtlich)\n\na) Beratung d
+ es Antrags der Fraktion Die Linke\nWohnungslose Frauen besser schützen 
+ – Geschlechterspezifische Bedarfe in der Wohnungslosenhilfe konsequent b
+ erücksichtigen\nDrucksache 21/4872 (https://dserver.bundestag.de/btd/21/0
+ 48/2104872.pdf)\n\nb) abgesetzt\n\nLinks und Dokumente:\nDrucksache 21/487
+ 2 (Antrag) Wohnungslose Frauen besser schützen - Geschlechterspezifische 
+ Bedarfe in der...: https://dserver.bundestag.de/btd/21/048/2104872.pdf\n  
+ DIP: https://dip.bundestag.de/drucksache/-/286106\nPlenarprotokoll 68. Sit
+ zung: https://dserver.bundestag.de/btp/21/21068.pdf\nTextarchiv: https://w
+ ww.bundestag.de/dokumente/textarchiv/2026/kw13-de-wohnungslose-1156738\nMe
+ diathek: https://www.bundestag.de/mediathek/plenarsitzungen\nTagesordnung:
+  https://www.bundestag.de/tagesordnung
+LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
+ lin
+URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw13-de-wohnungslose
+ -1156738
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/048/2104
+ 872.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21068.pd
+ f
+END:VEVENT
+BEGIN:VEVENT
+UID:bt-71-zp-11-top-12-vorkaufsrecht-fuer-mietende-erhalt-des-g@bundestag-k
+ alender
+DTSTAMP:20261020T103732Z
+DTSTART;TZID=Europe/Berlin:20260416T181000
+DTEND;TZID=Europe/Berlin:20260416T184000
+SUMMARY:ZP 11\, TOP 12: Vorkaufsrecht für Mietende\, Erhalt des Gebäudebe
+ stands
+DESCRIPTION:Status: beendet\n71. Sitzung\nAusschuss Wohnen\, Stadtentwicklu
+ ng\, Bauwesen und Kommunen: federführend (DIP\, amtlich)\nAusschuss Umwel
+ t\, Klimaschutz\, Naturschutz und nukleare Sicherheit: mitberatend (DIP\, 
+ amtlich)\nWohnen/Bau federführend bei: Rekommunalisierung statt Ausverkau
+ f - Für ein Vorkaufsrecht\, das Mieterinnen und Mieter...\; Forderungen d
+ er Initiative HouseEurope für Erhalt\, Renovierung und Umbau umsetzen und
+ ...\nUmwelt mitberatend bei: Forderungen der Initiative HouseEurope für E
+ rhalt\, Renovierung und Umbau umsetzen und...\nZuordnung je Drucksache (DI
+ P):\n  21/5327 (Antrag) Rekommunalisierung statt Ausverkauf - Für ein Vor
+ kaufsrecht\, das Mieterinnen und Mieter...: Wohnen/Bau federführend\n  21
+ /4876 (Antrag) Forderungen der Initiative HouseEurope für Erhalt\, Renovi
+ erung und Umbau umsetzen und...: Umwelt mitberatend\, Wohnen/Bau federfüh
+ rend\n\nZP 11) Beratung des Antrags der Fraktion Die Linke\nRekommunalisie
+ rung statt Ausverkauf – Für ein Vorkaufsrecht\, das Mieterinnen und Mie
+ ter sowie Gewerbe schützt\nDrucksache 21/5327 (https://dserver.bundestag.
+ de/btd/21/053/2105327.pdf)\n\nZP 12) Beratung des Antrags der Fraktion Die
+  Linke\nForderungen der Initiative HouseEurope für Erhalt\, Renovierung u
+ nd Umbau umsetzen und unnötigen Abriss beenden\nDrucksache 21/4876 (https
+ ://dserver.bundestag.de/btd/21/048/2104876.pdf)\n\nLinks und Dokumente:\nD
+ rucksache 21/5327 (Antrag) Rekommunalisierung statt Ausverkauf - Für ein 
+ Vorkaufsrecht\, das Mieterinnen und Mieter...: https://dserver.bundestag.d
+ e/btd/21/053/2105327.pdf\n  DIP: https://dip.bundestag.de/drucksache/-/286
+ 691\nDrucksache 21/4876 (Antrag) Forderungen der Initiative HouseEurope f
+ ür Erhalt\, Renovierung und Umbau umsetzen und...: https://dserver.bundes
+ tag.de/btd/21/048/2104876.pdf\n  DIP: https://dip.bundestag.de/drucksache/
+ -/286107\nPlenarprotokoll 71. Sitzung: https://dserver.bundestag.de/btp/21
+ /21071.pdf\nTextarchiv: https://www.bundestag.de/dokumente/textarchiv/2026
+ /kw16-de-rekommunalisierung-1165334\nMediathek: https://www.bundestag.de/m
+ ediathek/plenarsitzungen\nTagesordnung: https://www.bundestag.de/tagesordn
+ ung
+LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
+ lin
+URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw16-de-rekommunalis
+ ierung-1165334
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/053/2105
+ 327.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/048/2104
+ 876.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21071.pd
+ f
+END:VEVENT
+BEGIN:VEVENT
+UID:bt-84-top-34-wohngeld@bundestag-kalender
+DTSTAMP:20261020T103732Z
+DTSTART;TZID=Europe/Berlin:20260612T120000
+DTEND;TZID=Europe/Berlin:20260612T124000
+SUMMARY:TOP 34: Wohngeld
+DESCRIPTION:Status: beendet\n84. Sitzung\nAusschuss Wohnen\, Stadtentwicklu
+ ng\, Bauwesen und Kommunen: federführend (DIP\, amtlich)\nWohnen/Bau fede
+ rführend bei: Wohngeld retten - Kürzungspläne stoppen\; Keine Einschnit
+ te beim Wohngeld - Entlastung für Familien und Rentnerinnen und Rentner..
+ .\nZuordnung je Drucksache (DIP):\n  21/6363 (Antrag) Wohngeld retten - K
+ ürzungspläne stoppen: Wohnen/Bau federführend\n  21/6339 (Antrag) Keine
+  Einschnitte beim Wohngeld - Entlastung für Familien und Rentnerinnen und
+  Rentner...: Wohnen/Bau federführend\n\na) Beratung des Antrags der Frakt
+ ion Die Linke\nWohngeld retten – Kürzungspläne stoppen\nDrucksache 21/
+ 6363 (https://dserver.bundestag.de/btd/21/063/2106363.pdf)\n\nb) Beratung 
+ des Antrags der Fraktion BÜNDNIS 90/DIE GRÜNEN\nKeine Einschnitte beim W
+ ohngeld – Entlastung für Familien und Rentnerinnen und Rentner sichern\
+ nDrucksache 21/6339 (https://dserver.bundestag.de/btd/21/063/2106339.pdf)\
+ n\nLinks und Dokumente:\nDrucksache 21/6363 (Antrag) Wohngeld retten - Kü
+ rzungspläne stoppen: https://dserver.bundestag.de/btd/21/063/2106363.pdf\
+ n  DIP: https://dip.bundestag.de/drucksache/-/288515\nDrucksache 21/6339 (
+ Antrag) Keine Einschnitte beim Wohngeld - Entlastung für Familien und Ren
+ tnerinnen und Rentner...: https://dserver.bundestag.de/btd/21/063/2106339.
+ pdf\n  DIP: https://dip.bundestag.de/drucksache/-/288405\nPlenarprotokoll 
+ 84. Sitzung: https://dserver.bundestag.de/btp/21/21084.pdf\nTextarchiv: ht
+ tps://www.bundestag.de/dokumente/textarchiv/2026/kw24-de-wohngeld-1181968\
+ nMediathek: https://www.bundestag.de/mediathek/plenarsitzungen\nTagesordnu
+ ng: https://www.bundestag.de/tagesordnung
+LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
+ lin
+URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw24-de-wohngeld-118
+ 1968
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/063/2106
+ 363.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/063/2106
+ 339.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21084.pd
+ f
+END:VEVENT
+BEGIN:VEVENT
+UID:bt-84-top-36-bezahlbarer-wohnraum-u-nachhaltige-stadt@bundestag-kalende
+ r
+DTSTAMP:20261020T103732Z
+DTSTART;TZID=Europe/Berlin:20260612T132500
+DTEND;TZID=Europe/Berlin:20260612T140500
+SUMMARY:TOP 36: Bezahlbarer Wohnraum u. nachhaltige Stadtentwicklung
+DESCRIPTION:Status: beendet\n84. Sitzung\nAusschuss Umwelt\, Klimaschutz\, 
+ Naturschutz und nukleare Sicherheit: mitberatend (DIP\, amtlich)\nAusschus
+ s Wohnen\, Stadtentwicklung\, Bauwesen und Kommunen: federführend (DIP\, 
+ amtlich)\nAusschuss Wirtschaft und Energie: mitberatend (DIP\, amtlich)\nU
+ mwelt mitberatend bei: Vorfahrt für bezahlbaren Wohnraum und nachhaltige 
+ Stadtentwicklung\nWohnen/Bau federführend bei: Vorfahrt für bezahlbaren 
+ Wohnraum und nachhaltige Stadtentwicklung\; Leere Büros zu Wohnungen umwa
+ ndeln - Günstiger Wohnraum statt Büroleerstand\nWE mitberatend bei: Leer
+ e Büros zu Wohnungen umwandeln - Günstiger Wohnraum statt Büroleerstand
+ \nZuordnung je Drucksache (DIP):\n  21/6340 (Antrag) Vorfahrt für bezahlb
+ aren Wohnraum und nachhaltige Stadtentwicklung: Umwelt mitberatend\, Wohne
+ n/Bau federführend\n  21/6341 (Antrag) Leere Büros zu Wohnungen umwandel
+ n - Günstiger Wohnraum statt Büroleerstand: WE mitberatend\, Wohnen/Bau 
+ federführend\n\na) Beratung des Antrags der Fraktion BÜNDNIS 90/DIE GRÜ
+ NEN\nVorfahrt für bezahlbaren Wohnraum und nachhaltige Stadtentwicklung\n
+ Drucksache 21/6340 (https://dserver.bundestag.de/btd/21/063/2106340.pdf)\n
+ \nb) Beratung des Antrags der Fraktion BÜNDNIS 90/DIE GRÜNEN\nLeere Bür
+ os zu Wohnungen umwandeln – Günstiger Wohnraum statt Büroleerstand\nDr
+ ucksache 21/6341 (https://dserver.bundestag.de/btd/21/063/2106341.pdf)\n\n
+ Links und Dokumente:\nDrucksache 21/6340 (Antrag) Vorfahrt für bezahlbare
+ n Wohnraum und nachhaltige Stadtentwicklung: https://dserver.bundestag.de/
+ btd/21/063/2106340.pdf\n  DIP: https://dip.bundestag.de/drucksache/-/28850
+ 5\nDrucksache 21/6341 (Antrag) Leere Büros zu Wohnungen umwandeln - Güns
+ tiger Wohnraum statt Büroleerstand: https://dserver.bundestag.de/btd/21/0
+ 63/2106341.pdf\n  DIP: https://dip.bundestag.de/drucksache/-/288506\nPlena
+ rprotokoll 84. Sitzung: https://dserver.bundestag.de/btp/21/21084.pdf\nTex
+ tarchiv: https://www.bundestag.de/dokumente/textarchiv/2026/kw24-de-wohnra
+ um-1181976\nMediathek: https://www.bundestag.de/mediathek/plenarsitzungen\
+ nTagesordnung: https://www.bundestag.de/tagesordnung
+LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
+ lin
+URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw24-de-wohnraum-118
+ 1976
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/063/2106
+ 340.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/063/2106
+ 341.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21084.pd
+ f
+END:VEVENT
+BEGIN:VEVENT
+UID:bt-86-top-8-modernisierung-des-staedtebau-und-raumor@bundestag-kalender
+DTSTAMP:20261020T103732Z
+DTSTART;TZID=Europe/Berlin:20260625T112000
+DTEND;TZID=Europe/Berlin:20260625T124000
+SUMMARY:TOP 8: Modernisierung des Städtebau- und Raumordnungsrechts
+DESCRIPTION:Status: beendet\n86. Sitzung\nAusschuss Umwelt\, Klimaschutz\, 
+ Naturschutz und nukleare Sicherheit: mitberatend (DIP\, amtlich)\nAusschus
+ s Wirtschaft und Energie: mitberatend (DIP\, amtlich)\nAusschuss Wohnen\, 
+ Stadtentwicklung\, Bauwesen und Kommunen: federführend (DIP\, amtlich)\nA
+ usschuss Verkehr: mitberatend (DIP\, amtlich)\nUmwelt mitberatend bei: Ges
+ etz zur Modernisierung des Städtebau- und Raumordnungsrechts\nWE mitberat
+ end bei: Gesetz zur Modernisierung des Städtebau- und Raumordnungsrechts\
+ nWohnen/Bau federführend bei: Gesetz zur Modernisierung des Städtebau- u
+ nd Raumordnungsrechts\; Stadt gemeinsam gestalten und demokratische Beteil
+ igung stärken - Kooperative...\nVerkehr mitberatend bei: Gesetz zur Moder
+ nisierung des Städtebau- und Raumordnungsrechts\nZuordnung je Drucksache 
+ (DIP):\n  21/6588 (Gesetzentwurf) Gesetz zur Modernisierung des Städtebau
+ - und Raumordnungsrechts: Umwelt mitberatend\, WE mitberatend\, Wohnen/Bau
+  federführend\, Verkehr mitberatend\n  21/6643 (Antrag) Stadt gemeinsam g
+ estalten und demokratische Beteiligung stärken - Kooperative...: Wohnen/B
+ au federführend\n\na) Erste Beratung des von der Bundesregierung\neingebr
+ achten Entwurfs eines Gesetzes zur Modernisierung des Städtebau- und Raum
+ ordnungsrechts\nDrucksache 21/6588 (https://dserver.bundestag.de/btd/21/06
+ 5/2106588.pdf)\n\nb) Beratung des Antrags der Fraktion Die Linke\nStadt ge
+ meinsam gestalten und demokratische Beteiligung stärken – Kooperative S
+ tadtentwicklung in das Baugesetzbuch aufnehmen\nDrucksache 21/6643 (https:
+ //dserver.bundestag.de/btd/21/066/2106643.pdf)\n\nLinks und Dokumente:\nDr
+ ucksache 21/6588 (Gesetzentwurf) Gesetz zur Modernisierung des Städtebau-
+  und Raumordnungsrechts: https://dserver.bundestag.de/btd/21/065/2106588.p
+ df\n  DIP: https://dip.bundestag.de/drucksache/-/288858\nDrucksache 21/664
+ 3 (Antrag) Stadt gemeinsam gestalten und demokratische Beteiligung stärke
+ n - Kooperative...: https://dserver.bundestag.de/btd/21/066/2106643.pdf\n 
+  DIP: https://dip.bundestag.de/drucksache/-/288923\nPlenarprotokoll 86. Si
+ tzung: https://dserver.bundestag.de/btp/21/21086.pdf\nTextarchiv: https://
+ www.bundestag.de/dokumente/textarchiv/2026/kw26-de-staedtebau-1184316\nMed
+ iathek: https://www.bundestag.de/mediathek/plenarsitzungen\nTagesordnung: 
+ https://www.bundestag.de/tagesordnung
+LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
+ lin
+URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw26-de-staedtebau-1
+ 184316
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/065/2106
+ 588.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/066/2106
+ 643.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21086.pd
+ f
+END:VEVENT
+BEGIN:VEVENT
+UID:bt-86-top-23-zp-15-laender-und-kommunalentlastungsgesetz@bundestag-kale
+ nder
+DTSTAMP:20261020T103732Z
+DTSTART;TZID=Europe/Berlin:20260625T232500
+DTEND;TZID=Europe/Berlin:20260625T234500
+SUMMARY:TOP 23\, ZP 15: Länder- und Kommunalentlastungsgesetz
+DESCRIPTION:Status: beendet\n86. Sitzung\nAusschuss Wohnen\, Stadtentwicklu
+ ng\, Bauwesen und Kommunen: federführend (DIP\, amtlich)\nAufgeführt sin
+ d nur die Vorlagen\, bei denen Wohnen/Bau federführend ist. Weitere 2 Dru
+ cksachen dieses Punktes stehen im Textarchiv.\n\nb) Beratung des Antrags d
+ er Fraktion Die Linke\nBundesmittel solidarisch und gerecht verteilen – 
+ Strukturschwache Kommunen stärken\nDrucksache 21/6652 (https://dserver.bu
+ ndestag.de/btd/21/066/2106652.pdf)\n\nLinks und Dokumente:\nDrucksache 21/
+ 6652 (Antrag) Bundesmittel solidarisch und gerecht verteilen - Struktursch
+ wache Kommunen stärken: https://dserver.bundestag.de/btd/21/066/2106652.p
+ df\n  DIP: https://dip.bundestag.de/drucksache/-/288924\nPlenarprotokoll 8
+ 6. Sitzung: https://dserver.bundestag.de/btp/21/21086.pdf\nTextarchiv: htt
+ ps://www.bundestag.de/dokumente/textarchiv/2026/kw26-de-laender-kommunalen
+ tlastungsgesetz-1184350\nMediathek: https://www.bundestag.de/mediathek/ple
+ narsitzungen\nTagesordnung: https://www.bundestag.de/tagesordnung
+LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
+ lin
+URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw26-de-laender-komm
+ unalentlastungsgesetz-1184350
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/066/2106
+ 652.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21086.pd
+ f
+END:VEVENT
+BEGIN:VEVENT
+UID:bt-89-top-16-laender-und-kommunalentlastungsgesetz@bundestag-kalender
+DTSTAMP:20261020T103732Z
+DTSTART;TZID=Europe/Berlin:20260709T212500
+DTEND;TZID=Europe/Berlin:20260709T214500
+SUMMARY:TOP 16: Länder- und Kommunalentlastungsgesetz
+DESCRIPTION:Status: beendet\n89. Sitzung\nAusschuss Wohnen\, Stadtentwicklu
+ ng\, Bauwesen und Kommunen: Beschlussempfehlung und Bericht (Beschlussempf
+ ehlung der Tagesordnung\, amtlich)\nAufgeführt sind nur die Vorlagen\, be
+ i denen Wohnen/Bau federführend ist. Weitere 3 Drucksachen dieses Punktes
+  stehen im Textarchiv.\n\nc) Beratung der Beschlussempfehlung und des Beri
+ chts des Ausschusses für Wohnen\, Stadtentwicklung\, Bauwesen und Kommune
+ n (24. Ausschuss)\nzu dem Antrag der Fraktion Die Linke\nBundesmittel soli
+ darisch und gerecht verteilen – Strukturschwache Kommunen stärken\nDruc
+ ksachen 21/6652 (https://dserver.bundestag.de/btd/21/066/2106652.pdf)\, 21
+ /6997 (https://dserver.bundestag.de/btd/21/069/2106997.pdf)\n\nLinks und D
+ okumente:\nDrucksache 21/6652 (Antrag) Bundesmittel solidarisch und gerech
+ t verteilen - Strukturschwache Kommunen stärken: https://dserver.bundesta
+ g.de/btd/21/066/2106652.pdf\n  DIP: https://dip.bundestag.de/drucksache/-/
+ 288924\nDrucksache 21/6997 (Beschlussempfehlung und Bericht) Bundesmittel 
+ solidarisch und gerecht verteilen - Strukturschwache Kommunen stärken: ht
+ tps://dserver.bundestag.de/btd/21/069/2106997.pdf\n  DIP: https://dip.bund
+ estag.de/drucksache/-/289329\nPlenarprotokoll 89. Sitzung: https://dserver
+ .bundestag.de/btp/21/21089.pdf\nTextarchiv: https://www.bundestag.de/dokum
+ ente/textarchiv/2026/kw28-de-laender-kommunalentlastungsgesetz-1192560\nMe
+ diathek: https://www.bundestag.de/mediathek/plenarsitzungen\nTagesordnung:
+  https://www.bundestag.de/tagesordnung
+LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
+ lin
+URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw28-de-laender-komm
+ unalentlastungsgesetz-1192560
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/066/2106
+ 652.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/069/2106
+ 997.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21089.pd
+ f
+END:VEVENT
+BEGIN:VEVENT
+UID:bt-96-top-40-zp-2-ueberweisungen-im-vereinfachten-verfahre@bundestag-ka
+ lender
+DTSTAMP:20261020T103732Z
+DTSTART;TZID=Europe/Berlin:20260924T135500
+DTEND;TZID=Europe/Berlin:20260924T140000
+SUMMARY:TOP 40\, ZP 2: Überweisungen im vereinfachten Verfahren: Neubaumor
+ atorium für Regierungsbauten...
+DESCRIPTION:Status: beendet\n96. Sitzung\nAusschuss Wohnen\, Stadtentwicklu
+ ng\, Bauwesen und Kommunen: federführend (DIP\, amtlich)\nAufgeführt sin
+ d nur die Vorlagen\, bei denen Wohnen/Bau federführend ist. Weitere 28 Dr
+ ucksachen dieses Punktes stehen im Textarchiv.\n\nw) Beratung des Antrags 
+ der Fraktion der AfD\nNeubaumoratorium für Regierungsbauten – Bundeshau
+ shalt entlasten und Flächenbedarf kritisch überprüfen\nDrucksache 21/81
+ 32 (https://dserver.bundestag.de/btd/21/081/2108132.pdf)\nÜberweisungsvor
+ schlag:\nA. f. Wohnen\, Stadtentwicklung\, Bauwesen und Kommunen\n\nLinks 
+ und Dokumente:\nDrucksache 21/8132 (Antrag) Neubaumoratorium für Regierun
+ gsbauten - Bundeshaushalt entlasten und Flächenbedarf...: https://dserver
+ .bundestag.de/btd/21/081/2108132.pdf\n  DIP: https://dip.bundestag.de/druc
+ ksache/-/290981\nPlenarprotokoll 96. Sitzung: https://dserver.bundestag.de
+ /btp/21/21096.pdf\nTextarchiv: https://www.bundestag.de/dokumente/textarch
+ iv/2026/kw39-de-ueberweisungen-1154686\nMediathek: https://www.bundestag.d
+ e/mediathek/plenarsitzungen\nTagesordnung: https://www.bundestag.de/tageso
+ rdnung
+LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
+ lin
+URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw39-de-ueberweisung
+ en-1154686
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/081/2108
+ 132.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21096.pd
+ f
+END:VEVENT
+BEGIN:VEVENT
+UID:bt-96-top-17-wohnungspolitik-studium-und-duale-ausbil@bundestag-kalende
+ r
+DTSTAMP:20261020T103732Z
+DTSTART;TZID=Europe/Berlin:20260924T192500
+DTEND;TZID=Europe/Berlin:20260924T195500
+SUMMARY:TOP 17: Wohnungspolitik\, Studium und duale Ausbildung
+DESCRIPTION:Status: beendet\n96. Sitzung\nAusschuss Wohnen\, Stadtentwicklu
+ ng\, Bauwesen und Kommunen: federführend (DIP\, amtlich)\nAufgeführt sin
+ d nur die Vorlagen\, bei denen Wohnen/Bau federführend ist. Weitere 2 Dru
+ cksachen dieses Punktes stehen im Textarchiv.\n\na) Beratung des Antrags d
+ er Fraktion BÜNDNIS 90/DIE GRÜNEN\nEndlich raus aus dem Elternhaus – J
+ unge Menschen auf dem Wohnungsmarkt unterstützen\nDrucksache 21/8122 (htt
+ ps://dserver.bundestag.de/btd/21/081/2108122.pdf)\n\nLinks und Dokumente:\
+ nDrucksache 21/8122 (Antrag) Endlich raus aus dem Elternhaus - Junge Mensc
+ hen auf dem Wohnungsmarkt unterstützen: https://dserver.bundestag.de/btd/
+ 21/081/2108122.pdf\n  DIP: https://dip.bundestag.de/drucksache/-/290970\nP
+ lenarprotokoll 96. Sitzung: https://dserver.bundestag.de/btp/21/21096.pdf\
+ nTextarchiv: https://www.bundestag.de/dokumente/textarchiv/2026/kw39-de-st
+ udium-lehre-1211280\nMediathek: https://www.bundestag.de/mediathek/plenars
+ itzungen\nTagesordnung: https://www.bundestag.de/tagesordnung
+LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
+ lin
+URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw39-de-studium-lehr
+ e-1211280
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/081/2108
+ 122.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21096.pd
+ f
+END:VEVENT
+BEGIN:VEVENT
+UID:bt-98-top-6-gedenkstaettenkonzeption-des-bundes@bundestag-kalender
+DTSTAMP:20261020T103732Z
+DTSTART;TZID=Europe/Berlin:20261007T193000
+DTEND;TZID=Europe/Berlin:20261007T201000
+SUMMARY:TOP 6: Gedenkstättenkonzeption des Bundes
+DESCRIPTION:Status: beendet\n98. Sitzung\nAusschuss Wohnen\, Stadtentwicklu
+ ng\, Bauwesen und Kommunen: federführend (DIP\, amtlich)\nAufgeführt sin
+ d nur die Vorlagen\, bei denen Wohnen/Bau federführend ist. Weitere 1 Dru
+ cksachen dieses Punktes stehen im Textarchiv.\n\nb) Beratung des Antrags d
+ er Fraktion der AfD\nKulturschutzgebiete für identitätsstiftende Bauwerk
+ e und Landschaften etablieren\nDrucksache 21/8371 (https://dserver.bundest
+ ag.de/btd/21/083/2108371.pdf)\n\nLinks und Dokumente:\nDrucksache 21/8371 
+ (Antrag) Kulturschutzgebiete für identitätsstiftende Bauwerke und Landsc
+ haften etablieren: https://dserver.bundestag.de/btd/21/083/2108371.pdf\n  
+ DIP: https://dip.bundestag.de/drucksache/-/291384\nPlenarprotokoll 98. Sit
+ zung: https://dserver.bundestag.de/btp/21/21098.pdf\nTextarchiv: https://w
+ ww.bundestag.de/dokumente/textarchiv/2026/kw41-de-erinnerungskultur-121751
+ 8\nMediathek: https://www.bundestag.de/mediathek/plenarsitzungen\nTagesord
+ nung: https://www.bundestag.de/tagesordnung
+LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
+ lin
+URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw41-de-erinnerungsk
+ ultur-1217518
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/083/2108
+ 371.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21098.pd
+ f
+END:VEVENT
+BEGIN:VEVENT
+UID:bt-99-top-17-bezahlbares-bauen-und-wohnen@bundestag-kalender
+DTSTAMP:20261020T103732Z
+DTSTART;TZID=Europe/Berlin:20261008T193000
+DTEND;TZID=Europe/Berlin:20261008T200500
+SUMMARY:TOP 17: Bezahlbares Bauen und Wohnen
+DESCRIPTION:Status: beendet\n99. Sitzung\nAusschuss Wohnen\, Stadtentwicklu
+ ng\, Bauwesen und Kommunen: federführend (DIP\, amtlich)\nWohnen/Bau fede
+ rführend bei: Vom Mieter zum Eigentümer - Wohneigentum wieder bezahlbar 
+ machen\; Gewachsene Heimat erhalten - Lokales Bauland an Einheimische verg
+ eben\nZuordnung je Drucksache (DIP):\n  21/8382 (Antrag) Vom Mieter zum Ei
+ gentümer - Wohneigentum wieder bezahlbar machen: Wohnen/Bau federführend
+ \n  21/8383 (Antrag) Gewachsene Heimat erhalten - Lokales Bauland an Einhe
+ imische vergeben: Wohnen/Bau federführend\n\na) Beratung des Antrags der 
+ Fraktion der AfD\nVom Mieter zum Eigentümer – Wohneigentum wieder bezah
+ lbar machen\nDrucksache 21/8382 (https://dserver.bundestag.de/btd/21/083/2
+ 108382.pdf)\n\nb) Beratung des Antrags der Fraktion der AfD\nGewachsene He
+ imat erhalten – lokales Bauland an Einheimische vergeben\nDrucksache 21/
+ 8383 (https://dserver.bundestag.de/btd/21/083/2108383.pdf)\n\nLinks und Do
+ kumente:\nDrucksache 21/8382 (Antrag) Vom Mieter zum Eigentümer - Wohneig
+ entum wieder bezahlbar machen: https://dserver.bundestag.de/btd/21/083/210
+ 8382.pdf\n  DIP: https://dip.bundestag.de/drucksache/-/291400\nDrucksache 
+ 21/8383 (Antrag) Gewachsene Heimat erhalten - Lokales Bauland an Einheimis
+ che vergeben: https://dserver.bundestag.de/btd/21/083/2108383.pdf\n  DIP: 
+ https://dip.bundestag.de/drucksache/-/291401\nPlenarprotokoll 99. Sitzung:
+  https://dserver.bundestag.de/btp/21/21099.pdf\nTextarchiv: https://www.bu
+ ndestag.de/dokumente/textarchiv/2026/kw41-de-bauen-wohnen-1217538\nMediath
+ ek: https://www.bundestag.de/mediathek/plenarsitzungen\nTagesordnung: http
+ s://www.bundestag.de/tagesordnung
+LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
+ lin
+URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw41-de-bauen-wohnen
+ -1217538
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/083/2108
+ 382.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/083/2108
+ 383.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21099.pd
+ f
+END:VEVENT
+BEGIN:VEVENT
+UID:bt-99-top-33-wohngeldgesetz@bundestag-kalender
+DTSTAMP:20261020T103732Z
+DTSTART;TZID=Europe/Berlin:20261009T003000
+DTEND;TZID=Europe/Berlin:20261009T005000
+SUMMARY:TOP 33: Wohngeldgesetz
+DESCRIPTION:Status: beendet\n99. Sitzung\nAusschuss Wohnen\, Stadtentwicklu
+ ng\, Bauwesen und Kommunen: federführend (DIP\, amtlich)\nAusschuss Wirts
+ chaft und Energie: mitberatend (DIP\, amtlich)\nWohnen/Bau federführend b
+ ei: Gesetz zur Vereinfachung und Fortentwicklung des Wohngeldgesetzes\; Zi
+ elgerichtete Wohngeldförderung unverändert beibehalten und Anpassung zum
+  1. Januar...\nWE mitberatend bei: Zielgerichtete Wohngeldförderung unver
+ ändert beibehalten und Anpassung zum 1. Januar...\nZuordnung je Drucksach
+ e (DIP):\n  21/8284 (Gesetzentwurf) Gesetz zur Vereinfachung und Fortentwi
+ cklung des Wohngeldgesetzes: Wohnen/Bau federführend\n  21/8386 (Antrag) 
+ Zielgerichtete Wohngeldförderung unverändert beibehalten und Anpassung z
+ um 1. Januar...: WE mitberatend\, Wohnen/Bau federführend\n\na) Erste Ber
+ atung des von der Bundesregierung\neingebrachten Entwurfs eines Gesetzes z
+ ur Vereinfachung und Fortentwicklung des Wohngeldgesetzes\nDrucksache 21/8
+ 284 (https://dserver.bundestag.de/btd/21/082/2108284.pdf)\n\nb) Beratung d
+ es Antrags der Fraktion der AfD\nZielgerichtete Wohngeldförderung unverä
+ ndert beibehalten und Anpassung zum 1. Januar 2027 umsetzen\nDrucksache 21
+ /8386 (https://dserver.bundestag.de/btd/21/083/2108386.pdf)\n\nLinks und D
+ okumente:\nDrucksache 21/8284 (Gesetzentwurf) Gesetz zur Vereinfachung und
+  Fortentwicklung des Wohngeldgesetzes: https://dserver.bundestag.de/btd/21
+ /082/2108284.pdf\n  DIP: https://dip.bundestag.de/drucksache/-/291266\nDru
+ cksache 21/8386 (Antrag) Zielgerichtete Wohngeldförderung unverändert be
+ ibehalten und Anpassung zum 1. Januar...: https://dserver.bundestag.de/btd
+ /21/083/2108386.pdf\n  DIP: https://dip.bundestag.de/drucksache/-/291404\n
+ Plenarprotokoll 99. Sitzung: https://dserver.bundestag.de/btp/21/21099.pdf
+ \nTextarchiv: https://www.bundestag.de/dokumente/textarchiv/2026/kw41-de-w
+ ohngeldgesetz-1217564\nMediathek: https://www.bundestag.de/mediathek/plena
+ rsitzungen\nTagesordnung: https://www.bundestag.de/tagesordnung
+LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
+ lin
+URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw41-de-wohngeldgese
+ tz-1217564
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/082/2108
+ 284.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/083/2108
+ 386.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21099.pd
+ f
+END:VEVENT
+BEGIN:VEVENT
+UID:bt-101-top-6-zp-5-staerkung-der-genossenschaftlichen-recht@bundestag-ka
+ lender
+DTSTAMP:20261020T103732Z
+DTSTART;TZID=Europe/Berlin:20261014T210500
+DTEND;TZID=Europe/Berlin:20261014T213000
+SUMMARY:TOP 6\, ZP 5: Stärkung der genossenschaftlichen Rechtsform
+DESCRIPTION:Status: beendet\n101. Sitzung\nAusschuss Wohnen\, Stadtentwickl
+ ung\, Bauwesen und Kommunen: federführend (DIP\, amtlich)\nAufgeführt si
+ nd nur die Vorlagen\, bei denen Wohnen/Bau federführend ist. Weitere 2 Dr
+ ucksachen dieses Punktes stehen im Textarchiv.\n\nZP 5) Beratung des Antra
+ gs der Fraktion der AfD\nBürger-Baugenossenschaft verankern – Wohneigen
+ tum risikoarm möglich machen\nDrucksache 21/8538 (https://dserver.bundest
+ ag.de/btd/21/085/2108538.pdf)\n\nLinks und Dokumente:\nDrucksache 21/8538 
+ (Antrag) Bürger-Baugenossenschaft verankern - Wohneigentum risikoarm mög
+ lich machen: https://dserver.bundestag.de/btd/21/085/2108538.pdf\n  DIP: h
+ ttps://dip.bundestag.de/drucksache/-/291578\nPlenarprotokoll 101. Sitzung:
+  https://dserver.bundestag.de/btp/21/21101.pdf\nTextarchiv: https://www.bu
+ ndestag.de/dokumente/textarchiv/2026/kw42-de-genossenschaften-1223574\nMed
+ iathek: https://www.bundestag.de/mediathek/plenarsitzungen\nTagesordnung: 
+ https://www.bundestag.de/tagesordnung
+LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
+ lin
+URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw42-de-genossenscha
+ ften-1223574
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/085/2108
+ 538.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21101.pd
+ f
+END:VEVENT
+END:VCALENDAR

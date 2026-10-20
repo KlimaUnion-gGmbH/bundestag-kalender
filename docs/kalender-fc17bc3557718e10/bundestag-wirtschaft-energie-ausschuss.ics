@@ -3,9 +3,11 @@ VERSION:2.0
 PRODID:-//bundestag-kalender//DE
 CALSCALE:GREGORIAN
 X-WR-TIMEZONE:Europe/Berlin
-X-WR-CALNAME:Bundestag: Ausschuss WE Sitzungen und Anhörungen
-DESCRIPTION:Sitzungen und öffentliche Anhörungen des Ausschusses Wirtscha
- ft und Energie (inoffiziell\, Quelle: bundestag.de)
+X-WR-CALNAME:Bundestag: TEIL von Ausschuss WE komplett: nur Sitzungen und A
+ nhörungen
+DESCRIPTION:Nur ein Teil des Kalenders Ausschuss WE komplett: Sitzungen und
+  öffentliche Anhörungen des Ausschusses Wirtschaft und Energie. Nicht zu
+ sätzlich zum kompletten Kalender abonnieren.
 REFRESH-INTERVAL;VALUE=DURATION:PT15M
 X-PUBLISHED-TTL:PT15M
 BEGIN:VTIMEZONE
@@ -27,7 +29,7 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sw-20260112@bundestag-kalender
-DTSTAMP:20261019T070701Z
+DTSTAMP:20261020T103647Z
 DTSTART;VALUE=DATE:20260112
 DTEND;VALUE=DATE:20260117
 SUMMARY:Sitzungswoche
@@ -35,7 +37,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20260126@bundestag-kalender
-DTSTAMP:20261019T070701Z
+DTSTAMP:20261020T103647Z
 DTSTART;VALUE=DATE:20260126
 DTEND;VALUE=DATE:20260131
 SUMMARY:Sitzungswoche
@@ -43,7 +45,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20260223@bundestag-kalender
-DTSTAMP:20261019T070701Z
+DTSTAMP:20261020T103647Z
 DTSTART;VALUE=DATE:20260223
 DTEND;VALUE=DATE:20260228
 SUMMARY:Sitzungswoche
@@ -51,7 +53,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20260302@bundestag-kalender
-DTSTAMP:20261019T070701Z
+DTSTAMP:20261020T103647Z
 DTSTART;VALUE=DATE:20260302
 DTEND;VALUE=DATE:20260307
 SUMMARY:Sitzungswoche
@@ -59,7 +61,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20260316@bundestag-kalender
-DTSTAMP:20261019T070701Z
+DTSTAMP:20261020T103647Z
 DTSTART;VALUE=DATE:20260316
 DTEND;VALUE=DATE:20260321
 SUMMARY:Sitzungswoche
@@ -67,7 +69,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20260323@bundestag-kalender
-DTSTAMP:20261019T070701Z
+DTSTAMP:20261020T103647Z
 DTSTART;VALUE=DATE:20260323
 DTEND;VALUE=DATE:20260328
 SUMMARY:Sitzungswoche
@@ -75,7 +77,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20260413@bundestag-kalender
-DTSTAMP:20261019T070701Z
+DTSTAMP:20261020T103647Z
 DTSTART;VALUE=DATE:20260413
 DTEND;VALUE=DATE:20260418
 SUMMARY:Sitzungswoche
@@ -83,7 +85,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20260420@bundestag-kalender
-DTSTAMP:20261019T070701Z
+DTSTAMP:20261020T103647Z
 DTSTART;VALUE=DATE:20260420
 DTEND;VALUE=DATE:20260425
 SUMMARY:Sitzungswoche
@@ -91,7 +93,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20260504@bundestag-kalender
-DTSTAMP:20261019T070701Z
+DTSTAMP:20261020T103647Z
 DTSTART;VALUE=DATE:20260504
 DTEND;VALUE=DATE:20260509
 SUMMARY:Sitzungswoche
@@ -99,7 +101,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20260518@bundestag-kalender
-DTSTAMP:20261019T070701Z
+DTSTAMP:20261020T103647Z
 DTSTART;VALUE=DATE:20260518
 DTEND;VALUE=DATE:20260523
 SUMMARY:Sitzungswoche
@@ -107,7 +109,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20260608@bundestag-kalender
-DTSTAMP:20261019T070701Z
+DTSTAMP:20261020T103647Z
 DTSTART;VALUE=DATE:20260608
 DTEND;VALUE=DATE:20260613
 SUMMARY:Sitzungswoche
@@ -115,7 +117,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20260622@bundestag-kalender
-DTSTAMP:20261019T070701Z
+DTSTAMP:20261020T103647Z
 DTSTART;VALUE=DATE:20260622
 DTEND;VALUE=DATE:20260627
 SUMMARY:Sitzungswoche
@@ -123,7 +125,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20260706@bundestag-kalender
-DTSTAMP:20261019T070701Z
+DTSTAMP:20261020T103647Z
 DTSTART;VALUE=DATE:20260706
 DTEND;VALUE=DATE:20260711
 SUMMARY:Sitzungswoche
@@ -131,7 +133,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20260907@bundestag-kalender
-DTSTAMP:20261019T070701Z
+DTSTAMP:20261020T103647Z
 DTSTART;VALUE=DATE:20260907
 DTEND;VALUE=DATE:20260912
 SUMMARY:Sitzungswoche
@@ -139,7 +141,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20260921@bundestag-kalender
-DTSTAMP:20261019T070701Z
+DTSTAMP:20261020T103647Z
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260926
 SUMMARY:Sitzungswoche
@@ -147,7 +149,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20261005@bundestag-kalender
-DTSTAMP:20261019T070701Z
+DTSTAMP:20261020T103647Z
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261010
 SUMMARY:Sitzungswoche
@@ -155,7 +157,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20261012@bundestag-kalender
-DTSTAMP:20261019T070701Z
+DTSTAMP:20261020T103647Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261017
 SUMMARY:Sitzungswoche
@@ -163,7 +165,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20261102@bundestag-kalender
-DTSTAMP:20261019T070701Z
+DTSTAMP:20261020T103647Z
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261107
 SUMMARY:Sitzungswoche
@@ -171,7 +173,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20261109@bundestag-kalender
-DTSTAMP:20261019T070701Z
+DTSTAMP:20261020T103647Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261114
 SUMMARY:Sitzungswoche
@@ -179,7 +181,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20261123@bundestag-kalender
-DTSTAMP:20261019T070701Z
+DTSTAMP:20261020T103647Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261128
 SUMMARY:Sitzungswoche
@@ -187,7 +189,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20261207@bundestag-kalender
-DTSTAMP:20261019T070701Z
+DTSTAMP:20261020T103647Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261212
 SUMMARY:Sitzungswoche
@@ -195,7 +197,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20261214@bundestag-kalender
-DTSTAMP:20261019T070701Z
+DTSTAMP:20261020T103647Z
 DTSTART;VALUE=DATE:20261214
 DTEND;VALUE=DATE:20261219
 SUMMARY:Sitzungswoche
@@ -203,7 +205,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20270111@bundestag-kalender
-DTSTAMP:20261019T070701Z
+DTSTAMP:20261020T103647Z
 DTSTART;VALUE=DATE:20270111
 DTEND;VALUE=DATE:20270116
 SUMMARY:Sitzungswoche
@@ -211,7 +213,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20270125@bundestag-kalender
-DTSTAMP:20261019T070701Z
+DTSTAMP:20261020T103647Z
 DTSTART;VALUE=DATE:20270125
 DTEND;VALUE=DATE:20270130
 SUMMARY:Sitzungswoche
@@ -219,7 +221,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20270215@bundestag-kalender
-DTSTAMP:20261019T070701Z
+DTSTAMP:20261020T103647Z
 DTSTART;VALUE=DATE:20270215
 DTEND;VALUE=DATE:20270220
 SUMMARY:Sitzungswoche
@@ -227,7 +229,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20270301@bundestag-kalender
-DTSTAMP:20261019T070701Z
+DTSTAMP:20261020T103647Z
 DTSTART;VALUE=DATE:20270301
 DTEND;VALUE=DATE:20270306
 SUMMARY:Sitzungswoche
@@ -235,7 +237,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20270315@bundestag-kalender
-DTSTAMP:20261019T070701Z
+DTSTAMP:20261020T103647Z
 DTSTART;VALUE=DATE:20270315
 DTEND;VALUE=DATE:20270320
 SUMMARY:Sitzungswoche
@@ -243,7 +245,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20270405@bundestag-kalender
-DTSTAMP:20261019T070701Z
+DTSTAMP:20261020T103647Z
 DTSTART;VALUE=DATE:20270405
 DTEND;VALUE=DATE:20270410
 SUMMARY:Sitzungswoche
@@ -251,7 +253,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20270412@bundestag-kalender
-DTSTAMP:20261019T070701Z
+DTSTAMP:20261020T103647Z
 DTSTART;VALUE=DATE:20270412
 DTEND;VALUE=DATE:20270417
 SUMMARY:Sitzungswoche
@@ -259,7 +261,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20270426@bundestag-kalender
-DTSTAMP:20261019T070701Z
+DTSTAMP:20261020T103647Z
 DTSTART;VALUE=DATE:20270426
 DTEND;VALUE=DATE:20270501
 SUMMARY:Sitzungswoche
@@ -267,7 +269,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20270510@bundestag-kalender
-DTSTAMP:20261019T070701Z
+DTSTAMP:20261020T103647Z
 DTSTART;VALUE=DATE:20270510
 DTEND;VALUE=DATE:20270515
 SUMMARY:Sitzungswoche
@@ -275,7 +277,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20270531@bundestag-kalender
-DTSTAMP:20261019T070701Z
+DTSTAMP:20261020T103647Z
 DTSTART;VALUE=DATE:20270531
 DTEND;VALUE=DATE:20270605
 SUMMARY:Sitzungswoche
@@ -283,7 +285,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20270614@bundestag-kalender
-DTSTAMP:20261019T070701Z
+DTSTAMP:20261020T103647Z
 DTSTART;VALUE=DATE:20270614
 DTEND;VALUE=DATE:20270619
 SUMMARY:Sitzungswoche
@@ -291,7 +293,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20270628@bundestag-kalender
-DTSTAMP:20261019T070701Z
+DTSTAMP:20261020T103647Z
 DTSTART;VALUE=DATE:20270628
 DTEND;VALUE=DATE:20270703
 SUMMARY:Sitzungswoche
@@ -299,7 +301,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20270705@bundestag-kalender
-DTSTAMP:20261019T070701Z
+DTSTAMP:20261020T103647Z
 DTSTART;VALUE=DATE:20270705
 DTEND;VALUE=DATE:20270710
 SUMMARY:Sitzungswoche
@@ -307,7 +309,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20270906@bundestag-kalender
-DTSTAMP:20261019T070701Z
+DTSTAMP:20261020T103647Z
 DTSTART;VALUE=DATE:20270906
 DTEND;VALUE=DATE:20270911
 SUMMARY:Sitzungswoche
@@ -315,7 +317,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20270920@bundestag-kalender
-DTSTAMP:20261019T070701Z
+DTSTAMP:20261020T103647Z
 DTSTART;VALUE=DATE:20270920
 DTEND;VALUE=DATE:20270925
 SUMMARY:Sitzungswoche
@@ -323,7 +325,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20271004@bundestag-kalender
-DTSTAMP:20261019T070701Z
+DTSTAMP:20261020T103647Z
 DTSTART;VALUE=DATE:20271004
 DTEND;VALUE=DATE:20271009
 SUMMARY:Sitzungswoche
@@ -331,7 +333,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20271025@bundestag-kalender
-DTSTAMP:20261019T070701Z
+DTSTAMP:20261020T103647Z
 DTSTART;VALUE=DATE:20271025
 DTEND;VALUE=DATE:20271030
 SUMMARY:Sitzungswoche
@@ -339,7 +341,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20271108@bundestag-kalender
-DTSTAMP:20261019T070701Z
+DTSTAMP:20261020T103647Z
 DTSTART;VALUE=DATE:20271108
 DTEND;VALUE=DATE:20271113
 SUMMARY:Sitzungswoche
@@ -347,7 +349,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20271122@bundestag-kalender
-DTSTAMP:20261019T070701Z
+DTSTAMP:20261020T103647Z
 DTSTART;VALUE=DATE:20271122
 DTEND;VALUE=DATE:20271127
 SUMMARY:Sitzungswoche
@@ -355,7 +357,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20271129@bundestag-kalender
-DTSTAMP:20261019T070701Z
+DTSTAMP:20261020T103647Z
 DTSTART;VALUE=DATE:20271129
 DTEND;VALUE=DATE:20271204
 SUMMARY:Sitzungswoche
@@ -363,7 +365,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20271213@bundestag-kalender
-DTSTAMP:20261019T070701Z
+DTSTAMP:20261020T103647Z
 DTSTART;VALUE=DATE:20271213
 DTEND;VALUE=DATE:20271218
 SUMMARY:Sitzungswoche
@@ -371,7 +373,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-a09-wirtschaft-sitzung-22@bundestag-kalender
-DTSTAMP:20261019T070701Z
+DTSTAMP:20261020T103647Z
 DTSTART;TZID=Europe/Berlin:20260114T103000
 DTEND;TZID=Europe/Berlin:20260114T123000
 SUMMARY:Ausschuss WE: 22. Sitzung (nicht öffentlich)
@@ -390,7 +392,7 @@ ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11362
 END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-a09-wirtschaft-sitzung-23@bundestag-kalender
-DTSTAMP:20261019T070701Z
+DTSTAMP:20261020T103647Z
 DTSTART;TZID=Europe/Berlin:20260128T102000
 DTEND;TZID=Europe/Berlin:20260128T122000
 SUMMARY:Ausschuss WE: 23. Sitzung (nicht öffentlich)
@@ -416,46 +418,47 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-a09-wirtschaft-anhoerung-1140336@bundestag-kalend
  er
-DTSTAMP:20261019T070701Z
+DTSTAMP:20261020T103647Z
 DTSTART;TZID=Europe/Berlin:20260225T090000
 DTEND;TZID=Europe/Berlin:20260225T100000
-SUMMARY:Ausschuss WE: Anhörung „Unitarisierungsabkommen zwischen Deutsch
- land und den NL“
-DESCRIPTION:Öffentliche Anhörung (25. Sitzung)\n\nGegenstand: Der Ausschu
- ss für Wirtschaft und Energie hat sich am Mittwoch\, 25. Februar 2026\, i
- n einer einstündigen öffentlichen Anhörung mit dem Gesetzentwurf der Bu
- ndesregierung zu dem Abkommen zwischen der Regierung der Bundesrepublik De
- utschland und der Regierung des Königreichs der Niederlande über die Ers
- chließung von grenzüberschreitenden Kohlenwasserstofflagerstätten in de
- r Nordsee (21/3491) befasst. In der Anhörung warnten Umweltverbände vor 
- einer Ausweitung der Gasförderung in der Nordsee. Die Deutsche Umwelthilf
- e kritisierte\, dass weder deutsche Interessen noch die Belange des Natur-
-  und Klimaschutzes gewahrt würden. Deutschland und die Niederlande wollen
-  ein grenzüberschreitendes Erdgasfeld ... (weiter auf der Seite der Anhö
- rung)\n\nDokumente:\nTagesordnung: https://www.bundestag.de/resource/blob/
- 1140312/to_25_25-02-2026_oeA_Unitarisierungsabkommen_Dtl-NL.pdf\n21/3491: 
- https://dserver.bundestag.de/btd/21/034/2103491.pdf\nWortprotokoll der 25.
-  Sitzung (öffentliche Anhörung zum Gesetzentwurf der Bundesregierung "En
- twurf eines Gesetzes zu dem Abkommen vom 27. August 2025 zwischen der Regi
- erung der Bundesrepublik Deutschland und der Regierung des Königreichs de
- r Niederlande über die Erschließung von grenzüberschreitenden Kohlenwas
- serstofflagerstätten in der Nordsee"\, BT-Drucksache 21/3491) des Ausschu
- sses für Wirtschaft und Energie am 25. Februar 2026: https://www.bundesta
- g.de/resource/blob/1170574/Wortprotokoll_25-_Sitzung_25-02-2026.pdf\nListe
-  der Sachverständigen: https://www.bundestag.de/resource/blob/1149488/Lis
- te-der-Sachverstaendigen.pdf\n21(9)174 Stellungnahme der Deutschen Umwelth
- ilfe e.V. (DUH): https://www.bundestag.de/resource/blob/1149532/Stellungna
- hme_DUH.pdf\n21(9)175 Stellungnahme der Sachverständigen Dr. Roda Verheye
- n\, Rechtsanwältin: https://www.bundestag.de/resource/blob/1149626/Stellu
- ngnahme_Dr-_Roda_Verheyen_RAin.pdf\n21(9)176 Stellungnahme des Greenpeace 
- e.V.: https://www.bundestag.de/resource/blob/1149694/Stellungnahme_Greenpe
- ace_eV.pdf\n21(9)180 Stellungnahme des Bundesverband Erdgas\, Erdöl und G
- eoenergie e.V. (BVEG): https://www.bundestag.de/resource/blob/1149856/Stel
- lungnahme_BVEG.pdf\n21(9)187 Stellungnahme des Sachverständigen Dr. Fritz
-  von Hammerstein: https://www.bundestag.de/resource/blob/1150958/Stellungn
- ahme_Dr-_Fritz_von_Hammerstein.pdf\n\nSeite des Ausschusses: https://www.b
- undestag.de/ausschuesse/a09_wirtschaft\nÜbertragung: https://www.bundesta
- g.de/mediathek
+SUMMARY:Ausschuss WE: 25. Sitzung (öffentlich): Anhörung „Unitarisierun
+ gsabkommen zwischen Deutschland und den NL“
+DESCRIPTION:Öffentliche Anhörung\, 25. Sitzung des Ausschusses. Anhörung
+ en zählen als zusätzliche Sitzungen neben der regulären Sitzung der Sit
+ zungswoche.\n\nGegenstand: Der Ausschuss für Wirtschaft und Energie hat s
+ ich am Mittwoch\, 25. Februar 2026\, in einer einstündigen öffentlichen 
+ Anhörung mit dem Gesetzentwurf der Bundesregierung zu dem Abkommen zwisch
+ en der Regierung der Bundesrepublik Deutschland und der Regierung des Kön
+ igreichs der Niederlande über die Erschließung von grenzüberschreitende
+ n Kohlenwasserstofflagerstätten in der Nordsee (21/3491) befasst. In der 
+ Anhörung warnten Umweltverbände vor einer Ausweitung der Gasförderung i
+ n der Nordsee. Die Deutsche Umwelthilfe kritisierte\, dass weder deutsche 
+ Interessen noch die Belange des Natur- und Klimaschutzes gewahrt würden. 
+ Deutschland und die Niederlande wollen ein grenzüberschreitendes Erdgasfe
+ ld ... (weiter auf der Seite der Sitzung)\n\nDokumente:\nTagesordnung: htt
+ ps://www.bundestag.de/resource/blob/1140312/to_25_25-02-2026_oeA_Unitarisi
+ erungsabkommen_Dtl-NL.pdf\n21/3491: https://dserver.bundestag.de/btd/21/03
+ 4/2103491.pdf\nWortprotokoll der 25. Sitzung (öffentliche Anhörung zum G
+ esetzentwurf der Bundesregierung "Entwurf eines Gesetzes zu dem Abkommen v
+ om 27. August 2025 zwischen der Regierung der Bundesrepublik Deutschland u
+ nd der Regierung des Königreichs der Niederlande über die Erschließung 
+ von grenzüberschreitenden Kohlenwasserstofflagerstätten in der Nordsee"\
+ , BT-Drucksache 21/3491) des Ausschusses für Wirtschaft und Energie am 25
+ . Februar 2026: https://www.bundestag.de/resource/blob/1170574/Wortprotoko
+ ll_25-_Sitzung_25-02-2026.pdf\nListe der Sachverständigen: https://www.bu
+ ndestag.de/resource/blob/1149488/Liste-der-Sachverstaendigen.pdf\n21(9)174
+  Stellungnahme der Deutschen Umwelthilfe e.V. (DUH): https://www.bundestag
+ .de/resource/blob/1149532/Stellungnahme_DUH.pdf\n21(9)175 Stellungnahme de
+ r Sachverständigen Dr. Roda Verheyen\, Rechtsanwältin: https://www.bunde
+ stag.de/resource/blob/1149626/Stellungnahme_Dr-_Roda_Verheyen_RAin.pdf\n21
+ (9)176 Stellungnahme des Greenpeace e.V.: https://www.bundestag.de/resourc
+ e/blob/1149694/Stellungnahme_Greenpeace_eV.pdf\n21(9)180 Stellungnahme des
+  Bundesverband Erdgas\, Erdöl und Geoenergie e.V. (BVEG): https://www.bun
+ destag.de/resource/blob/1149856/Stellungnahme_BVEG.pdf\n21(9)187 Stellungn
+ ahme des Sachverständigen Dr. Fritz von Hammerstein: https://www.bundesta
+ g.de/resource/blob/1150958/Stellungnahme_Dr-_Fritz_von_Hammerstein.pdf\n\n
+ Seite des Ausschusses: https://www.bundestag.de/ausschuesse/a09_wirtschaft
+ \nÜbertragung: https://www.bundestag.de/mediathek
 LOCATION:Berlin\, Paul-Löbe-Haus\, Sitzungssaal E.200
 URL:https://www.bundestag.de/ausschuesse/a09_wirtschaft/wp21_a09_Anhoerunge
  n/1140336-1140336
@@ -480,7 +483,7 @@ ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11509
 END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-a09-wirtschaft-sitzung-26@bundestag-kalender
-DTSTAMP:20261019T070701Z
+DTSTAMP:20261020T103647Z
 DTSTART;TZID=Europe/Berlin:20260225T103000
 DTEND;TZID=Europe/Berlin:20260225T123000
 SUMMARY:Ausschuss WE: 26. Sitzung (nicht öffentlich)
@@ -499,7 +502,7 @@ ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11496
 END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-a09-wirtschaft-sitzung-27@bundestag-kalender
-DTSTAMP:20261019T070701Z
+DTSTAMP:20261020T103647Z
 DTSTART;TZID=Europe/Berlin:20260304T103000
 DTEND;TZID=Europe/Berlin:20260304T123000
 SUMMARY:Ausschuss WE: 27. Sitzung (nicht öffentlich)
@@ -521,7 +524,7 @@ ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11509
 END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-a09-wirtschaft-sitzung-28@bundestag-kalender
-DTSTAMP:20261019T070701Z
+DTSTAMP:20261020T103647Z
 DTSTART;TZID=Europe/Berlin:20260318T103000
 DTEND;TZID=Europe/Berlin:20260318T123000
 SUMMARY:Ausschuss WE: 28. Sitzung (nicht öffentlich)
@@ -544,47 +547,50 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-a09-wirtschaft-anhoerung-1156340@bundestag-kalend
  er
-DTSTAMP:20261019T070701Z
+DTSTAMP:20261020T103647Z
 DTSTART;TZID=Europe/Berlin:20260320T073000
 DTEND;TZID=Europe/Berlin:20260320T090000
-SUMMARY:Ausschuss WE: Anhörung zum „Kraftstoffmaßnahmenpaket“
-DESCRIPTION:Öffentliche Anhörung (29. Sitzung)\n\nGegenstand: Die von den
-  Koalitionsfraktionen CDU/CSU und SPD geplanten Maßnahmen als Reaktion au
- f die deutlichen Preissteigerungen an den Tankstellen sind in einer Anhör
- ung des Ausschusses für Wirtschaft und Energie am Freitag\, 20. März 202
- 6\, auf ein unterschiedliches Echo gestoßen. Die Koalition will mit dem E
- ntwurf für ein Kraftstoffpreisanpassungsgesetz (21/4744) einerseits das K
- artellrecht verschärfen. Zum anderen sollen Tankstellen nur noch einmal a
- m Tag um 12 Uhr die Preise erhöhen dürfen. Preissenkungen sollen hingege
- n jederzeit möglich sein. Das Bundeskartellamt soll einfacher gegen markt
- beherrschende Unternehmen aus dem Kraftstoffbereich vorgehen können\, wen
- n Hinweise auf unangemessen hohe ... (weiter auf der Seite der Anhörung)\
- n\nDokumente:\nTagesordnung: https://www.bundestag.de/resource/blob/115638
- 0/to_29_20-03-2026_oeA_Kraftstoffmassnahmenpaket.pdf\n21/4744: https://dse
- rver.bundestag.de/btd/21/047/2104744.pdf\nWortprotokoll der 29. Sitzung (
- öffentliche Anhörung zum Gesetzentwurf der Fraktionen der CDU/CSU und SP
- D "Entwurf eines Gesetzes zur Einführung eines Gesetzes zur Anpassung von
-  Kraftstoffpreisen und zur Änderung des Gesetzes gegen Wettbewerbsbeschr
- änkungen (Kraftstoffmaßnahmenpaket))"\, BT-Drucksache 21/4744\, des Auss
- chusses für Wirtschaft und Energie am 20. März 2026: https://www.bundest
- ag.de/resource/blob/1205024/Wortprotokoll_29-Sitzung_20-03-2026.pdf\nListe
-  der Sachverständigen: https://www.bundestag.de/resource/blob/1156634/Lis
- te-der-Sachverstaendigen.pdf\n21(9)201 Stellungnahme des Sachverständigen
-  Prof. Dr. Justus Haucap\, Heinrich-Heine University of Düsseldorf: https
- ://www.bundestag.de/resource/blob/1156600/Stellungnahme_SV_Dr-_Justus_Hauc
- ap_Uni_Duesseldorf.pdf\n21(9)202 Stellungnahme des Verbraucherzentrale Bun
- desverband e.V. (vzbv): https://www.bundestag.de/resource/blob/1156612/Ste
- llungnahme_vzbv_eV.pdf\n21(9)203 Stellungnahme Monopolkommission: https://
- www.bundestag.de/resource/blob/1156648/Stellungnahme_SV_Prof-Dr-Duso_Monop
- olkommission.pdf\n21(9)204 Stellungnahme des Deutschen Gewerkschaftsbundes
- : https://www.bundestag.de/resource/blob/1156680/Stellungnahme_DGB.pdf\n20
- (21)205 Stellungnahme des Sachverständigen Prof. Dr. Jens-Uwe Franck\, LL
- .M. (Yale)\, Universität Mannheim: https://www.bundestag.de/resource/blob
- /1156862/Stellungnahme-Prof-Dr-Franck.pdf\n21(9)208 Stellungnahme des Sach
- verständigen Daniel Witzani-Haim\, Msc MA\, Arbeiterkammer Wien: https://
- www.bundestag.de/resource/blob/1157012/Stellungnahme_Arbeiterkammer_Wien.p
- df\n\nSeite des Ausschusses: https://www.bundestag.de/ausschuesse/a09_wirt
- schaft\nÜbertragung: https://www.bundestag.de/mediathek
+SUMMARY:Ausschuss WE: 29. Sitzung (öffentlich): Anhörung zum „Kraftstof
+ fmaßnahmenpaket“
+DESCRIPTION:Öffentliche Anhörung\, 29. Sitzung des Ausschusses. Anhörung
+ en zählen als zusätzliche Sitzungen neben der regulären Sitzung der Sit
+ zungswoche.\n\nGegenstand: Die von den Koalitionsfraktionen CDU/CSU und SP
+ D geplanten Maßnahmen als Reaktion auf die deutlichen Preissteigerungen a
+ n den Tankstellen sind in einer Anhörung des Ausschusses für Wirtschaft 
+ und Energie am Freitag\, 20. März 2026\, auf ein unterschiedliches Echo g
+ estoßen. Die Koalition will mit dem Entwurf für ein Kraftstoffpreisanpas
+ sungsgesetz (21/4744) einerseits das Kartellrecht verschärfen. Zum andere
+ n sollen Tankstellen nur noch einmal am Tag um 12 Uhr die Preise erhöhen 
+ dürfen. Preissenkungen sollen hingegen jederzeit möglich sein. Das Bunde
+ skartellamt soll einfacher gegen marktbeherrschende Unternehmen aus dem Kr
+ aftstoffbereich vorgehen können\, wenn Hinweise auf unangemessen hohe ...
+  (weiter auf der Seite der Sitzung)\n\nDokumente:\nTagesordnung: https://w
+ ww.bundestag.de/resource/blob/1156380/to_29_20-03-2026_oeA_Kraftstoffmassn
+ ahmenpaket.pdf\n21/4744: https://dserver.bundestag.de/btd/21/047/2104744.p
+ df\nWortprotokoll der 29. Sitzung (öffentliche Anhörung zum Gesetzentwur
+ f der Fraktionen der CDU/CSU und SPD "Entwurf eines Gesetzes zur Einführu
+ ng eines Gesetzes zur Anpassung von Kraftstoffpreisen und zur Änderung de
+ s Gesetzes gegen Wettbewerbsbeschränkungen (Kraftstoffmaßnahmenpaket))"\
+ , BT-Drucksache 21/4744\, des Ausschusses für Wirtschaft und Energie am 2
+ 0. März 2026: https://www.bundestag.de/resource/blob/1205024/Wortprotokol
+ l_29-Sitzung_20-03-2026.pdf\nListe der Sachverständigen: https://www.bund
+ estag.de/resource/blob/1156634/Liste-der-Sachverstaendigen.pdf\n21(9)201 S
+ tellungnahme des Sachverständigen Prof. Dr. Justus Haucap\, Heinrich-Hein
+ e University of Düsseldorf: https://www.bundestag.de/resource/blob/115660
+ 0/Stellungnahme_SV_Dr-_Justus_Haucap_Uni_Duesseldorf.pdf\n21(9)202 Stellun
+ gnahme des Verbraucherzentrale Bundesverband e.V. (vzbv): https://www.bund
+ estag.de/resource/blob/1156612/Stellungnahme_vzbv_eV.pdf\n21(9)203 Stellun
+ gnahme Monopolkommission: https://www.bundestag.de/resource/blob/1156648/S
+ tellungnahme_SV_Prof-Dr-Duso_Monopolkommission.pdf\n21(9)204 Stellungnahme
+  des Deutschen Gewerkschaftsbundes: https://www.bundestag.de/resource/blob
+ /1156680/Stellungnahme_DGB.pdf\n20(21)205 Stellungnahme des Sachverständi
+ gen Prof. Dr. Jens-Uwe Franck\, LL.M. (Yale)\, Universität Mannheim: http
+ s://www.bundestag.de/resource/blob/1156862/Stellungnahme-Prof-Dr-Franck.pd
+ f\n21(9)208 Stellungnahme des Sachverständigen Daniel Witzani-Haim\, Msc 
+ MA\, Arbeiterkammer Wien: https://www.bundestag.de/resource/blob/1157012/S
+ tellungnahme_Arbeiterkammer_Wien.pdf\n\nSeite des Ausschusses: https://www
+ .bundestag.de/ausschuesse/a09_wirtschaft\nÜbertragung: https://www.bundes
+ tag.de/mediathek
 LOCATION:Berlin\, Paul-Löbe-Haus\, Sitzungssaal E.200
 URL:https://www.bundestag.de/ausschuesse/a09_wirtschaft/wp21_a09_Anhoerunge
  n/1156340-1156340
@@ -611,23 +617,26 @@ ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11570
 END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-a09-wirtschaft-sitzung-30@bundestag-kalender
-DTSTAMP:20261019T070701Z
+DTSTAMP:20261020T103647Z
 DTSTART;TZID=Europe/Berlin:20260325T103000
 DTEND;TZID=Europe/Berlin:20260325T123000
 SUMMARY:Ausschuss WE: 30. Sitzung (nicht öffentlich)
 DESCRIPTION:30. Sitzung des Ausschusses (nicht öffentlich)\nEnde geschätz
- t.\n\nTagesordnung und Ergänzungen:\n1. Ergänzungsmitteilung: https://ww
- w.bundestag.de/resource/blob/1157094/to_30_25-03-2026_1-_ergaenzung.pdf\n\
- nSeite des Ausschusses: https://www.bundestag.de/ausschuesse/a09_wirtschaf
- t
+ t.\n\nTagesordnung und Ergänzungen:\nTagesordnung: https://www.bundestag.
+ de/resource/blob/1156610/to_30_25-03-2026.pdf\n1. Ergänzungsmitteilung: h
+ ttps://www.bundestag.de/resource/blob/1157094/to_30_25-03-2026_1-_ergaenzu
+ ng.pdf\n\nSeite des Ausschusses: https://www.bundestag.de/ausschuesse/a09_
+ wirtschaft
 LOCATION:Paul-Löbe-Haus\, Sitzungssaal E.200
 URL:https://www.bundestag.de/ausschuesse/a09_wirtschaft
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11566
+ 10/to_30_25-03-2026.pdf
 ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11570
  94/to_30_25-03-2026_1-_ergaenzung.pdf
 END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-a09-wirtschaft-sitzung-31@bundestag-kalender
-DTSTAMP:20261019T070701Z
+DTSTAMP:20261020T103647Z
 DTSTART;TZID=Europe/Berlin:20260415T103000
 DTEND;TZID=Europe/Berlin:20260415T123000
 SUMMARY:Ausschuss WE: 31. Sitzung (nicht öffentlich)
@@ -642,7 +651,7 @@ ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11650
 END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-a09-wirtschaft-sitzung-32@bundestag-kalender
-DTSTAMP:20261019T070701Z
+DTSTAMP:20261020T103647Z
 DTSTART;TZID=Europe/Berlin:20260422T103000
 DTEND;TZID=Europe/Berlin:20260422T123000
 SUMMARY:Ausschuss WE: 32. Sitzung (nicht öffentlich)
@@ -667,7 +676,7 @@ ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11669
 END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-a09-wirtschaft-sitzung-33@bundestag-kalender
-DTSTAMP:20261019T070701Z
+DTSTAMP:20261020T103647Z
 DTSTART;TZID=Europe/Berlin:20260506T103000
 DTEND;TZID=Europe/Berlin:20260506T123000
 SUMMARY:Ausschuss WE: 33. Sitzung (nicht öffentlich)
@@ -683,37 +692,40 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-a09-wirtschaft-anhoerung-1174384@bundestag-kalend
  er
-DTSTAMP:20261019T070701Z
+DTSTAMP:20261020T103647Z
 DTSTART;TZID=Europe/Berlin:20260518T143000
 DTEND;TZID=Europe/Berlin:20260518T160000
-SUMMARY:Ausschuss WE: Anhörung zum „Ökodesign“
-DESCRIPTION:Öffentliche Anhörung (34. Sitzung)\n\nGegenstand: Nicht gewer
- bliche Reparateure und Reparatur-Cafés können sich auf regulatorische Er
- leichterungen einstellen. In einer öffentlichen Anhörung des Ausschusses
-  für Wirtschaft und Energie am Montag\, 18. Mai 2026\, die vom Vorsitzend
- en Christian Freiherr von Stetten (CDU/CSU) geleitet wurde\, begrüßte To
- m Hansing vom „Runden Tisch Reparatur“\, dass der Zugang zu Ersatzteil
- en und Reparaturinformationen für fachlich kompetente Reparateure erleich
- tert werden soll. Mit dem von der Bundesregierung eingebrachten Entwurf ei
- nes Gesetzes zur Modernisierung der nationalen Umsetzung von europäischen
-  Regelungen zum Ökodesign\, zur Energieverbrauchskennzeichnung und zu wei
- teren Regelungen (21/5141) werde für die ... (weiter auf der Seite der An
- hörung)\n\nDokumente:\nTagesordnung: https://www.bundestag.de/resource/bl
- ob/1174692/to_34_18-05-2026_oeA_Oekodesign.pdf\n21/5141: https://dserver.b
- undestag.de/btd/21/051/2105141.pdf\nWortprotokoll der 34. Sitzung (öffent
- liche Anhörung zum Gesetzentwurf der Bundesregierung "Entwurf eines Geset
- zes zur Modernisierung der nationalen Umsetzung von europäischen Regelung
- en zum Ökodesign\, zur Energieverbrauchskennzeichnung und zu weiteren Reg
- elungen))"\, BT-Drucksache 21/5141\, des Ausschusses für Wirtschaft und E
- nergie am 18. Mai 2026: https://www.bundestag.de/resource/blob/1205078/Wor
- tprotokoll_34-Sitzung_18-05-2026.pdf\nListe der Sachverständigen: https:/
- /www.bundestag.de/resource/blob/1178494/Sachverstaendigenliste.pdf\n21(9)2
- 46 Stellungnahme des Cradle to Cradle - Wiege zur Wiege e.V.: https://www.
- bundestag.de/resource/blob/1178580/Stellungnahme_Cradle_to_Cradle_eV.pdf\n
- 21(9)247 Stellungnahme des Runder Tisch Reparatur e.V.: https://www.bundes
- tag.de/resource/blob/1178600/Stellungnahme_Runder_Tisch_Reparatur_eV.pdf\n
- \nSeite des Ausschusses: https://www.bundestag.de/ausschuesse/a09_wirtscha
- ft\nÜbertragung: https://www.bundestag.de/mediathek
+SUMMARY:Ausschuss WE: 34. Sitzung (öffentlich): Anhörung zum „Ökodesig
+ n“
+DESCRIPTION:Öffentliche Anhörung\, 34. Sitzung des Ausschusses. Anhörung
+ en zählen als zusätzliche Sitzungen neben der regulären Sitzung der Sit
+ zungswoche.\n\nGegenstand: Nicht gewerbliche Reparateure und Reparatur-Caf
+ és können sich auf regulatorische Erleichterungen einstellen. In einer 
+ öffentlichen Anhörung des Ausschusses für Wirtschaft und Energie am Mon
+ tag\, 18. Mai 2026\, die vom Vorsitzenden Christian Freiherr von Stetten (
+ CDU/CSU) geleitet wurde\, begrüßte Tom Hansing vom „Runden Tisch Repar
+ atur“\, dass der Zugang zu Ersatzteilen und Reparaturinformationen für 
+ fachlich kompetente Reparateure erleichtert werden soll. Mit dem von der B
+ undesregierung eingebrachten Entwurf eines Gesetzes zur Modernisierung der
+  nationalen Umsetzung von europäischen Regelungen zum Ökodesign\, zur En
+ ergieverbrauchskennzeichnung und zu weiteren Regelungen (21/5141) werde f
+ ür die ... (weiter auf der Seite der Sitzung)\n\nDokumente:\nTagesordnung
+ : https://www.bundestag.de/resource/blob/1174692/to_34_18-05-2026_oeA_Oeko
+ design.pdf\n21/5141: https://dserver.bundestag.de/btd/21/051/2105141.pdf\n
+ Wortprotokoll der 34. Sitzung (öffentliche Anhörung zum Gesetzentwurf de
+ r Bundesregierung "Entwurf eines Gesetzes zur Modernisierung der nationale
+ n Umsetzung von europäischen Regelungen zum Ökodesign\, zur Energieverbr
+ auchskennzeichnung und zu weiteren Regelungen))"\, BT-Drucksache 21/5141\,
+  des Ausschusses für Wirtschaft und Energie am 18. Mai 2026: https://www.
+ bundestag.de/resource/blob/1205078/Wortprotokoll_34-Sitzung_18-05-2026.pdf
+ \nListe der Sachverständigen: https://www.bundestag.de/resource/blob/1178
+ 494/Sachverstaendigenliste.pdf\n21(9)246 Stellungnahme des Cradle to Cradl
+ e - Wiege zur Wiege e.V.: https://www.bundestag.de/resource/blob/1178580/S
+ tellungnahme_Cradle_to_Cradle_eV.pdf\n21(9)247 Stellungnahme des Runder Ti
+ sch Reparatur e.V.: https://www.bundestag.de/resource/blob/1178600/Stellun
+ gnahme_Runder_Tisch_Reparatur_eV.pdf\n\nSeite des Ausschusses: https://www
+ .bundestag.de/ausschuesse/a09_wirtschaft\nÜbertragung: https://www.bundes
+ tag.de/mediathek
 LOCATION:Berlin\, Paul-Löbe-Haus\, Sitzungssaal PLH E.200
 URL:https://www.bundestag.de/ausschuesse/a09_wirtschaft/wp21_a09_Anhoerunge
  n/1174384-1174384
@@ -732,7 +744,7 @@ ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11786
 END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-a09-wirtschaft-sitzung-35@bundestag-kalender
-DTSTAMP:20261019T070701Z
+DTSTAMP:20261020T103647Z
 DTSTART;TZID=Europe/Berlin:20260520T103000
 DTEND;TZID=Europe/Berlin:20260520T123000
 SUMMARY:Ausschuss WE: 35. Sitzung (nicht öffentlich)
@@ -752,51 +764,53 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-a09-wirtschaft-anhoerung-1174410@bundestag-kalend
  er
-DTSTAMP:20261019T070701Z
+DTSTAMP:20261020T103647Z
 DTSTART;TZID=Europe/Berlin:20260520T140000
 DTEND;TZID=Europe/Berlin:20260520T160000
-SUMMARY:Ausschuss WE: Anhörung zum Gas-/H2-Binnenmarktpaket
-DESCRIPTION:Öffentliche Anhörung (36. Sitzung)\n\nGegenstand: Sachverstä
- ndige haben sich für die Zukunft der Gasnetze und deren Umbau für einen 
- Technologiemix ausgesprochen. Während ein Großteil der Netze zurückgeba
- ut werde\, sollten ausgewählte Leitungen für Wasserstoff und Biomethan u
- mgerüstet werden. Die Experten äußerten sich am Mittwoch\, 20. Mai 2026
- \, in einer öffentlichen Anhörung des Ausschusses für Wirtschaft und En
- ergie zu dem von der Bundesregierung eingebrachten Entwurf des Gesetzes zu
- r Änderung des Energiewirtschaftsgesetzes (EnWG) und weiterer energierech
- tlicher Vorschriften zur Umsetzung des Europäischen Gas- und Wasserstoff-
- Binnenmarktpakets (21/5440). Mit dem Gesetz wird das EU-Gas- und Wassersto
- ff-Binnenmarktpaket (Richtlinie (EU) ... (weiter auf der Seite der Anhöru
- ng)\n\nDokumente:\nTagesordnung: https://www.bundestag.de/resource/blob/11
- 74926/to_36_20-05-2026_oeA_Gas-H2-Binnenmarkpaket.pdf\n21/5440: https://ds
- erver.bundestag.de/btd/21/054/2105440.pdf\nWortprotokoll der 36. Sitzung (
- öffentliche Anhörung zum Gesetzentwurf der Bundesregierung "Entwurf eine
- s Gesetzes zur Änderung des Energiewirtschaftsgesetzes und weiterer energ
- ierechtlicher Vorschriften zur Umsetzung des Europäischen Gas- und Wasser
- stoff-Binnenmarktpakets))"\, BT-Drucksache 21/5440\, des Ausschusses für 
- Wirtschaft und Energie am 20. Mai 2026: https://www.bundestag.de/resource/
- blob/1205308/Wortprotokoll_36-_Sitzung_20-05-2026.pdf\nListe der Sachverst
- ändigen: https://www.bundestag.de/resource/blob/1178448/Sachverstaendigen
- liste.pdf\nStellungnahme der Deutschen Industrie- und Handelskammer (DIHK)
- : https://www.bundestag.de/resource/blob/1178484/Stellungnahme_DIHK.pdf\n2
- 1(9)244 Stellungnahme des Hauptstadtbüro Bioenergie: https://www.bundesta
- g.de/resource/blob/1178546/Stellungnahme_Hauptstadtbuero_Bioenergie.pdf\n2
- 1(9)243neu Stellungnahme des BDEW - Bundesverband der Energie- und Wasserw
- irtschaft e.V.: https://www.bundestag.de/resource/blob/1178522/Stellungnah
- me_BDEW.pdf\n21(9)258 Stellungnahme Bundesvereinigung der kommunalen Spitz
- enverbände: https://www.bundestag.de/resource/blob/1178952/Stellungnahme_
- Komm-Spitzenverbaende.pdf\n21(9)259 Stellungnahme DIE GAS- UND WASSERSTOFF
- WIRTSCHAFT e.V.: https://www.bundestag.de/resource/blob/1178954/Stellungna
- hme_Gas-und-Wasserwirtschaft.pdf\n21(9)260 Stellungnahme des Sachverständ
- igen Prof. Olaf Däuper\, Honorarprofessor an der Universität Kassel\, Be
- cker Büttner Held Rechtsanwälte Steuerberater\, Unternehmensberater Part
- GmbB: https://www.bundestag.de/resource/blob/1178956/Stellungn_SV_Olaf_Dae
- uper.pdf\n21(9)250neu Stellungnahme der Enercity AG: https://www.bundestag
- .de/resource/blob/1178862/Stellungnahme_Enercity_AG.pdf\n21(9)262 Stellung
- nahme der Deutschen Umwelthilfe e.V.: https://www.bundestag.de/resource/bl
- ob/1179124/Stellungnahme_DUH.pdf\n\nSeite des Ausschusses: https://www.bun
- destag.de/ausschuesse/a09_wirtschaft\nÜbertragung: https://www.bundestag.
- de/mediathek
+SUMMARY:Ausschuss WE: 36. Sitzung (öffentlich): Anhörung zum Gas-/H2-Binn
+ enmarktpaket
+DESCRIPTION:Öffentliche Anhörung\, 36. Sitzung des Ausschusses. Anhörung
+ en zählen als zusätzliche Sitzungen neben der regulären Sitzung der Sit
+ zungswoche.\n\nGegenstand: Sachverständige haben sich für die Zukunft de
+ r Gasnetze und deren Umbau für einen Technologiemix ausgesprochen. Währe
+ nd ein Großteil der Netze zurückgebaut werde\, sollten ausgewählte Leit
+ ungen für Wasserstoff und Biomethan umgerüstet werden. Die Experten äu
+ ßerten sich am Mittwoch\, 20. Mai 2026\, in einer öffentlichen Anhörung
+  des Ausschusses für Wirtschaft und Energie zu dem von der Bundesregierun
+ g eingebrachten Entwurf des Gesetzes zur Änderung des Energiewirtschaftsg
+ esetzes (EnWG) und weiterer energierechtlicher Vorschriften zur Umsetzung 
+ des Europäischen Gas- und Wasserstoff-Binnenmarktpakets (21/5440). Mit de
+ m Gesetz wird das EU-Gas- und Wasserstoff-Binnenmarktpaket (Richtlinie (EU
+ ) ... (weiter auf der Seite der Sitzung)\n\nDokumente:\nTagesordnung: http
+ s://www.bundestag.de/resource/blob/1174926/to_36_20-05-2026_oeA_Gas-H2-Bin
+ nenmarkpaket.pdf\n21/5440: https://dserver.bundestag.de/btd/21/054/2105440
+ .pdf\nWortprotokoll der 36. Sitzung (öffentliche Anhörung zum Gesetzentw
+ urf der Bundesregierung "Entwurf eines Gesetzes zur Änderung des Energiew
+ irtschaftsgesetzes und weiterer energierechtlicher Vorschriften zur Umsetz
+ ung des Europäischen Gas- und Wasserstoff-Binnenmarktpakets))"\, BT-Druck
+ sache 21/5440\, des Ausschusses für Wirtschaft und Energie am 20. Mai 202
+ 6: https://www.bundestag.de/resource/blob/1205308/Wortprotokoll_36-_Sitzun
+ g_20-05-2026.pdf\nListe der Sachverständigen: https://www.bundestag.de/re
+ source/blob/1178448/Sachverstaendigenliste.pdf\nStellungnahme der Deutsche
+ n Industrie- und Handelskammer (DIHK): https://www.bundestag.de/resource/b
+ lob/1178484/Stellungnahme_DIHK.pdf\n21(9)244 Stellungnahme des Hauptstadtb
+ üro Bioenergie: https://www.bundestag.de/resource/blob/1178546/Stellungna
+ hme_Hauptstadtbuero_Bioenergie.pdf\n21(9)243neu Stellungnahme des BDEW - B
+ undesverband der Energie- und Wasserwirtschaft e.V.: https://www.bundestag
+ .de/resource/blob/1178522/Stellungnahme_BDEW.pdf\n21(9)258 Stellungnahme B
+ undesvereinigung der kommunalen Spitzenverbände: https://www.bundestag.de
+ /resource/blob/1178952/Stellungnahme_Komm-Spitzenverbaende.pdf\n21(9)259 S
+ tellungnahme DIE GAS- UND WASSERSTOFFWIRTSCHAFT e.V.: https://www.bundesta
+ g.de/resource/blob/1178954/Stellungnahme_Gas-und-Wasserwirtschaft.pdf\n21(
+ 9)260 Stellungnahme des Sachverständigen Prof. Olaf Däuper\, Honorarprof
+ essor an der Universität Kassel\, Becker Büttner Held Rechtsanwälte Ste
+ uerberater\, Unternehmensberater PartGmbB: https://www.bundestag.de/resour
+ ce/blob/1178956/Stellungn_SV_Olaf_Daeuper.pdf\n21(9)250neu Stellungnahme d
+ er Enercity AG: https://www.bundestag.de/resource/blob/1178862/Stellungnah
+ me_Enercity_AG.pdf\n21(9)262 Stellungnahme der Deutschen Umwelthilfe e.V.:
+  https://www.bundestag.de/resource/blob/1179124/Stellungnahme_DUH.pdf\n\nS
+ eite des Ausschusses: https://www.bundestag.de/ausschuesse/a09_wirtschaft\
+ nÜbertragung: https://www.bundestag.de/mediathek
 LOCATION:Berlin\, Paul-Löbe-Haus\, Sitzungssaal PLH E.200
 URL:https://www.bundestag.de/ausschuesse/a09_wirtschaft/wp21_a09_Anhoerunge
  n/1174410-1174410
@@ -827,7 +841,7 @@ ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11791
 END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-a09-wirtschaft-sitzung-37@bundestag-kalender
-DTSTAMP:20261019T070701Z
+DTSTAMP:20261020T103647Z
 DTSTART;TZID=Europe/Berlin:20260610T100000
 DTEND;TZID=Europe/Berlin:20260610T120000
 SUMMARY:Ausschuss WE: 37. Sitzung (nicht öffentlich)
@@ -861,37 +875,39 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-a09-wirtschaft-anhoerung-1184240@bundestag-kalend
  er
-DTSTAMP:20261019T070701Z
+DTSTAMP:20261020T103647Z
 DTSTART;TZID=Europe/Berlin:20260622T114500
 DTEND;TZID=Europe/Berlin:20260622T131500
-SUMMARY:Ausschuss WE: Anhörung zum Bundesbedarfsplangesetz
-DESCRIPTION:Öffentliche Anhörung (38. Sitzung)\n\nGegenstand: Die Stromne
- tzbetreiber haben sich für Änderungen an dem von der Bundesregierung ein
- gebrachten Zweiten Gesetz zur Änderung des Bundesbedarfsplangesetzes (21/
- 6128\, 21/6564) ausgesprochen. Insbesondere wurde beim Leitungsbau\, der k
- ünftig zur Verbesserung der Kosteneffizienz vorrangig in Form von Freilei
- tungen erfolgen soll\, von den vorgesehenen Ausnahmeregelungen für die Er
- dverkabelung in Teilabschnitten abgeraten. Dadurch könnten sich Genehmigu
- ngsverfahren um Jahre verlängern\, wurde gewarnt. In einer vom Vorsitzend
- en Christian Freiherr von Stetten (CDU/CSU) geleiteten öffentlichen Anhö
- rung des Ausschusses für Wirtschaft und Energie am Montag\, 22. Juni 2026
- \, wurde von Dr. Guido Hermeier von ... (weiter auf der Seite der Anhörun
- g)\n\nDokumente:\nTagesordnung: https://www.bundestag.de/resource/blob/118
- 4300/to_38_22-06-2026_oeA_BBedarfsplanG.pdf\n21/6128: https://dserver.bund
- estag.de/btd/21/061/2106128.pdf\n21/6564: https://dserver.bundestag.de/btd
- /21/065/2106564.pdf\nListe der Sachverständigen: https://www.bundestag.de
- /resource/blob/1187770/Sachverstaendigenliste.pdf\n21(9)280 Stellungnahme 
- Patrick Kaczmarczyk\, Ph.D.\, Universität Mannheim: https://www.bundestag
- .de/resource/blob/1190634/Stellungnahme_SV_Kaczmarczyk.pdf\n21(9)283 Stell
- ungnahme des Sachverständigen Dr. Guido Hermeier\, Amprion GmbH: https://
- www.bundestag.de/resource/blob/1190814/Stellungnahme_SV_Dr-Guido_Hermeier_
- Amprion_GmbH.pdf\n21(9)287 Stellungnahme der Sachverständigen Silke Weybe
- rg\, LEE Niedersachsen: https://www.bundestag.de/resource/blob/1190954/Ste
- llungnahme_LEE.pdf\n21(9)292 Stellungnahme der 50 Hertz\, TenneT\, Transne
- t BW GmbH: https://www.bundestag.de/resource/blob/1191170/Stellungnahme_50
- _Hertz_TenneT_Transnet_BW.pdf\n\nSeite des Ausschusses: https://www.bundes
- tag.de/ausschuesse/a09_wirtschaft\nÜbertragung: https://www.bundestag.de/
- mediathek
+SUMMARY:Ausschuss WE: 38. Sitzung (öffentlich): Anhörung zum Bundesbedarf
+ splangesetz
+DESCRIPTION:Öffentliche Anhörung\, 38. Sitzung des Ausschusses. Anhörung
+ en zählen als zusätzliche Sitzungen neben der regulären Sitzung der Sit
+ zungswoche.\n\nGegenstand: Die Stromnetzbetreiber haben sich für Änderun
+ gen an dem von der Bundesregierung eingebrachten Zweiten Gesetz zur Änder
+ ung des Bundesbedarfsplangesetzes (21/6128\, 21/6564) ausgesprochen. Insbe
+ sondere wurde beim Leitungsbau\, der künftig zur Verbesserung der Kostene
+ ffizienz vorrangig in Form von Freileitungen erfolgen soll\, von den vorge
+ sehenen Ausnahmeregelungen für die Erdverkabelung in Teilabschnitten abge
+ raten. Dadurch könnten sich Genehmigungsverfahren um Jahre verlängern\, 
+ wurde gewarnt. In einer vom Vorsitzenden Christian Freiherr von Stetten (C
+ DU/CSU) geleiteten öffentlichen Anhörung des Ausschusses für Wirtschaft
+  und Energie am Montag\, 22. Juni 2026\, wurde von Dr. Guido Hermeier von 
+ ... (weiter auf der Seite der Sitzung)\n\nDokumente:\nTagesordnung: https:
+ //www.bundestag.de/resource/blob/1184300/to_38_22-06-2026_oeA_BBedarfsplan
+ G.pdf\n21/6128: https://dserver.bundestag.de/btd/21/061/2106128.pdf\n21/65
+ 64: https://dserver.bundestag.de/btd/21/065/2106564.pdf\nListe der Sachver
+ ständigen: https://www.bundestag.de/resource/blob/1187770/Sachverstaendig
+ enliste.pdf\n21(9)280 Stellungnahme Patrick Kaczmarczyk\, Ph.D.\, Universi
+ tät Mannheim: https://www.bundestag.de/resource/blob/1190634/Stellungnahm
+ e_SV_Kaczmarczyk.pdf\n21(9)283 Stellungnahme des Sachverständigen Dr. Gui
+ do Hermeier\, Amprion GmbH: https://www.bundestag.de/resource/blob/1190814
+ /Stellungnahme_SV_Dr-Guido_Hermeier_Amprion_GmbH.pdf\n21(9)287 Stellungnah
+ me der Sachverständigen Silke Weyberg\, LEE Niedersachsen: https://www.bu
+ ndestag.de/resource/blob/1190954/Stellungnahme_LEE.pdf\n21(9)292 Stellungn
+ ahme der 50 Hertz\, TenneT\, Transnet BW GmbH: https://www.bundestag.de/re
+ source/blob/1191170/Stellungnahme_50_Hertz_TenneT_Transnet_BW.pdf\n\nSeite
+  des Ausschusses: https://www.bundestag.de/ausschuesse/a09_wirtschaft\nÜb
+ ertragung: https://www.bundestag.de/mediathek
 LOCATION:Berlin\, Paul-Löbe-Haus\, Sitzungssaal PLH E.200
 URL:https://www.bundestag.de/ausschuesse/a09_wirtschaft/wp21_a09_Anhoerunge
  n/1184240-1184240
@@ -915,54 +931,57 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-a09-wirtschaft-anhoerung-1184258@bundestag-kalend
  er
-DTSTAMP:20261019T070701Z
+DTSTAMP:20261020T103647Z
 DTSTART;TZID=Europe/Berlin:20260622T133000
 DTEND;TZID=Europe/Berlin:20260622T160000
-SUMMARY:Ausschuss WE: Anhörung zum Gebäudemodernisierungsgesetz
-DESCRIPTION:Öffentliche Anhörung (39. Sitzung)\n\nGegenstand: Das geplant
- e Gebäudemodernisierungsgesetz (GModG)\, mit dem die Bundesregierung das 
- Gebäudeenergiegesetz (Heizungsgesetz) ablösen will\, ist bei Sachverstä
- ndigen auf massive Kritik gestoßen. Die Experten bemängeln vor allem bü
- rokratische Überlastung\, soziale Risiken für Verbraucher und mangelnde 
- Praxistauglichkeit\, und sie äußern verfassungsrechtliche Bedenken. Gege
- nstand der öffentlichen Anhörung des Ausschusses für Wirtschaft und Ene
- rgie waren am Montag\, 22. Juni 2026\, der Gesetzentwurf der Bundesregieru
- ng zur Änderung des Gebäudeenergiegesetzes\, zur Änderung des Gebäude-
- Elektromobilitätsinfrastruktur-Gesetzes und zur Änderung weiterer Vorsch
- riften im Wärmebereich (21/6278\, 21/6565) sowie ... (weiter auf der Seit
- e der Anhörung)\n\nDokumente:\nTagesordnung: https://www.bundestag.de/res
- ource/blob/1184302/to_39_22-06-2026_oeA_GModG.pdf\n21/6278: https://dserve
- r.bundestag.de/btd/21/062/2106278.pdf\n21/6565: https://dserver.bundestag.
- de/btd/21/065/2106565.pdf\n21/6006: https://dserver.bundestag.de/btd/21/06
- 0/2106006.pdf\n21/6019: https://dserver.bundestag.de/btd/21/060/2106019.pd
- f\n21/3910: https://dserver.bundestag.de/btd/21/039/2103910.pdf\nListe der
-  Sachverständigen: https://www.bundestag.de/resource/blob/1187772/Sachver
- staendigenliste.pdf\n21(9)281 Stellungnahme GEULEN & KLINGER Rechtsanwält
- e PartmbB: https://www.bundestag.de/resource/blob/1190640/Stellungnahme_Ge
- ulen-Klinger.pdf\n21(9)282 Stellungnahme Haus und Grund Deutschland: https
- ://www.bundestag.de/resource/blob/1190642/Stellungnahme_Haus-Grund.pdf\n21
- (9)284 Stellungnahme des Deutschen Gewerkschaftsbundes (DGB): https://www.
- bundestag.de/resource/blob/1190866/Stellungnahme_DGB.pdf\n21(9)285 Stellun
- gnahme des Sachverständigen Dr. Dipl. Ing. Helmut Waniczek\, Chemiker und
-  Autor: https://www.bundestag.de/resource/blob/1190908/Stellungahme_SV_Wan
- iczek.pdf\n21(9)288 Stellungnahme des Deutschen Mieterbundes e.V. (DMB): h
- ttps://www.bundestag.de/resource/blob/1190984/Stellungnahme_DMB.pdf\n21(9)
- 289 Stellungnahme des Sachverständigen Dr. Kai Roger Lobo\, Verband kommu
- naler Unternehmen e.V. (VKU): https://www.bundestag.de/resource/blob/11910
- 16/Stellungnahme_VKU.pdf\n21(9)290 Stellungnahme des Zentralverbandes Sani
- tär Heizung Klima (ZVSHK): https://www.bundestag.de/resource/blob/1191044
- /Stellungnahme_ZVSHK.pdf\n21(9)291 Gemeinsame Stellungnahme des Deutschen 
- Städte- und Gemeindebundes (DStGB) und des Deutschen Landkreistages (DLT)
- : https://www.bundestag.de/resource/blob/1191046/Stellungnahme_DStGB_DLT.p
- df\n21(9)296 Stellungnahme des Bundesverband der Deutschen Heizungsindustr
- ie (BDH): https://www.bundestag.de/resource/blob/1191422/Stellungnahme_BDH
- .pdf\n21(9)286 Stellungnahme des Deutschen Städtetag: https://www.bundest
- ag.de/resource/blob/1190916/Stellungnahme_Dt-Staedtetag.pdf\n21(9)293 Guta
- chten der Rosin Büdenbender Rechtsanwaltsgesellschaft mbH: https://www.bu
- ndestag.de/resource/blob/1191272/Gutachten_Rosin_Buedenbender_RA_GmbH.pdf\
- nDrucksache 50/50: https://dserver.bundestag.de/btd/50/000/5000050.pdf\n\n
- Seite des Ausschusses: https://www.bundestag.de/ausschuesse/a09_wirtschaft
- \nÜbertragung: https://www.bundestag.de/mediathek
+SUMMARY:Ausschuss WE: 39. Sitzung (öffentlich): Anhörung zum Gebäudemode
+ rnisierungsgesetz
+DESCRIPTION:Öffentliche Anhörung\, 39. Sitzung des Ausschusses. Anhörung
+ en zählen als zusätzliche Sitzungen neben der regulären Sitzung der Sit
+ zungswoche.\n\nGegenstand: Das geplante Gebäudemodernisierungsgesetz (GMo
+ dG)\, mit dem die Bundesregierung das Gebäudeenergiegesetz (Heizungsgeset
+ z) ablösen will\, ist bei Sachverständigen auf massive Kritik gestoßen.
+  Die Experten bemängeln vor allem bürokratische Überlastung\, soziale R
+ isiken für Verbraucher und mangelnde Praxistauglichkeit\, und sie äußer
+ n verfassungsrechtliche Bedenken. Gegenstand der öffentlichen Anhörung d
+ es Ausschusses für Wirtschaft und Energie waren am Montag\, 22. Juni 2026
+ \, der Gesetzentwurf der Bundesregierung zur Änderung des Gebäudeenergie
+ gesetzes\, zur Änderung des Gebäude-Elektromobilitätsinfrastruktur-Gese
+ tzes und zur Änderung weiterer Vorschriften im Wärmebereich (21/6278\, 2
+ 1/6565) sowie ... (weiter auf der Seite der Sitzung)\n\nDokumente:\nTageso
+ rdnung: https://www.bundestag.de/resource/blob/1184302/to_39_22-06-2026_oe
+ A_GModG.pdf\n21/6278: https://dserver.bundestag.de/btd/21/062/2106278.pdf\
+ n21/6565: https://dserver.bundestag.de/btd/21/065/2106565.pdf\n21/6006: ht
+ tps://dserver.bundestag.de/btd/21/060/2106006.pdf\n21/6019: https://dserve
+ r.bundestag.de/btd/21/060/2106019.pdf\n21/3910: https://dserver.bundestag.
+ de/btd/21/039/2103910.pdf\nListe der Sachverständigen: https://www.bundes
+ tag.de/resource/blob/1187772/Sachverstaendigenliste.pdf\n21(9)281 Stellung
+ nahme GEULEN & KLINGER Rechtsanwälte PartmbB: https://www.bundestag.de/re
+ source/blob/1190640/Stellungnahme_Geulen-Klinger.pdf\n21(9)282 Stellungnah
+ me Haus und Grund Deutschland: https://www.bundestag.de/resource/blob/1190
+ 642/Stellungnahme_Haus-Grund.pdf\n21(9)284 Stellungnahme des Deutschen Gew
+ erkschaftsbundes (DGB): https://www.bundestag.de/resource/blob/1190866/Ste
+ llungnahme_DGB.pdf\n21(9)285 Stellungnahme des Sachverständigen Dr. Dipl.
+  Ing. Helmut Waniczek\, Chemiker und Autor: https://www.bundestag.de/resou
+ rce/blob/1190908/Stellungahme_SV_Waniczek.pdf\n21(9)288 Stellungnahme des 
+ Deutschen Mieterbundes e.V. (DMB): https://www.bundestag.de/resource/blob/
+ 1190984/Stellungnahme_DMB.pdf\n21(9)289 Stellungnahme des Sachverständige
+ n Dr. Kai Roger Lobo\, Verband kommunaler Unternehmen e.V. (VKU): https://
+ www.bundestag.de/resource/blob/1191016/Stellungnahme_VKU.pdf\n21(9)290 Ste
+ llungnahme des Zentralverbandes Sanitär Heizung Klima (ZVSHK): https://ww
+ w.bundestag.de/resource/blob/1191044/Stellungnahme_ZVSHK.pdf\n21(9)291 Gem
+ einsame Stellungnahme des Deutschen Städte- und Gemeindebundes (DStGB) un
+ d des Deutschen Landkreistages (DLT): https://www.bundestag.de/resource/bl
+ ob/1191046/Stellungnahme_DStGB_DLT.pdf\n21(9)296 Stellungnahme des Bundesv
+ erband der Deutschen Heizungsindustrie (BDH): https://www.bundestag.de/res
+ ource/blob/1191422/Stellungnahme_BDH.pdf\n21(9)286 Stellungnahme des Deuts
+ chen Städtetag: https://www.bundestag.de/resource/blob/1190916/Stellungna
+ hme_Dt-Staedtetag.pdf\n21(9)293 Gutachten der Rosin Büdenbender Rechtsanw
+ altsgesellschaft mbH: https://www.bundestag.de/resource/blob/1191272/Gutac
+ hten_Rosin_Buedenbender_RA_GmbH.pdf\nDrucksache 50/50: https://dserver.bun
+ destag.de/btd/50/000/5000050.pdf\n\nSeite des Ausschusses: https://www.bun
+ destag.de/ausschuesse/a09_wirtschaft\nÜbertragung: https://www.bundestag.
+ de/mediathek
 LOCATION:Berlin\, Paul-Löbe-Haus\, Sitzungssaal PLH E.200
 URL:https://www.bundestag.de/ausschuesse/a09_wirtschaft/wp21_a09_Anhoerunge
  n/1184258-1184258
@@ -1008,42 +1027,43 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-a09-wirtschaft-anhoerung-1184264@bundestag-kalend
  er
-DTSTAMP:20261019T070701Z
+DTSTAMP:20261020T103647Z
 DTSTART;TZID=Europe/Berlin:20260624T080000
 DTEND;TZID=Europe/Berlin:20260624T100000
-SUMMARY:Ausschuss WE: Anhörung zum StromVKG
-DESCRIPTION:Öffentliche Anhörung (40. Sitzung)\n\nGegenstand: Der Bau und
-  die Standorte für neue Kraftwerke\, die im Strom-Versorgungs- und - Kapa
- zitätengesetz (Strom VKG\, 21/6279\, 21/6563) vorgesehen sind\, sind Stre
- itthema in einer öffentlichen Anhörung des Wirtschaftsausschusses am Mit
- twochmorgen\, 24. Juni 2026\, gewesen. Die Sachverständigen diskutierten 
- neben dem Gesetzentwurf der Bundesregierung zum Strom VKG auch einen Antra
- g der Fraktion Bündnis 90/Die Grünen mit dem Titel „Effiziente Kapazit
- ätsausschreibungen mit Zukunft - Für eine Versorgungssicherheit ohne teu
- ren fossilen Lock-In“ (21/6369) sowie den Antrag „Energieversorgung si
- chern – Bezahlbar\, erneuerbar und dezentral“ der Fraktion Die Linke (
- 21/6360). Beschluss noch vor der Sommerpause ... (weiter auf der Seite der
-  Anhörung)\n\nDokumente:\nTagesordnung: https://www.bundestag.de/resource
- /blob/1184304/to_40_24-06-2026_oeA_StromVKG.pdf\n21/6279: https://dserver.
- bundestag.de/btd/21/062/2106279.pdf\n21/6563: https://dserver.bundestag.de
- /btd/21/065/2106563.pdf\n21/6369: https://dserver.bundestag.de/btd/21/063/
- 2106369.pdf\n21/6360: https://dserver.bundestag.de/btd/21/063/2106360.pdf\
- nListe der Sachverständigen: https://www.bundestag.de/resource/blob/11877
- 74/Sachverstaendigenliste.pdf\n21(9)294 Stellungnahme des Verbands kommuna
- ler Unternehmen e.V. (VKU): https://www.bundestag.de/resource/blob/1191346
- /Stellungnahme_VKU.pdf\n21(9)295 Stellungnahme des BDEW Bundesverband der 
- Energie- und Wasserwirtschaft e.V.: https://www.bundestag.de/resource/blob
- /1191348/Stellungnahme_BDEW.pdf\n21(9)297 Stellungnahme des Deutschen Gewe
- rkschaftsbund DGB: https://www.bundestag.de/resource/blob/1191574/Stellung
- nahme_DGB.pdf\n21(9)298 Stellungnahme des Bundesverband Erneuerbare Energi
- e e.V. (BEE): https://www.bundestag.de/resource/blob/1191662/Stellungnahme
- _BEE.pdf\n21(9)299 Stellungnahme der 50Hertz Transmission GmbH: https://ww
- w.bundestag.de/resource/blob/1191664/Stellungnahme_50_Hertz_Transmission_G
- mbH.pdf\n21(9)307 Stellungnahme des Bundesverbands Energiespeicher Systeme
-  e.V.: https://www.bundestag.de/resource/blob/1193086/Stellungnahme_Bundes
- verband_Energiespeicher_Systeme.pdf\n\nSeite des Ausschusses: https://www.
- bundestag.de/ausschuesse/a09_wirtschaft\nÜbertragung: https://www.bundest
- ag.de/mediathek
+SUMMARY:Ausschuss WE: 40. Sitzung (öffentlich): Anhörung zum StromVKG
+DESCRIPTION:Öffentliche Anhörung\, 40. Sitzung des Ausschusses. Anhörung
+ en zählen als zusätzliche Sitzungen neben der regulären Sitzung der Sit
+ zungswoche.\n\nGegenstand: Der Bau und die Standorte für neue Kraftwerke\
+ , die im Strom-Versorgungs- und - Kapazitätengesetz (Strom VKG\, 21/6279\
+ , 21/6563) vorgesehen sind\, sind Streitthema in einer öffentlichen Anhö
+ rung des Wirtschaftsausschusses am Mittwochmorgen\, 24. Juni 2026\, gewese
+ n. Die Sachverständigen diskutierten neben dem Gesetzentwurf der Bundesre
+ gierung zum Strom VKG auch einen Antrag der Fraktion Bündnis 90/Die Grün
+ en mit dem Titel „Effiziente Kapazitätsausschreibungen mit Zukunft - F
+ ür eine Versorgungssicherheit ohne teuren fossilen Lock-In“ (21/6369) s
+ owie den Antrag „Energieversorgung sichern – Bezahlbar\, erneuerbar un
+ d dezentral“ der Fraktion Die Linke (21/6360). Beschluss noch vor der So
+ mmerpause ... (weiter auf der Seite der Sitzung)\n\nDokumente:\nTagesordnu
+ ng: https://www.bundestag.de/resource/blob/1184304/to_40_24-06-2026_oeA_St
+ romVKG.pdf\n21/6279: https://dserver.bundestag.de/btd/21/062/2106279.pdf\n
+ 21/6563: https://dserver.bundestag.de/btd/21/065/2106563.pdf\n21/6369: htt
+ ps://dserver.bundestag.de/btd/21/063/2106369.pdf\n21/6360: https://dserver
+ .bundestag.de/btd/21/063/2106360.pdf\nListe der Sachverständigen: https:/
+ /www.bundestag.de/resource/blob/1187774/Sachverstaendigenliste.pdf\n21(9)2
+ 94 Stellungnahme des Verbands kommunaler Unternehmen e.V. (VKU): https://w
+ ww.bundestag.de/resource/blob/1191346/Stellungnahme_VKU.pdf\n21(9)295 Stel
+ lungnahme des BDEW Bundesverband der Energie- und Wasserwirtschaft e.V.: h
+ ttps://www.bundestag.de/resource/blob/1191348/Stellungnahme_BDEW.pdf\n21(9
+ )297 Stellungnahme des Deutschen Gewerkschaftsbund DGB: https://www.bundes
+ tag.de/resource/blob/1191574/Stellungnahme_DGB.pdf\n21(9)298 Stellungnahme
+  des Bundesverband Erneuerbare Energie e.V. (BEE): https://www.bundestag.d
+ e/resource/blob/1191662/Stellungnahme_BEE.pdf\n21(9)299 Stellungnahme der 
+ 50Hertz Transmission GmbH: https://www.bundestag.de/resource/blob/1191664/
+ Stellungnahme_50_Hertz_Transmission_GmbH.pdf\n21(9)307 Stellungnahme des B
+ undesverbands Energiespeicher Systeme e.V.: https://www.bundestag.de/resou
+ rce/blob/1193086/Stellungnahme_Bundesverband_Energiespeicher_Systeme.pdf\n
+ \nSeite des Ausschusses: https://www.bundestag.de/ausschuesse/a09_wirtscha
+ ft\nÜbertragung: https://www.bundestag.de/mediathek
 LOCATION:Berlin\, Paul-Löbe-Haus\, Sitzungssaal PLH E.200
 URL:https://www.bundestag.de/ausschuesse/a09_wirtschaft/wp21_a09_Anhoerunge
  n/1184264-1184264
@@ -1074,7 +1094,7 @@ ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11930
 END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-a09-wirtschaft-sitzung-41@bundestag-kalender
-DTSTAMP:20261019T070701Z
+DTSTAMP:20261020T103647Z
 DTSTART;TZID=Europe/Berlin:20260624T103000
 DTEND;TZID=Europe/Berlin:20260624T123000
 SUMMARY:Ausschuss WE: 41. Sitzung (nicht öffentlich)
@@ -1096,7 +1116,7 @@ ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11919
 END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-a09-wirtschaft-sitzung-43@bundestag-kalender
-DTSTAMP:20261019T070701Z
+DTSTAMP:20261020T103647Z
 DTSTART;TZID=Europe/Berlin:20260708T103000
 DTEND;TZID=Europe/Berlin:20260708T123000
 SUMMARY:Ausschuss WE: 43. Sitzung (nicht öffentlich)
@@ -1126,42 +1146,44 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-a09-wirtschaft-anhoerung-1205008@bundestag-kalend
  er
-DTSTAMP:20261019T070701Z
+DTSTAMP:20261020T103647Z
 DTSTART;TZID=Europe/Berlin:20260908T080000
 DTEND;TZID=Europe/Berlin:20260908T093000
-SUMMARY:Ausschuss WE: Anhörung zum Wärmeplanungsgesetz
-DESCRIPTION:Öffentliche Anhörung (44. Sitzung)\n\nGegenstand: Sachverstä
- ndige haben bei einer Anhörung im Ausschuss für Wirtschaft und Energie a
- m Dienstag\, 8. September 2026\, erheblichen Änderungsbedarf an dem Geset
- zentwurf der Bundesregierung zur Änderung des Wärmeplanungsgesetzes (21/
- 6587\, 21/7821) angemeldet\, demnach sei eine fundierte Kostenplanung und 
- ein verlässliches Projektmanagement mit umfassender Fördermittelstrategi
- e notwendig. Gesetzentwurf der Bundesregierung Mit dem vorliegenden Entwur
- f soll der Aufwand kleiner Kommunen reduziert werden. Die Wärmeplanung (W
- PG) wurde zum 1. Januar 2024 flächendeckend in Deutschland eingeführt. Z
- iel ist\, die Wärmeplanung der Kommunen so aufzustellen\, dass die Wärme
- versorgung bis spätestens 2045 ... (weiter auf der Seite der Anhörung)\n
- \nDokumente:\nTagesordnung: https://www.bundestag.de/resource/blob/1205010
- /to_44_08-09-2026_oeA_WaermePlG.pdf\n21/6587: https://dserver.bundestag.de
- /btd/21/065/2106587.pdf\n21/7821: https://dserver.bundestag.de/btd/21/078/
- 2107821.pdf\nListe der Sachverständigen: https://www.bundestag.de/resourc
- e/blob/1206438/Sachverstaendigenliste.pdf\n21(9)333 Stellungnahme des BDEW
-  Bundesverband der Energie- und Wasserwirtschaft e.V.: https://www.bundest
- ag.de/resource/blob/1209422/Stellungnahme_BDEW.pdf\n21(9)334 Stellungnahme
-  der Stiftung Klimaneutralität: https://www.bundestag.de/resource/blob/12
- 09720/Stellungnahme_Stiftung_Klimaneutralitaet.pdf\n21(9)335 Stellungnahme
-  des Verband der Chemischen Industrie e.V. (VCI): https://www.bundestag.de
- /resource/blob/1210024/Stellungnahme_VCI.pdf\n21(9)336 Stellungnahme des B
- ündnis Bürgerenergie e. V.: https://www.bundestag.de/resource/blob/12101
- 32/Stellungnahme_Buendnis-Buergerenergie.pdf\n21(9)337 Stellungnahme der B
- undesvereinigung der kommunalen Spitzenverbände: https://www.bundestag.de
- /resource/blob/1210232/Stellungnahme_Bundesvereinigung_komm-_Spitzenverbae
- nde.pdf\n21(9)338 Stellungnahme Greenpeace e. V.: https://www.bundestag.de
- /resource/blob/1210238/Stellungnahme_Greenpeace.pdf\n21(9)339 Stellungnahm
- e der Stadtwerke München GmbH: https://www.bundestag.de/resource/blob/121
- 0240/Stellungnahme_Stadtwerke_Muenchen.pdf\n\nSeite des Ausschusses: https
- ://www.bundestag.de/ausschuesse/a09_wirtschaft\nÜbertragung: https://www.
- bundestag.de/mediathek
+SUMMARY:Ausschuss WE: 44. Sitzung (öffentlich): Anhörung zum Wärmeplanun
+ gsgesetz
+DESCRIPTION:Öffentliche Anhörung\, 44. Sitzung des Ausschusses. Anhörung
+ en zählen als zusätzliche Sitzungen neben der regulären Sitzung der Sit
+ zungswoche.\n\nGegenstand: Sachverständige haben bei einer Anhörung im A
+ usschuss für Wirtschaft und Energie am Dienstag\, 8. September 2026\, erh
+ eblichen Änderungsbedarf an dem Gesetzentwurf der Bundesregierung zur Än
+ derung des Wärmeplanungsgesetzes (21/6587\, 21/7821) angemeldet\, demnach
+  sei eine fundierte Kostenplanung und ein verlässliches Projektmanagement
+  mit umfassender Fördermittelstrategie notwendig. Gesetzentwurf der Bunde
+ sregierung Mit dem vorliegenden Entwurf soll der Aufwand kleiner Kommunen 
+ reduziert werden. Die Wärmeplanung (WPG) wurde zum 1. Januar 2024 fläche
+ ndeckend in Deutschland eingeführt. Ziel ist\, die Wärmeplanung der Komm
+ unen so aufzustellen\, dass die Wärmeversorgung bis spätestens 2045 ... 
+ (weiter auf der Seite der Sitzung)\n\nDokumente:\nTagesordnung: https://ww
+ w.bundestag.de/resource/blob/1205010/to_44_08-09-2026_oeA_WaermePlG.pdf\n2
+ 1/6587: https://dserver.bundestag.de/btd/21/065/2106587.pdf\n21/7821: http
+ s://dserver.bundestag.de/btd/21/078/2107821.pdf\nListe der Sachverständig
+ en: https://www.bundestag.de/resource/blob/1206438/Sachverstaendigenliste.
+ pdf\n21(9)333 Stellungnahme des BDEW Bundesverband der Energie- und Wasser
+ wirtschaft e.V.: https://www.bundestag.de/resource/blob/1209422/Stellungna
+ hme_BDEW.pdf\n21(9)334 Stellungnahme der Stiftung Klimaneutralität: https
+ ://www.bundestag.de/resource/blob/1209720/Stellungnahme_Stiftung_Klimaneut
+ ralitaet.pdf\n21(9)335 Stellungnahme des Verband der Chemischen Industrie 
+ e.V. (VCI): https://www.bundestag.de/resource/blob/1210024/Stellungnahme_V
+ CI.pdf\n21(9)336 Stellungnahme des Bündnis Bürgerenergie e. V.: https://
+ www.bundestag.de/resource/blob/1210132/Stellungnahme_Buendnis-Buergerenerg
+ ie.pdf\n21(9)337 Stellungnahme der Bundesvereinigung der kommunalen Spitze
+ nverbände: https://www.bundestag.de/resource/blob/1210232/Stellungnahme_B
+ undesvereinigung_komm-_Spitzenverbaende.pdf\n21(9)338 Stellungnahme Greenp
+ eace e. V.: https://www.bundestag.de/resource/blob/1210238/Stellungnahme_G
+ reenpeace.pdf\n21(9)339 Stellungnahme der Stadtwerke München GmbH: https:
+ //www.bundestag.de/resource/blob/1210240/Stellungnahme_Stadtwerke_Muenchen
+ .pdf\n\nSeite des Ausschusses: https://www.bundestag.de/ausschuesse/a09_wi
+ rtschaft\nÜbertragung: https://www.bundestag.de/mediathek
 LOCATION:Berlin\, Paul-Löbe-Haus\, Sitzungssaal E.200
 URL:https://www.bundestag.de/ausschuesse/a09_wirtschaft/wp21_a09_Anhoerunge
  n/1205008-1205008
@@ -1190,7 +1212,7 @@ ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12102
 END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-a09-wirtschaft-sitzung-46@bundestag-kalender
-DTSTAMP:20261019T070701Z
+DTSTAMP:20261020T103647Z
 DTSTART;TZID=Europe/Berlin:20260923T103000
 DTEND;TZID=Europe/Berlin:20260923T123000
 SUMMARY:Ausschuss WE: 46. Sitzung (nicht öffentlich)
@@ -1217,47 +1239,49 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-a09-wirtschaft-anhoerung-1217432@bundestag-kalend
  er
-DTSTAMP:20261019T070701Z
+DTSTAMP:20261020T103647Z
 DTSTART;TZID=Europe/Berlin:20261005T121500
 DTEND;TZID=Europe/Berlin:20261005T141500
-SUMMARY:Ausschuss WE: Anhörung zu Vorlagen zum Erneuerbare-Energien-Gesetz
-  - EEG 2027
-DESCRIPTION:Öffentliche Anhörung (47. Sitzung)\n\nGegenstand: Der Ausschu
- ss für Wirtschaft und Energie hat sich am Montag\, 5. Oktober 2026\, in e
- iner zweistündigen öffentlichen Anhörung mit dem Gesetzentwurf der Bund
- esregierung für einen planbaren\, kosteneffizienten\, netzverträglichen 
- und marktorientierten Ausbau der erneuerbaren Energien im Stromsektor (21/
- 7867\, 21/8298) befasst. Gegenstand der Anhörung waren auch die Verordnun
- g des Bundesministeriums für Wirtschaft und Energie zur Änderung der Ern
- euerbare-Energien-Verordnung und der Marktstammdatenregisterverordnung inf
- olge der Abwicklung des Regionalnachweisregisters sowie zur Neuregelung de
- r Subdelegation an das Umweltbundesamt (21/7819)\, ein Gesetzentwurf der A
- fD-Fraktion zur Abschaffung des ... (weiter auf der Seite der Anhörung)\n
- \nDokumente:\nTagesordnung: https://www.bundestag.de/resource/blob/1217752
- /to_47_05-10-2026_oeA_EEG.pdf\n21/7867: https://dserver.bundestag.de/btd/2
- 1/078/2107867.pdf\n21/8298: https://dserver.bundestag.de/btd/21/082/210829
- 8.pdf\n21/7819: https://dserver.bundestag.de/btd/21/078/2107819.pdf\n21/81
- 08: https://dserver.bundestag.de/btd/21/081/2108108.pdf\n21/8119: https://
- dserver.bundestag.de/btd/21/081/2108119.pdf\n21/7907: https://dserver.bund
- estag.de/btd/21/079/2107907.pdf\nListe der Sachverständigen: https://www.
- bundestag.de/resource/blob/1221616/Sachverstaendigenliste.pdf\n21(9)359 St
- ellungnahme Deutsche Industrie- und Handelskammer: https://www.bundestag.d
- e/resource/blob/1221846/Stellungnahme-DIHK.pdf\n21(9)360 Stellungnahme des
-  Hauptstadtbüro Bioenergie: https://www.bundestag.de/resource/blob/122198
- 6/Stellungnahme_Hauptstadtbuero_Bioenergie.pdf\n21(9)361 Stellungnahme des
-  Bundesverband Solarwirtschaft e.V.: https://www.bundestag.de/resource/blo
- b/1221988/Stellungnahme_Bundesverband_Solarwirtschaft_eV.pdf\n21(9)362 Ste
- llungnahme des Bundesverband Erneuerbare Energie e.V.: https://www.bundest
- ag.de/resource/blob/1222014/Stellungnahme_Bundesverband_Erneuerbare_Energi
- e_eV.pdf\n21(9)370 Stellungnahme des Deutschen Gewerkschaftsbunds: https:/
- /www.bundestag.de/resource/blob/1222148/Stellungnahme_Deutscher_Gewerkscha
- ftsbund.pdf\n21(9)372 Stellungnahme der Kommunalen Spitzenverbände: https
- ://www.bundestag.de/resource/blob/1222236/Stellungnahme-Kommunale-Spitzenv
- erbaende.pdf\n21(9)376 Stellungnahme des Sachverständigen Prof. Dr. Thors
- ten Müller\, Stiftung Umweltenergierecht: https://www.bundestag.de/resour
- ce/blob/1222340/Stellungnahme_SV_Mueller_Stiftung_Umweltenergierecht.pdf\n
- \nSeite des Ausschusses: https://www.bundestag.de/ausschuesse/a09_wirtscha
- ft\nÜbertragung: https://www.bundestag.de/mediathek
+SUMMARY:Ausschuss WE: 47. Sitzung (öffentlich): Anhörung zu Vorlagen zum 
+ Erneuerbare-Energien-Gesetz - EEG 2027
+DESCRIPTION:Öffentliche Anhörung\, 47. Sitzung des Ausschusses. Anhörung
+ en zählen als zusätzliche Sitzungen neben der regulären Sitzung der Sit
+ zungswoche.\n\nGegenstand: Der Ausschuss für Wirtschaft und Energie hat s
+ ich am Montag\, 5. Oktober 2026\, in einer zweistündigen öffentlichen An
+ hörung mit dem Gesetzentwurf der Bundesregierung für einen planbaren\, k
+ osteneffizienten\, netzverträglichen und marktorientierten Ausbau der ern
+ euerbaren Energien im Stromsektor (21/7867\, 21/8298) befasst. Gegenstand 
+ der Anhörung waren auch die Verordnung des Bundesministeriums für Wirtsc
+ haft und Energie zur Änderung der Erneuerbare-Energien-Verordnung und der
+  Marktstammdatenregisterverordnung infolge der Abwicklung des Regionalnach
+ weisregisters sowie zur Neuregelung der Subdelegation an das Umweltbundesa
+ mt (21/7819)\, ein Gesetzentwurf der AfD-Fraktion zur Abschaffung des ... 
+ (weiter auf der Seite der Sitzung)\n\nDokumente:\nTagesordnung: https://ww
+ w.bundestag.de/resource/blob/1217752/to_47_05-10-2026_oeA_EEG.pdf\n21/7867
+ : https://dserver.bundestag.de/btd/21/078/2107867.pdf\n21/8298: https://ds
+ erver.bundestag.de/btd/21/082/2108298.pdf\n21/7819: https://dserver.bundes
+ tag.de/btd/21/078/2107819.pdf\n21/8108: https://dserver.bundestag.de/btd/2
+ 1/081/2108108.pdf\n21/8119: https://dserver.bundestag.de/btd/21/081/210811
+ 9.pdf\n21/7907: https://dserver.bundestag.de/btd/21/079/2107907.pdf\nListe
+  der Sachverständigen: https://www.bundestag.de/resource/blob/1221616/Sac
+ hverstaendigenliste.pdf\n21(9)359 Stellungnahme Deutsche Industrie- und Ha
+ ndelskammer: https://www.bundestag.de/resource/blob/1221846/Stellungnahme-
+ DIHK.pdf\n21(9)360 Stellungnahme des Hauptstadtbüro Bioenergie: https://w
+ ww.bundestag.de/resource/blob/1221986/Stellungnahme_Hauptstadtbuero_Bioene
+ rgie.pdf\n21(9)361 Stellungnahme des Bundesverband Solarwirtschaft e.V.: h
+ ttps://www.bundestag.de/resource/blob/1221988/Stellungnahme_Bundesverband_
+ Solarwirtschaft_eV.pdf\n21(9)362 Stellungnahme des Bundesverband Erneuerba
+ re Energie e.V.: https://www.bundestag.de/resource/blob/1222014/Stellungna
+ hme_Bundesverband_Erneuerbare_Energie_eV.pdf\n21(9)370 Stellungnahme des D
+ eutschen Gewerkschaftsbunds: https://www.bundestag.de/resource/blob/122214
+ 8/Stellungnahme_Deutscher_Gewerkschaftsbund.pdf\n21(9)372 Stellungnahme de
+ r Kommunalen Spitzenverbände: https://www.bundestag.de/resource/blob/1222
+ 236/Stellungnahme-Kommunale-Spitzenverbaende.pdf\n21(9)376 Stellungnahme d
+ es Sachverständigen Prof. Dr. Thorsten Müller\, Stiftung Umweltenergiere
+ cht: https://www.bundestag.de/resource/blob/1222340/Stellungnahme_SV_Muell
+ er_Stiftung_Umweltenergierecht.pdf\n\nSeite des Ausschusses: https://www.b
+ undestag.de/ausschuesse/a09_wirtschaft\nÜbertragung: https://www.bundesta
+ g.de/mediathek
 LOCATION:Berlin\, Marie-Elisabeth-Lüders-Haus\, Sitzungssaal MELH 3.101
 URL:https://www.bundestag.de/ausschuesse/a09_wirtschaft/wp21_a09_Anhoerunge
  n/1217432-1217432
@@ -1295,50 +1319,51 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-a09-wirtschaft-anhoerung-1217440@bundestag-kalend
  er
-DTSTAMP:20261019T070701Z
+DTSTAMP:20261020T103647Z
 DTSTART;TZID=Europe/Berlin:20261005T143000
 DTEND;TZID=Europe/Berlin:20261005T160000
-SUMMARY:Ausschuss WE: Anhörung zu Vorlagen zur Umsetzung der Energieeffizi
- enzrichtlinie
-DESCRIPTION:Öffentliche Anhörung (48. Sitzung)\n\nGegenstand: Der Ausschu
- ss für Wirtschaft und Energie hat sich am Montag\, 5. Oktober 2026\, in e
- iner eineinhalbstündigen öffentlichen Anhörung mit dem Gesetzentwurf de
- r Bundesregierung zur Beschleunigung der Umsetzung der Energieffizienzrich
- tlinie (21/8027) befasst. Mit dem Gesetz soll zum einen die geänderte EU-
- Energieeffizienzrichtlinie (EED\; EU 2023 / 1791) in nationales Recht umge
- setzt werden\, und zum anderen sollen Vorgaben des nationalen Energieeffiz
- ienzgesetzes (EnEfG) von 2023\, die über die EED hinausgehen\, grundsätz
- lich auf das nach EU-Recht erforderliche Mindestmaß zurückgeführt werde
- n. Die Sachverständigen betonten die Notwendigkeit eines effizienteren En
- ergieeinsatzes bei gleichzeitiger ... (weiter auf der Seite der Anhörung)
- \n\nDokumente:\nTagesordnung: https://www.bundestag.de/resource/blob/12177
- 56/to_48_05-10-2026_oeA_EnEfG.pdf\n21/8027: https://dserver.bundestag.de/b
- td/21/080/2108027.pdf\n21/8139: https://dserver.bundestag.de/btd/21/081/21
- 08139.pdf\n21/8111: https://dserver.bundestag.de/btd/21/081/2108111.pdf\nL
- iste der Sachverständigen: https://www.bundestag.de/resource/blob/1221736
- /Sachverstaendigenliste.pdf\n21(9)358 Stellungnahme der Deutschen Unterneh
- mensinitiative Energieeffizienz e.V. und des DENEFF EDL_HUB gGmbH: https:/
- /www.bundestag.de/resource/blob/1221710/Stellungnahme_DUiE_eV_u_DENEFF.pdf
- \n21(9)365neu Stellungnahme des Sachverständigen Dr. Julian Bothe\, AW Al
- gorithm Watch gGmbH: https://www.bundestag.de/resource/blob/1222062/Stellu
- ngnahme_Dr-_Julian_Bothe_Algorith_Watch.pdf\n21(9)366 Gemeinsame Stellungn
- ahme von Deutscher Landkreistag und Deutscher Städte- und Gemeindebund: h
- ttps://www.bundestag.de/resource/blob/1222102/Stellungnahme_DLKT_und_DStGB
- .pdf\n21(9)367 Stellungnahme des Umweltinstituts München e.V.: https://ww
- w.bundestag.de/resource/blob/1222112/Stellungnahme_Umweltinstitut_Muenchen
- _eV.pdf\n21(9)368 Stellungnahme des Sachverständigen Prof. Dr. Sven-Joach
- im Otto\, Diplom-Kaufmann\, Mag.rer.publ.\, Honorarprofessor für Energiew
- irtschaft und Energierecht\, Ruhr-Universität Bochum · Institut für Ber
- g- und Energierecht: https://www.bundestag.de/resource/blob/1222126/Stellu
- ngnahme_RA_Sven_Otto.pdf\n21(9)373 Stellungnahme Deutscher Städtetag: htt
- ps://www.bundestag.de/resource/blob/1222238/Stellungnahme-Deutscher-Staedt
- etag.pdf\n21(9)393 Stellungnahme der GERMAN DATACENTER ASSOCIATION e.V.: h
- ttps://www.bundestag.de/resource/blob/1223094/Stellungnahme_German_Datacen
- ter_Association_eV.pdf\n21(9)396 Stellungnahme des Sachverständigen Steff
- en Laube\, Bellona Deutschland gGmbH: https://www.bundestag.de/resource/bl
- ob/1223436/Stellungnahme_Bellona_Deutschland_gGmbH.pdf\n\nSeite des Aussch
- usses: https://www.bundestag.de/ausschuesse/a09_wirtschaft\nÜbertragung: 
- https://www.bundestag.de/mediathek
+SUMMARY:Ausschuss WE: 48. Sitzung (öffentlich): Anhörung zu Vorlagen zur 
+ Umsetzung der Energieeffizienzrichtlinie
+DESCRIPTION:Öffentliche Anhörung\, 48. Sitzung des Ausschusses. Anhörung
+ en zählen als zusätzliche Sitzungen neben der regulären Sitzung der Sit
+ zungswoche.\n\nGegenstand: Der Ausschuss für Wirtschaft und Energie hat s
+ ich am Montag\, 5. Oktober 2026\, in einer eineinhalbstündigen öffentlic
+ hen Anhörung mit dem Gesetzentwurf der Bundesregierung zur Beschleunigung
+  der Umsetzung der Energieffizienzrichtlinie (21/8027) befasst. Mit dem Ge
+ setz soll zum einen die geänderte EU-Energieeffizienzrichtlinie (EED\; EU
+  2023 / 1791) in nationales Recht umgesetzt werden\, und zum anderen solle
+ n Vorgaben des nationalen Energieeffizienzgesetzes (EnEfG) von 2023\, die 
+ über die EED hinausgehen\, grundsätzlich auf das nach EU-Recht erforderl
+ iche Mindestmaß zurückgeführt werden. Die Sachverständigen betonten di
+ e Notwendigkeit eines effizienteren Energieeinsatzes bei gleichzeitiger ..
+ . (weiter auf der Seite der Sitzung)\n\nDokumente:\nTagesordnung: https://
+ www.bundestag.de/resource/blob/1217756/to_48_05-10-2026_oeA_EnEfG.pdf\n21/
+ 8027: https://dserver.bundestag.de/btd/21/080/2108027.pdf\n21/8139: https:
+ //dserver.bundestag.de/btd/21/081/2108139.pdf\n21/8111: https://dserver.bu
+ ndestag.de/btd/21/081/2108111.pdf\nListe der Sachverständigen: https://ww
+ w.bundestag.de/resource/blob/1221736/Sachverstaendigenliste.pdf\n21(9)358 
+ Stellungnahme der Deutschen Unternehmensinitiative Energieeffizienz e.V. u
+ nd des DENEFF EDL_HUB gGmbH: https://www.bundestag.de/resource/blob/122171
+ 0/Stellungnahme_DUiE_eV_u_DENEFF.pdf\n21(9)365neu Stellungnahme des Sachve
+ rständigen Dr. Julian Bothe\, AW Algorithm Watch gGmbH: https://www.bunde
+ stag.de/resource/blob/1222062/Stellungnahme_Dr-_Julian_Bothe_Algorith_Watc
+ h.pdf\n21(9)366 Gemeinsame Stellungnahme von Deutscher Landkreistag und De
+ utscher Städte- und Gemeindebund: https://www.bundestag.de/resource/blob/
+ 1222102/Stellungnahme_DLKT_und_DStGB.pdf\n21(9)367 Stellungnahme des Umwel
+ tinstituts München e.V.: https://www.bundestag.de/resource/blob/1222112/S
+ tellungnahme_Umweltinstitut_Muenchen_eV.pdf\n21(9)368 Stellungnahme des Sa
+ chverständigen Prof. Dr. Sven-Joachim Otto\, Diplom-Kaufmann\, Mag.rer.pu
+ bl.\, Honorarprofessor für Energiewirtschaft und Energierecht\, Ruhr-Univ
+ ersität Bochum · Institut für Berg- und Energierecht: https://www.bunde
+ stag.de/resource/blob/1222126/Stellungnahme_RA_Sven_Otto.pdf\n21(9)373 Ste
+ llungnahme Deutscher Städtetag: https://www.bundestag.de/resource/blob/12
+ 22238/Stellungnahme-Deutscher-Staedtetag.pdf\n21(9)393 Stellungnahme der G
+ ERMAN DATACENTER ASSOCIATION e.V.: https://www.bundestag.de/resource/blob/
+ 1223094/Stellungnahme_German_Datacenter_Association_eV.pdf\n21(9)396 Stell
+ ungnahme des Sachverständigen Steffen Laube\, Bellona Deutschland gGmbH: 
+ https://www.bundestag.de/resource/blob/1223436/Stellungnahme_Bellona_Deuts
+ chland_gGmbH.pdf\n\nSeite des Ausschusses: https://www.bundestag.de/aussch
+ uesse/a09_wirtschaft\nÜbertragung: https://www.bundestag.de/mediathek
 LOCATION:Berlin\, Marie-Elisabeth-Lüders-Haus\, Sitzungssaal MELH 3.101
 URL:https://www.bundestag.de/ausschuesse/a09_wirtschaft/wp21_a09_Anhoerunge
  n/1217440-1217440
@@ -1372,49 +1397,51 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-a09-wirtschaft-anhoerung-1217454@bundestag-kalend
  er
-DTSTAMP:20261019T070701Z
+DTSTAMP:20261020T103647Z
 DTSTART;TZID=Europe/Berlin:20261007T080000
 DTEND;TZID=Europe/Berlin:20261007T100000
-SUMMARY:Ausschuss WE: Anhörung zu Vorlagen zum Netzanschlusspaket
-DESCRIPTION:Öffentliche Anhörung (49. Sitzung)\n\nGegenstand: Der Ausschu
- ss für Wirtschaft und Energie hat sich am Mittwoch\, 7. Oktober 2026\, in
-  einer öffentlichen Anhörung mit dem Gesetzentwurf der Bundesregierung z
- ur Änderung des Energiewirtschaftsrechts zur Synchronisierung des Anlagen
- zubaus mit dem Netzausbau sowie zur Verbesserung des Netzanschlussverfahre
- ns (21/7866\, 21/8299) befasst. Das sogenannte „Netzpaket“\, mit dem d
- ie Bunderegierung den Zubau von Erneuerbare-Energien-Anlagen und Speichern
-  besser mit dem tatsächlichen Netzausbau abstimmen will\, wurde dabei sta
- rk kritisiert. Vor allem der sogenannte Redispatch-Vorbehalt\, der als das
-  Herzstück des Entwurfs gilt\, wurde von der Mehrheit der Sachverständig
- en als „Hauptproblem des Gesetzentwurfs“ ... (weiter auf der Seite der
-  Anhörung)\n\nDokumente:\nTagesordnung: https://www.bundestag.de/resource
- /blob/1217758/to_49_07-10-2026_oeA_Netzanschlusspaket.pdf\n21/7866: https:
- //dserver.bundestag.de/btd/21/078/2107866.pdf\n21/8299: https://dserver.bu
- ndestag.de/btd/21/082/2108299.pdf\n21/8121: https://dserver.bundestag.de/b
- td/21/081/2108121.pdf\n21/7906: https://dserver.bundestag.de/btd/21/079/21
- 07906.pdf\n21/3911: https://dserver.bundestag.de/btd/21/039/2103911.pdf\nL
- iste der Sachverständigen: https://www.bundestag.de/resource/blob/1221738
- /Sachverstaendigenliste.pdf\n21(9)369 Stellungnahme des Bundesverband Wind
- Energie e.V.: https://www.bundestag.de/resource/blob/1222142/Stellungnahme
- _Bundesverband_WindEnergie_eV.pdf\n21(9)374 Bundesverband Erneuerbare Ener
- gie e.V. (BEE): https://www.bundestag.de/resource/blob/1222240/Stellungnah
- me-Bundesverband-Erneuerbare-Energie-e-V-BEE-.pdf\n21(9)379 Stellungnahme 
- des Verband kommunaler Unternehmen e.V. (VKU): https://www.bundestag.de/re
- source/blob/1222548/Stellungnahme_VKU.pdf\n21(9)381 Stellungnahme der Bund
- esvereinigung der kommunalen Spitzenverbände: https://www.bundestag.de/re
- source/blob/1222642/Stellungnahme_Bundesvereinigung_d_komm-_Spitzenverbaen
- de.pdf\n21(9)382 Stellungnahme des Verband der Industriellen Energie- und 
- Kraftwirtschaft e.V.: https://www.bundestag.de/resource/blob/1222792/Stell
- ungnahme_Verband_d_Industriellen_Energie-u-Kraftwirtschaft.pdf\n21(9)383 S
- tellungnahme des Sachverständigen Prof. Dr. Thorsten Müller\, Stiftung U
- mweltenergierecht: https://www.bundestag.de/resource/blob/1222794/Stellung
- nahme_SV_Thorsten_Mueller.pdf\n21(9)384 Stellungnahme der Transnet BW GmbH
- \, 50 Hertz\, Amprion\, TenneT: https://www.bundestag.de/resource/blob/122
- 2840/Stellungnahme_Transnet_50_Hertz_Amprion_TenneT.pdf\n21(9)377 Stellung
- nahme des Bundesverbands Neue Energiewirtschaft e.V.: https://www.bundesta
- g.de/resource/blob/1222882/Stellungnahme_BNE.pdf\n\nSeite des Ausschusses:
-  https://www.bundestag.de/ausschuesse/a09_wirtschaft\nÜbertragung: https:
- //www.bundestag.de/mediathek
+SUMMARY:Ausschuss WE: 49. Sitzung (öffentlich): Anhörung zu Vorlagen zum 
+ Netzanschlusspaket
+DESCRIPTION:Öffentliche Anhörung\, 49. Sitzung des Ausschusses. Anhörung
+ en zählen als zusätzliche Sitzungen neben der regulären Sitzung der Sit
+ zungswoche.\n\nGegenstand: Der Ausschuss für Wirtschaft und Energie hat s
+ ich am Mittwoch\, 7. Oktober 2026\, in einer öffentlichen Anhörung mit d
+ em Gesetzentwurf der Bundesregierung zur Änderung des Energiewirtschaftsr
+ echts zur Synchronisierung des Anlagenzubaus mit dem Netzausbau sowie zur 
+ Verbesserung des Netzanschlussverfahrens (21/7866\, 21/8299) befasst. Das 
+ sogenannte „Netzpaket“\, mit dem die Bunderegierung den Zubau von Erne
+ uerbare-Energien-Anlagen und Speichern besser mit dem tatsächlichen Netza
+ usbau abstimmen will\, wurde dabei stark kritisiert. Vor allem der sogenan
+ nte Redispatch-Vorbehalt\, der als das Herzstück des Entwurfs gilt\, wurd
+ e von der Mehrheit der Sachverständigen als „Hauptproblem des Gesetzent
+ wurfs“ ... (weiter auf der Seite der Sitzung)\n\nDokumente:\nTagesordnun
+ g: https://www.bundestag.de/resource/blob/1217758/to_49_07-10-2026_oeA_Net
+ zanschlusspaket.pdf\n21/7866: https://dserver.bundestag.de/btd/21/078/2107
+ 866.pdf\n21/8299: https://dserver.bundestag.de/btd/21/082/2108299.pdf\n21/
+ 8121: https://dserver.bundestag.de/btd/21/081/2108121.pdf\n21/7906: https:
+ //dserver.bundestag.de/btd/21/079/2107906.pdf\n21/3911: https://dserver.bu
+ ndestag.de/btd/21/039/2103911.pdf\nListe der Sachverständigen: https://ww
+ w.bundestag.de/resource/blob/1221738/Sachverstaendigenliste.pdf\n21(9)369 
+ Stellungnahme des Bundesverband WindEnergie e.V.: https://www.bundestag.de
+ /resource/blob/1222142/Stellungnahme_Bundesverband_WindEnergie_eV.pdf\n21(
+ 9)374 Bundesverband Erneuerbare Energie e.V. (BEE): https://www.bundestag.
+ de/resource/blob/1222240/Stellungnahme-Bundesverband-Erneuerbare-Energie-e
+ -V-BEE-.pdf\n21(9)379 Stellungnahme des Verband kommunaler Unternehmen e.V
+ . (VKU): https://www.bundestag.de/resource/blob/1222548/Stellungnahme_VKU.
+ pdf\n21(9)381 Stellungnahme der Bundesvereinigung der kommunalen Spitzenve
+ rbände: https://www.bundestag.de/resource/blob/1222642/Stellungnahme_Bund
+ esvereinigung_d_komm-_Spitzenverbaende.pdf\n21(9)382 Stellungnahme des Ver
+ band der Industriellen Energie- und Kraftwirtschaft e.V.: https://www.bund
+ estag.de/resource/blob/1222792/Stellungnahme_Verband_d_Industriellen_Energ
+ ie-u-Kraftwirtschaft.pdf\n21(9)383 Stellungnahme des Sachverständigen Pro
+ f. Dr. Thorsten Müller\, Stiftung Umweltenergierecht: https://www.bundest
+ ag.de/resource/blob/1222794/Stellungnahme_SV_Thorsten_Mueller.pdf\n21(9)38
+ 4 Stellungnahme der Transnet BW GmbH\, 50 Hertz\, Amprion\, TenneT: https:
+ //www.bundestag.de/resource/blob/1222840/Stellungnahme_Transnet_50_Hertz_A
+ mprion_TenneT.pdf\n21(9)377 Stellungnahme des Bundesverbands Neue Energiew
+ irtschaft e.V.: https://www.bundestag.de/resource/blob/1222882/Stellungnah
+ me_BNE.pdf\n\nSeite des Ausschusses: https://www.bundestag.de/ausschuesse/
+ a09_wirtschaft\nÜbertragung: https://www.bundestag.de/mediathek
 LOCATION:Berlin\, Paul-Löbe-Haus\, Sitzungssaal PLH E.200
 URL:https://www.bundestag.de/ausschuesse/a09_wirtschaft/wp21_a09_Anhoerunge
  n/1217454-1217454
@@ -1451,7 +1478,7 @@ ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12228
 END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-a09-wirtschaft-sitzung-50@bundestag-kalender
-DTSTAMP:20261019T070701Z
+DTSTAMP:20261020T103647Z
 DTSTART;TZID=Europe/Berlin:20261007T103000
 DTEND;TZID=Europe/Berlin:20261007T123000
 SUMMARY:Ausschuss WE: 50. Sitzung (nicht öffentlich)
@@ -1471,43 +1498,46 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-a09-wirtschaft-anhoerung-1217464@bundestag-kalend
  er
-DTSTAMP:20261019T070701Z
+DTSTAMP:20261020T103647Z
 DTSTART;TZID=Europe/Berlin:20261009T080000
 DTEND;TZID=Europe/Berlin:20261009T090000
-SUMMARY:Ausschuss WE: Anhörung zur Änderung der Biomasseverordnung
-DESCRIPTION:Öffentliche Anhörung (51. Sitzung)\n\nGegenstand: Grundsätzl
- iche Zustimmung und deutliche Kritik: So hat sich das Meinungsbild der Sac
- hverständigen bei einer Anhörung zur zweiten Verordnung zur Änderung de
- r Biomasseverordnung (21/6810) im Ausschuss für Wirtschaft und Energie am
-  Freitag\, 9. Oktober 2026\, gezeigt. Es ging um den vom Bundeskabinett be
- schlossenen Entwurf\, der die Vorgabe der europäischen Richtlinie RED III
-  umsetzen soll. Nachhaltige Nutzung von Biomasse Der Deutsche Städte- und
-  Gemeindebund erklärte in seiner Stellungnahme\, es sei aus kommunaler Si
- cht grundsätzlich nachvollziehbar\, dass mit der Verordnung ein verlässl
- icher und rechtssicherer Rahmen für die nachhaltige Nutzung von Biomasse 
- geschaffen werden soll. Es sei aber ... (weiter auf der Seite der Anhörun
- g)\n\nDokumente:\nTagesordnung: https://www.bundestag.de/resource/blob/121
- 7760/to_51_09-10-2026_oeA_BiomasseVO.pdf\n21/6810: https://dserver.bundest
- ag.de/btd/21/068/2106810.pdf\nListe der Sachverständigen: https://www.bun
- destag.de/resource/blob/1222928/Sachverstaendigenliste.pdf\n21(9)387 Stell
- ungnahme des AGDW - Die Waldeigentümer e.V.: https://www.bundestag.de/res
- ource/blob/1222930/Stellungnahme_AGDW-Die_Waldeigentuemer_eV.pdf\n21(9)391
-  Stellungnahme Deutscher Städte- und Gemeindebund: https://www.bundestag.
- de/resource/blob/1223020/Stellungnahme_DStGB.pdf\n21(9)392 Stellungnahme d
- es Deutsche Säge- und Holzindustrie Bundesverband e.V.: https://www.bunde
- stag.de/resource/blob/1223058/Stellungnahme_Deutsche_Saege-u-_Holzindustri
- e_BV.pdf\n21(9)394 Stellungnahme des NABU (Naturschutzbund Deutschland) e.
- V.: https://www.bundestag.de/resource/blob/1223096/Stellungnahme_NABU_eV.p
- df\n21(9)395 Stellungnahme des BDEW Bundesverband der Energie- und Wasserw
- irtschaft e.V.: https://www.bundestag.de/resource/blob/1223322/Stellungnah
- me_BDEW.pdf\n21(9)397 Stellungnahme des Sachverständigen Martin Zühlke\,
-  Energieverbund der Landwirtschaft MV e. V.: https://www.bundestag.de/reso
- urce/blob/1223500/Stellungnahme_Energieverbund_d_Landwirtschaft_MV_ev.pdf\
- n21(9)398 Stellungnahme des Sachverständigen Dr. Harry Schindler\, DBFZ D
- eutsches Biomasseforschungszentrum gGmbH: https://www.bundestag.de/resourc
- e/blob/1223504/Stellungnahme_SV_Dr-_Schindler_DBFZ_gGmbH.pdf\n\nSeite des 
- Ausschusses: https://www.bundestag.de/ausschuesse/a09_wirtschaft\nÜbertra
- gung: https://www.bundestag.de/mediathek
+SUMMARY:Ausschuss WE: 51. Sitzung (öffentlich): Anhörung zur Änderung de
+ r Biomasseverordnung
+DESCRIPTION:Öffentliche Anhörung\, 51. Sitzung des Ausschusses. Anhörung
+ en zählen als zusätzliche Sitzungen neben der regulären Sitzung der Sit
+ zungswoche.\n\nGegenstand: Grundsätzliche Zustimmung und deutliche Kritik
+ : So hat sich das Meinungsbild der Sachverständigen bei einer Anhörung z
+ ur zweiten Verordnung zur Änderung der Biomasseverordnung (21/6810) im Au
+ sschuss für Wirtschaft und Energie am Freitag\, 9. Oktober 2026\, gezeigt
+ . Es ging um den vom Bundeskabinett beschlossenen Entwurf\, der die Vorgab
+ e der europäischen Richtlinie RED III umsetzen soll. Nachhaltige Nutzung 
+ von Biomasse Der Deutsche Städte- und Gemeindebund erklärte in seiner St
+ ellungnahme\, es sei aus kommunaler Sicht grundsätzlich nachvollziehbar\,
+  dass mit der Verordnung ein verlässlicher und rechtssicherer Rahmen für
+  die nachhaltige Nutzung von Biomasse geschaffen werden soll. Es sei aber 
+ ... (weiter auf der Seite der Sitzung)\n\nDokumente:\nTagesordnung: https:
+ //www.bundestag.de/resource/blob/1217760/to_51_09-10-2026_oeA_BiomasseVO.p
+ df\n21/6810: https://dserver.bundestag.de/btd/21/068/2106810.pdf\nListe de
+ r Sachverständigen: https://www.bundestag.de/resource/blob/1222928/Sachve
+ rstaendigenliste.pdf\n21(9)387 Stellungnahme des AGDW - Die Waldeigentüme
+ r e.V.: https://www.bundestag.de/resource/blob/1222930/Stellungnahme_AGDW-
+ Die_Waldeigentuemer_eV.pdf\n21(9)391 Stellungnahme Deutscher Städte- und 
+ Gemeindebund: https://www.bundestag.de/resource/blob/1223020/Stellungnahme
+ _DStGB.pdf\n21(9)392 Stellungnahme des Deutsche Säge- und Holzindustrie B
+ undesverband e.V.: https://www.bundestag.de/resource/blob/1223058/Stellung
+ nahme_Deutsche_Saege-u-_Holzindustrie_BV.pdf\n21(9)394 Stellungnahme des N
+ ABU (Naturschutzbund Deutschland) e.V.: https://www.bundestag.de/resource/
+ blob/1223096/Stellungnahme_NABU_eV.pdf\n21(9)395 Stellungnahme des BDEW Bu
+ ndesverband der Energie- und Wasserwirtschaft e.V.: https://www.bundestag.
+ de/resource/blob/1223322/Stellungnahme_BDEW.pdf\n21(9)397 Stellungnahme de
+ s Sachverständigen Martin Zühlke\, Energieverbund der Landwirtschaft MV 
+ e. V.: https://www.bundestag.de/resource/blob/1223500/Stellungnahme_Energi
+ everbund_d_Landwirtschaft_MV_ev.pdf\n21(9)398 Stellungnahme des Sachverst
+ ändigen Dr. Harry Schindler\, DBFZ Deutsches Biomasseforschungszentrum gG
+ mbH: https://www.bundestag.de/resource/blob/1223504/Stellungnahme_SV_Dr-_S
+ chindler_DBFZ_gGmbH.pdf\n\nSeite des Ausschusses: https://www.bundestag.de
+ /ausschuesse/a09_wirtschaft\nÜbertragung: https://www.bundestag.de/mediat
+ hek
 LOCATION:Berlin\, Paul-Löbe-Haus\, Sitzungssaal PLH E.200
 URL:https://www.bundestag.de/ausschuesse/a09_wirtschaft/wp21_a09_Anhoerunge
  n/1217464-1217464
@@ -1535,40 +1565,41 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-a09-wirtschaft-anhoerung-1221614@bundestag-kalend
  er
-DTSTAMP:20261019T070701Z
+DTSTAMP:20261020T103647Z
 DTSTART;TZID=Europe/Berlin:20261014T083000
 DTEND;TZID=Europe/Berlin:20261014T100000
-SUMMARY:Ausschuss WE: Anhörung zum Ersten Unternehmensstatistikreformgeset
- z
-DESCRIPTION:Öffentliche Anhörung (52. Sitzung)\n\nGegenstand: Der Gesetze
- ntwurf der Bundesregierung für ein Erstes Unternehmensstatistikreformgese
- tz (21/6586\, 21/7559) ist bei einer öffentlichen Anhörung im Ausschuss 
- für Wirtschaft und Energie am Mittwoch\, 14. Oktober 2026\, auf grundsät
- zliche Zustimmung\, aber auch auf Kritik gestoßen. Prof. Dr. Rüdiger Bac
- hmann\, University of Michigan\, kritisierte die vorgesehene Streichung de
- r Erfassung der Auftragsbestände. Sie seien ein wichtiger vorlaufender Ko
- njunkturindikator für die Gesundheit der Wirtschaft\, vor allen Dingen al
- s Krisenanzeiger. Der Erhebungsaufwand der Auftragsbestände sei relativ g
- ering. Jedes Unternehmen\, das am Markt bestehen wolle\, müsse die Daten 
- von Auftragsbeständen sowieso für die ... (weiter auf der Seite der Anh
- örung)\n\nDokumente:\nTagesordnung: https://www.bundestag.de/resource/blo
- b/1223156/to_52_14-10-2026_oeA_UnternehmensstatistikreformG.pdf\n21/6586: 
- https://dserver.bundestag.de/btd/21/065/2106586.pdf\n21/7559: https://dser
- ver.bundestag.de/btd/21/075/2107559.pdf\nListe der Sachverständigen: http
- s://www.bundestag.de/resource/blob/1224064/Sachverstaendigenliste.pdf\n21(
- 9)401 Stellungnahme der Sachverständigen Elvira Iannone\, Bundesverband d
- er Dolmetscher und Übersetzer e.V. (BDÜ): https://www.bundestag.de/resou
- rce/blob/1224210/Stellungnahme_BDUe.pdf\n21(9)403 gemeinsame Stellungnahme
-  BDI und BDA: https://www.bundestag.de/resource/blob/1224354/Stellungnahme
- -BDI-BDA.pdf\n21(9)409 Stellungnahme des Hauptverbandes der Deutschen Baui
- ndustrie e. V. und des Zentralverbandes des Deutschen Baugewerbes e. V.: h
- ttps://www.bundestag.de/resource/blob/1224566/Stellungnahme_Hauptverband_d
- _Dt_Bauindustrie_eV_Zentralverband_d_Dt-_Baugewerbes_eV.pdf\n21(9)410 Stel
- lungnahme des Sachverständigen Prof. Dr. Martin Gornig\, Deutsches Instit
- ut für Wirtschaftsforschung e.V.: https://www.bundestag.de/resource/blob/
- 1224572/Stellungnahme_SV_Dr-_Martin_Gornig.pdf\n\nSeite des Ausschusses: h
- ttps://www.bundestag.de/ausschuesse/a09_wirtschaft\nÜbertragung: https://
- www.bundestag.de/mediathek
+SUMMARY:Ausschuss WE: 52. Sitzung (öffentlich): Anhörung zum Ersten Unter
+ nehmensstatistikreformgesetz
+DESCRIPTION:Öffentliche Anhörung\, 52. Sitzung des Ausschusses. Anhörung
+ en zählen als zusätzliche Sitzungen neben der regulären Sitzung der Sit
+ zungswoche.\n\nGegenstand: Der Gesetzentwurf der Bundesregierung für ein 
+ Erstes Unternehmensstatistikreformgesetz (21/6586\, 21/7559) ist bei einer
+  öffentlichen Anhörung im Ausschuss für Wirtschaft und Energie am Mittw
+ och\, 14. Oktober 2026\, auf grundsätzliche Zustimmung\, aber auch auf Kr
+ itik gestoßen. Prof. Dr. Rüdiger Bachmann\, University of Michigan\, kri
+ tisierte die vorgesehene Streichung der Erfassung der Auftragsbestände. S
+ ie seien ein wichtiger vorlaufender Konjunkturindikator für die Gesundhei
+ t der Wirtschaft\, vor allen Dingen als Krisenanzeiger. Der Erhebungsaufwa
+ nd der Auftragsbestände sei relativ gering. Jedes Unternehmen\, das am Ma
+ rkt bestehen wolle\, müsse die Daten von Auftragsbeständen sowieso für 
+ die ... (weiter auf der Seite der Sitzung)\n\nDokumente:\nTagesordnung: ht
+ tps://www.bundestag.de/resource/blob/1223156/to_52_14-10-2026_oeA_Unterneh
+ mensstatistikreformG.pdf\n21/6586: https://dserver.bundestag.de/btd/21/065
+ /2106586.pdf\n21/7559: https://dserver.bundestag.de/btd/21/075/2107559.pdf
+ \nListe der Sachverständigen: https://www.bundestag.de/resource/blob/1224
+ 064/Sachverstaendigenliste.pdf\n21(9)401 Stellungnahme der Sachverständig
+ en Elvira Iannone\, Bundesverband der Dolmetscher und Übersetzer e.V. (BD
+ Ü): https://www.bundestag.de/resource/blob/1224210/Stellungnahme_BDUe.pdf
+ \n21(9)403 gemeinsame Stellungnahme BDI und BDA: https://www.bundestag.de/
+ resource/blob/1224354/Stellungnahme-BDI-BDA.pdf\n21(9)409 Stellungnahme de
+ s Hauptverbandes der Deutschen Bauindustrie e. V. und des Zentralverbandes
+  des Deutschen Baugewerbes e. V.: https://www.bundestag.de/resource/blob/1
+ 224566/Stellungnahme_Hauptverband_d_Dt_Bauindustrie_eV_Zentralverband_d_Dt
+ -_Baugewerbes_eV.pdf\n21(9)410 Stellungnahme des Sachverständigen Prof. D
+ r. Martin Gornig\, Deutsches Institut für Wirtschaftsforschung e.V.: http
+ s://www.bundestag.de/resource/blob/1224572/Stellungnahme_SV_Dr-_Martin_Gor
+ nig.pdf\n\nSeite des Ausschusses: https://www.bundestag.de/ausschuesse/a09
+ _wirtschaft\nÜbertragung: https://www.bundestag.de/mediathek
 LOCATION:Berlin\, Paul-Löbe-Haus\, Sitzungssaal PLH E.200
 URL:https://www.bundestag.de/ausschuesse/a09_wirtschaft/wp21_a09_Anhoerunge
  n/1221614-1221614
@@ -1592,7 +1623,7 @@ ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12245
 END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-a09-wirtschaft-sitzung-53@bundestag-kalender
-DTSTAMP:20261019T070701Z
+DTSTAMP:20261020T103647Z
 DTSTART;TZID=Europe/Berlin:20261014T103000
 DTEND;TZID=Europe/Berlin:20261014T123000
 SUMMARY:Ausschuss WE: 53. Sitzung (nicht öffentlich)
@@ -1619,51 +1650,53 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-a09-wirtschaft-anhoerung-1217466@bundestag-kalend
  er
-DTSTAMP:20261019T070701Z
+DTSTAMP:20261020T103647Z
 DTSTART;TZID=Europe/Berlin:20261014T143000
 DTEND;TZID=Europe/Berlin:20261014T160000
-SUMMARY:Ausschuss WE: Anhörung zur 12. GWB-Novelle
-DESCRIPTION:Öffentliche Anhörung (54. Sitzung)\n\nGegenstand: Die von der
-  Regierung geplante Kartellrechtsreform ist von den Sachverständigen unte
- rschiedlich bewertet worden. Das Bundeskartellamt begrüßte die Einführu
- ng eines Vergabescreenings\, mit dem nun auch in Deutschland ein zusätzli
- ches Instrument zur Kartellrechtsdurchsetzung und zur Stärkung des fairen
-  Wettbewerbs in öffentlichen Vergabeverfahren etabliert werden solle\, er
- klärte Andreas Mundt\, der Präsident des Bundeskartellamtes\, am Mittwoc
- h\, 14. Oktober 2026\, in einer öffentlichen Anhörung des Ausschusses f
- ür Wirtschaft und Energie\, die vom Vorsitzenden Christian Freiherr von S
- tetten (CDU/CSU) geleitet wurde. In vielen anderen EU-Mitgliedstaaten werd
- e das Screening bereits erfolgreich ... (weiter auf der Seite der Anhörun
- g)\n\nDokumente:\nTagesordnung: https://www.bundestag.de/resource/blob/121
- 8000/to_54_14-10-2026_oeA_GWB-Novelle.pdf\n1. Ergänzungsmitteilung: https
- ://www.bundestag.de/resource/blob/1223490/to_54_14-10-2026_oeA_GWB-Novelle
- _1-_Ergaenzung.pdf\n21/7865: https://dserver.bundestag.de/btd/21/078/21078
- 65.pdf\n21/8302: https://dserver.bundestag.de/btd/21/083/2108302.pdf\n21/8
- 395: https://dserver.bundestag.de/btd/21/083/2108395.pdf\nListe der Sachve
- rständigen: https://www.bundestag.de/resource/blob/1222860/Sachverstaendi
- genliste.pdf\n21(9)388 Stellungnahme der Bundesvereinigung der kommunalen 
- Spitzenverbände: https://www.bundestag.de/resource/blob/1222862/Stellungn
- ahme_Bundesvereinigung_komm-_Spitzenverbaende.pdf\n21(9)399 Stellungnahme 
- Prof. Dr. Hertwig\, CBH Rechtsanwälte: https://www.bundestag.de/resource/
- blob/1223548/Stellungnahme-Prof-Dr-Hertwig-CBH-Rechtsanwaelte.pdf\n21(9)40
- 0 Stellungnahme des Bundeskartellamtes: https://www.bundestag.de/resource/
- blob/1224062/Stellungnahme_Bundeskartellamt.pdf\n21(9)402 Stellungnahme de
- s Handelsverbandes Deutschland e.V. (HDE): https://www.bundestag.de/resour
- ce/blob/1224318/Stellungnahme_HDE.pdf\n21(9)404 Stellungnahme Dr. Till Ste
- invorth (für MVFP\, BDZV): https://www.bundestag.de/resource/blob/1224352
- /Neuer-Inhalt.pdf\n21(9)405 Stellungnahme des Sachverständigen Dr. Jan He
- ithecker\, DENTONS: https://www.bundestag.de/resource/blob/1224410/Stellun
- gnahme_SV_Dr-_Jan_Heithecker_DENTONS.pdf\n21(9)406 Stellungnahme des Sachv
- erständigen Prof. Dr. Rupprecht Podszun\, Heinrich-Heine-Universität Dü
- sseldorf: https://www.bundestag.de/resource/blob/1224414/Stellungnahme_SV_
- Dr-_Rupprecht_Podszun_HH-Uni_Duesseldorf.pdf\n21(9)407 Stellungnahme des S
- achverständigen Prof. Dr. Daniel Zimmer\, Universität Bonn: https://www.
- bundestag.de/resource/blob/1224456/Stellungnahme_SV_Dr-_Daniel_Zimmer_Uni_
- Bonn.pdf\n21(9)408 Stellungnahme des Sachverständigen Ulrich Müller\, Re
- balance Now e.V.: https://www.bundestag.de/resource/blob/1224564/Stellungn
- ahme_SV_Ulrich_Moeller_Rebalance_Now_eV.pdf\n\nSeite des Ausschusses: http
- s://www.bundestag.de/ausschuesse/a09_wirtschaft\nÜbertragung: https://www
- .bundestag.de/mediathek
+SUMMARY:Ausschuss WE: 54. Sitzung (öffentlich): Anhörung zur 12. GWB-Nove
+ lle
+DESCRIPTION:Öffentliche Anhörung\, 54. Sitzung des Ausschusses. Anhörung
+ en zählen als zusätzliche Sitzungen neben der regulären Sitzung der Sit
+ zungswoche.\n\nGegenstand: Die von der Regierung geplante Kartellrechtsref
+ orm ist von den Sachverständigen unterschiedlich bewertet worden. Das Bun
+ deskartellamt begrüßte die Einführung eines Vergabescreenings\, mit dem
+  nun auch in Deutschland ein zusätzliches Instrument zur Kartellrechtsdur
+ chsetzung und zur Stärkung des fairen Wettbewerbs in öffentlichen Vergab
+ everfahren etabliert werden solle\, erklärte Andreas Mundt\, der Präside
+ nt des Bundeskartellamtes\, am Mittwoch\, 14. Oktober 2026\, in einer öff
+ entlichen Anhörung des Ausschusses für Wirtschaft und Energie\, die vom 
+ Vorsitzenden Christian Freiherr von Stetten (CDU/CSU) geleitet wurde. In v
+ ielen anderen EU-Mitgliedstaaten werde das Screening bereits erfolgreich .
+ .. (weiter auf der Seite der Sitzung)\n\nDokumente:\nTagesordnung: https:/
+ /www.bundestag.de/resource/blob/1218000/to_54_14-10-2026_oeA_GWB-Novelle.p
+ df\n1. Ergänzungsmitteilung: https://www.bundestag.de/resource/blob/12234
+ 90/to_54_14-10-2026_oeA_GWB-Novelle_1-_Ergaenzung.pdf\n21/7865: https://ds
+ erver.bundestag.de/btd/21/078/2107865.pdf\n21/8302: https://dserver.bundes
+ tag.de/btd/21/083/2108302.pdf\n21/8395: https://dserver.bundestag.de/btd/2
+ 1/083/2108395.pdf\nListe der Sachverständigen: https://www.bundestag.de/r
+ esource/blob/1222860/Sachverstaendigenliste.pdf\n21(9)388 Stellungnahme de
+ r Bundesvereinigung der kommunalen Spitzenverbände: https://www.bundestag
+ .de/resource/blob/1222862/Stellungnahme_Bundesvereinigung_komm-_Spitzenver
+ baende.pdf\n21(9)399 Stellungnahme Prof. Dr. Hertwig\, CBH Rechtsanwälte:
+  https://www.bundestag.de/resource/blob/1223548/Stellungnahme-Prof-Dr-Hert
+ wig-CBH-Rechtsanwaelte.pdf\n21(9)400 Stellungnahme des Bundeskartellamtes:
+  https://www.bundestag.de/resource/blob/1224062/Stellungnahme_Bundeskartel
+ lamt.pdf\n21(9)402 Stellungnahme des Handelsverbandes Deutschland e.V. (HD
+ E): https://www.bundestag.de/resource/blob/1224318/Stellungnahme_HDE.pdf\n
+ 21(9)404 Stellungnahme Dr. Till Steinvorth (für MVFP\, BDZV): https://www
+ .bundestag.de/resource/blob/1224352/Neuer-Inhalt.pdf\n21(9)405 Stellungnah
+ me des Sachverständigen Dr. Jan Heithecker\, DENTONS: https://www.bundest
+ ag.de/resource/blob/1224410/Stellungnahme_SV_Dr-_Jan_Heithecker_DENTONS.pd
+ f\n21(9)406 Stellungnahme des Sachverständigen Prof. Dr. Rupprecht Podszu
+ n\, Heinrich-Heine-Universität Düsseldorf: https://www.bundestag.de/reso
+ urce/blob/1224414/Stellungnahme_SV_Dr-_Rupprecht_Podszun_HH-Uni_Duesseldor
+ f.pdf\n21(9)407 Stellungnahme des Sachverständigen Prof. Dr. Daniel Zimme
+ r\, Universität Bonn: https://www.bundestag.de/resource/blob/1224456/Stel
+ lungnahme_SV_Dr-_Daniel_Zimmer_Uni_Bonn.pdf\n21(9)408 Stellungnahme des Sa
+ chverständigen Ulrich Müller\, Rebalance Now e.V.: https://www.bundestag
+ .de/resource/blob/1224564/Stellungnahme_SV_Ulrich_Moeller_Rebalance_Now_eV
+ .pdf\n\nSeite des Ausschusses: https://www.bundestag.de/ausschuesse/a09_wi
+ rtschaft\nÜbertragung: https://www.bundestag.de/mediathek
 LOCATION:Berlin\, Paul-Löbe-Haus\, Sitzungssaal PLH E.200
 URL:https://www.bundestag.de/ausschuesse/a09_wirtschaft/wp21_a09_Anhoerunge
  n/1217466-1217466
@@ -1701,23 +1734,26 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-a09-wirtschaft-anhoerung-1224898@bundestag-kalend
  er
-DTSTAMP:20261019T070701Z
+DTSTAMP:20261020T103647Z
 DTSTART;TZID=Europe/Berlin:20261102T123000
 DTEND;TZID=Europe/Berlin:20261102T143000
-SUMMARY:Ausschuss WE: Anhörung zum Ausbau der Windenergie auf See
-DESCRIPTION:Öffentliche Anhörung (55. Sitzung)\n\nGegenstand: Gesetzentwu
- rf der Bundesregierung Entwurf eines Gesetzes zur Optimierung und Absicher
- ung des Ausbaus der Windenergie auf See\, BT-Drucksache 21/8238\, Antrag d
- er Abgeordneten Lorenz Gösta Beutin\, Jörg Cezanne\, Janine Wissler\, we
- iterer Abgeordneter und der Fraktion Die Linke Offshore-Windindustrie und 
- Klimaziele retten – Ausbau in öffentlicher Hand umsetzen\, BT-Drucksach
- e 21/8366\n\nAnmeldung als Zuschauer bis 29. Oktober 2026: https://registr
- ation.bundestag.de/#/events/d830560d-d23f-48b0-bc65-6ec599c3a3f9\n\nDokume
- nte:\nTagesordnung: https://www.bundestag.de/resource/blob/1224942/to_55_0
- 2-11-2026_oeA_Windenergie_auf_See.pdf\n21/8238: https://dserver.bundestag.
- de/btd/21/082/2108238.pdf\n21/8366: https://dserver.bundestag.de/btd/21/08
- 3/2108366.pdf\n\nSeite des Ausschusses: https://www.bundestag.de/ausschues
- se/a09_wirtschaft\nÜbertragung: https://www.bundestag.de/mediathek
+SUMMARY:Ausschuss WE: 55. Sitzung (öffentlich): Anhörung zum Ausbau der W
+ indenergie auf See
+DESCRIPTION:Öffentliche Anhörung\, 55. Sitzung des Ausschusses. Anhörung
+ en zählen als zusätzliche Sitzungen neben der regulären Sitzung der Sit
+ zungswoche.\n\nGegenstand: Gesetzentwurf der Bundesregierung Entwurf eines
+  Gesetzes zur Optimierung und Absicherung des Ausbaus der Windenergie auf 
+ See\, BT-Drucksache 21/8238\, Antrag der Abgeordneten Lorenz Gösta Beutin
+ \, Jörg Cezanne\, Janine Wissler\, weiterer Abgeordneter und der Fraktion
+  Die Linke Offshore-Windindustrie und Klimaziele retten – Ausbau in öff
+ entlicher Hand umsetzen\, BT-Drucksache 21/8366\n\nAnmeldung als Zuschauer
+  bis 29. Oktober 2026: https://registration.bundestag.de/#/events/d830560d
+ -d23f-48b0-bc65-6ec599c3a3f9\n\nDokumente:\nTagesordnung: https://www.bund
+ estag.de/resource/blob/1224942/to_55_02-11-2026_oeA_Windenergie_auf_See.pd
+ f\n21/8238: https://dserver.bundestag.de/btd/21/082/2108238.pdf\n21/8366: 
+ https://dserver.bundestag.de/btd/21/083/2108366.pdf\n\nSeite des Ausschuss
+ es: https://www.bundestag.de/ausschuesse/a09_wirtschaft\nÜbertragung: htt
+ ps://www.bundestag.de/mediathek
 LOCATION:Berlin\, Paul-Löbe-Haus\, Sitzungssaal PLH 4.600
 URL:https://www.bundestag.de/ausschuesse/a09_wirtschaft/wp21_a09_Anhoerunge
  n/1224898-1224898
@@ -1731,20 +1767,23 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-a09-wirtschaft-anhoerung-1224900@bundestag-kalend
  er
-DTSTAMP:20261019T070701Z
+DTSTAMP:20261020T103647Z
 DTSTART;TZID=Europe/Berlin:20261104T083000
 DTEND;TZID=Europe/Berlin:20261104T100000
-SUMMARY:Ausschuss WE: Anhörung zum Stromsystemflexibilitätsgesetz
-DESCRIPTION:Öffentliche Anhörung (56. Sitzung)\n\nGegenstand: Gesetzentwu
- rf der Bundesregierung Entwurf eines Gesetzes zur Beschleunigung von Planu
- ngs- und Genehmigungsverfahren für mehr Flexibilität im Stromsystem und 
- zur Gewährleistung der Versorgungssicherheit\, BT-Drucksache 21/8285\n\nA
- nmeldung als Zuschauer bis 2. November 2026: https://registration.bundesta
- g.de/#/events/0bbb34c0-0a31-4e04-8615-d8e354db60cc\n\nDokumente:\nTagesord
- nung: https://www.bundestag.de/resource/blob/1224946/to_56_04-11-2026_oeA_
- StromFlexBG.pdf\n21/8285: https://dserver.bundestag.de/btd/21/082/2108285.
- pdf\n\nSeite des Ausschusses: https://www.bundestag.de/ausschuesse/a09_wir
- tschaft\nÜbertragung: https://www.bundestag.de/mediathek
+SUMMARY:Ausschuss WE: 56. Sitzung (öffentlich): Anhörung zum Stromsystemf
+ lexibilitätsgesetz
+DESCRIPTION:Öffentliche Anhörung\, 56. Sitzung des Ausschusses. Anhörung
+ en zählen als zusätzliche Sitzungen neben der regulären Sitzung der Sit
+ zungswoche.\n\nGegenstand: Gesetzentwurf der Bundesregierung Entwurf eines
+  Gesetzes zur Beschleunigung von Planungs- und Genehmigungsverfahren für 
+ mehr Flexibilität im Stromsystem und zur Gewährleistung der Versorgungss
+ icherheit\, BT-Drucksache 21/8285\n\nAnmeldung als Zuschauer bis 2. Novemb
+ er 2026: https://registration.bundestag.de/#/events/0bbb34c0-0a31-4e04-861
+ 5-d8e354db60cc\n\nDokumente:\nTagesordnung: https://www.bundestag.de/resou
+ rce/blob/1224946/to_56_04-11-2026_oeA_StromFlexBG.pdf\n21/8285: https://ds
+ erver.bundestag.de/btd/21/082/2108285.pdf\n\nSeite des Ausschusses: https:
+ //www.bundestag.de/ausschuesse/a09_wirtschaft\nÜbertragung: https://www.b
+ undestag.de/mediathek
 LOCATION:Berlin\, Paul-Löbe-Haus\, Sitzungssaal PLH E.400
 URL:https://www.bundestag.de/ausschuesse/a09_wirtschaft/wp21_a09_Anhoerunge
  n/1224900-1224900
@@ -1756,21 +1795,23 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-a09-wirtschaft-anhoerung-1224908@bundestag-kalend
  er
-DTSTAMP:20261019T070701Z
+DTSTAMP:20261020T103647Z
 DTSTART;TZID=Europe/Berlin:20261106T080000
 DTEND;TZID=Europe/Berlin:20261106T090000
-SUMMARY:Ausschuss WE: Anhörung zu Zuschüssen zu den Übertragungsnetzkost
- en für 2027 bis 2029
-DESCRIPTION:Öffentliche Anhörung (58. Sitzung)\n\nGegenstand: Gesetzentwu
- rf der Bundesregierung Entwurf eines Gesetzes zur Änderung des Energiewir
- tschaftsgesetzes zur Gewährung eines Zuschusses zu den Übertragungsnetzk
- osten für die Jahre 2027 bis 2029\, BT-Drucksache 21/8236\n\nAnmeldung al
- s Zuschauer bis 4. November 2026: https://registration.bundestag.de/#/even
- ts/df28abde-5cf9-48b4-a591-43c83356fc5f\n\nDokumente:\nTagesordnung: https
- ://www.bundestag.de/resource/blob/1224948/to_58_06-11-2026_oeA_Zuschuesse_
- Uebertragungsnetzkosten.pdf\n21/8236: https://dserver.bundestag.de/btd/21/
- 082/2108236.pdf\n\nSeite des Ausschusses: https://www.bundestag.de/ausschu
- esse/a09_wirtschaft\nÜbertragung: https://www.bundestag.de/mediathek
+SUMMARY:Ausschuss WE: 58. Sitzung (öffentlich): Anhörung zu Zuschüssen z
+ u den Übertragungsnetzkosten für 2027 bis 2029
+DESCRIPTION:Öffentliche Anhörung\, 58. Sitzung des Ausschusses. Anhörung
+ en zählen als zusätzliche Sitzungen neben der regulären Sitzung der Sit
+ zungswoche.\n\nGegenstand: Gesetzentwurf der Bundesregierung Entwurf eines
+  Gesetzes zur Änderung des Energiewirtschaftsgesetzes zur Gewährung eine
+ s Zuschusses zu den Übertragungsnetzkosten für die Jahre 2027 bis 2029\,
+  BT-Drucksache 21/8236\n\nAnmeldung als Zuschauer bis 4. November 2026: ht
+ tps://registration.bundestag.de/#/events/df28abde-5cf9-48b4-a591-43c83356f
+ c5f\n\nDokumente:\nTagesordnung: https://www.bundestag.de/resource/blob/12
+ 24948/to_58_06-11-2026_oeA_Zuschuesse_Uebertragungsnetzkosten.pdf\n21/8236
+ : https://dserver.bundestag.de/btd/21/082/2108236.pdf\n\nSeite des Ausschu
+ sses: https://www.bundestag.de/ausschuesse/a09_wirtschaft\nÜbertragung: h
+ ttps://www.bundestag.de/mediathek
 LOCATION:Berlin\, Paul-Löbe-Haus\, Sitzungssaal PLH E.400
 URL:https://www.bundestag.de/ausschuesse/a09_wirtschaft/wp21_a09_Anhoerunge
  n/1224908-1224908

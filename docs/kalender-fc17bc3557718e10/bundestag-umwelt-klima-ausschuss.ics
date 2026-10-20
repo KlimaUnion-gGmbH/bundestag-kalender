@@ -1,0 +1,1086 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//bundestag-kalender//DE
+CALSCALE:GREGORIAN
+X-WR-TIMEZONE:Europe/Berlin
+X-WR-CALNAME:Bundestag: TEIL von Ausschuss Umwelt komplett: nur Sitzungen u
+ nd Anhörungen
+DESCRIPTION:Nur ein Teil des Kalenders Ausschuss Umwelt komplett: Sitzungen
+  und öffentliche Anhörungen des Ausschusses Umwelt\, Klimaschutz\, Natur
+ schutz und nukleare Sicherheit. Nicht zusätzlich zum kompletten Kalender 
+ abonnieren.
+REFRESH-INTERVAL;VALUE=DURATION:PT15M
+X-PUBLISHED-TTL:PT15M
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+BEGIN:STANDARD
+TZNAME:CET
+DTSTART:19701025T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+BEGIN:DAYLIGHT
+TZNAME:CEST
+DTSTART:19700329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sw-20260112@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;VALUE=DATE:20260112
+DTEND;VALUE=DATE:20260117
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20260126@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;VALUE=DATE:20260126
+DTEND;VALUE=DATE:20260131
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20260223@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;VALUE=DATE:20260223
+DTEND;VALUE=DATE:20260228
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20260302@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;VALUE=DATE:20260302
+DTEND;VALUE=DATE:20260307
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20260316@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;VALUE=DATE:20260316
+DTEND;VALUE=DATE:20260321
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20260323@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;VALUE=DATE:20260323
+DTEND;VALUE=DATE:20260328
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20260413@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;VALUE=DATE:20260413
+DTEND;VALUE=DATE:20260418
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20260420@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;VALUE=DATE:20260420
+DTEND;VALUE=DATE:20260425
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20260504@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;VALUE=DATE:20260504
+DTEND;VALUE=DATE:20260509
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20260518@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;VALUE=DATE:20260518
+DTEND;VALUE=DATE:20260523
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20260608@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;VALUE=DATE:20260608
+DTEND;VALUE=DATE:20260613
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20260622@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;VALUE=DATE:20260622
+DTEND;VALUE=DATE:20260627
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20260706@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;VALUE=DATE:20260706
+DTEND;VALUE=DATE:20260711
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20260907@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260912
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20260921@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260926
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20261005@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261010
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20261012@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261017
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20261102@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261107
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20261109@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261114
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20261123@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261128
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20261207@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261212
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20261214@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261219
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20270111@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;VALUE=DATE:20270111
+DTEND;VALUE=DATE:20270116
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20270125@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;VALUE=DATE:20270125
+DTEND;VALUE=DATE:20270130
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20270215@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;VALUE=DATE:20270215
+DTEND;VALUE=DATE:20270220
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20270301@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;VALUE=DATE:20270301
+DTEND;VALUE=DATE:20270306
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20270315@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;VALUE=DATE:20270315
+DTEND;VALUE=DATE:20270320
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20270405@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270410
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20270412@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;VALUE=DATE:20270412
+DTEND;VALUE=DATE:20270417
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20270426@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;VALUE=DATE:20270426
+DTEND;VALUE=DATE:20270501
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20270510@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;VALUE=DATE:20270510
+DTEND;VALUE=DATE:20270515
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20270531@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;VALUE=DATE:20270531
+DTEND;VALUE=DATE:20270605
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20270614@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;VALUE=DATE:20270614
+DTEND;VALUE=DATE:20270619
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20270628@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;VALUE=DATE:20270628
+DTEND;VALUE=DATE:20270703
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20270705@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;VALUE=DATE:20270705
+DTEND;VALUE=DATE:20270710
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20270906@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;VALUE=DATE:20270906
+DTEND;VALUE=DATE:20270911
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20270920@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;VALUE=DATE:20270920
+DTEND;VALUE=DATE:20270925
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20271004@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;VALUE=DATE:20271004
+DTEND;VALUE=DATE:20271009
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20271025@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;VALUE=DATE:20271025
+DTEND;VALUE=DATE:20271030
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20271108@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;VALUE=DATE:20271108
+DTEND;VALUE=DATE:20271113
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20271122@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;VALUE=DATE:20271122
+DTEND;VALUE=DATE:20271127
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20271129@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;VALUE=DATE:20271129
+DTEND;VALUE=DATE:20271204
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sw-20271213@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;VALUE=DATE:20271213
+DTEND;VALUE=DATE:20271218
+SUMMARY:Sitzungswoche
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ausschuss-ausschuesse-umwelt-sitzung-22@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;TZID=Europe/Berlin:20260114T113000
+DTEND;TZID=Europe/Berlin:20260114T133000
+SUMMARY:Ausschuss Umwelt: 22. Sitzung (nicht öffentlich)
+DESCRIPTION:22. Sitzung des Ausschusses (nicht öffentlich)\nEnde geschätz
+ t.\n\nTagesordnung und Ergänzungen:\nTagesordnung: https://www.bundestag.
+ de/resource/blob/1136148/to-022.pdf\n\nSeite des Ausschusses: https://www.
+ bundestag.de/ausschuesse/umwelt
+URL:https://www.bundestag.de/ausschuesse/umwelt
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11361
+ 48/to-022.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:ausschuss-ausschuesse-umwelt-sitzung-23@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;TZID=Europe/Berlin:20260128T103000
+DTEND;TZID=Europe/Berlin:20260128T123000
+SUMMARY:Ausschuss Umwelt: 23. Sitzung (nicht öffentlich)
+DESCRIPTION:23. Sitzung des Ausschusses (nicht öffentlich)\nEnde geschätz
+ t.\n\nTagesordnung und Ergänzungen:\nTagesordnung: https://www.bundestag.
+ de/resource/blob/1139262/to-023.pdf\n\nSeite des Ausschusses: https://www.
+ bundestag.de/ausschuesse/umwelt
+URL:https://www.bundestag.de/ausschuesse/umwelt
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11392
+ 62/to-023.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:ausschuss-ausschuesse-umwelt-anhoerung-1145816@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;TZID=Europe/Berlin:20260225T093000
+DTEND;TZID=Europe/Berlin:20260225T104500
+SUMMARY:Ausschuss Umwelt: 24. Sitzung (öffentlich): Aspekte des Umwelt- un
+ d Naturschutzes im Infrastruktur-Zukunftsgesetz
+DESCRIPTION:Öffentliche Sitzung\, 24. Sitzung des Ausschusses. Anhörungen
+  zählen als zusätzliche Sitzungen neben der regulären Sitzung der Sitzu
+ ngswoche.\n\nGegenstand: Mit ihrem Entwurf für ein Infrastruktur-Zukunfts
+ gesetz (21/4099) will die Bundesregierung Planungsverfahren beschleunigen.
+  Vertreter von Umweltverbänden und Umweltrechts-Experten jedoch warnen vo
+ r massiven Auswirkungen für Umwelt und Natur\, wie ein öffentliches Fach
+ gespräch am Mittwoch\, 25.Februar 2026\, im Umweltausschuss gezeigt hat. 
+ Mit der geplanten Verfahrensbeschleunigung drohten Schutzstandards zu sink
+ en und Beteiligungsrechte zu schrumpfen\, so die von SPD\, Bündnis 90/Die
+  Grünen und Die Linke benannten Sachverständigen. Praxistaugliche Gesetz
+ gebung Vertreter von Kommunen und Deutscher Bahn\, die von der CDU/CSU-Fra
+ ktion als Experten eingeladen waren\, begrüßten dagegen den ... (weiter 
+ auf der Seite der Sitzung)\n\nDokumente:\nTagesordnung: https://www.bundes
+ tag.de/resource/blob/1149494/to-024.pdf\n21/4099: https://dserver.bundesta
+ g.de/btd/21/040/2104099.pdf\nListe der Sachverständigen: https://www.bund
+ estag.de/resource/blob/1145926/SV-Liste.pdf\nStellungnahme Prof. Dr. Sabin
+ e Schlacke\, Universität Greifswald\, A-Drs. 21(16)105-A: https://www.bun
+ destag.de/resource/blob/1149534/Stellungnahme-Prof-Dr-Schlacke.pdf\nStellu
+ ngnahme Prof. Dr. Jörg Biesemann\, Gesellschaft für FORTSCHRITT in FREIH
+ EIT e.V.\, A-Drs. 21(16)105-B: https://www.bundestag.de/resource/blob/1149
+ 536/Stellungnahme-Prof-Dr-Biesemann.pdf\nStellungnahme Deutsche Bahn AG\, 
+ A-Drs. 21(16)105-C: https://www.bundestag.de/resource/blob/1150370/Stellun
+ gnahme-DB-AG.pdf\n\nSeite des Ausschusses: https://www.bundestag.de/aussch
+ uesse/umwelt\nÜbertragung: https://www.bundestag.de/mediathek
+LOCATION:Berlin\, Paul-Löbe-Haus\, Sitzungssaal E.700
+URL:https://www.bundestag.de/ausschuesse/umwelt/sitzungen/1145816-1145816
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11494
+ 94/to-024.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/040/2104
+ 099.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11459
+ 26/SV-Liste.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11495
+ 34/Stellungnahme-Prof-Dr-Schlacke.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11495
+ 36/Stellungnahme-Prof-Dr-Biesemann.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11503
+ 70/Stellungnahme-DB-AG.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:ausschuss-ausschuesse-umwelt-sitzung-25@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;TZID=Europe/Berlin:20260225T113000
+DTEND;TZID=Europe/Berlin:20260225T133000
+SUMMARY:Ausschuss Umwelt: 25. Sitzung (nicht öffentlich)
+DESCRIPTION:25. Sitzung des Ausschusses (nicht öffentlich)\nEnde geschätz
+ t.\n\nTagesordnung und Ergänzungen:\nTagesordnung: https://www.bundestag.
+ de/resource/blob/1149500/to-025.pdf\n1. Änderungs-/Ergänzungsmitteilung:
+  https://www.bundestag.de/resource/blob/1149834/to-024-1.pdf\n\nSeite des 
+ Ausschusses: https://www.bundestag.de/ausschuesse/umwelt
+URL:https://www.bundestag.de/ausschuesse/umwelt
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11495
+ 00/to-025.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11498
+ 34/to-024-1.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:ausschuss-ausschuesse-umwelt-anhoerung-1145932@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;TZID=Europe/Berlin:20260304T093000
+DTEND;TZID=Europe/Berlin:20260304T113000
+SUMMARY:Ausschuss Umwelt: 26. Sitzung (öffentlich): Weiterentwicklung der 
+ Treibhausgasminderungs-Quote (THG-Quote)
+DESCRIPTION:Öffentliche Sitzung\, 26. Sitzung des Ausschusses. Anhörungen
+  zählen als zusätzliche Sitzungen neben der regulären Sitzung der Sitzu
+ ngswoche.\n\nGegenstand: Der von der Bundesregierung vorgelegte Entwurf ei
+ nes „Zweiten Gesetzes zur Weiterentwicklung der Treibhausgasminderungs-Q
+ uote“ (THG-Quote) (21/4083) ist bei einer Sachverständigenanhörung des
+  Umweltausschusses am Mittwoch\, 4. März 2026\, unterschiedlich beurteilt
+  worden. Zur Umsetzung der europäischen RED-III-Richtlinie und zur Erreic
+ hung der Klimaschutzziele im Verkehrssektor soll die THG-Quote „ambition
+ iert fortgeschrieben werden“\, heißt es in dem Entwurf. Geplant ist\, d
+ ie verpflichtende prozentuale Minderung der Treibhausgasemissionen bei Kra
+ ftstoffen bis zum Jahr 2040 schrittweise auf 59 Prozent ansteigen zu lasse
+ n. Die THG-Quote ist das zentrale gesetzliche Instrument\, um die ... (wei
+ ter auf der Seite der Sitzung)\n\nDokumente:\nTagesordnung: https://www.bu
+ ndestag.de/resource/blob/1150608/to-026.pdf\n21/4083: https://dserver.bund
+ estag.de/btd/21/040/2104083.pdf\nListe der Sachverständigen: https://www.
+ bundestag.de/resource/blob/1145980/SV-Liste.pdf\nStellungnahme Shell Deuts
+ chland GmbH\, A-Drs. 21(16)107-A: https://www.bundestag.de/resource/blob/1
+ 151024/Stellungnahme-Shell.pdf\nStellungnahme Bayernoil Raffineriegesellsc
+ haft mbH\, A-Drs. 21(16)107-B: https://www.bundestag.de/resource/blob/1151
+ 026/Stellungnahme-Bayernoil.pdf\nStellungnahme NABU\, A-Drs. 21(16)107-C: 
+ https://www.bundestag.de/resource/blob/1151028/Stellungnahme-NABU.pdf\nSte
+ llungnahme Deutsche Umwelthilfe e.V. (DUH)\, A-Drs. 21(16)107-D: https://w
+ ww.bundestag.de/resource/blob/1151076/Stellungnahme-DUH.pdf\nStellungnahme
+  Transport & Environment (T & E) Deutschland gGmbH\, A-Dr.s 21(16)107-E: h
+ ttps://www.bundestag.de/resource/blob/1151086/Stellungnahme-T-E.pdf\nStell
+ ungnahme Holger Becker\, Gesellschaft für Fortschritt in Freiheit e.V.\, 
+ A-Drs. 21(16)107-F: https://www.bundestag.de/resource/blob/1151116/Stellun
+ gnahme-Becker-GfFiF.pdf\nStellungnahme Dr. Matthias Hornsteiner\, Gesellsc
+ haft für Fortschritt in Freiheit e.V.\, A-Drs. 21(16)107-G: https://www.b
+ undestag.de/resource/blob/1151118/Stellungnahme-Dr-Hornsteiner-GfFiF.pdf\n
+ Stellungnahme eFuel Alliance\, A-Drs. 21(16)107-H: https://www.bundestag.d
+ e/resource/blob/1151626/Stellungnahme-eFuel.pdf\nStellungnahme VDB\, A-Drs
+ . 21(16)107-I: https://www.bundestag.de/resource/blob/1158378/Stellungnahm
+ e-VDB.pdf\n\nSeite des Ausschusses: https://www.bundestag.de/ausschuesse/u
+ mwelt\nÜbertragung: https://www.bundestag.de/mediathek
+LOCATION:Berlin\, Paul-Löbe-Haus\, Sitzungssaal E.700
+URL:https://www.bundestag.de/ausschuesse/umwelt/sitzungen/1145932-1145932
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11506
+ 08/to-026.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/040/2104
+ 083.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11459
+ 80/SV-Liste.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11510
+ 24/Stellungnahme-Shell.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11510
+ 26/Stellungnahme-Bayernoil.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11510
+ 28/Stellungnahme-NABU.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11510
+ 76/Stellungnahme-DUH.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11510
+ 86/Stellungnahme-T-E.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11511
+ 16/Stellungnahme-Becker-GfFiF.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11511
+ 18/Stellungnahme-Dr-Hornsteiner-GfFiF.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11516
+ 26/Stellungnahme-eFuel.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11583
+ 78/Stellungnahme-VDB.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:ausschuss-ausschuesse-umwelt-sitzung-27@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;TZID=Europe/Berlin:20260304T113000
+DTEND;TZID=Europe/Berlin:20260304T133000
+SUMMARY:Ausschuss Umwelt: 27. Sitzung (nicht öffentlich)
+DESCRIPTION:27. Sitzung des Ausschusses (nicht öffentlich)\nEnde geschätz
+ t.\n\nTagesordnung und Ergänzungen:\nTagesordnung: https://www.bundestag.
+ de/resource/blob/1150616/to-027.pdf\n\nSeite des Ausschusses: https://www.
+ bundestag.de/ausschuesse/umwelt
+URL:https://www.bundestag.de/ausschuesse/umwelt
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11506
+ 16/to-027.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:ausschuss-ausschuesse-umwelt-anhoerung-1151870@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;TZID=Europe/Berlin:20260318T093000
+DTEND;TZID=Europe/Berlin:20260318T104500
+SUMMARY:Ausschuss Umwelt: 28. Sitzung (öffentlich): CO2-Abscheidung und -S
+ peicherung (CCS – Carbon Capture and Storage)
+DESCRIPTION:Öffentliche Sitzung\, 28. Sitzung des Ausschusses. Anhörungen
+  zählen als zusätzliche Sitzungen neben der regulären Sitzung der Sitzu
+ ngswoche.\n\nGegenstand: Der Einsatz von Technologien zur Abscheidung und 
+ Speicherung von Kohlendioxid (Carbon Capture and Storage\, kurz CCS) ist u
+ nter Sachverständigen umstritten\, wie ein öffentliches Fachgespräch im
+  Umweltausschuss am Mittwoch\, 18. März 2026\, gezeigt hat. Während Vert
+ reter der Industrie\, welche die CDU/CSU-Fraktion als Experten benannt hat
+ te\, sich für eine möglichst breite Nutzung aussprachen\, drängten von 
+ SPD\, Bündnis 90/Die Grünen und Die Linke eingeladene Wissenschaftler au
+ f eine Begrenzung der Verwendung auf unvermeidbare CO2-Restemissionen\, Da
+ mit sind Emissionen gemeint\, die nicht durch den Ersatz fossiler Brennsto
+ ffe durch erneuerbare Energien oder durch Änderungen des Produktionsproze
+ sses ... (weiter auf der Seite der Sitzung)\n\nDokumente:\nTagesordnung: h
+ ttps://www.bundestag.de/resource/blob/1155786/to-028.pdf\nListe der Sachve
+ rständigen: https://www.bundestag.de/resource/blob/1152062/SV-Liste-18-3-
+ 26.pdf\nStellungnahme BNW\, A-Drs. 21(16)110-A: https://www.bundestag.de/r
+ esource/blob/1155966/Stellungnahme-BNW.pdf\nStellungnahme SWP\, A-Drs. 21(
+ 16)110-B: https://www.bundestag.de/resource/blob/1152066/Stellungnahme-SWP
+ .pdf\nStellungnahme VCI\, A-Drs. 21(16)110-C: https://www.bundestag.de/res
+ ource/blob/1156046/Stellungnahme-VCI.pdf\nStellungnahme BVEG\, A-Drs. 21(1
+ 6)110-D: https://www.bundestag.de/resource/blob/1156102/Stellungnahme-BVEG
+ .pdf\n\nSeite des Ausschusses: https://www.bundestag.de/ausschuesse/umwelt
+ \nÜbertragung: https://www.bundestag.de/mediathek
+LOCATION:Berlin\, Paul-Löbe-Haus\, Sitzungssaal E.700
+URL:https://www.bundestag.de/ausschuesse/umwelt/sitzungen/1151870-1151870
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11557
+ 86/to-028.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11520
+ 62/SV-Liste-18-3-26.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11559
+ 66/Stellungnahme-BNW.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11520
+ 66/Stellungnahme-SWP.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11560
+ 46/Stellungnahme-VCI.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11561
+ 02/Stellungnahme-BVEG.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:ausschuss-ausschuesse-umwelt-sitzung-29@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;TZID=Europe/Berlin:20260318T113000
+DTEND;TZID=Europe/Berlin:20260318T133000
+SUMMARY:Ausschuss Umwelt: 29. Sitzung (nicht öffentlich)
+DESCRIPTION:29. Sitzung des Ausschusses (nicht öffentlich)\nEnde geschätz
+ t.\n\nTagesordnung und Ergänzungen:\nTagesordnung: https://www.bundestag.
+ de/resource/blob/1155788/to-029.pdf\n\nSeite des Ausschusses: https://www.
+ bundestag.de/ausschuesse/umwelt
+URL:https://www.bundestag.de/ausschuesse/umwelt
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11557
+ 88/to-029.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:ausschuss-ausschuesse-umwelt-anhoerung-1151884@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;TZID=Europe/Berlin:20260325T093000
+DTEND;TZID=Europe/Berlin:20260325T113000
+SUMMARY:Ausschuss Umwelt: 30. Sitzung (öffentlich): Geteiltes Echo auf Nov
+ elle des Umwelt-Rechtsbehelfsgesetzes
+DESCRIPTION:Öffentliche Sitzung\, 30. Sitzung des Ausschusses. Anhörungen
+  zählen als zusätzliche Sitzungen neben der regulären Sitzung der Sitzu
+ ngswoche.\n\nGegenstand: Die geplante Novelle des Umwelt-Rechtsbehelfsgese
+ tzes trifft bei Sachverständigen auf ein geteiltes Echo\, wie eine öffen
+ tliche Anhörung im Umweltausschuss am Mittwoch\, 25. März 2026\, gezeigt
+  hat. Während Vertreter der Industrie sowie von der Unionsfraktion benann
+ te Rechtsexperten den von der Bundesregierung vorgelegten Gesetzentwurf zu
+ r Änderung des Umwelt-Rechtsbehelfsgesetzes und weiterer umweltrechtliche
+ r Vorschriften (21/4146\, 21/4961) begrüßten\, kritisierten die von den 
+ Fraktionen der SPD\, von Bündnis 90/Die Grünen und Die Linke eingeladene
+ n Sachverständigen die damit geplante Reform des Umweltklagerechts. Diese
+  werde nicht das angestrebte Ziel erreichen\, die Planung und Genehmigung 
+ ... (weiter auf der Seite der Sitzung)\n\nDokumente:\nTagesordnung: https:
+ //www.bundestag.de/resource/blob/1156662/to-030.pdf\n21/4146: https://dser
+ ver.bundestag.de/btd/21/041/2104146.pdf\n21/4961: https://dserver.bundesta
+ g.de/btd/21/049/2104961.pdf\nListe der Sachverständigen: https://www.bund
+ estag.de/resource/blob/1152064/SV-Liste-25-3-26.pdf\nStellungnahme Dr. Fra
+ nziska Heß\, A-Drs. 21(16)112-A: https://www.bundestag.de/resource/blob/1
+ 156654/Stellungnahme-Dr-Hess.pdf\nStellungnahme BDI\, A-Drs. 21(16)112-B: 
+ https://www.bundestag.de/resource/blob/1156660/Stellungnahme-BDI.pdf\nStel
+ lungnahme GLI\, A-Drs. 21(16)112-C: https://www.bundestag.de/resource/blob
+ /1156940/Stellungnahme-GLI.pdf\nStellungnahme BVKS\, A-Drs. 21(16)112-D: h
+ ttps://www.bundestag.de/resource/blob/1156942/Stellungnahme-BVKS.pdf\nStel
+ lungnahme Prof. Dr. Alexander Schmidt\, A-Drs. 21(16)112-E: https://www.bu
+ ndestag.de/resource/blob/1157068/Stellungnahme-Prof-Dr-Schmidt.pdf\nStellu
+ ngnahme Prof. Dr. Rainer Wernsmann\, A-Drs. 21(16)112-F: https://www.bunde
+ stag.de/resource/blob/1157280/Stellungnahme-Prof-Dr-Wernsmann.pdf\nStellun
+ gnahme Dr. Stefan Bauer\, A-Drs. 21(16)112-G: https://www.bundestag.de/res
+ ource/blob/1158366/Stellungnahme-Dr-Bauer.pdf\n\nSeite des Ausschusses: ht
+ tps://www.bundestag.de/ausschuesse/umwelt\nÜbertragung: https://www.bunde
+ stag.de/mediathek
+LOCATION:Berlin\, Paul-Löbe-Haus\, Sitzungssaal E.700
+URL:https://www.bundestag.de/ausschuesse/umwelt/sitzungen/1151884-1151884
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11566
+ 62/to-030.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/041/2104
+ 146.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/049/2104
+ 961.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11520
+ 64/SV-Liste-25-3-26.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11566
+ 54/Stellungnahme-Dr-Hess.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11566
+ 60/Stellungnahme-BDI.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11569
+ 40/Stellungnahme-GLI.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11569
+ 42/Stellungnahme-BVKS.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11570
+ 68/Stellungnahme-Prof-Dr-Schmidt.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11572
+ 80/Stellungnahme-Prof-Dr-Wernsmann.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11583
+ 66/Stellungnahme-Dr-Bauer.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:ausschuss-ausschuesse-umwelt-sitzung-31@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;TZID=Europe/Berlin:20260325T113000
+DTEND;TZID=Europe/Berlin:20260325T133000
+SUMMARY:Ausschuss Umwelt: 31. Sitzung (nicht öffentlich)
+DESCRIPTION:31. Sitzung des Ausschusses (nicht öffentlich)\nEnde geschätz
+ t.\n\nTagesordnung und Ergänzungen:\nTagesordnung: https://www.bundestag.
+ de/resource/blob/1156664/to-031.pdf\n1. Änderungs-/Ergänzungsmitteilung:
+  https://www.bundestag.de/resource/blob/1157526/to-031-1.pdf\n\nSeite des 
+ Ausschusses: https://www.bundestag.de/ausschuesse/umwelt
+URL:https://www.bundestag.de/ausschuesse/umwelt
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11566
+ 64/to-031.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11575
+ 26/to-031-1.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:ausschuss-ausschuesse-umwelt-anhoerung-1157740@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;TZID=Europe/Berlin:20260325T130000
+DTEND;TZID=Europe/Berlin:20260325T133000
+SUMMARY:Ausschuss Umwelt: 31. Sitzung - Gespräch mit Bundesminister Carste
+ n Schneider
+DESCRIPTION:Öffentliche Sitzung. Anhörungen zählen als zusätzliche Sitz
+ ungen neben der regulären Sitzung der Sitzungswoche.\n\nGegenstand: Tages
+ ordnungspunkt 13 - öffentlich - Gespräch mit dem Bundesminister für Umw
+ elt\, Klimaschutz\, Naturschutz und nukleare Sicherheit Carsten Schneider\
+ , MdB zum Klimaschutzprogramm 2026 Selbstbefassung\n\nDokumente:\n31. Sitz
+ ung am Mittwoch\, dem 25. März 2026\, 11:30 Uhr - nichtöffentlich: https
+ ://www.bundestag.de/resource/blob/1156664/to-031.pdf\n31. Sitzung am Mittw
+ och\, dem 25. März 2026\, 11:30 Uhr - 1. Änderungs-/Ergänzungsmitteilun
+ g: https://www.bundestag.de/resource/blob/1157526/to-031-1.pdf\n\nSeite de
+ s Ausschusses: https://www.bundestag.de/ausschuesse/umwelt\nÜbertragung: 
+ https://www.bundestag.de/mediathek
+LOCATION:Berlin\, Paul-Löbe-Haus\, Sitzungssaal E.700
+URL:https://www.bundestag.de/ausschuesse/umwelt/sitzungen/1157740-1157740
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11566
+ 64/to-031.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11575
+ 26/to-031-1.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:ausschuss-ausschuesse-umwelt-anhoerung-1157986@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;TZID=Europe/Berlin:20260415T093000
+DTEND;TZID=Europe/Berlin:20260415T113000
+SUMMARY:Ausschuss Umwelt: 32. Sitzung (öffentlich): Anhörung zur Industri
+ eemissionsrichtlinie
+DESCRIPTION:Öffentliche Anhörung\, 32. Sitzung des Ausschusses. Anhörung
+ en zählen als zusätzliche Sitzungen neben der regulären Sitzung der Sit
+ zungswoche.\n\nGegenstand: Der von der Bundesregierung vorgelegte Gesetzen
+ twurf „zur Umsetzung der Richtlinie (EU) 2024/1785 zur Änderung der Ric
+ htlinie 2010/75/EU über Industrieemissionen“ (geänderte IED-Richtlinie
+ \, 21/4786) trifft bei Industrievertretern auf deutliche Ablehnung. Hauptk
+ ritikpunkt war bei einer öffentlichen Anhörung des Umweltausschusses am 
+ Mittwoch\, 15. April 2026\, der Verzicht auf in der EU-Vorgabe ermöglicht
+ e Ausnahmeregelungen\, was aus Sicht der Sachverständigen zu Wettbewerbsn
+ achteilen für deutsche Unternehmen führe. Umweltschutzorganisationen hin
+ gegen begrüßten den Entwurf und warnten vor einer Abschwächung der Rege
+ lung. Ziel des Entwurfes ist es laut Bundesregierung\, die Umweltleistung 
+ ... (weiter auf der Seite der Sitzung)\n\nDokumente:\nTagesordnung: https:
+ //www.bundestag.de/resource/blob/1165116/to-032.pdf\n21/4786: https://dser
+ ver.bundestag.de/btd/21/047/2104786.pdf\nListe der Sachverständigen: http
+ s://www.bundestag.de/resource/blob/1161954/Liste-SV.pdf\nStellungnahme BDI
+ \, A-Drs. 21(16)114-A: https://www.bundestag.de/resource/blob/1165090/Stel
+ lungnahme-BDI.pdf\nStellungnahme thyssenkrupp Steel Europe AG\, A-Drs. 21(
+ 16)114-B: https://www.bundestag.de/resource/blob/1165092/Stellungnahme-thy
+ ssenkrupp.pdf\nStellungnahme VCI\, A-Drs. 21(16)114-C: https://www.bundest
+ ag.de/resource/blob/1165106/Stellungnahme-VCI.pdf\nStellungnahme Prof. Dr.
+  Andrea Versteyl\, AVR Rechtsanwälte\, A-Drs. 21(16)114-D: https://www.bu
+ ndestag.de/resource/blob/1165108/Stellungnahme-Prof-Dr-Versteyl.pdf\nStell
+ ungnahme DUH\, A-Drs. 21(16)114-E: https://www.bundestag.de/resource/blob/
+ 1165110/Stellungnahme-DUH.pdf\nStellungnahme ClientEarth gGmbH\, A-Drs. 21
+ (16)114-F: https://www.bundestag.de/resource/blob/1165112/Stellungnahme-Cl
+ ientEarth.pdf\nStellungnahme BDEW\, A-Drs. 21(16)114-G: https://www.bundes
+ tag.de/resource/blob/1165114/Stellungnahme-BDEW.pdf\n\nSeite des Ausschuss
+ es: https://www.bundestag.de/ausschuesse/umwelt\nÜbertragung: https://www
+ .bundestag.de/mediathek
+LOCATION:Berlin\, Paul-Löbe-Haus\, Sitzungssaal E.700
+URL:https://www.bundestag.de/ausschuesse/umwelt/sitzungen/1157986-1157986
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11651
+ 16/to-032.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/047/2104
+ 786.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11619
+ 54/Liste-SV.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11650
+ 90/Stellungnahme-BDI.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11650
+ 92/Stellungnahme-thyssenkrupp.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11651
+ 06/Stellungnahme-VCI.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11651
+ 08/Stellungnahme-Prof-Dr-Versteyl.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11651
+ 10/Stellungnahme-DUH.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11651
+ 12/Stellungnahme-ClientEarth.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11651
+ 14/Stellungnahme-BDEW.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:ausschuss-ausschuesse-umwelt-sitzung-33@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;TZID=Europe/Berlin:20260415T113000
+DTEND;TZID=Europe/Berlin:20260415T133000
+SUMMARY:Ausschuss Umwelt: 33. Sitzung (nicht öffentlich)
+DESCRIPTION:33. Sitzung des Ausschusses (nicht öffentlich)\nEnde geschätz
+ t.\n\nTagesordnung und Ergänzungen:\nTagesordnung: https://www.bundestag.
+ de/resource/blob/1165118/to-033.pdf\n1. Änderungs-/Ergänzungsmitteilung:
+  https://www.bundestag.de/resource/blob/1165290/to-033-1.pdf\n\nSeite des 
+ Ausschusses: https://www.bundestag.de/ausschuesse/umwelt
+URL:https://www.bundestag.de/ausschuesse/umwelt
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11651
+ 18/to-033.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11652
+ 90/to-033-1.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:ausschuss-ausschuesse-umwelt-sitzung-34@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;TZID=Europe/Berlin:20260422T113000
+DTEND;TZID=Europe/Berlin:20260422T133000
+SUMMARY:Ausschuss Umwelt: 34. Sitzung (nicht öffentlich)
+DESCRIPTION:34. Sitzung des Ausschusses (nicht öffentlich)\nEnde geschätz
+ t.\n\nTagesordnung und Ergänzungen:\nTagesordnung: https://www.bundestag.
+ de/resource/blob/1166076/to-034.pdf\n1. Änderungs-/Ergänzungsmitteilung:
+  https://www.bundestag.de/resource/blob/1166570/to-034-1.pdf\n\nSeite des 
+ Ausschusses: https://www.bundestag.de/ausschuesse/umwelt
+URL:https://www.bundestag.de/ausschuesse/umwelt
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11660
+ 76/to-034.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11665
+ 70/to-034-1.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:ausschuss-ausschuesse-umwelt-anhoerung-1165576@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;TZID=Europe/Berlin:20260506T093000
+DTEND;TZID=Europe/Berlin:20260506T113000
+SUMMARY:Ausschuss Umwelt: 35. Sitzung (öffentlich): Anhörung zum Verpacku
+ ngsrecht
+DESCRIPTION:Öffentliche Anhörung\, 35. Sitzung des Ausschusses. Anhörung
+ en zählen als zusätzliche Sitzungen neben der regulären Sitzung der Sit
+ zungswoche.\n\nGegenstand: Mehr Recycling von Kunststoffabfällen\, wenige
+ r Müll\, auch durch eine verbesserte Recyclingfähigkeit unvermeidbarer V
+ erpackungen und eine stärkere Kreislaufwirtschaft – das sind die Ziele 
+ des Gesetzentwurfs der Bundesregierung zur Anpassung des Verpackungsrechts
+  und anderer Rechtsbereiche an die Verordnung (EU) 2025/40 (Verpackungsrec
+ ht-Durchführungsgesetz\, 21/5346)\, mit dem die Bundesregierung die ab Au
+ gust 2026 bereits geltenden EU-Vorgaben der Verpackungsverordnung (PPWR) i
+ n deutsches Recht umsetzen will. Doch während Sachverständige die Zielse
+ tzung begrüßen\, stößt die konkrete Ausgestaltung weniger auf Zuspruch
+ \, wie eine öffentliche Anhörung des Umweltausschusses am Mittwoch\, 6. 
+ Mai ... (weiter auf der Seite der Sitzung)\n\nDokumente:\nTagesordnung: ht
+ tps://www.bundestag.de/resource/blob/1173782/to-035.pdf\n21/5346: https://
+ dserver.bundestag.de/btd/21/053/2105346.pdf\nListe der Sachverständigen: 
+ https://www.bundestag.de/resource/blob/1166078/SV-Liste.pdf\nStellungnahme
+  PRO MEHRWEG – Verband zur Förderung von Mehrwegverpackungen e.V.\, A-D
+ rs. 21(16)121-A: https://www.bundestag.de/resource/blob/1173970/Stellungna
+ hme-PRO-MEHRWEG.pdf\nStellungnahme RA Dr. Frank Wenzel\, A-Drs. 21(16)121-
+ B: https://www.bundestag.de/resource/blob/1173972/Stellungnahme-RA-Dr-Wenz
+ el.pdf\nStellungnahme DUH\, A-Drs. 21(16)121-C: https://www.bundestag.de/r
+ esource/blob/1173974/Stellungnahme-DUH.pdf\nStellungnahme PlasticsEurope\,
+  A-Drs. 21(16)121-D: https://www.bundestag.de/resource/blob/1173976/Stellu
+ ngnahme-PlasticsEurope.pdf\nStellungnahme Kommunale Spitzenverbände\, A-D
+ rs. 21(16)121-E: https://www.bundestag.de/resource/blob/1174200/Stellungna
+ hme-Kommunale-Spitzenverbaende.pdf\nStellungnahme BDI\, A-Drs. 21(16)121-F
+ : https://www.bundestag.de/resource/blob/1174232/Stellungnahme-BDI.pdf\nSt
+ ellungnahme VMV\, A-Drs. 21(16)121-G: https://www.bundestag.de/resource/bl
+ ob/1177870/Stellungnahme-VMV.pdf\n\nSeite des Ausschusses: https://www.bun
+ destag.de/ausschuesse/umwelt\nÜbertragung: https://www.bundestag.de/media
+ thek
+LOCATION:Berlin\, Paul-Löbe-Haus\, Sitzungssaal E.700
+URL:https://www.bundestag.de/ausschuesse/umwelt/sitzungen/1165576-1165576
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11737
+ 82/to-035.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/053/2105
+ 346.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11660
+ 78/SV-Liste.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11739
+ 70/Stellungnahme-PRO-MEHRWEG.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11739
+ 72/Stellungnahme-RA-Dr-Wenzel.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11739
+ 74/Stellungnahme-DUH.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11739
+ 76/Stellungnahme-PlasticsEurope.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11742
+ 00/Stellungnahme-Kommunale-Spitzenverbaende.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11742
+ 32/Stellungnahme-BDI.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11778
+ 70/Stellungnahme-VMV.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:ausschuss-ausschuesse-umwelt-sitzung-36@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;TZID=Europe/Berlin:20260506T113000
+DTEND;TZID=Europe/Berlin:20260506T133000
+SUMMARY:Ausschuss Umwelt: 36. Sitzung (nicht öffentlich)
+DESCRIPTION:36. Sitzung des Ausschusses (nicht öffentlich)\nEnde geschätz
+ t.\n\nTagesordnung und Ergänzungen:\nTagesordnung: https://www.bundestag.
+ de/resource/blob/1173784/to-036.pdf\n\nSeite des Ausschusses: https://www.
+ bundestag.de/ausschuesse/umwelt
+URL:https://www.bundestag.de/ausschuesse/umwelt
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11737
+ 84/to-036.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:ausschuss-ausschuesse-umwelt-sitzung-37@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;TZID=Europe/Berlin:20260520T113000
+DTEND;TZID=Europe/Berlin:20260520T133000
+SUMMARY:Ausschuss Umwelt: 37. Sitzung
+DESCRIPTION:37. Sitzung des Ausschusses\nEnde geschätzt.\n\nTagesordnung u
+ nd Ergänzungen:\n1. Änderungs-/Ergänzungsmitteilung: https://www.bundes
+ tag.de/resource/blob/1178684/to-037-1.pdf\n\nSeite des Ausschusses: https:
+ //www.bundestag.de/ausschuesse/umwelt
+URL:https://www.bundestag.de/ausschuesse/umwelt
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11786
+ 84/to-037-1.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:ausschuss-ausschuesse-umwelt-sitzung-38@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;TZID=Europe/Berlin:20260610T113000
+DTEND;TZID=Europe/Berlin:20260610T133000
+SUMMARY:Ausschuss Umwelt: 38. Sitzung
+DESCRIPTION:38. Sitzung des Ausschusses\nEnde geschätzt.\n\nTagesordnung u
+ nd Ergänzungen:\n1. Änderungs-/Ergänzungsmitteilung: https://www.bundes
+ tag.de/resource/blob/1183644/to-038-1.pdf\n\nSeite des Ausschusses: https:
+ //www.bundestag.de/ausschuesse/umwelt
+URL:https://www.bundestag.de/ausschuesse/umwelt
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11836
+ 44/to-038-1.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:ausschuss-ausschuesse-umwelt-sitzung-39@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;TZID=Europe/Berlin:20260624T113000
+DTEND;TZID=Europe/Berlin:20260624T133000
+SUMMARY:Ausschuss Umwelt: 39. Sitzung
+DESCRIPTION:39. Sitzung des Ausschusses\nEnde geschätzt.\n\nTagesordnung u
+ nd Ergänzungen:\n1. Änderungs-/Ergänzungsmitteilung: https://www.bundes
+ tag.de/resource/blob/1191708/to-039-1.pdf\n\nSeite des Ausschusses: https:
+ //www.bundestag.de/ausschuesse/umwelt
+URL:https://www.bundestag.de/ausschuesse/umwelt
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11917
+ 08/to-039-1.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:ausschuss-ausschuesse-umwelt-sitzung-40@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;TZID=Europe/Berlin:20260708T113000
+DTEND;TZID=Europe/Berlin:20260708T133000
+SUMMARY:Ausschuss Umwelt: 40. Sitzung
+DESCRIPTION:40. Sitzung des Ausschusses\nEnde geschätzt.\n\nTagesordnung u
+ nd Ergänzungen:\n2. Änderungs-/Ergänzungsmitteilung: https://www.bundes
+ tag.de/resource/blob/1193980/to-040-2.pdf\n1. Änderungs-/Ergänzungsmitte
+ ilung: https://www.bundestag.de/resource/blob/1193894/to-040-1.pdf\n\nSeit
+ e des Ausschusses: https://www.bundestag.de/ausschuesse/umwelt
+URL:https://www.bundestag.de/ausschuesse/umwelt
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11939
+ 80/to-040-2.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11938
+ 94/to-040-1.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:ausschuss-ausschuesse-umwelt-sitzung-41@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;TZID=Europe/Berlin:20260909T083000
+DTEND;TZID=Europe/Berlin:20260909T103000
+SUMMARY:Ausschuss Umwelt: 41. Sitzung (nicht öffentlich)
+DESCRIPTION:41. Sitzung des Ausschusses (nicht öffentlich)\nEnde geschätz
+ t.\n\nTagesordnung und Ergänzungen:\nTagesordnung: https://www.bundestag.
+ de/resource/blob/1210694/to-041.pdf\n1. Änderungs-/Ergänzungsmitteilung:
+  https://www.bundestag.de/resource/blob/1210904/to-041-1.pdf\n\nSeite des 
+ Ausschusses: https://www.bundestag.de/ausschuesse/umwelt
+URL:https://www.bundestag.de/ausschuesse/umwelt
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12106
+ 94/to-041.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12109
+ 04/to-041-1.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:ausschuss-ausschuesse-umwelt-sitzung-42@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;TZID=Europe/Berlin:20260923T113000
+DTEND;TZID=Europe/Berlin:20260923T133000
+SUMMARY:Ausschuss Umwelt: 42. Sitzung (nicht öffentlich)
+DESCRIPTION:42. Sitzung des Ausschusses (nicht öffentlich)\nEnde geschätz
+ t.\n\nTagesordnung und Ergänzungen:\nTagesordnung: https://www.bundestag.
+ de/resource/blob/1216856/to-042.pdf\n\nSeite des Ausschusses: https://www.
+ bundestag.de/ausschuesse/umwelt
+URL:https://www.bundestag.de/ausschuesse/umwelt
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12168
+ 56/to-042.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:ausschuss-ausschuesse-umwelt-anhoerung-1215394@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;TZID=Europe/Berlin:20261007T093000
+DTEND;TZID=Europe/Berlin:20261007T113000
+SUMMARY:Ausschuss Umwelt: 43. Sitzung (öffentlich): Anhörung zum Brennsto
+ ffemissionshandelsgesetz (BEHG)
+DESCRIPTION:Öffentliche Anhörung\, 43. Sitzung des Ausschusses. Anhörung
+ en zählen als zusätzliche Sitzungen neben der regulären Sitzung der Sit
+ zungswoche.\n\nGegenstand: An der von der Bundesregierung geplanten Änder
+ ung des Brennstoffemissionshandelsgesetzes (BEHG) besteht Nachbesserungsbe
+ darf. Das wurde während einer öffentlichen Anhörung des Ausschusses fü
+ r Umwelt\, Klimaschutz\, Naturschutz und nukleare Sicherheit zu dem Gesetz
+ entwurf der Bundesregierung für ein Drittes Gesetz zur Änderung des Bren
+ nstoffemissionshandelsgesetzes (21/7869) am Mittwoch\, 7. Oktober 2026\, d
+ eutlich. Gesetzentwurf der Bundesregierung Ziel der geplanten Gesetzesänd
+ erung ist es\, die nationalen CO2-Preise für das Jahr 2027 zu stabilisier
+ en. Ursprünglich war vorgesehen\, dass der feste CO2-Preis für Kraft- un
+ d Brennstoffe Ende 2026 ausläuft und ab 2027 die freie Marktpreisbildung 
+ ... (weiter auf der Seite der Sitzung)\n\nDokumente:\nTagesordnung: https:
+ //www.bundestag.de/resource/blob/1222044/to-043.pdf\n21/7869: https://dser
+ ver.bundestag.de/btd/21/078/2107869.pdf\nListe der Sachverständigen: http
+ s://www.bundestag.de/resource/blob/1221618/SV-Liste.pdf\nStellungnahme Bun
+ desverband Feuerverzinken e.V. (BVF)\, A-Drs. 21(16)149-A: https://www.bun
+ destag.de/resource/blob/1222134/Stellungnahme-BVF.pdf\nStellungnahme Deuts
+ cher Städtetag\, A-Drs. 21(16)149-B: https://www.bundestag.de/resource/bl
+ ob/1222372/Stellungnahme-DST.pdf\nStellungnahme Prof. Dr. Fritz Söllner\,
+  A-Drs. 21(16)149-C: https://www.bundestag.de/resource/blob/1222374/Stellu
+ ngnahme-Soellner.pdf\nStellungnahme BDEW Bundesverband der Energie- und Wa
+ sserwirtschaft e.V.\, A-Drs. 21(16)149-D: https://www.bundestag.de/resourc
+ e/blob/1222444/Stellungnahme-BDEW.pdf\nStellungnahme Dr. Bernd Fleischmann
+ \, A-Drs. 21(16)149-E(neu): https://www.bundestag.de/resource/blob/1222442
+ /Stellungnahme-Fleischmann.pdf\nStellungnahme Bundesverband Wärmepumpe e.
+ V. (BWP)\, A-Drs. 21(16)149-F: https://www.bundestag.de/resource/blob/1222
+ 672/Stellungnahme-BWP.pdf\nStellungnahme Verband der Chemischen Industrie 
+ VCI\, A-Drs. 21(16)149-G: https://www.bundestag.de/resource/blob/1222674/S
+ tellungnahme-VCI.pdf\nStellungnahme EWE Aktiengesellschaft (BWP)\, A-Drs. 
+ 21(16)149-H: https://www.bundestag.de/resource/blob/1222756/Stellungnahme-
+ EWE.pdf\nStellungnahme Forum Ökologisch-Soziale Marktwirtschaft e.V. (FÖ
+ S)\, A-Drs. 21(16)149-I: https://www.bundestag.de/resource/blob/1222878/St
+ ellungnahme-FOeS.pdf\n\nSeite des Ausschusses: https://www.bundestag.de/au
+ sschuesse/umwelt\nÜbertragung: https://www.bundestag.de/mediathek
+LOCATION:Berlin\, Paul-Löbe-Haus\, Sitzungssaal E.700
+URL:https://www.bundestag.de/ausschuesse/umwelt/sitzungen/1215394-1215394
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12220
+ 44/to-043.pdf
+ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/078/2107
+ 869.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12216
+ 18/SV-Liste.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12221
+ 34/Stellungnahme-BVF.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12223
+ 72/Stellungnahme-DST.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12223
+ 74/Stellungnahme-Soellner.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12224
+ 44/Stellungnahme-BDEW.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12224
+ 42/Stellungnahme-Fleischmann.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12226
+ 72/Stellungnahme-BWP.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12226
+ 74/Stellungnahme-VCI.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12227
+ 56/Stellungnahme-EWE.pdf
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12228
+ 78/Stellungnahme-FOeS.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:ausschuss-ausschuesse-umwelt-sitzung-44@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;TZID=Europe/Berlin:20261007T113000
+DTEND;TZID=Europe/Berlin:20261007T133000
+SUMMARY:Ausschuss Umwelt: 44. Sitzung (nicht öffentlich)
+DESCRIPTION:44. Sitzung des Ausschusses (nicht öffentlich)\nEnde geschätz
+ t.\n\nTagesordnung und Ergänzungen:\nTagesordnung: https://www.bundestag.
+ de/resource/blob/1222046/to-044.pdf\n\nSeite des Ausschusses: https://www.
+ bundestag.de/ausschuesse/umwelt
+URL:https://www.bundestag.de/ausschuesse/umwelt
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12220
+ 46/to-044.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:ausschuss-ausschuesse-umwelt-sitzung-45@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;TZID=Europe/Berlin:20261014T113000
+DTEND;TZID=Europe/Berlin:20261014T133000
+SUMMARY:Ausschuss Umwelt: 45. Sitzung (nicht öffentlich)
+DESCRIPTION:45. Sitzung des Ausschusses (nicht öffentlich)\nEnde geschätz
+ t.\n\nTagesordnung und Ergänzungen:\nTagesordnung: https://www.bundestag.
+ de/resource/blob/1223854/to-045.pdf\n\nSeite des Ausschusses: https://www.
+ bundestag.de/ausschuesse/umwelt
+URL:https://www.bundestag.de/ausschuesse/umwelt
+ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12238
+ 54/to-045.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:ausschuss-ausschuesse-umwelt-anhoerung-1223144@bundestag-kalender
+DTSTAMP:20261020T103707Z
+DTSTART;TZID=Europe/Berlin:20261104T093000
+DTEND;TZID=Europe/Berlin:20261104T113000
+SUMMARY:Ausschuss Umwelt: Anhörung zum Strahlenschutzgesetz
+DESCRIPTION:Öffentliche Anhörung. Anhörungen zählen als zusätzliche Si
+ tzungen neben der regulären Sitzung der Sitzungswoche.\n\nGegenstand: Ges
+ etzentwurf der Bundesregierung Entwurf eines Gesetzes zum Bürokratierück
+ bau\, zur Digitalisierung und zur weiteren Modernisierung des Strahlenschu
+ tzrechts Die Anhörung soll im Internet auf bundestag.de per Livestream ü
+ bertragen werden und im Anschluss in der Mediathek des Deutschen Bundestag
+ es abrufbar sein\n\nSeite des Ausschusses: https://www.bundestag.de/aussch
+ uesse/umwelt\nÜbertragung: https://www.bundestag.de/mediathek
+LOCATION:Berlin\, Paul-Löbe-Haus\, Sitzungssaal E.700
+URL:https://www.bundestag.de/ausschuesse/umwelt/sitzungen/1223144-1223144
+END:VEVENT
+END:VCALENDAR

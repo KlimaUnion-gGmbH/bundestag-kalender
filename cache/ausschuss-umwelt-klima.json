@@ -411,7 +411,7 @@
   },
   "1223144": {
    "daten": {
-    "anmeldung": "",
+    "anmeldung": "https://registration.bundestag.de/#/events/c334b3e1-8164-4090-b70a-0c9b89f7b6bd",
     "docs": [],
     "end": "2026-11-04T11:30:00",
     "frist": "",
@@ -422,7 +422,7 @@
    },
    "datum": "2026-11-04",
    "titel": "Anhörung zum Strahlenschutzgesetz",
-   "ts": 1792558976.3250155
+   "ts": 1792578032.8283403
   }
  },
  "dokumente": {

@@ -28,7 +28,7 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sw-20260112@bundestag-kalender
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;VALUE=DATE:20260112
 DTEND;VALUE=DATE:20260117
 SUMMARY:Sitzungswoche
@@ -36,7 +36,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20260126@bundestag-kalender
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;VALUE=DATE:20260126
 DTEND;VALUE=DATE:20260131
 SUMMARY:Sitzungswoche
@@ -44,7 +44,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20260223@bundestag-kalender
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;VALUE=DATE:20260223
 DTEND;VALUE=DATE:20260228
 SUMMARY:Sitzungswoche
@@ -52,7 +52,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20260302@bundestag-kalender
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;VALUE=DATE:20260302
 DTEND;VALUE=DATE:20260307
 SUMMARY:Sitzungswoche
@@ -60,7 +60,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20260316@bundestag-kalender
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;VALUE=DATE:20260316
 DTEND;VALUE=DATE:20260321
 SUMMARY:Sitzungswoche
@@ -68,7 +68,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20260323@bundestag-kalender
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;VALUE=DATE:20260323
 DTEND;VALUE=DATE:20260328
 SUMMARY:Sitzungswoche
@@ -76,7 +76,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20260413@bundestag-kalender
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;VALUE=DATE:20260413
 DTEND;VALUE=DATE:20260418
 SUMMARY:Sitzungswoche
@@ -84,7 +84,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20260420@bundestag-kalender
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;VALUE=DATE:20260420
 DTEND;VALUE=DATE:20260425
 SUMMARY:Sitzungswoche
@@ -92,7 +92,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20260504@bundestag-kalender
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;VALUE=DATE:20260504
 DTEND;VALUE=DATE:20260509
 SUMMARY:Sitzungswoche
@@ -100,7 +100,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20260518@bundestag-kalender
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;VALUE=DATE:20260518
 DTEND;VALUE=DATE:20260523
 SUMMARY:Sitzungswoche
@@ -108,7 +108,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20260608@bundestag-kalender
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;VALUE=DATE:20260608
 DTEND;VALUE=DATE:20260613
 SUMMARY:Sitzungswoche
@@ -116,7 +116,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20260622@bundestag-kalender
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;VALUE=DATE:20260622
 DTEND;VALUE=DATE:20260627
 SUMMARY:Sitzungswoche
@@ -124,7 +124,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20260706@bundestag-kalender
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;VALUE=DATE:20260706
 DTEND;VALUE=DATE:20260711
 SUMMARY:Sitzungswoche
@@ -132,7 +132,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20260907@bundestag-kalender
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;VALUE=DATE:20260907
 DTEND;VALUE=DATE:20260912
 SUMMARY:Sitzungswoche
@@ -140,7 +140,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20260921@bundestag-kalender
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260926
 SUMMARY:Sitzungswoche
@@ -148,7 +148,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20261005@bundestag-kalender
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261010
 SUMMARY:Sitzungswoche
@@ -156,7 +156,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20261012@bundestag-kalender
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261017
 SUMMARY:Sitzungswoche
@@ -164,7 +164,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20261102@bundestag-kalender
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261107
 SUMMARY:Sitzungswoche
@@ -172,7 +172,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20261109@bundestag-kalender
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261114
 SUMMARY:Sitzungswoche
@@ -180,7 +180,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20261123@bundestag-kalender
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261128
 SUMMARY:Sitzungswoche
@@ -188,7 +188,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20261207@bundestag-kalender
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261212
 SUMMARY:Sitzungswoche
@@ -196,7 +196,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20261214@bundestag-kalender
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;VALUE=DATE:20261214
 DTEND;VALUE=DATE:20261219
 SUMMARY:Sitzungswoche
@@ -204,7 +204,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20270111@bundestag-kalender
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;VALUE=DATE:20270111
 DTEND;VALUE=DATE:20270116
 SUMMARY:Sitzungswoche
@@ -212,7 +212,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20270125@bundestag-kalender
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;VALUE=DATE:20270125
 DTEND;VALUE=DATE:20270130
 SUMMARY:Sitzungswoche
@@ -220,7 +220,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20270215@bundestag-kalender
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;VALUE=DATE:20270215
 DTEND;VALUE=DATE:20270220
 SUMMARY:Sitzungswoche
@@ -228,7 +228,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20270301@bundestag-kalender
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;VALUE=DATE:20270301
 DTEND;VALUE=DATE:20270306
 SUMMARY:Sitzungswoche
@@ -236,7 +236,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20270315@bundestag-kalender
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;VALUE=DATE:20270315
 DTEND;VALUE=DATE:20270320
 SUMMARY:Sitzungswoche
@@ -244,7 +244,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20270405@bundestag-kalender
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;VALUE=DATE:20270405
 DTEND;VALUE=DATE:20270410
 SUMMARY:Sitzungswoche
@@ -252,7 +252,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20270412@bundestag-kalender
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;VALUE=DATE:20270412
 DTEND;VALUE=DATE:20270417
 SUMMARY:Sitzungswoche
@@ -260,7 +260,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20270426@bundestag-kalender
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;VALUE=DATE:20270426
 DTEND;VALUE=DATE:20270501
 SUMMARY:Sitzungswoche
@@ -268,7 +268,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20270510@bundestag-kalender
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;VALUE=DATE:20270510
 DTEND;VALUE=DATE:20270515
 SUMMARY:Sitzungswoche
@@ -276,7 +276,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20270531@bundestag-kalender
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;VALUE=DATE:20270531
 DTEND;VALUE=DATE:20270605
 SUMMARY:Sitzungswoche
@@ -284,7 +284,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20270614@bundestag-kalender
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;VALUE=DATE:20270614
 DTEND;VALUE=DATE:20270619
 SUMMARY:Sitzungswoche
@@ -292,7 +292,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20270628@bundestag-kalender
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;VALUE=DATE:20270628
 DTEND;VALUE=DATE:20270703
 SUMMARY:Sitzungswoche
@@ -300,7 +300,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20270705@bundestag-kalender
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;VALUE=DATE:20270705
 DTEND;VALUE=DATE:20270710
 SUMMARY:Sitzungswoche
@@ -308,7 +308,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20270906@bundestag-kalender
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;VALUE=DATE:20270906
 DTEND;VALUE=DATE:20270911
 SUMMARY:Sitzungswoche
@@ -316,7 +316,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20270920@bundestag-kalender
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;VALUE=DATE:20270920
 DTEND;VALUE=DATE:20270925
 SUMMARY:Sitzungswoche
@@ -324,7 +324,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20271004@bundestag-kalender
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;VALUE=DATE:20271004
 DTEND;VALUE=DATE:20271009
 SUMMARY:Sitzungswoche
@@ -332,7 +332,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20271025@bundestag-kalender
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;VALUE=DATE:20271025
 DTEND;VALUE=DATE:20271030
 SUMMARY:Sitzungswoche
@@ -340,7 +340,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20271108@bundestag-kalender
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;VALUE=DATE:20271108
 DTEND;VALUE=DATE:20271113
 SUMMARY:Sitzungswoche
@@ -348,7 +348,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20271122@bundestag-kalender
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;VALUE=DATE:20271122
 DTEND;VALUE=DATE:20271127
 SUMMARY:Sitzungswoche
@@ -356,7 +356,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20271129@bundestag-kalender
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;VALUE=DATE:20271129
 DTEND;VALUE=DATE:20271204
 SUMMARY:Sitzungswoche
@@ -364,7 +364,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sw-20271213@bundestag-kalender
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;VALUE=DATE:20271213
 DTEND;VALUE=DATE:20271218
 SUMMARY:Sitzungswoche
@@ -372,7 +372,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-umwelt-sitzung-22@bundestag-kalender
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;TZID=Europe/Berlin:20260114T113000
 DTEND;TZID=Europe/Berlin:20260114T133000
 SUMMARY:Ausschuss Umwelt: 22. Sitzung (nicht öffentlich)
@@ -387,7 +387,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bt-53-top-23-zp-7-nachhaltige-nutzung-der-meere-hochseesch@bundestag-ka
  lender
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;TZID=Europe/Berlin:20260115T212500
 DTEND;TZID=Europe/Berlin:20260115T215000
 SUMMARY:TOP 23\, ZP 7: Nachhaltige Nutzung der Meere\, Hochseeschutzgesetz
@@ -430,7 +430,7 @@ ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21053.pd
 END:VEVENT
 BEGIN:VEVENT
 UID:bt-53-top-24-aenderung-des-chemikaliengesetzes@bundestag-kalender
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;TZID=Europe/Berlin:20260115T215000
 DTEND;TZID=Europe/Berlin:20260115T221000
 SUMMARY:TOP 24: Änderung des Chemikaliengesetzes
@@ -458,7 +458,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bt-54-top-26-natur-u-umweltschutz-b-windkraft-u-solar@bundestag-kalende
  r
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;TZID=Europe/Berlin:20260116T100500
 DTEND;TZID=Europe/Berlin:20260116T112500
 SUMMARY:TOP 26: Natur- u. Umweltschutz b. Windkraft- u. Solaranlagen
@@ -502,7 +502,7 @@ ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21054.pd
 END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-umwelt-sitzung-23@bundestag-kalender
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;TZID=Europe/Berlin:20260128T103000
 DTEND;TZID=Europe/Berlin:20260128T123000
 SUMMARY:Ausschuss Umwelt: 23. Sitzung (nicht öffentlich)
@@ -517,7 +517,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bt-56-top-28-abschliessende-beratungen-ohne-aussprach@bundestag-kalende
  r
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;TZID=Europe/Berlin:20260129T144500
 DTEND;TZID=Europe/Berlin:20260129T145500
 SUMMARY:TOP 28: Abschließende Beratungen ohne Aussprache: zu dem Vorschlag
@@ -552,7 +552,7 @@ ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21056.pd
 END:VEVENT
 BEGIN:VEVENT
 UID:bt-56-top-19-verhuetung-der-meeresverschmutzung@bundestag-kalender
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;TZID=Europe/Berlin:20260129T211000
 DTEND;TZID=Europe/Berlin:20260129T213500
 SUMMARY:TOP 19: Verhütung der Meeresverschmutzung
@@ -625,7 +625,7 @@ ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21056.pd
 END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-umwelt-anhoerung-1145816@bundestag-kalender
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;TZID=Europe/Berlin:20260225T093000
 DTEND;TZID=Europe/Berlin:20260225T104500
 SUMMARY:Ausschuss Umwelt: 24. Sitzung (öffentlich): Aspekte des Umwelt- un
@@ -671,7 +671,7 @@ ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11503
 END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-umwelt-sitzung-25@bundestag-kalender
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;TZID=Europe/Berlin:20260225T113000
 DTEND;TZID=Europe/Berlin:20260225T133000
 SUMMARY:Ausschuss Umwelt: 25. Sitzung (nicht öffentlich)
@@ -688,7 +688,7 @@ ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11498
 END:VEVENT
 BEGIN:VEVENT
 UID:bt-59-zp-7-top-9-klimaschutz-bezahlbarer-strom@bundestag-kalender
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;TZID=Europe/Berlin:20260226T101000
 DTEND;TZID=Europe/Berlin:20260226T113000
 SUMMARY:ZP 7\, TOP 9: Klimaschutz\, bezahlbarer Strom
@@ -718,7 +718,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bt-59-top-20-nachhaltige-nutzung-der-meere-hochseesch@bundestag-kalende
  r
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;TZID=Europe/Berlin:20260226T210000
 DTEND;TZID=Europe/Berlin:20260226T212000
 SUMMARY:TOP 20: Nachhaltige Nutzung der Meere\, Hochseeschutzgesetz
@@ -801,7 +801,7 @@ ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21059.pd
 END:VEVENT
 BEGIN:VEVENT
 UID:bt-59-top-22-aenderung-des-chemikaliengesetzes@bundestag-kalender
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;TZID=Europe/Berlin:20260226T212000
 DTEND;TZID=Europe/Berlin:20260226T214000
 SUMMARY:TOP 22: Änderung des Chemikaliengesetzes
@@ -841,7 +841,7 @@ ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21059.pd
 END:VEVENT
 BEGIN:VEVENT
 UID:bt-59-top-3-weiterentwicklung-der-treibhausgasminder@bundestag-kalender
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;TZID=Europe/Berlin:20260226T220500
 DTEND;TZID=Europe/Berlin:20260226T222000
 SUMMARY:TOP 3: Weiterentwicklung der Treibhausgasminderungs-Quote
@@ -871,7 +871,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bt-59-top-24-zp-20-aenderung-des-umwelt-rechtsbehelfsgesetz@bundestag-k
  alender
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;TZID=Europe/Berlin:20260226T222000
 DTEND;TZID=Europe/Berlin:20260226T224500
 SUMMARY:TOP 24\, ZP 20: Änderung des Umwelt-Rechtsbehelfsgesetzes
@@ -901,7 +901,7 @@ ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21059.pd
 END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-umwelt-anhoerung-1145932@bundestag-kalender
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;TZID=Europe/Berlin:20260304T093000
 DTEND;TZID=Europe/Berlin:20260304T113000
 SUMMARY:Ausschuss Umwelt: 26. Sitzung (öffentlich): Weiterentwicklung der 
@@ -970,7 +970,7 @@ ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11583
 END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-umwelt-sitzung-27@bundestag-kalender
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;TZID=Europe/Berlin:20260304T113000
 DTEND;TZID=Europe/Berlin:20260304T133000
 SUMMARY:Ausschuss Umwelt: 27. Sitzung (nicht öffentlich)
@@ -985,7 +985,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bt-62-top-24-beendigung-der-mitwirkung-am-weltklimara@bundestag-kalende
  r
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;TZID=Europe/Berlin:20260305T195000
 DTEND;TZID=Europe/Berlin:20260305T201500
 SUMMARY:TOP 24: Beendigung der Mitwirkung am Weltklimarat (IPCC)
@@ -1015,7 +1015,7 @@ ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21062.pd
 END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-umwelt-anhoerung-1151870@bundestag-kalender
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;TZID=Europe/Berlin:20260318T093000
 DTEND;TZID=Europe/Berlin:20260318T104500
 SUMMARY:Ausschuss Umwelt: 28. Sitzung (öffentlich): CO2-Abscheidung und -S
@@ -1060,7 +1060,7 @@ ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11561
 END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-umwelt-sitzung-29@bundestag-kalender
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;TZID=Europe/Berlin:20260318T113000
 DTEND;TZID=Europe/Berlin:20260318T133000
 SUMMARY:Ausschuss Umwelt: 29. Sitzung (nicht öffentlich)
@@ -1074,7 +1074,7 @@ ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11557
 END:VEVENT
 BEGIN:VEVENT
 UID:bt-66-top-25-klimageld@bundestag-kalender
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;TZID=Europe/Berlin:20260320T122000
 DTEND;TZID=Europe/Berlin:20260320T125500
 SUMMARY:TOP 25: Klimageld
@@ -1114,7 +1114,7 @@ ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21066.pd
 END:VEVENT
 BEGIN:VEVENT
 UID:bt-66-zp-10-schutz-von-natur-klima-und-zivilgesellsc@bundestag-kalender
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;TZID=Europe/Berlin:20260320T125500
 DTEND;TZID=Europe/Berlin:20260320T133500
 SUMMARY:ZP 10: Schutz von Natur\, Klima und Zivilgesellschaft
@@ -1144,7 +1144,7 @@ ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21066.pd
 END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-umwelt-anhoerung-1151884@bundestag-kalender
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;TZID=Europe/Berlin:20260325T093000
 DTEND;TZID=Europe/Berlin:20260325T113000
 SUMMARY:Ausschuss Umwelt: 30. Sitzung (öffentlich): Geteiltes Echo auf Nov
@@ -1207,7 +1207,7 @@ ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11583
 END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-umwelt-sitzung-31@bundestag-kalender
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;TZID=Europe/Berlin:20260325T113000
 DTEND;TZID=Europe/Berlin:20260325T133000
 SUMMARY:Ausschuss Umwelt: 31. Sitzung (nicht öffentlich)
@@ -1224,7 +1224,7 @@ ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11575
 END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-umwelt-anhoerung-1157740@bundestag-kalender
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;TZID=Europe/Berlin:20260325T130000
 DTEND;TZID=Europe/Berlin:20260325T133000
 SUMMARY:Ausschuss Umwelt: 31. Sitzung - Gespräch mit Bundesminister Carste
@@ -1250,7 +1250,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bt-68-top-19-eu-verordnung-ueber-fluorierte-treibhaus@bundestag-kalende
  r
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;TZID=Europe/Berlin:20260326T214500
 DTEND;TZID=Europe/Berlin:20260326T220000
 SUMMARY:TOP 19: EU-Verordnung über fluorierte Treibhausgase
@@ -1303,7 +1303,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bt-68-top-23-umsetzung-der-eu-richtlinie-zu-industrie@bundestag-kalende
  r
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;TZID=Europe/Berlin:20260326T220000
 DTEND;TZID=Europe/Berlin:20260326T222000
 SUMMARY:TOP 23: Umsetzung der EU-Richtlinie zu Industrieemissionen
@@ -1332,7 +1332,7 @@ ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21068.pd
 END:VEVENT
 BEGIN:VEVENT
 UID:bt-69-top-10-klimaschutzpolitik@bundestag-kalender
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;TZID=Europe/Berlin:20260327T120500
 DTEND;TZID=Europe/Berlin:20260327T125000
 SUMMARY:TOP 10: Klimaschutzpolitik
@@ -1398,7 +1398,7 @@ ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21069.pd
 END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-umwelt-anhoerung-1157986@bundestag-kalender
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;TZID=Europe/Berlin:20260415T093000
 DTEND;TZID=Europe/Berlin:20260415T113000
 SUMMARY:Ausschuss Umwelt: 32. Sitzung (öffentlich): Anhörung zur Industri
@@ -1458,7 +1458,7 @@ ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11651
 END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-umwelt-sitzung-33@bundestag-kalender
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;TZID=Europe/Berlin:20260415T113000
 DTEND;TZID=Europe/Berlin:20260415T133000
 SUMMARY:Ausschuss Umwelt: 33. Sitzung (nicht öffentlich)
@@ -1475,7 +1475,7 @@ ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11652
 END:VEVENT
 BEGIN:VEVENT
 UID:bt-71-top-7-deutsche-klimaschutzmassnahmen@bundestag-kalender
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;TZID=Europe/Berlin:20260416T124000
 DTEND;TZID=Europe/Berlin:20260416T135500
 SUMMARY:TOP 7: Deutsche Klimaschutzmaßnahmen
@@ -1504,7 +1504,7 @@ ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21071.pd
 END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-umwelt-sitzung-34@bundestag-kalender
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;TZID=Europe/Berlin:20260422T113000
 DTEND;TZID=Europe/Berlin:20260422T133000
 SUMMARY:Ausschuss Umwelt: 34. Sitzung (nicht öffentlich)
@@ -1521,7 +1521,7 @@ ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11665
 END:VEVENT
 BEGIN:VEVENT
 UID:bt-73-zp-2-wiederinbetriebnahme-abgeschalteter-kern@bundestag-kalender
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;TZID=Europe/Berlin:20260422T181500
 DTEND;TZID=Europe/Berlin:20260422T185500
 SUMMARY:ZP 2: Wiederinbetriebnahme abgeschalteter Kernkraftwerke
@@ -1549,7 +1549,7 @@ ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21073.pd
 END:VEVENT
 BEGIN:VEVENT
 UID:bt-74-zp-9-weiterentwicklung-der-treibhausgasminder@bundestag-kalender
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;TZID=Europe/Berlin:20260423T155500
 DTEND;TZID=Europe/Berlin:20260423T163000
 SUMMARY:ZP 9: Weiterentwicklung der Treibhausgasminderungs-Quote
@@ -1596,7 +1596,7 @@ ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21074.pd
 END:VEVENT
 BEGIN:VEVENT
 UID:bt-74-top-15-40-jahre-tschernobyl@bundestag-kalender
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;TZID=Europe/Berlin:20260423T190000
 DTEND;TZID=Europe/Berlin:20260423T193000
 SUMMARY:TOP 15: 40 Jahre Tschernobyl
@@ -1624,7 +1624,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bt-75-top-6-zp-11-top-12-senkung-der-energiesteuern-steuerberatun@bunde
  stag-kalender
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;TZID=Europe/Berlin:20260424T090000
 DTEND;TZID=Europe/Berlin:20260424T102500
 SUMMARY:TOP 6\, ZP 11\, TOP 12: Senkung der Energiesteuern\, Steuerberatung
@@ -1655,7 +1655,7 @@ ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21075.pd
 END:VEVENT
 BEGIN:VEVENT
 UID:bt-75-top-20-anpassung-des-verpackungsrechts@bundestag-kalender
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;TZID=Europe/Berlin:20260424T115000
 DTEND;TZID=Europe/Berlin:20260424T122500
 SUMMARY:TOP 20: Anpassung des Verpackungsrechts
@@ -1683,7 +1683,7 @@ ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21075.pd
 END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-umwelt-anhoerung-1165576@bundestag-kalender
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;TZID=Europe/Berlin:20260506T093000
 DTEND;TZID=Europe/Berlin:20260506T113000
 SUMMARY:Ausschuss Umwelt: 35. Sitzung (öffentlich): Anhörung zum Verpacku
@@ -1744,7 +1744,7 @@ ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11778
 END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-umwelt-sitzung-36@bundestag-kalender
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;TZID=Europe/Berlin:20260506T113000
 DTEND;TZID=Europe/Berlin:20260506T133000
 SUMMARY:Ausschuss Umwelt: 36. Sitzung (nicht öffentlich)
@@ -1759,7 +1759,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bt-77-top-27-top-26-zp-4-ueberweisungen-im-vereinfachten-verfahre@bunde
  stag-kalender
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;TZID=Europe/Berlin:20260507T134500
 DTEND;TZID=Europe/Berlin:20260507T135000
 SUMMARY:TOP 27\, TOP 26\, ZP 4: Überweisungen im vereinfachten Verfahren: 
@@ -1803,7 +1803,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bt-78-top-7-top-13-haushalt-der-europaeischen-union-2028-bi@bundestag-k
  alender
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;TZID=Europe/Berlin:20260508T130000
 DTEND;TZID=Europe/Berlin:20260508T133500
 SUMMARY:TOP 7\, TOP 13: Haushalt der Europäischen Union 2028 bis 2034
@@ -1836,7 +1836,7 @@ ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21078.pd
 END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-umwelt-sitzung-37@bundestag-kalender
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;TZID=Europe/Berlin:20260520T113000
 DTEND;TZID=Europe/Berlin:20260520T133000
 SUMMARY:Ausschuss Umwelt: 37. Sitzung
@@ -1851,7 +1851,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bt-80-top-30-zp-3-ueberweisungen-im-vereinfachten-verfahre@bundestag-ka
  lender
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;TZID=Europe/Berlin:20260521T140000
 DTEND;TZID=Europe/Berlin:20260521T140500
 SUMMARY:TOP 30\, ZP 3: Überweisungen im vereinfachten Verfahren: Igel vor 
@@ -1883,7 +1883,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bt-80-top-11-abschaffung-des-co2-emissionshandelsyste@bundestag-kalende
  r
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;TZID=Europe/Berlin:20260521T162000
 DTEND;TZID=Europe/Berlin:20260521T170000
 SUMMARY:TOP 11: Abschaffung des CO2-Emissionshandelsystems
@@ -1913,7 +1913,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bt-80-top-16-ergebnisse-der-vorplanung-von-neu-und-au@bundestag-kalende
  r
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;TZID=Europe/Berlin:20260521T190500
 DTEND;TZID=Europe/Berlin:20260521T194500
 SUMMARY:TOP 16: Ergebnisse der Vorplanung von Neu- und Ausbaustrecken der D
@@ -1959,7 +1959,7 @@ ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21080.pd
 END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-umwelt-sitzung-38@bundestag-kalender
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;TZID=Europe/Berlin:20260610T113000
 DTEND;TZID=Europe/Berlin:20260610T133000
 SUMMARY:Ausschuss Umwelt: 38. Sitzung
@@ -1974,7 +1974,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bt-83-top-10-energie-und-stromsteuer-entlastungsgeset@bundestag-kalende
  r
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;TZID=Europe/Berlin:20260611T135000
 DTEND;TZID=Europe/Berlin:20260611T145500
 SUMMARY:TOP 10: Energie- und Stromsteuer-Entlastungsgesetz
@@ -2005,7 +2005,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bt-83-top-37-ueberweisungen-im-vereinfachten-verfahre@bundestag-kalende
  r
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;TZID=Europe/Berlin:20260611T145500
 DTEND;TZID=Europe/Berlin:20260611T150000
 SUMMARY:TOP 37: Überweisungen im vereinfachten Verfahren: Die Ostsee schü
@@ -2049,7 +2049,7 @@ ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21083.pd
 END:VEVENT
 BEGIN:VEVENT
 UID:bt-83-zp-16-anpassung-des-verpackungsrechts@bundestag-kalender
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;TZID=Europe/Berlin:20260611T222000
 DTEND;TZID=Europe/Berlin:20260611T224500
 SUMMARY:ZP 16: Anpassung des Verpackungsrechts
@@ -2093,7 +2093,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bt-83-top-23-jahresemissionsgesamtmengen-verordnung-2@bundestag-kalende
  r
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;TZID=Europe/Berlin:20260611T225500
 DTEND;TZID=Europe/Berlin:20260611T231500
 SUMMARY:TOP 23: Jahresemissionsgesamtmengen-Verordnung 2031-2040
@@ -2154,7 +2154,7 @@ ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21083.pd
 END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-umwelt-sitzung-39@bundestag-kalender
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;TZID=Europe/Berlin:20260624T113000
 DTEND;TZID=Europe/Berlin:20260624T133000
 SUMMARY:Ausschuss Umwelt: 39. Sitzung
@@ -2168,7 +2168,7 @@ ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/11917
 END:VEVENT
 BEGIN:VEVENT
 UID:bt-85-top-3-nachhaltigkeitspolitik@bundestag-kalender
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;TZID=Europe/Berlin:20260624T182000
 DTEND;TZID=Europe/Berlin:20260624T185500
 SUMMARY:TOP 3: Nachhaltigkeitspolitik
@@ -2197,7 +2197,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bt-86-top-31-abschliessende-beratungen-ohne-aussprach@bundestag-kalende
  r
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;TZID=Europe/Berlin:20260625T140000
 DTEND;TZID=Europe/Berlin:20260625T141000
 SUMMARY:TOP 31: Abschließende Beratungen ohne Aussprache: Gesetz zur Aufhe
@@ -2238,7 +2238,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bt-86-zp-9-12-hitzeschutz-krisenresilienz-in-der-pfleg@bundestag-kalend
  er
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;TZID=Europe/Berlin:20260625T211500
 DTEND;TZID=Europe/Berlin:20260625T213500
 SUMMARY:ZP 9 - 12: Hitzeschutz\, Krisenresilienz in der Pflege
@@ -2268,7 +2268,7 @@ ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21086.pd
 END:VEVENT
 BEGIN:VEVENT
 UID:bt-86-top-21-umwelt-rechtsbehelfsgesetz@bundestag-kalender
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;TZID=Europe/Berlin:20260625T222000
 DTEND;TZID=Europe/Berlin:20260625T224500
 SUMMARY:TOP 21: Umwelt-Rechtsbehelfsgesetz
@@ -2313,7 +2313,7 @@ ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21086.pd
 END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-umwelt-sitzung-40@bundestag-kalender
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;TZID=Europe/Berlin:20260708T113000
 DTEND;TZID=Europe/Berlin:20260708T133000
 SUMMARY:Ausschuss Umwelt: 40. Sitzung
@@ -2331,7 +2331,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bt-89-top-29-zp-6-top-23-abschliessende-beratungen-ohne-aussprach@bunde
  stag-kalender
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;TZID=Europe/Berlin:20260709T150500
 DTEND;TZID=Europe/Berlin:20260709T152000
 SUMMARY:TOP 29\, ZP 6\, TOP 23: Abschließende Beratungen ohne Aussprache: 
@@ -2359,7 +2359,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bt-89-top-13-umsetzung-der-eu-richtlinie-zu-industrie@bundestag-kalende
  r
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;TZID=Europe/Berlin:20260709T192500
 DTEND;TZID=Europe/Berlin:20260709T200000
 SUMMARY:TOP 13: Umsetzung der EU-Richtlinie zu Industrieemissionen
@@ -2405,7 +2405,7 @@ ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21089.pd
 END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-umwelt-sitzung-41@bundestag-kalender
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;TZID=Europe/Berlin:20260909T083000
 DTEND;TZID=Europe/Berlin:20260909T103000
 SUMMARY:Ausschuss Umwelt: 41. Sitzung (nicht öffentlich)
@@ -2422,7 +2422,7 @@ ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12109
 END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-umwelt-sitzung-42@bundestag-kalender
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;TZID=Europe/Berlin:20260923T113000
 DTEND;TZID=Europe/Berlin:20260923T133000
 SUMMARY:Ausschuss Umwelt: 42. Sitzung (nicht öffentlich)
@@ -2436,7 +2436,7 @@ ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12168
 END:VEVENT
 BEGIN:VEVENT
 UID:bt-96-top-8-energiekosten-energiepolitik@bundestag-kalender
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;TZID=Europe/Berlin:20260924T101000
 DTEND;TZID=Europe/Berlin:20260924T112500
 SUMMARY:TOP 8: Energiekosten\, Energiepolitik
@@ -2474,7 +2474,7 @@ ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21096.pd
 END:VEVENT
 BEGIN:VEVENT
 UID:bt-96-top-10-klimaanpassung-und-naturschutz@bundestag-kalender
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;TZID=Europe/Berlin:20260924T123000
 DTEND;TZID=Europe/Berlin:20260924T135500
 SUMMARY:TOP 10: Klimaanpassung und Naturschutz
@@ -2505,7 +2505,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bt-96-top-40-zp-2-ueberweisungen-im-vereinfachten-verfahre@bundestag-ka
  lender
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;TZID=Europe/Berlin:20260924T135500
 DTEND;TZID=Europe/Berlin:20260924T140000
 SUMMARY:TOP 40\, ZP 2: Überweisungen im vereinfachten Verfahren: Ein Jahr 
@@ -2540,7 +2540,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bt-96-top-32-aenderung-des-brennstoffemissionshandels@bundestag-kalende
  r
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;TZID=Europe/Berlin:20260925T000000
 DTEND;TZID=Europe/Berlin:20260925T001500
 SUMMARY:TOP 32: Änderung des Brennstoffemissionshandelsgesetzes
@@ -2569,7 +2569,7 @@ ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21096.pd
 END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-umwelt-anhoerung-1215394@bundestag-kalender
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;TZID=Europe/Berlin:20261007T093000
 DTEND;TZID=Europe/Berlin:20261007T113000
 SUMMARY:Ausschuss Umwelt: 43. Sitzung (öffentlich): Anhörung zum Brennsto
@@ -2638,7 +2638,7 @@ ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12228
 END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-umwelt-sitzung-44@bundestag-kalender
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;TZID=Europe/Berlin:20261007T113000
 DTEND;TZID=Europe/Berlin:20261007T133000
 SUMMARY:Ausschuss Umwelt: 44. Sitzung (nicht öffentlich)
@@ -2653,7 +2653,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bt-99-top-24-ausbaustrecke-neubaustrecke-hannover-ham@bundestag-kalende
  r
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;TZID=Europe/Berlin:20261008T223500
 DTEND;TZID=Europe/Berlin:20261008T230000
 SUMMARY:TOP 24: Ausbaustrecke/Neubaustrecke Hannover - Hamburg
@@ -2686,7 +2686,7 @@ ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21099.pd
 END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-umwelt-sitzung-45@bundestag-kalender
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;TZID=Europe/Berlin:20261014T113000
 DTEND;TZID=Europe/Berlin:20261014T133000
 SUMMARY:Ausschuss Umwelt: 45. Sitzung (nicht öffentlich)
@@ -2700,7 +2700,7 @@ ATTACH;FMTTYPE=application/pdf:https://www.bundestag.de/resource/blob/12238
 END:VEVENT
 BEGIN:VEVENT
 UID:bt-102-top-24-brennstoffemissionshandelsgesetz@bundestag-kalender
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;TZID=Europe/Berlin:20261015T185000
 DTEND;TZID=Europe/Berlin:20261015T191500
 SUMMARY:TOP 24: Brennstoffemissionshandelsgesetz
@@ -2748,25 +2748,24 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bt-102-top-30-buerokratierueckbau-modernisierung-des-s@bundestag-kalend
  er
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;TZID=Europe/Berlin:20261015T235500
 DTEND;TZID=Europe/Berlin:20261016T001500
 SUMMARY:TOP 30: Bürokratierückbau\, Modernisierung des Strahlenschutzrech
- ts (Ausschuss-Vorschlag)
+ ts
 DESCRIPTION:Status: beendet\n102. Sitzung\nAusschuss Umwelt\, Klimaschutz\,
-  Naturschutz und nukleare Sicherheit: federführend (Vorschlag laut Textar
- chiv)\n\nErste Beratung des von der Bundesregierung eingebrachten Entwurfs
-  eines Gesetzes zum Bürokratierückbau\, zur Digitalisierung und zur weit
- eren Modernisierung des Strahlenschutzrechts\nDrucksache 21/8415 (https://
- dserver.bundestag.de/btd/21/084/2108415.pdf)\n\nLinks und Dokumente:\nDruc
- ksache 21/8415 (Gesetzentwurf) Gesetz zum Bürokratierückbau\, zur Digita
- lisierung und zur weiteren Modernisierung des...: https://dserver.bundesta
- g.de/btd/21/084/2108415.pdf\n  DIP: https://dip.bundestag.de/drucksache/-/
- 291424\nPlenarprotokoll 102. Sitzung: https://dserver.bundestag.de/btp/21/
- 21102.pdf\nTextarchiv: https://www.bundestag.de/dokumente/textarchiv/2026/
- kw42-de-strahlenschutzrecht-1223620\nMediathek: https://www.bundestag.de/m
- ediathek/plenarsitzungen\nTagesordnung: https://www.bundestag.de/tagesordn
- ung
+  Naturschutz und nukleare Sicherheit: federführend (DIP\, amtlich)\n\nErs
+ te Beratung des von der Bundesregierung eingebrachten Entwurfs eines Geset
+ zes zum Bürokratierückbau\, zur Digitalisierung und zur weiteren Moderni
+ sierung des Strahlenschutzrechts\nDrucksache 21/8415 (https://dserver.bund
+ estag.de/btd/21/084/2108415.pdf)\n\nLinks und Dokumente:\nDrucksache 21/84
+ 15 (Gesetzentwurf) Gesetz zum Bürokratierückbau\, zur Digitalisierung un
+ d zur weiteren Modernisierung des...: https://dserver.bundestag.de/btd/21/
+ 084/2108415.pdf\n  DIP: https://dip.bundestag.de/drucksache/-/291424\nPlen
+ arprotokoll 102. Sitzung: https://dserver.bundestag.de/btp/21/21102.pdf\nT
+ extarchiv: https://www.bundestag.de/dokumente/textarchiv/2026/kw42-de-stra
+ hlenschutzrecht-1223620\nMediathek: https://www.bundestag.de/mediathek/ple
+ narsitzungen\nTagesordnung: https://www.bundestag.de/tagesordnung
 LOCATION:Plenarsaal\, Reichstagsgebäude\, Platz der Republik 1\, 11011 Ber
  lin
 URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw42-de-strahlenschu
@@ -2778,7 +2777,7 @@ ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btp/21/21102.pd
 END:VEVENT
 BEGIN:VEVENT
 UID:ausschuss-ausschuesse-umwelt-anhoerung-1223144@bundestag-kalender
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;TZID=Europe/Berlin:20261104T093000
 DTEND;TZID=Europe/Berlin:20261104T113000
 SUMMARY:Ausschuss Umwelt: Anhörung zum Strahlenschutzgesetz
@@ -2798,7 +2797,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bt-105-top-21-gesetz-zur-abloesung-des-abfallverbringu@bundestag-kalend
  er
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;TZID=Europe/Berlin:20261105T191000
 DTEND;TZID=Europe/Berlin:20261105T193500
 SUMMARY:TOP 21: Gesetz zur Ablösung des Abfallverbringungsgesetzes (Aussch
@@ -2818,7 +2817,7 @@ URL:https://www.bundestag.de/dokumente/textarchiv/2026/kw45-de-abfallverbri
 END:VEVENT
 BEGIN:VEVENT
 UID:bt-106-top-24-weltklimakonferenz@bundestag-kalender
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;TZID=Europe/Berlin:20261106T112000
 DTEND;TZID=Europe/Berlin:20261106T115500
 SUMMARY:TOP 24: Weltklimakonferenz
@@ -2866,7 +2865,7 @@ ATTACH;FMTTYPE=application/pdf:https://dserver.bundestag.de/btd/21/048/2104
 END:VEVENT
 BEGIN:VEVENT
 UID:bt-106-top-25-klimapolitik@bundestag-kalender
-DTSTAMP:20261021T102034Z
+DTSTAMP:20261021T152431Z
 DTSTART;TZID=Europe/Berlin:20261106T115500
 DTEND;TZID=Europe/Berlin:20261106T123000
 SUMMARY:TOP 25: Klimapolitik

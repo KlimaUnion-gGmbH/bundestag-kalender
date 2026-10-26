@@ -416,6 +416,10 @@
      {
       "href": "https://www.bundestag.de/resource/blob/1229442/SV-Liste.pdf",
       "titel": "Liste der Sachverständigen"
+     },
+     {
+      "href": "https://www.bundestag.de/resource/blob/1229672/Stellungnahme-Dr-Annette-Roettger.pdf",
+      "titel": "Stellungnahme Dr. Annette Röttger, Physikalisch-Technische Bundesanstalt (PTB), A-Drs. 21(16)168-A"
      }
     ],
     "end": "2026-11-04T11:30:00",
@@ -427,7 +431,7 @@
    },
    "datum": "2026-11-04",
    "titel": "Anhörung zum Strahlenschutzgesetz",
-   "ts": 1793001067.5714183
+   "ts": 1793014728.9190857
   }
  },
  "dokumente": {

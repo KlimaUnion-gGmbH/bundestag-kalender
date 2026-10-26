@@ -1,6 +1,18 @@
 {
  "ah_vollstaendig": true,
  "anhoerungen": {
+  "1097784": {
+   "datum": "2025-07-02",
+   "titel": "Anhörung zur Beschleunigung des Ausbaus erneuerbarer Energien"
+  },
+  "1104970": {
+   "datum": "2025-09-01",
+   "titel": "Anhörung zum Batterierecht"
+  },
+  "1110032": {
+   "datum": "2025-10-08",
+   "titel": "Anhörung zur Änderung des Elektro- und Elektronikgerätegesetzes"
+  },
   "1126552": {
    "datum": "2025-12-03",
    "titel": "Anhörung zum Schutz von Meeresgebieten"
@@ -432,6 +444,21 @@
    "datum": "2026-11-04",
    "titel": "Anhörung zum Strahlenschutzgesetz",
    "ts": 1793014728.9190857
+  },
+  "1229702": {
+   "daten": {
+    "anmeldung": "https://registration.bundestag.de/#/events/6a92a3d9-7443-4fb0-a120-e2e37c55ac6b",
+    "docs": [],
+    "end": "2026-11-11T11:30:00",
+    "frist": "",
+    "gegenstand": "Gesetzentwurf der Bundesregierung Entwurf eines Gesetzes zur Ablösung des Abfallverbringungsgesetzes und zur Änderung weiterer Rechtsvorschriften BR-Drs. 591/26 Die Anhörung soll im Internet auf bundestag.de per Livestream übertragen werden und im Anschluss in der Mediathek des Deutschen Bundestages abrufbar sein",
+    "oeffentlich": true,
+    "ort": "Berlin, Paul-Löbe-Haus, Sitzungssaal E.700",
+    "start": "2026-11-11T09:30:00"
+   },
+   "datum": "2026-11-11",
+   "titel": "Anhörung zum Abfallverbringungsgesetz",
+   "ts": 1793023756.5087543
   }
  },
  "dokumente": {

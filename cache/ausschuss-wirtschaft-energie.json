@@ -912,6 +912,10 @@
      {
       "href": "https://www.bundestag.de/resource/blob/1224942/to_55_02-11-2026_oeA_Windenergie_auf_See.pdf",
       "titel": "55. Sitzung am Montag, den 2. November 2026, 12:30 Uhr, Paul-Löbe-Haus, Sitzungssaal PLH 4.600 - öffentlich"
+     },
+     {
+      "href": "https://www.bundestag.de/resource/blob/1229678/Sachverstaendigenliste.pdf",
+      "titel": "Liste der Sachverständigen"
      }
     ],
     "end": "2026-11-02T14:30:00",
@@ -923,7 +927,7 @@
    },
    "datum": "2026-11-02",
    "titel": "Anhörung zum Ausbau der Windenergie auf See",
-   "ts": 1793014723.703287
+   "ts": 1793027786.8936198
   },
   "1224900": {
    "daten": {
@@ -942,12 +946,12 @@
     "frist": "2. November 2026",
     "gegenstand": "Gesetzentwurf der Bundesregierung Entwurf eines Gesetzes zur Beschleunigung von Planungs- und Genehmigungsverfahren für mehr Flexibilität im Stromsystem und zur Gewährleistung der Versorgungssicherheit, BT-Drucksache 21/8285(Dokument, öffnet ein neues Fenster)",
     "oeffentlich": true,
-    "ort": "Berlin, Paul-Löbe-Haus, Sitzungssaal PLH E.400",
+    "ort": "Berlin, Paul-Löbe-Haus, Sitzungssaal PLH E.200",
     "start": "2026-11-04T08:30:00"
    },
    "datum": "2026-11-04",
    "titel": "Anhörung zum Stromsystemflexibilitätsgesetz",
-   "ts": 1793014723.703287
+   "ts": 1793027786.8936198
   },
   "1224908": {
    "daten": {
@@ -971,7 +975,7 @@
    },
    "datum": "2026-11-06",
    "titel": "Anhörung zu Zuschüssen zu den Übertragungsnetzkosten für 2027 bis 2029",
-   "ts": 1793014723.703287
+   "ts": 1793027786.8936198
   }
  },
  "dokumente": {

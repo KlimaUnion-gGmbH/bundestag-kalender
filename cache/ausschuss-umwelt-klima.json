@@ -426,6 +426,10 @@
     "anmeldung": "https://registration.bundestag.de/#/events/c334b3e1-8164-4090-b70a-0c9b89f7b6bd",
     "docs": [
      {
+      "href": "https://dserver.bundestag.de/btd/21/084/2108415.pdf",
+      "titel": "21/8415"
+     },
+     {
       "href": "https://www.bundestag.de/resource/blob/1229442/SV-Liste.pdf",
       "titel": "Liste der Sachverständigen"
      },
@@ -436,14 +440,14 @@
     ],
     "end": "2026-11-04T11:30:00",
     "frist": "",
-    "gegenstand": "Gesetzentwurf der Bundesregierung Entwurf eines Gesetzes zum Bürokratierückbau, zur Digitalisierung und zur weiteren Modernisierung des Strahlenschutzrechts Die Anhörung soll im Internet auf bundestag.de per Livestream übertragen werden und im Anschluss in der Mediathek des Deutschen Bundestages abrufbar sein",
+    "gegenstand": "Gesetzentwurf der Bundesregierung Entwurf eines Gesetzes zum Bürokratierückbau, zur Digitalisierung und zur weiteren Modernisierung des Strahlenschutzrechts BT-Drs. 21/8415(Dokument, öffnet ein neues Fenster) Die Anhörung soll im Internet auf bundestag.de per Livestream übertragen werden und im Anschluss in der Mediathek des Deutschen Bundestages abrufbar sein",
     "oeffentlich": true,
     "ort": "Berlin, Paul-Löbe-Haus, Sitzungssaal E.700",
     "start": "2026-11-04T09:30:00"
    },
    "datum": "2026-11-04",
    "titel": "Anhörung zum Strahlenschutzgesetz",
-   "ts": 1793014728.9190857
+   "ts": 1793027793.870031
   },
   "1229702": {
    "daten": {

@@ -120,6 +120,30 @@
      {
       "href": "https://www.bundestag.de/resource/blob/1223196/Sachverstaendigenliste-Wohngeld-Reform.pdf",
       "titel": "Sachverständigenliste Wohngeld-Reform"
+     },
+     {
+      "href": "https://www.bundestag.de/resource/blob/1223206/Stellungnahme-SV-Schabram.pdf",
+      "titel": "Stellungnahme SV Greta Schabram (Der Paritätische Gesamtverband) - A-Drs. 21(24)169-A"
+     },
+     {
+      "href": "https://www.bundestag.de/resource/blob/1223210/Stellungnahme-SV-Warnecke.pdf",
+      "titel": "Stellungnahme SV Dr. Kai H. Warnecke (Haus & Grund) - A-Drs. 21(24)169-B"
+     },
+     {
+      "href": "https://www.bundestag.de/resource/blob/1223208/Stellungnahme-SV-Kuenkler.pdf",
+      "titel": "Stellungnahme SV Martin Künkler (DGB) - A-Drs. 21(24)169-C"
+     },
+     {
+      "href": "https://www.bundestag.de/resource/blob/1223200/Stellungnahme-SV-Krauss.pdf",
+      "titel": "Stellungnahme SV Joachim Krauß (BAG W) - A-Drs. 21(24)169-D"
+     },
+     {
+      "href": "https://www.bundestag.de/resource/blob/1223198/Stellungnahme-SV-Mempel.pdf",
+      "titel": "Gemeinsame Stellungnahme des Deutschen Landkreistages & des Deutschen Städte- und Gemeindebundes - A-Drs. 21(24)169-E"
+     },
+     {
+      "href": "https://www.bundestag.de/resource/blob/1223212/Stellungnahme-SV-Kloeppel.pdf",
+      "titel": "Stellungnahme SV Sebastian Klöppel (DST) - A-Drs. 21(24)169-F"
      }
     ],
     "end": "2026-11-04T18:00:00",
@@ -131,7 +155,7 @@
    },
    "datum": "2026-11-04",
    "titel": "Öffentliche Anhörung „Wohngeld-Reform“",
-   "ts": 1793180489.4252162
+   "ts": 1793191525.772914
   }
  },
  "dokumente": {

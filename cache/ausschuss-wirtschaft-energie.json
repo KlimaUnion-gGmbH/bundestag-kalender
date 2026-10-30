@@ -920,6 +920,10 @@
      {
       "href": "https://www.bundestag.de/resource/blob/1229678/Sachverstaendigenliste.pdf",
       "titel": "Liste der Sachverständigen"
+     },
+     {
+      "href": "https://www.bundestag.de/resource/blob/1230272/Stellungnahme_TenneT_50Hertz_Amprion.pdf",
+      "titel": "21(9)422 Gemeinsame Stellungnahme von TenneT, 50Hertz und Amprion"
      }
     ],
     "end": "2026-11-02T14:30:00",
@@ -931,7 +935,7 @@
    },
    "datum": "2026-11-02",
    "titel": "Anhörung zum Ausbau der Windenergie auf See",
-   "ts": 1793353320.928432
+   "ts": 1793364344.8088462
   },
   "1224900": {
    "daten": {
@@ -959,7 +963,7 @@
    },
    "datum": "2026-11-04",
    "titel": "Anhörung zum Stromsystemflexibilitätsgesetz",
-   "ts": 1793353320.928432
+   "ts": 1793364344.8088462
   },
   "1224908": {
    "daten": {
@@ -987,7 +991,7 @@
    },
    "datum": "2026-11-06",
    "titel": "Anhörung zu Zuschüssen zu den Übertragungsnetzkosten für 2027 bis 2029",
-   "ts": 1793353320.928432
+   "ts": 1793364344.8088462
   }
  },
  "dokumente": {

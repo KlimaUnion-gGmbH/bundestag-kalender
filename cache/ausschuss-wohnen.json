@@ -144,6 +144,14 @@
      {
       "href": "https://www.bundestag.de/resource/blob/1223212/Stellungnahme-SV-Kloeppel.pdf",
       "titel": "Stellungnahme SV Sebastian Klöppel (DST) - A-Drs. 21(24)169-F"
+     },
+     {
+      "href": "https://www.bundestag.de/resource/blob/1223204/Stellungnahme-SV-Lieberknecht.pdf",
+      "titel": "Stellungnahme SV Dr. Christian Lieberknecht (GdW) - A-Drs. 21(24)169-G"
+     },
+     {
+      "href": "https://www.bundestag.de/resource/blob/1223202/Stellungnahme-SV-Weber-Moritz.pdf",
+      "titel": "Stellungnahme SV Dr. Melanie Weber-Moritz (DMB) - A-Drs. 21(24)169-H"
      }
     ],
     "end": "2026-11-04T18:00:00",
@@ -155,7 +163,7 @@
    },
    "datum": "2026-11-04",
    "titel": "Öffentliche Anhörung „Wohngeld-Reform“",
-   "ts": 1793353335.9422758
+   "ts": 1793364359.8076935
   }
  },
  "dokumente": {

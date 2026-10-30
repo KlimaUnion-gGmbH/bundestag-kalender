@@ -906,6 +906,10 @@
       "titel": "21/8238"
      },
      {
+      "href": "https://dserver.bundestag.de/btd/21/088/2108825.pdf",
+      "titel": "21/8825"
+     },
+     {
       "href": "https://dserver.bundestag.de/btd/21/083/2108366.pdf",
       "titel": "21/8366"
      },
@@ -920,14 +924,14 @@
     ],
     "end": "2026-11-02T14:30:00",
     "frist": "29. Oktober 2026",
-    "gegenstand": "Gesetzentwurf der Bundesregierung Entwurf eines Gesetzes zur Optimierung und Absicherung des Ausbaus der Windenergie auf See, BT-Drucksache 21/8238(Dokument, öffnet ein neues Fenster), Antrag der Abgeordneten Lorenz Gösta Beutin, Jörg Cezanne, Janine Wissler, weiterer Abgeordneter und der Fraktion Die Linke Offshore-Windindustrie und Klimaziele retten – Ausbau in öffentlicher Hand umsetzen, BT-Drucksache 21/8366(Dokument, öffnet ein neues Fenster)",
+    "gegenstand": "Gesetzentwurf der Bundesregierung Entwurf eines Gesetzes zur Optimierung und Absicherung des Ausbaus der Windenergie auf See, BT-Drucksachen 21/8238(Dokument, öffnet ein neues Fenster), 21/8825(Dokument, öffnet ein neues Fenster) Antrag der Abgeordneten Lorenz Gösta Beutin, Jörg Cezanne, Janine Wissler, weiterer Abgeordneter und der Fraktion Die Linke Offshore-Windindustrie und Klimaziele retten – Ausbau in öffentlicher Hand umsetzen, BT-Drucksache 21/8366(Dokument, öffnet ein neues Fenster)",
     "oeffentlich": true,
     "ort": "Berlin, Paul-Löbe-Haus, Sitzungssaal PLH 4.600",
     "start": "2026-11-02T12:30:00"
    },
    "datum": "2026-11-02",
    "titel": "Anhörung zum Ausbau der Windenergie auf See",
-   "ts": 1793342326.235023
+   "ts": 1793353320.928432
   },
   "1224900": {
    "daten": {
@@ -955,7 +959,7 @@
    },
    "datum": "2026-11-04",
    "titel": "Anhörung zum Stromsystemflexibilitätsgesetz",
-   "ts": 1793342326.235023
+   "ts": 1793353320.928432
   },
   "1224908": {
    "daten": {
@@ -966,20 +970,24 @@
       "titel": "21/8236"
      },
      {
+      "href": "https://dserver.bundestag.de/btd/21/088/2108826.pdf",
+      "titel": "21/8826"
+     },
+     {
       "href": "https://www.bundestag.de/resource/blob/1224948/to_58_06-11-2026_oeA_Zuschuesse_Uebertragungsnetzkosten.pdf",
       "titel": "58. Sitzung am Freitag, den 6. November 2026, 08:00 Uhr, Paul-Löbe-Haus, Sitzungssaal PLH E.400 - öffentlich"
      }
     ],
     "end": "2026-11-06T09:00:00",
     "frist": "4. November 2026",
-    "gegenstand": "Gesetzentwurf der Bundesregierung Entwurf eines Gesetzes zur Änderung des Energiewirtschaftsgesetzes zur Gewährung eines Zuschusses zu den Übertragungsnetzkosten für die Jahre 2027 bis 2029, BT-Drucksache 21/8236(Dokument, öffnet ein neues Fenster)",
+    "gegenstand": "Gesetzentwurf der Bundesregierung Entwurf eines Gesetzes zur Änderung des Energiewirtschaftsgesetzes zur Gewährung eines Zuschusses zu den Übertragungsnetzkosten für die Jahre 2027 bis 2029, BT-Drucksachen 21/8236(Dokument, öffnet ein neues Fenster), 21/8826(Dokument, öffnet ein neues Fenster)",
     "oeffentlich": true,
     "ort": "Berlin, Paul-Löbe-Haus, Sitzungssaal PLH E.400",
     "start": "2026-11-06T08:00:00"
    },
    "datum": "2026-11-06",
    "titel": "Anhörung zu Zuschüssen zu den Übertragungsnetzkosten für 2027 bis 2029",
-   "ts": 1793342326.235023
+   "ts": 1793353320.928432
   }
  },
  "dokumente": {

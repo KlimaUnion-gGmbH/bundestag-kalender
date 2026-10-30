@@ -28367,7 +28367,7 @@
   "gefunden": true,
   "id": "291207",
   "titel": "Gesetz zur Änderung des Finanzausgleichsgesetzes 2026 (FAG-Änderungsgesetz 2026)",
-  "ts": 1792095825.8903801,
+  "ts": 1793368559.9378047,
   "typ": "Gesetzentwurf",
   "vorgaenge": [
    "338786"
@@ -31274,6 +31274,17 @@
    "340412"
   ]
  },
+ "21/8580": {
+  "ausschuesse": {},
+  "gefunden": true,
+  "id": "291806",
+  "titel": "Fossile Profite finanziell heranziehen - Weltklimakonferenz als Unabhängigkeitsmotor nutzen",
+  "ts": 1793368559.9378047,
+  "typ": "Antrag",
+  "vorgaenge": [
+   "340627"
+  ]
+ },
  "21/8581": {
   "ausschuesse": {},
   "gefunden": true,
@@ -32219,6 +32230,26 @@
   "typ": "Antrag",
   "vorgaenge": [
    "340932"
+  ]
+ },
+ "21/8824": {
+  "ausschuesse": {
+   "FinanzA": {
+    "name": "Finanzausschuss",
+    "rolle": "mitberatend"
+   },
+   "HaushA": {
+    "name": "Haushaltsausschuss",
+    "rolle": "federführend"
+   }
+  },
+  "gefunden": true,
+  "id": "291976",
+  "titel": "Gesetz zur Änderung des Finanzausgleichsgesetzes 2026 (FAG-Änderungsgesetz 2026)",
+  "ts": 1793368559.9378047,
+  "typ": "Unterrichtung",
+  "vorgaenge": [
+   "338786"
   ]
  },
  "21/8853": {
